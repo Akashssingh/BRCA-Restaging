@@ -1,0 +1,64 @@
+=================================== PAGE 1 ===================================
+page 1 / 2
+
+Department of Cancer Pathology
+
+copy No.
+
+Date:
+
+Examination: Histopathological examination
+
+Internal Invoice No.                Cost of diagnostic procedure                Examination No.:
+
+Patient: XXX                        PESEL: XXX           Age:        ender: F
+                                                                                    ICD-0-3
+Material: Total organ resection - left breast and axillary tissues            carcinoma, infiltrating duct, NOS §50•/3
+                                                                               Sft: breast, NOS C50.9 for 4/13/11
+Unit in charge: !
+
+Physician in charge:
+
+Material collected on:              Material received on: '
+
+Expected time of examination: up to 8 working days
+
+Clinical diagnosis:
+
+
+Examination performed on:
+
+Macroscopic description:
+Left breast sized 24 x 19.5 x 5 cm removed with axillary tissues sized 10 x 7 x 2.5 cm and a skin flap of 24 x 12 cm. Tumour sized 1.9 x 1.3 x 1.4 found in the subareolar part, located 5.2 cm from the upper boundary, 2.8 cm from the base and 0 cm from the skin. Metastatic lymph nodes 2 cm in length.
+
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (3 + 2 + 1 / 6 mitoses/10 HPF - visual area 0.55 mm).
+Foci of carcinoma ductale in situ DCIS detected within the tumour (cribrate and solid type with high nuclear atypia with comedo necrosis, 5% of the tumour).
+Mamilla sine laesionibus. Glandular tissue showing lesions of the type mastopathia fibrosa.
+AXILLARY LYMPH NODES
+Metastases carcinomatosae in lymphonodis (No IX/XV). Infiltratio capsulae lymphonodis et telae perinodalis.
+
+Histopathological diagnosis:
+Carcinoma ductale invasivum et ductale in situ mammae sinistrae. Invasive ductal and in situ ductal carcinoma of the left breast/
+Metastases carcinomatosae in lymphonodis axillae (No IX/XV). Cancer metastases of the axillary lymph nodes (No IX/XV).
+(NHG2, pTIc, pN2a).
+
+UU1D:53ED4388-8C02-4D25-B148-9C4792C83566
+TCGA-D8-A1Y8-D1A-02Z-1911A-01D                       Redacted
+[BARCODE IMAGE]
+
+[THIS IS TABLE: A small table/stamp with checkboxes and signatures, partially visible with "Yes" checkbox marked and signature dated 4/14/11]
+
+=================================== PAGE 2 ===================================
+page 2 / 2
+
+Compliance validated by:
+Examination performed on:
+
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Negative reaction in invasive cancerous cells ( Score = 1+ )
+
+
+CONTACT YOUR DOCTOR WITH THIS REPORT!

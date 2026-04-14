@@ -1,0 +1,38 @@
+=================================== PAGE 1 ===================================
+lcb-0-3
+                                                    Carcinoma, infiltrating duct, NOS   85643
+                                                    Site Code: breast, NOS   C509      12|2|10 k
+
+
+Final Diagnosis
+
+Breast, left, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III)
+[tubules 3/3, nuclei 2/3, mitoses 2/3; Nottingham score 7/9], forming a mass (1.9 x 1.8 x 1.2 cm)
+[AJCC pT1c]. Ductal carcinoma in situ, intermediate nuclear grade, comprises approximately 5-
+25% of tumor volume (including the ductal carcinoma in situ, the tumor is 2.1 cm, in greatest
+dimension). Angiolymphatic invasion is absent. The non-neoplastic breast parenchyma shows
+proliferative fibrocystic changes. All surgical resection margins, including the separately
+submitted re-excision of the medial margin, are negative for tumor (minimum tumor free margin,
+0.5 cm, deep and inferior margin).
+
+Lymph nodes, left axillary sentinel, excision: Multiple (8) left axillary sentinel lymph nodes are
+negative for metastatic carcinoma [AJCC pN0 (i-) ].
+Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel lymph
+node tissue and confirms the H&E impression.
+
+
+
+
+                                                                UUID:4ED8A118-6E14-428C-BFB2-168AE28A14E4
+                                                                TCGA-AR-A2AX-01A-FR          Redacted
+                                                                [BARCODE]
+
+
+                                                                Criteria                         Yes     No.
+                                                                Diagnosis Discrepancy
+                                                                Primary Tumor Site Discrepancy
+                                                                MCA Discrepancy
+                                                                Prior Malignancy History
+                                                                Duplicate Surgical Process Flagged
+                                                                Case is (circle):        PENDING / HOLD/FAILED
+                                                                External review #/from Reviewed - [signature]

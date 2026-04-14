@@ -1,0 +1,55 @@
+=================================== PAGE 1 ===================================
+FINAL DIAGNOSIS:
+
+PART 1: BREAST, RIGHT, SEGMENTAL MASTECTOMY, NEEDLE LOCALIZATION -
+A. INVASIVE DUCTAL CARCINOMA, NOTTINGHAM GRADE 3 (TUBULE FORMATION 3, NUCLEAR POLYMORPHISM 3, MITOTIC GRADE 3); TOTAL SCORE 9);
+B. INVASIVE TUMOR MEASURES 2.1 CM IN GREATEST DIMENSION (GROSS MEASUREMENT).
+C. DUCTAL CARCINOMA IN SITU (DCIS), SOLID PATTERN, NUCLEAR GRADE 3, ADMIXED WITH INVASIVE CARCINOMA, CONSTITUTING ABOUT FIVE PERCENT (5%) OF TOTAL TUMOR VOLUME.
+D. RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA; INVASIVE CARCINOMA IS 1.5 MM TO THE CLOSEST ANTERIOR MARGIN
+E. NO DEFINITIVE LYMPHOVASCULAR INVASION NOTED.
+F. FOCI OF MICROCALCIFICATIONS ASSOCIATED WITH INVASIVE CARCINOMA.
+G. FIBROCYSTIC CHANGE.
+H. THE INVASIVE CARCINOMA IS ER POSITIVE, PR POSITIVE, HER2/NEU WEAKLY POSITIVE AND NO AMPLIFICATION BY FISH ANALYSIS
+                                                                    ICD-0-3
+
+PART 2: AXILLA #1 SENTINEL LYMPH NODE, RIGHT, BIOPSY -                Carcinoma, infiltrating ductal, nos 8504/3
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA.                    Site: breast, nos 650.9  3/3/94  hx
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST-
+LATERALITY:                                 Right
+PROCEDURE:                                  Segmental
+LOCATION:                                   Not specified
+SIZE OF TUMOR:                              Maximum dimension invasive component: 2.1 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+                                           No
+TUMOR TYPE (invasive component):
+                                           Ductal adenocarcinoma, NOS
+NOTTINGHAM SCORE:                          Nuclear grade: 3
+                                          Tubule formation: 3
+                                          Mitotic activity score: 3
+                                          Total Nottingham score: 9
+                                          Nottingham grade (1, 2, 3): 3
+ANGIOLYMPHATIC INVASION:                   No
+DERMAL LYMPHATIC INVASION:                 Not applicable
+CALCIFICATION:                             Yes, malignant zones
+TUMOR TYPE, IN SITU:                       Solid
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+                                          No
+                                          Distance of invasive tumor to closest margin: 1.5 mm
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+                                          No
+LYMPH NODES EXAMINED:                      1
+METHOD(S) OF LYMPH NODE EXAMINATION:
+                                          H/E stain
+SENTINEL NODE METASTASIS:                  No
+NON-NEOPLASTIC BREAST TISSUE:             FCD
+T STAGE, PATHOLOGIC:                      pT2
+N STAGE, PATHOLOGIC:                      pN0
+M STAGE, PATHOLOGIC:                      pMX
+ESTROGEN RECEPTORS:                       positive
+PROGESTERONE RECEPTORS:                   positive                    UID:546156E-1C88-4507-8A03-558DF46808D9
+HER2/NEU:                                 2+                          TCGA-BH-A0H9-01A-PR                Redacted
+
+[BARCODE IMAGE]
+
+[TABLE at bottom showing checklist items with checkboxes - partially visible]
+                                                                      3/13/11

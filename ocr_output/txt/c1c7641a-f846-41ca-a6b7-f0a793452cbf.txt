@@ -1,0 +1,171 @@
+=================================== PAGE 1 ===================================
+/c8-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Size: breast, NOS C50.9    1/21/11
+
+ID#:
+
+Pathology Form
+
+Specimen Information
+
+Collected by: _     __  ''  _________________ Date       2Time:_
+
+Preserved by: _     ___     _        _______ Date: ~    !Time:_____
+
+[THIS IS TABLE: Specimen Type table showing:
+Frozen: Diseased 4, Normal 2, Time to LN2 /2 min
+Paraffin Block: Diseased 4, Normal 2, Time to Formalin /2 min
+Blood/Serum/Plasma: Diseased [blank], Normal [blank], Time to LN2 [blank] min
+Slide: Diseased 4, Normal 2]
+
+PATHOLOGICAL DESCRIPTIONS
+
+Primary Tumor
+Organ: BREAST TUMOR
+Size: 4 x 3 x 2 cm
+Extension of Tumor: [blank]
+Distance to NAT: 2 cm
+
+Lymph Nodes
+Location | # Examined | # Metastasized
+[rows are empty]
+
+Distant Metastasis
+Organ | Detailed Location | Size
+[rows are empty]
+
+Pathological Staging
+pT2    N1    M0    Stage: II
+
+Notes:
+Breast nodes 2 C M1, M2 ) in Nitrogen (2 vials)
+M1 (positive)
+M2 (positive)
+
+[BARCODE AND ID NUMBER: UIID:140F8818-739F-408A-9A17-83D7E40E68A0
+TCGA-C8-A137-01A-PR]
+
+Criteria                           Yes
+Diagnostic Supervisory
+Quality Assurance Discrepancy
+HIPAA Discrepancy
+Prior Litigation History
+Biological Specimen
+In-scope? Y
+Signed/Dated:    QUALIFIED        DISQUALIFIED    4|20|10
+
+4
+
+=================================== PAGE 2 ===================================
+-- ID#:
+
+Microscopic Description
+
+Histological Pattern
+Cell Distribution | + | - | Structural Pattern | + | -
+Diffuse | ✓ | | Streaming | |
+Mosaic | | | Storiform | |
+Necrosis | | | Fibrosis | |
+Lymphocytic Infiltration | ✓ | | Palisading | |
+Vascular Invasion | | | Cystic Degeneration | |
+Clusterized | | | Bleeding | |
+Alveolar Formation | | | Myxoid Change | |
+Indian File | | | Psammoma/Calcification | |
+
+Cellular Differentiation
+Squamous | + | - | Adenomatous | + | - | Sarcomatous | + | - | Lymphomatous | + | -
+Squamoid Cell | | | Glandular cell | ✓ | | Round Cell | | | Large Cell | |
+Spindle Cell | | | Cell Stratification | | | Fibroblast | | | Small Cell | |
+Keratin | | | Secretion | | | Osteoblast | | | RS Cell/RS Like | |
+Desmosome | | | Intracyt. Vacuole | | | Lipoblast | | | Inflam. Cell | |
+Pearl | | | Gland formation | ✓ | | Myoblast | | | Plasma Cell | |
+
+Cellular Differentiation: Well Moderate ✓ Poor
+
+Nuclear Appearance
+Nuclear Atypia: | 0 | I | II | III
+Aniso Nucleosis | | | ✓ | |
+Hyperchromatism | | | | ✓
+Nucleolar Prominent | | | ✓ |
+Multinucleated Giant Cell | | | | ✓
+Mitotic Activity | | | | ✓
+
+Nuclear Grade:
+
+IHC Data
+Marker | Result | Value | Date
+ER | □ Negative □ Positive | |
+PR | □ Negative □ Positive | |
+Her-2/neu | □ Negative □ Positive | |
+B-Cell Marker | □ Negative □ Positive | |
+T-Cell Marker | □ Negative □ Positive | |
+Other: | □ Negative □ Positive | |
+Other: | □ Negative □ Positive | |
+
+Final Pathology Report
+
+Histological Diagnosis: Infiltrating ductal carcinoma
+Grade: II
+
+Comments: Breast nodes 9 (positives 3, negative 4)
+
+Pathologist                                         Date
+
+5
+
+=================================== PAGE 3 ===================================
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+
+Microscopic Appearance:
+
+1. Histological pattern:
+
+CELL DISTRIBUTION                    +  -     STRUCTURAL PATTERN           +  -
+Diffuse                                    √                                      
+Mosaic                                   X     Streaming                          
+Necrosis                                      Storiform                          
+                                         #     Fibrosis                       X
+Lymphocytic Infiltration              X        Palisading                        
+Vascular Invasion                             Cystic Degeneration               
+Clusterized                                √   Bleeding                          
+                                         X                                      
+Alveolar Formation                            Myxoid change                     
+Indian File                            X   #   Psammoma/Calcification           
+
+2. Cellular features:
+
+Squamous      +  -  Adenomatous       +  -  Sarcomatous     +  -  Lymphomatous    +  -
+Squamoid Cell         Glandular cell         Round Cell          Large Cell
+Spindle Cell          Cell Stratification    Fibroblast          Small Cell
+Keratin               Secretion              Osteoblast          RS Cell/RS Like
+Desmosone             Intracyt. Vacuole      Lipoblast           Inflam. Cell
+Pearl                 Gland formation        Myoblast            Plasma Cell
+
+Otherwise Specified:    D1 80%, D2 20%, D3 70%, D4 50%
+
+2. Cellular Differentiation:
+
+Well          Moderately         Poor
+                                  X
+
+3. Nuclear Atypia:
+
+Nuclear Appearance                                   0    I    II   III
+Aniso Nucleosis                                                       X
+Hyperchromatism                                                      X
+Nucleolar Prominent                                                  X
+Multinucleated Giant Cell                                            X
+Mitotic Activity                                                    ∞
+Nuclear Grade
+
+Histological Diagnosis: Infiltrating Ductal Carcinoma, NOS G-3
+
+Comments: M1, M3:    Carcinoma metastasized to LN
+         2 2 2
+
+
+                                                                     Date
+
+
+INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND •      PATHOLOGIST STAFF FOR RESEARCH USE ONLY.

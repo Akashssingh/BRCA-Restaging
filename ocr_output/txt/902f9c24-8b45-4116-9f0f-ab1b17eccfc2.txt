@@ -1,0 +1,111 @@
+=================================== PAGE 1 ===================================
+/Cb-0-3
+UAID:8A853D7F-979F-4112-9650-1FDE44EF3302
+TCGA-A7-A8CE-01A-PR                    Redacted            Carcinoma, infiltrating duct NOS   8500/3
+[BARCODE]                                                   Site - breast, NOS  C50.9   Acc 9/9/11
+
+
+SPECIMEN
+    A.  Left axillary sentinel node
+    B.  Left breast tissue
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS: Left breast cancer
+
+FROZEN SECTION DIAGNOSIS
+    A) Lymph node, left axillary sentinel node, excision - One lymph
+    node negative for metastatic carcinoma (0/1).
+
+GROSS DESCRIPTION
+                        A.  Received fresh for frozen section labeled "left
+                        axillary sentinel node" are irregularly-shaped fragments
+of
+            fibroadipose tissue that measure 2.5 x 2.2 x 1.2 cm. in dimension.
+            Within the tissue a lymph node is identified that measures 1.6 cm.
+            in maximum dimension. The lymph node is bisected and frozen as AFS1
+            and AFS2.
+                        B.  Received fresh in a container labeled "left breast
+                        tissue" is an 8 x 7 x 5 cm. portion of soft tan-yellow
+            breast tissue partially covered with a 4.5 x 2 cm. tan-pink
+wrinkled
+            skin ellipse.  There are orienting sutures present.  The specimen
+is
+            inked as follows based upon the orienting sutures:  superior -
+            orange; anterior - blue; posterior - black; inferior - green. The
+            specimen is sectioned from medial to lateral.  On cut surface,
+there
+            is a 2.8 x 2.8 x 2.5 cm. tan white-pink indurated mass, which is
+1.1
+            cm. from the nearest margin, which is the inferior posterior
+margin.
+            The specimen away the mass consists of yellow adipose tissue with
+            scant interspersed tan tissue.  RS-10.
+
+            BLOCK SUMMARY: B1 - medial margin; B2 - lateral margin; B3,B4 -
+            tumor to nearest margin (inferior/posterior); B5,6 - tumor to
+            posterior/deep margin; 7 - superior margin; 8 - skin to tumor; 9,10
+            - specimen away from mass lesion.
+
+=================================== PAGE 2 ===================================
+GROSS DESCRIPTION
+
+
+MICROSCOPIC DESCRIPTION
+                    A. Serial H&E stained sections and immunostains with
+                antibodies to keratin (AE1-AE3) are examined, and the
+        sentinel lymph node is negative for malignancy.
+
+                    B. The following template summarizes the findings in this
+        part:
+
+        Invasive Carcinoma: Present
+          Histologic type:  Invasive ductal carcinoma.
+          Histologic grade:
+            Overall grade:  3
+            Architectural score:  3
+            Nuclear score:  3
+            Mitotic score:  3
+
+          Greatest dimension (pT):  2.8 cm. (pT2)
+          Specimen margins:  Negative
+          Vessel invasion:  Not definitively identified
+          Calcification:  There is necrosis within invasive carcinoma which
+          has focal calcification.
+
+        Ductal carcinoma in situ: Present focally
+          Histologic pattern:  Solid
+          Nuclear grade:  3
+          Central necrosis:  Absent
+          Extensive intraductal component:  Absent
+          Specimen margins:  Negative
+
+=================================== PAGE 3 ===================================
+MICROSCOPIC DESCRIPTION
+    Description of non-tumorous breast: Changes compatible with
+reaction
+    to prior biopsy. Fibrocystic changes.
+
+    Prognostic markers: Previously performed (see
+
+    4x2,14,15,20x2
+
+    [A few of the antibodies used in our laboratory may be classified
+as
+    analyte specific reagents. These antibodies are monitored and
+    controlled in our laboratory and their performance for in vitro
+    diagnosis is well described in the medical literature. They have
+    not been cleared or approved by the FDA.]
+
+DIAGNOSIS
+    A. Lymph node, left axially sentinel, excision -
+        Negative for malignancy.
+
+    B. Breast, left, biopsy -
+        Invasive ductal carcinoma, margins negative for malignancy.
+
+
+    -----------------------------
+                        (Electronic Signature)
+
+
+                    --- End Of Report ---

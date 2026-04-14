@@ -1,0 +1,30 @@
+=================================== PAGE 1 ===================================
+UUID:CBAA4A87-B75B-6745-BBD0-AFBE55254A1C
+                                                                                    Accession:A2445-B1445-S-SPL     Redacted
+Criteria                                     Yes      No
+Radiograph Checked for TM                     ___      ___
+Tumor sampled for Ck7, 20, GATA3             ___      ___
+HIPAA Discrepancy                            ___      ___
+Prior Malignancy History                      ___      ___
+All blocks labeled                            ___      ___
+Case is (circle):
+Reviewed tonight _____ Discussed             DOCUMENTED
+                 OR          OR              CALL PLACED 4/9/18
+                                                       4/25/18
+
+Final Diagnosis
+
+Breast, right, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III) [tubules 3/3, nuclei 2/3, mitoses 1/3, Nottingham score 6/9], forming a 1.3 x 1.1 x 1.0 cm mass. Ductal carcinoma in situ is absent. An intrammary lymph node present is negative for metastatic carcinoma. Angiolymphatic invasion is absent. The non-neoplastic breast parenchyma shows nonproliferative fibrocystic changes. Biopsy site changes present. All surgical resection margins are negative for tumor (minimum tumor free margin, 0.5 cm, deep margin). (AJCCpT1c)
+
+Lymph nodes, right axillary sentinel, excision: Multiple (2) sentinel lymph nodes are negative for metastatic carcinoma [AJCC pN0(i-)(sn)]. Blue dye is identified in sentinel lymph node No. 1 only. Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel lymph node tissue and confirms the H&E impression.
+
+Lymph node, right intramammary, excision: A single intramammary lymph node is negative for metastatic carcinoma.
+
+Lymph node, right axillary, excision: A single right axillary lymph node is negative for metastatic carcinoma.
+
+HER2/neu ordered.
+
+                                             ICD-0-3
+                                             carcinoma, infiltrating duct NOS 8500/3
+                                             Site: breast NOS   C50.9    AS
+                                                                        4/25/18

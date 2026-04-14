@@ -1,0 +1,71 @@
+=================================== PAGE 1 ===================================
+ICS-0-3                              12/14/10
+PATIENT HISTORY:                                    Carcinoma, infiltrating duct, NOS    S500/3
+* DATE OF IMP: *
+DATE OF LAST DELIVERY: *                            S.R Code: breast, NOS C.50.9
+PRE-OP DIAGNOSIS: LEFT BREAST CANCER
+POST-OP DIAGNOSIS: SAME
+OPERATIVE PROCEDURE: LEFT SEG MAST AND AXILLARY DISSECTION
+CLINICAL HISTORY: *
+MATERIAL SUBMITTED: A) LEFT AXILLA, PROCUREMENT BY SURGICAL PROCEDURE
+B) LEFT BREAST BIOPSY/MASS/SEGMENTAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE
+INTRAOPERATIVE CONSULTATION
+CONSULT: 2) left breast tissue with usual markings; 7.5 by 7.0 by 2.0 cm breast mass with specimen
+radiograph. Specimen is received inked and previously sectioned by Dr.
+There is a median 1.8 by 1.5 cm firm to hard area which is 0.4 cm from the posterior margin and 0.3 cm from the anterior margin;
+lateral to this mass is an area of calcification on radiograph. Section thru this area shows ill defined
+fibrous tissue, approximately 1.2 by 1.0 by 0.8 cm with white punctate tissue, < 0.1 cm.
+
+
+ADDENDA:
+Addendum
+MACROSCOPIC DESCRIPTION: BLOCKS B3 AND B8 SUBMITTED FOR ER/PR AND HER-2/NEU
+FINAL DIAGNOSIS:
+******
+My signature is attestation that I have personally reviewed the submitted material(s) and the final
+diagnosis reflects that evaluation.
+******
+IMMUNOPEROXIDASE IDENTIFICATION OF ESTROGEN AND PROGESTERONE RECEPTORS IS CARRIED OUT ON BLOCKS B3 AND B8
+DISTINCT INTRANUCLEAR STAINING IS IDENTIFIED FOR ESTROGEN RECEPTOR (90%) AND FOR PROGESTERONE RECEPTOR
+(60%). THEREFORE, BOTH ARE INTERPRETED AS POSITIVE.
+HER-2/NEU
+C-erbB2 (HER-2/NEU) IMMUNOSTAINING IS CARRIED OUT ON BLOCKS B3 AND B8 (BREAST CANCER) USING A 1:300 DILUTION
+OF DAKO'S POLYCLONAL ANTIBODY MASS (DIRECTED AGAINST THE INTRACELLULAR DOMAIN OF C-erbB2) WITHOUT ANTIGEN
+RETRIEVAL. DISTINCT COMPLETE MEMBRANE STAINING IS IDENTIFIED ONLY RARELY IN 5% OF TUMOR CELLS. THEREFORE, C-
+erbB2 (HER-2/NEU) IS INTERPRETED AS NEGATIVE (SCORE 1+).
+FINAL DIAGNOSIS:
+FINAL DIAGNOSIS:
+PREVIOUS REPORTS
+
+A) LEFT AXILLARY CONTENTS:
+- ELEVEN (11) LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA
+B) LEFT BREAST, SEGMENTAL MASTECTOMY:
+- INFILTRATING MULTIFOCAL, POORLY DIFFERENTIATED DUCT CARCINOMA, 1.8 CM AND 1.2 CM (CR. S00-112, SEE NOTE)
+- NOTTINGHAM SCORE FOR BOTH TUMORS = 8/9 (TUBULES = 3, NUCLEAR ATYPIA = 3, MITOTIC INDEX = 2)
+- TUMOR CARCINOMA IN SITU, COMDO AND NON-COMDO TYPE, COMPRISES <5% OF EACH TUMOR
+- MARGINS OF RESECTION ARE FREE OF INFILTRATING TUMOR; HOWEVER, DUCTAL CARCINOMA IN SITU EXTENDS TO INVOLVE
+  INKED ANTERIOR MARGIN AND INFILTRATING TUMOR EXTENDS TO WITHIN 0.3 CM OF THE ANTERIOR MARGIN
+- LYMPHOVASCULAR PERMEATION IS IDENTIFIED
+- TUMOR AND NON-TUMOR ASSOCIATED MICROCALCIFICATIONS
+- CHANGES CONSISTENT WITH PREVIOUS BIOPSY
+- FIBROCYSTIC CHANGES
+NOTE: Both tumor nodules have similar architectural and cytologic features. NOTE: ER/PR immunoperoxidase
+assay and Her-2/NEU testing will be performed on both tumors (blocks B3 and B8).
+
+
+                                                                       UUIO-FR61644.AAC-C759-B6C8-A6314C944B0A
+                                                                       ICGA-BH-A18K-01A-PR              Redacted
+                                                                       ||||||||||||||||||||||||||||||||||||||||
+                                                                       ||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+                                                                       Criteria                                Yes     No
+                                                                       Diagnosis Discrepancy                            X
+                                                                       Substantial Process Discrepancy                  X
+                                                                       HIPAA Discrepancy                                X
+                                                                       Prior Malignancy History                         X
+                                                                       Over/Synchronous Primary Tumor                   X
+                                                                       Case in ICSDB:      Completed      Coordinator
+                                                                       Pathologist Name:   [signatures present]

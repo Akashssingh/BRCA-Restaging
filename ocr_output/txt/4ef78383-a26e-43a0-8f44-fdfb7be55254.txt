@@ -1,0 +1,133 @@
+=================================== PAGE 1 ===================================
+Page 1 of 2
+                                    10.5 - 8 - 3
+                                    Carcinoma, infiltrating, ductal, NOS  85003
+                                    Site: breast, NOS   C50.9      3/10/4
+
+Patient:
+
+    Surgical Pathology: Additional It fd
+
+Surg Path
+
+
+CLINICAL HISTORY:
+Not provided.
+
+GROSS EXAMINATION:
+A. "Node", received fresh.  The specimen is a 1.0 x 0.5 x 0.4 cm lymph node
+with attached fibrofatty tissue that is bivalved and submitted entirely in
+block A1.
+
+B. "Right breast", received fresh.  The specimen is a 525 gram breast and
+attached axillary dissection with overall dimensions at 24.5 x 10.5 x 4.6
+cm.  Axillary dissection measures 8 x 8 x 2 cm.  Overlying skin is 18.3 x 6.3
+cm with a 1.5 cm nipple and a 2.8 cm areola.  Deep margin is inked blue and
+sectioning shows a 6.4 x 5.2 x 2.5 cm stellate mass that is salmon colored
+with areas of necrosis.  The mass is firm and nodular throughout and
+approaches the margin on the lateral side in a 3 x 1.5 cm region.  The nipple
+is removed and submitted entirely.  There is a firm indurated region adjacent
+to the nipple which is sectioned to show tumor extension into the skin.
+
+BLOCK SUMMARY:                                                MJD:72996825-1FFA-4C31-BD88-DA748C5959EB
+                                                              RECA.BG-A1KN-01A-11D-A14H-09
+B1- nipple
+B2- extension of tumor into skin (adjacent to nipple)
+B3-6- closest approach to the lateral margin, carcinoma.
+B7- deep margin
+B8- medial margin
+B9- tumor and overlying skin
+B10-13- representative of inferior medial, inferior lateral, superior medial,
+and superior lateral quadrants respectively.
+B14- 1.2 cm lymph node bivalved
+B15- one lymph node
+B16- one lymph node bivalved
+B17- three lymph node candidates
+B18- one lymph node candidate bivalved
+B19- three lymph node candidates
+B20- two lymph node candidates
+B21- three lymph node candidates
+B22- two lymph node candidates bivalved, one inked blue
+B23- one lymph node candidate
+B24- two lymph node candidates bivalved, one inked blue
+B25- sections of a 3 cm fatty lymph node candidate
+B26- one lymph node candidate
+B27- one lymph node candidate
+
+Dr.        / Dr.                                                          Yes
+
+DIAGNOSIS:
+A. "NODE" (EXCISION):
+
+    ONE LYMPH NODE WITH METASTATIC DUCTAL CARCINOMA.
+
+
+B. "RIGHT BREAST" (MODIFIED RADICAL MASTECTOMY):
+
+
+    RESIDUAL INFILTRATING CARCINOMA PRESENT, HISTOLOGIC TYPE DUCTAL, NOS.
+      N.S.A.B.P. NUCLEAR GRADE 3 OF 3.
+      N.S.A.B.P. HISTOLOGIC GRADE 3 OF 3.
+      GROSS TUMOR SIZE:  6.4 X 5.2 X 2.5 CM.
+
+https://
+
+=================================== PAGE 2 ===================================
+Page 2 of 2
+
+SIZE OF INVASIVE COMPONENT: 6.4 X 5.2 X 2.5 CM.
+LOCATION OF THE TUMOR: CENTRAL.
+LYMPHATIC/VASCULAR INVASION: PRESENT AND EXTENSIVE.
+MULTIFOCAL TUMOR: NO.
+
+IN SITU CARCINOMA PRESENT, OCCUPYING 5% OF TUMOR.
+TYPE OF IN-SITU CARCINOMA COMEDO.
+EXTENSIVE INTRADUCTAL COMPONENT NO.
+
+NIPPLE STATUS, DIRECT INVASION BY TUMOR.
+SKIN STATUS, DIRECT INVASION BY TUMOR.
+MUSCLE STATUS, FOCALLY INVOLVED.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: EPITHELIAL HYPERPLASIA AND
+APOCRINE METAPLASIA ARE IDENTIFIED IN.
+SURGICAL MARGIN STATUS: INFILTRATING CARCINOMA IS PRESENT FOCALLY AT THE
+LATERAL MARGIN. IN SITU CARCINOMA APPROACHES THE DEEP MARGINS AT A
+DISTANCE OF LESS THAN 1 MM.
+
+LYMPH NODE STATUS: 24/30.
+SIZE OF LARGEST LYMPH NODE METASTASIS 1.2 CM.
+EXTRANODAL EXTENSION PRESENT.
+SEE COMMENT.
+
+ESTROGEN/PROGESTERONE RECEPTOR AND CELL CYCLE ANALYSIS PENDING.
+METHODOLOGY: IMMUNOHISTOCHEMISTRY, PARAFIN BLOCK.
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+
+COMMENT: Axillary soft tissue also demonstrates small deposits of tumor not
+obviously associated with lymph node structures.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+                                                    . M.D. Pager
+
+                        Electronically signed:
+
+ADDENDUM 1:
+
+Tissue was sent to the                             for assay of the estrogen
+and progesterone receptors. The estrogen receptor activity was judged to be
+positive with an estimated FMOL value of 169. The progesterone receptor
+activity was judged as negative with an estimated FMOL value of 0. Please
+refer to              for a complete report.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+                                M.D. Page #
+
+                        Electronically signed:
+
+
+
+
+https://

@@ -1,0 +1,73 @@
+=================================== PAGE 1 ===================================
+TSS ID
+
+TSS ID__      OC ID      Date of Procurement:
+
+Gross Description:
+
+Breast with the tumor of 2.8 x2.6 cm in size; lymph nodes are up to 1 cm in their diameter, dense, hyperemic.
+
+Microscopic Description:
+
+Infiltrating duct carcinoma; G2. Ten examined lymph nodes demonstrate sinus histiocytosis.
+
+Diagnosis Details:
+
+Tumor Features: Unknown, Tumor Extent: T2 tumor size more than 2cm not more than 5 cm, Venous Invasion: Absent,
+Margins: Absent, Treatment Effect:
+
+Comments:
+                                                           /CD-0-3
+Formatted Path Report:                        Carcinoma, infiltrating duct NOS 8500/3
+                                              Site: breast NOS C50.9   4/8/11   M
+BREAST TISSUE CHECKLIST
+
+Specimen type: Radical mastectomy
+
+Specimen size: Not specified
+
+Tumor site: Lower inner quadrant
+
+Tumor size: 2.6 x 0 x 2.8 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Infiltrating ductal carcinoma
+
+Histologic grade: Moderately differentiated
+
+Tumor extent: Not specified
+
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+
+Extracapsular invasion of the lymph nodes: Not specified
+
+Margins: Uninvolved
+
+Nottingham Histologic Score                                          UUID:EDDE8A8B-B712-4A8B-9DE5-5F5B5791AF4D
+                                                                      ICCA:EB-AIBD-B1A-PR              Redacted
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+
+[Barcode and form elements visible at bottom with signatures and date 4/8/11]
+
+=================================== PAGE 2 ===================================
+TSS ID:
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Not specified
+
+Comments: None
+
+
+Laterality:
+
+Right, lower inner quadrant

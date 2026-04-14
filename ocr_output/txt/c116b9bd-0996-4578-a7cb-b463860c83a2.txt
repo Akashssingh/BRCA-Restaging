@@ -1,0 +1,186 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+Carcinoma, infiltrating ductal NOS 8500/3
+Site: breast, NOS C509     1/29/11
+
+Pathology Form
+
+Specimen Information
+
+Collected by:                                    Date:              Time:
+Preserved by:                                    Date:              e:
+
+[THIS IS TABLE: Specimen Type table showing:
+- Frozen section: Diseased (4), Normal (2)
+- Paraffin Block: Diseased (4), Normal (2)
+- Blood/Serum/Plasma: Diseased, Normal
+- Slide: Diseased (4), Normal (2)
+- Time to LN2: 11 min
+- Time to Formalin: 12 min
+- Time to LN2: min]
+
+PATHOLOGICAL DESCRIPTION
+
+Primary Tumor
+Organ                                Size            Extension of Tumor    Distance to NAT
+Breast Tumor                         5 x 4 x ? cm    Right breast          6        cm
+
+Lymph Nodes
+Location                             # Examined      # Metastasized
+
+Distant Metastasis
+Organ                                Detailed Location                     Size
+
+Pathological Staging
+pT 2    N 1    M 0                   Stage:    II
+
+Notes:
+                Breast node 2 visible in Nitrogen
+
+UUID:89831201-9F00-4756-9C15-544284BF25A
+W/GA-CB-A122-01A-PR                                                      Redacted
+
+[THIS IS BARCODE: Standard barcode at bottom of form]
+
+[THIS IS TABLE: Checklist table at bottom right with Yes/No columns, partially visible/illegible]
+
+4
+
+=================================== PAGE 2 ===================================
+Microscopic Description
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                        Histological Pattern                                  │
+├─────────────────────────┬───┬───┬─────────────────────────────┬───┬─────────┤
+│    Cell Distribution    │ + │ - │    Structural Pattern       │ + │    -    │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Diffuse                 │ ✓ │   │ Streaming                   │   │         │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Mosaic                  │   │   │ Storiform                   │   │         │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Necrosis                │   │   │ Fibrosis                    │   │         │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Lymphocytic Infiltration│ ✓ │   │ Palisading                  │   │         │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Vascular Invasion       │   │   │ Cystic Degeneration         │   │         │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Clusterized             │   │   │ Bleeding                    │   │         │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Alveolar Formation      │   │   │ Myxoid Change               │   │         │
+├─────────────────────────┼───┼───┼─────────────────────────────┼───┼─────────┤
+│ Indian File             │   │   │ Psammoma/Calcification      │   │         │
+├─────────────────────────┴───┴───┴─────────────────────────────┴───┴─────────┤
+│                        Cellular Differentiation                              │
+├──────────┬───┬───┬──────────────┬───┬───┬──────────────┬───┬───┬────────────┤
+│ Squamous │ + │ - │ Adenomatous  │ + │ - │ Sarcomatous  │ + │ - │Lymphomatous│
+├──────────┼───┼───┼──────────────┼───┼───┼──────────────┼───┼───┼────────────┤
+│Squamoid C│   │   │ Glandular ce │ ✓ │   │ Round Cell   │   │   │ Large Cell │
+├──────────┼───┼───┼──────────────┼───┼───┼──────────────┼───┼───┼────────────┤
+│Spindle C │   │   │Cell Stratifi │   │   │ Fibroblast   │   │   │ Small Cell │
+├──────────┼───┼───┼──────────────┼───┼───┼──────────────┼───┼───┼────────────┤
+│ Keratin  │   │   │ Secretion    │   │   │ Osteoblast   │   │   │RS Cell/RS L│
+├──────────┼───┼───┼──────────────┼───┼───┼──────────────┼───┼───┼────────────┤
+│ Desmosome│   │   │Intracyt. Vac │   │   │ Lipoblast    │   │   │Inflam. Cell│
+├──────────┼───┼───┼──────────────┼───┼───┼──────────────┼───┼───┼────────────┤
+│ Pearl    │   │   │Gland formati │ ✓ │   │ Myoblast     │   │   │Plasma Cell │
+├──────────┴───┴───┴──────────────┴───┴───┴──────────────┴───┴───┴────────────┤
+│           Cellular Differentiation:        Well      Moderate  /✓   Poor     │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                        Nuclear Appearance                                     │
+├──────────────────────────────────────────────┬───┬───┬───┬───────────────────┤
+│                Nuclear Atypia:                │ 0 │ I │II.│       III        │
+├───────────────────────────────────────────────┼───┼───┼───┼───────────────────┤
+│ Aniso Nucleosis                               │   │✓  │   │                   │
+├───────────────────────────────────────────────┼───┼───┼───┼───────────────────┤
+│ Hyperchromatism                               │   │   │ ✓ │                   │
+├───────────────────────────────────────────────┼───┼───┼───┼───────────────────┤
+│ Nucleolar Prominent                           │   │   │ ✓ │                   │
+├───────────────────────────────────────────────┼───┼───┼───┼───────────────────┤
+│ Multinucleated Giant Cell                    │   │   │ ✓ │                   │
+├───────────────────────────────────────────────┼───┼───┼───┼───────────────────┤
+│ Mitotic Activity                              │   │   │ ✓ │                   │
+├───────────────────────────────────────────────┴───┴───┴───┴───────────────────┤
+│                        Nuclear Grade:                        ✓                │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                              IHC Data                                         │
+├──────────────┬───────────────────────────────┬───────────────┬───────────────┤
+│    Marker    │           Result              │     Value     │     Date      │
+├──────────────┼───────────────────────────────┼───────────────┼───────────────┤
+│      ER      │   □ Negative   □ Positive     │               │               │
+├──────────────┼───────────────────────────────┼───────────────┼───────────────┤
+│      PR      │   □ Negative   □ Positive     │               │               │
+├──────────────┼───────────────────────────────┼───────────────┼───────────────┤
+│   Her-2/neu  │   □ Negative   □ Positive     │               │               │
+├──────────────┼───────────────────────────────┼───────────────┼───────────────┤
+│  B-Cell Marke│   □ Negative   □ Positive     │               │               │
+├──────────────┼───────────────────────────────┼───────────────┼───────────────┤
+│  T-Cell Marke│   □ Negative   □ Positive     │               │               │
+├──────────────┼───────────────────────────────┼───────────────┼───────────────┤
+│    Other:    │   □ Negative   □ Positive     │               │               │
+├──────────────┼───────────────────────────────┼───────────────┼───────────────┤
+│    Other:    │   □ Negative   □ Positive     │               │               │
+└──────────────┴───────────────────────────────┴───────────────┴───────────────┘
+
+Final Pathology Report
+
+
+Histological Diagnosis:________Infiltrating duct ca&ca intra m____________
+    (Mediate ly clifferentiated)_____________________Grade:_II__
+
+
+Comments:
+
+
+                                                    Pathologist                Date
+Principal Investigator
+
+                                    5
+
+=================================== PAGE 3 ===================================
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+
+Microscopic Appearance:
+
+1. Histological pattern:
+                                CELL DISTRIBUTION
+Diffuse                                                        +        STRUCTURAL PATTERN                    + -
+Mosaic                                              α         ✓   Streaming                                        
+Necrosis                                                           Storiform
+Lymphocytic Infiltration                            α         ✓   Fibrosis
+Vascular Invasion                                              Palisading
+Clusterized                                                    ✓   ✓   Cystic Degeneration
+Alveolar Formation                                                 Bleeding
+Indian File                                                    ✓   Myxoid Change
+                                                                   ✓   Psammoma/Calcification
+
+2. Cellular features:
+Squamous          +    -   Adenomatous        +    -   Sarcomatous        +    -   Lymphomatous       +    -
+Squamoid Cell                Glandular cell         ✓        Round Cell                   Large Cell
+Spindle Cell                 Cell Stratification    ✓        Fibroblast                   Small Cell
+Keratin                      Secretion              ✓        Osteoblast                   R5 Cell/RS Like
+Desmosome                    Intracyt. Vacuole      ✓        Lipoblast                    Inflam. Cell
+Pearl                        Gland formation        ✓        Myoblast                     Plasma Cell
+Otherwise Specified:     D₁ CO% bn 80% D₂60% b₄50%.
+
+2. Cellular Differentiation:
+           Well        Moderately        Poor
+
+3. Nuclear Atypia:
+                        Nuclear Appearance                              0        I        II       III
+Aniso Nucleosis                                                                         ✓
+Hyperchromatism                                                                         ✓
+Nucleolar Prominent                                                                     ✓
+Multinucleated Giant Cell                                                               ✓
+Mitotic Activity                                                                        ✓
+                        Nuclear Grade
+
+Histological Diagnosis: infiltratory Ductal Carcinoma Not, G2
+
+Comments: M₁, M₂: Carcinoma Metastatized to LN
+
+                                                                       Date
+
+
+(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND         PATHOLOGIST STAFF FOR RESEARCH USE ONLY):

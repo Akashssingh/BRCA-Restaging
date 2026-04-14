@@ -1,0 +1,50 @@
+=================================== PAGE 1 ===================================
+page 1 / 1
+
+Department of Cancer Pathology
+
+copy No.
+
+Date:
+
+Examination: Histopathological examination
+
+Internal invoice No.                Cost of diagnostic procedure                                    Examination No.:
+
+Patient: XXX                        PESEL: XXX            Age:        Gender: F                    /Cb-6-3
+
+Material:    Multiple organ resection – right breast with axillary tissues                        Carcinoma, infiltrating duct.nos 8500/
+Unit in charge:                                                                                    SITE: breast, no: C50.9 µ 4/3/u
+Physician in charge:
+Material collected on:                    Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast. Specimen from a modified radical mastectomy using                technique.
+
+Examination performed on:
+Macroscopic description:
+Right breast sized 20 x 16 x 5 cm removed along with axillary tissues sized 9 x 11 x 3 cm and a skin flap of 20 x 8 cm. Weight 880
+g.
+Tumour sized 2.2 x 2.0 x 1.5 cm on the border of the outer quadrants, located 3.0 cm from the lower boundary, 1.2 cm from the
+base and 1.6 cm from the skin. Lymph nodes of 1.0 cm in length.
+Microscopic description:
+Carcinoma ductale invasivum, basal-like NHG3 (3 + 3 + 2/15 mitoses/10 HPF - visual area 0.55 mm).
+Reactio lymphocytaria peritumoralis.
+Mamilla sine laesionibus.                                                    UUID:33M626D-1D59-4184-A786-2BE873F6D3A8
+Axillary lymph nodes:                                                        TCGA-DB-A1XQ-01A-PR                 Redacted
+Lymphonodulitis reactiva No VII.                                             [BARCODE IMAGE]
+
+Histopathological diagnosis:
+Invasive ductal carcinoma of the right breast (NHG3, pT2, pNO).
+
+Compliance validated by:
+Examination performed on:
+
+Results of immunohistochemical examination:
+No estrogen receptors found in neoplastic cell nuclei. Progesterone receptors found in less than 10% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive cancerous cells ( Score = 1+ ). Tests performed
+twice.
+
+Compliance vali
+
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+[TABLE/FORM with checkboxes and signature area visible at bottom]

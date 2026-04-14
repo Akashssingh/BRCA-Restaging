@@ -1,0 +1,28 @@
+=================================== PAGE 1 ===================================
+UMID:C0264CFE-1A82-4480-AC78-BCF878BFD9E8
+                                                                    MRN:CBA-AR-A254-01A-PR         Redacted
+                                                                    ||||||||||||||||||||||||||||||||||||||||||||
+
+                        Criteria                    Yes    No
+                        Lymphatic/Vascular                 ✓
+                        Necrosis (Yes/No/Cannot)          ✓
+                        Tubule Composition                 ✓
+                        Tumor Margins in CAP Policy        ✓
+                        Nuclear Dysmorphy                  ✓
+                        Case: N (Local)        CONTINUED    DISCOUNTED
+B2148 Final Diagnosis   Imaging orders 03      Used to sign/lock
+                        ______________________  Dr. _______
+
+Breast, left, wide local excision: Infiltrating ductal carcinoma, Nottingham grade III (of III) [tubules 3/3, nuclei 3/3, mitoses 2/3; Nottingham score 8/9], forming a mass (2.7 x 2.3 x 2.2 cm) [AJCC pT2]. Angiolymphatic invasion is absent. The non-neoplastic breast parenchyma shows nonproliferative fibrocystic changes. The skin (separately submitted new anterior margin) is negative for tumor. All surgical resection margins; after the separately submitted re-excisions of the new anterior, inferior, medial, and lateral (No. 1 and No. 2); are negative for tumor (minimum tumor free margin, 1.1 cm, lateral margin).
+
+Lymph nodes, left axillary sentinel No. 1, excision: Multiple (2 of 2) matted left axillary sentinel lymph nodes are positive for metastatic carcinoma. Extranodal extension is present. Blue dye is not identified in either of the two left axillary sentinel lymph nodes.
+
+Lymph nodes, left axillary, dissection: Multiple (7 of 28) left axillary lymph nodes are positive for metastatic carcinoma. The largest positive lymph node measures 2.1 x 1.4 x 1.4 cm and does not show extranodal extension [AJCC pN2].
+
+Estrogen and progesterone receptor analysis and Her-2/NEU have been ordered on paraffin embedded tissue.
+
+
+                                    /cd-a-3
+                                    carcinoma infiltrating duct nos 8500/3
+                                    Sit: breast, nos C50.9    w
+                                                             4/05/11

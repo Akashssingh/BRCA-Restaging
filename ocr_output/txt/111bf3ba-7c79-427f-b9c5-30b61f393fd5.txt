@@ -1,0 +1,27 @@
+=================================== PAGE 1 ===================================
+UUID:468CD393-C8F7-43C6-A48A-18FCDD32F6AA
+                                                                                                                   TCGA-A2-A4RY-01A-02A-01A-PR            Redacted
+                                                                                                                   |||||||||||||||||||||||||||||||||||||||||||||||
+
+                       Criteria                          Yes      No
+                       Diagnosis/Histology                         ✓
+                       Specimen Staging and Divergency             ✓
+                       HPAA Divergency                             ✓
+                       Prior dx, biopsy (H/Bx)                     ✓
+                       Second opinion                              ✓
+                       Case is (LnLN)       UNSIGNED / UNSIGNED    ✓
+                       Pathologic finding    BCC    Date entered: 11/3/09
+
+Final Diagnosis
+
+Breast, right, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III) [tubules 2/3, nuclei 2/3, mitoses 2/3; Nottingham score 7/9], forming a mass (2.4 x 1.7 x 1.6 cm) [AJCC p12]. Biopsy site changes are present. Ductal carcinoma in situ, solid and micropapillary type, intermediate nuclear grade, comprising 5-25% of the tumor mass. Angiolymphatic invasion is identified. All surgical resection margins, after re-excision of the medial margin, are negative for tumor (minimum tumor free margin, 1.0 cm, inferior margin).
+
+Lymph nodes, right axillary sentinel Nos. 1 and 2, sentinel biopsy: A single (1 of 2) axillary sentinel lymph node is positive (for micrometastasis [AJCC pN1mi(sn)]), with 2 metastases, the largest measuring 1.0 mm and smallest 0.5 mm.
+
+Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel lymph node tissue and confirms the H&E impression.
+
+
+                                                                                      /CD-6-3
+                                                                                      Carcinoma infiltrating duct, nos  8500/3
+                                                                                      Site: breast, nos  C50.9  /c
+                                                                                                               4/05/11

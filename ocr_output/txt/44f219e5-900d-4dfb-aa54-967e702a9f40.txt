@@ -1,0 +1,55 @@
+=================================== PAGE 1 ===================================
+UUIC:BCC#PRD3-FB88-47B5-B554-599A67C8F13A
+                                                                    TCGA-AN-A0FX-01A-PR         Redacted
+                                                                    [BARCODE IMAGE]
+
+TSS Patient ID:
+
+Case #:         DOB:            Sex: Female  Ethnicity (Race):
+
+Cancer Sample
+
+Diagnosis: Breast Cancer  Histological description: metaplastic carcinoma
+
+Date of Procurement:             Anatomic Site: Left Breast  Tumor location: Primary
+
+Tissue Specification: Tumor  Specimen Matrix: Tissue  Specimen Format: Frozen
+
+Container: cryomold  Type of Procurement: Radical mastectomy  Grade: 3
+
+T Stage: 2  N Stage: 0  M Stage: 0  Treatment: none
+
+Treatment Details: n/a
+
+Normal Sample
+
+Anatomic Site: Blood  Sample Type: Normal  Type of Procurement: blood draw
+
+Matrix: Blood  Specimen Format: frozen  Container: tube
+
+Date of Procurement:
+
+
+
+
+                                    ICD-0-3
+
+        Path -      carcinoma, metaplastic, NOS  85715/3
+                    Site: breast, NOS  C50.9
+                                                    hw  10/01/14
+
+        CQCF -      carcinoma, infiltrating ductal, NOS  8541/3
+
+
+
+
+                                                                                            Yes        No
+Criteria
+Diagnosis Discrepancy                                                                                   ✓
+Primary Tumor Site Discrepancy                                                                          ✓
+Tumor Laterality Discrepancy                                                                            ✓
+Prior Malignancy History                                                                                ✓
+Neoadjuvant/Induction Therapy Admin                                                                     ✓
+Case is Clinical        SURGICAL        COMPLETE
+Examiner Initials               Date Reviewed   /-12/01/14
+                                hw

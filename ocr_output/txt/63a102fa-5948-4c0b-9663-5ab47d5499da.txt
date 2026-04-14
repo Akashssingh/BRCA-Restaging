@@ -1,0 +1,177 @@
+=================================== PAGE 1 ===================================
+ICA-0-3
+
+Carcinoma, infiltrating duct, NOS 8500/3
+Site: Breast, NOS C50.9    fu
+                            4/27/11
+
+
+SURGICAL REPORT
+
+Name:.                                          Pathology Number.
+Sex: F                                          Date Collected:
+DOB:                                            Date Received:
+Location:                                       M.R. Number.
+Doctor:                                         Account Number
+
+PRE-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+POST-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+PROCEDURE
+RIGHT BREAST LUMPECTOMY WITH SENTINEL LYMPH NODE BIOPSY, F.B.: POSSIBLE AXILLARY DISSECTION, POSSIBLE
+SAVI PREP DEVICE INSERTION
+TISSUES
+        A. SENTINEL LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #1 ™    *
+        B. SENTINEL LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #2 *    *
+        C. BREAST EXCISION,NEEDLE LOC, SIMPLE, MARGINS,ETC. - RIGHT BREAST LUMP
+
+FS DIAGNOSIS
+A.      RIGHT SENTINEL LYMPH NODE #1,        -
+        ONE NEGATIVE NODE (0/1).
+
+B.      RIGHT SENTINEL LYMPH NODE #2,        -
+        ONE NEGATIVE NODE (0/1).
+
+C.      RIGHT BREAST LUMP (GROSS MARGINS) -
+        THE TUMOR MASS MEASURES 2.8 CM. IN MAXIMUM DIMENSION AND ALL SURGICAL
+        MARGINS ARE FREE OF LESION.
+
+(REPORTED TO SURGEON:
+
+Diagnosed by:
+
+FINAL DIAGNOSIS
+A.      RIGHT SENTINEL LYMPH NODE #1 -
+        ONE REACTIVE LYMPH NODE (0/1).
+
+B.      RIGHT SENTINEL LYMPH NODE #2-
+        ONE REACTIVE LYMPH NODE (0/1).
+
+C.      RIGHT BREAST LUMP -
+        INFILTRATIVE DUCT CARCINOMA (2.6 CM.)
+        SCARFF-BLOOM-RICHARDSON GRADING:
+                GRADE III OF III (ABSENT TUBULE FORMATIONS, HIGH GRADE NUCLEAR
+                FEATURES AND HIGH MITOTIC INDEX).
+        ANGIOLYMPHATIC INVASION:
+
+Patient Name:                                                   Pathology Number:
+
+SURGICAL REPORT                                                 Page 1 of 3
+
+=================================== PAGE 2 ===================================
+Patient Name                                                          Pathology Number:
+
+                                    PROBABLE
+                    DCIS/ATYPICAL DUCTAL HYPERPLASIA:
+                           PRESENT; CRIBRIFORM PATTERN, HIGH GRADE NUCLEAR FEATURES AND
+                           COMPRISE ABOUT 5% OF THE TUMOR.
+                    SURGICAL MARGINS:
+                           UNINVOLVED.
+                    NON-NEOPLASTIC BREAST:
+                           FIBROCYSTIC CHANGES WITH MICROCALCIFICATION.
+                    MAMMARY VESSEL MEDIAL CALCIFICATION.
+
+
+Diagnosed by:                        , M.D., Pathologist
+
+Reviewed and electronically signed out by:
+
+
+COMMENT
+          The ER, PR and Her-2/neu (IHC) have been performed on surgical
+
+          This case is discussed with Dr.                    by Dr      __
+
+
+COMMENT2
+          Immunohistochemical (IHC) stain for panKeratin (AE1/AE3) is negative for micrometastases in
+          right sentinel lymph nodes (blocks FSA, A, FSB, B).
+
+
+GROSS DESCRIPTION
+          The specimen is received in three separate containers labeled              ' designated A,
+B, C.
+
+A.        The container is received fresh unfixed labeled "right sentinel lymph node #1 for frozen section"
+          and consists of an ovoid mass of apparent fat which is 1 x 0.6 x 0.4 cm.
+          Sectioning reveals a 0.3 cm. tan-gray firm nodule. Frozen section is obtained by Dr.
+          The entire specimen including frozen section is submitted in two blocks.
+
+B.        The container is received fresh unfixed labeled "right sentinel lymph node #2 for frozen section"
+          and consists of an irregular mass of apparent fat which is 0.6 x 0.4 x 0.4 cm. Sectioning reveals
+          a thin rim of tan-gray firm rubbery tissue 0.4 x 0.3 x 0.2 cm. Frozen section is obtained by Dr
+          The entire specimen including frozen section is submitted in two blocks.
+
+C.        The container is received fresh unfixed labeled "right breast lump" and consists of a 26 gm. ovoid
+          mass of apparent fatty and fibrous-encased tissue which is 5.5 x 4 x 3.6 cm. In greatest overall
+          dimension. There are two short sutures indicating superior margin inked with red dye, inferior is
+          inked yellow. There is a single long suture indicating lateral margin inked with green dye, medial
+          is inked blue. There is a single short suture indicating anterior margin inked with orange dye,
+          posterior/deep is inked black. Sectioning reveals a tumor mass 2.5 x 2.3 x 1.5 cm. in greatest
+          overall dimension and grossly appears to be 0.4 cm. from the superior, 0.5 cm. from the inferior, 1
+          cm. from the lateral, 0.8 cm. from the medial, 0.8 cm. from the anterior, and 0.5 cm. from the
+          posterior. The entire specimen is submitted in sixteen blocks.
+
+          Note: Gross margins are observed by Dr.             . Gross margins are free. The closest margin
+          is superior which is about 4 mm.
+
+Patient Name                                                          Pathology Number:
+
+SURGICAL REPORT                                                                       Page 2 of 3
+
+=================================== PAGE 3 ===================================
+Patient Name:                                    Pathology Number:
+
+Key Note Block Summary:      1—superior, 2—inferior, 3—lateral, 4—medial, 5—anterior, 6—
+posterior (all are perpendicular), 7 through 16—remaining.  (fixation time 5:28 a.m.)
+
+
+MICROSCOPIC EXAM
+SYNOPTIC REPORT:
+
+Specimen Laterality:     Right
+Procedure:      Excision w/o wire-guided loc
+Specimen Integrity:     Single intact specimen
+Lymph Node Sampling: Sentinel lymph nodes
+Specimen Size: 5.5 x 4 x 3.5 cm.
+Invasive Carcinoma Size:      2.5 cm.
+Tumor Focality: Single
+Extent of Tumor:          Skin not present
+                         No skeletal muscle present
+In-situ Component:       DCIS
+Histologic Type:         Ductal
+Histologic Grade:        3
+Glandular/Tubular Differentiation:      3
+Nuclear Pleomorphism: 3
+Mitotic Count:           3
+Margins:        Margins uninvolved by invasive carcinoma
+                Distance from closest margin:   4 mm, superior
+                Margins uninvolved by DCIS
+Lymph Nodes: 2 SLN examined
+             2 Total LN examined
+Pathologic Staging:     pT2 pN0 MX
+ER:     0%
+PR:     2%
+Her-2/neu IHC: Negative
+
+MICROSCOPIC EXAMINATION CONDUCTED BY PATHOLOGIST CONFIRMS FINAL DIAGNOSIS.
+
+SPECIAL STAINS PERFORMED:     Cytokeratin (AE1/AE3) (specimens A&B) (---
+
+
+
+
+                                                                              Yes      No
+                                                                                       ✓
+Criteria                                                                               ✓
+Primary Letter Site of Malignancy                                                      ✓
+HPJA Doctors Notes                                                                     ✓
+Vital Malignancy History                                                               
+Surgical/Additional History Utilized                                                   
+Risk Assessment         Hospital Deaths         Enz Er AgeMu
+Syndicate ID tests                Rate Analyzed        
+
+Patient Name                                      Pathology Number:
+
+SURGICAL REPORT                                   Page 3 of 3

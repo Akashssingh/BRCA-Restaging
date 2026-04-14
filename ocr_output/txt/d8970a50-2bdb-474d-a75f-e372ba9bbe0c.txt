@@ -1,0 +1,68 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+         Procedure Date: .           Carcinoma, infiltrating ductal NOS  8500/3
+         Procedure Physician:
+         Attending Physician/Copies To:    Site: Breast, NOS  C50.9           /30/11 W
+
+
+PATIENT HISTORY:                                        UAID:E0002CE3-2AF7-A978-A3F7-AB88E0014441
+* DATE OF LMP: •                                        [BARCODE IMAGE]          Redacted
+DATE OF LAST DELIVERY: •
+PRE-OP DIAGNOSIS: R BREAST CANCER
+POST-OP DIAGNOSIS: SAME
+* OPERATIVE PROCEDURE: RIGHT MODIFIED RADICAL MASTECTOMY
+CLINICAL HISTORY: •
+SPECIMEN SUBMITTED: RIGHT (MOD) RADICAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE
+INTRAOPERATIVE CONSULTATION:
+FROZEN SECTION: Right breast measuring 18.0 by 17.0 by 5.2 cm with 16.0 by 6.3 cm skin and nipple and
+partial axillary contents. A tan-white irregular mass measuring 1.8 by 1.0 by 1.2 cm is identified 1.3 cm
+from the deep resection margin. Mass lies in the center of the mass. FS Diagnosis: Infiltrating duct
+carcinoma. Lymphs taken. (█████████)
+FINAL DIAGNOSIS:
+███████████
+RIGHT BREAST MASS AND AXILLARY CONTENTS:
+- MULTIFOCAL INVASIVE DUCTAL CARCINOMA, 1.8 BY 1.2 BY 1.0 CM., POOR NUCLEAR GRADE
+- EXTENSIVE INTRADUCTAL CARCINOMA IN-SITU, COMEDO TYPE
+- VASCULAR PERMEATION SEEN
+- SKIN, NIPPLE AND DEEP MARGIN FREE OF TUMOR
+- FIVE (5) LYMPH NODES FREE OF TUMOR
+- HEMORRHAGE AND HEMOSIDERIN LADEN MACROPHAGES CONSISTENT WITH BIOPSY SITES
+- FIBROCYSTIC CHANGES
+NOTE: Within the invasive tumor, the ductal carcinoma in-situ component is about 30%.
+
+SUPPLEMENTREPORT
+(HER2/NEU)
+My signature below is attestation that I have reviewed all slides and agree with the findings as noted
+below.
+AS PER THE REQUEST OF██████████████OR THE
+IMMUNOSTAINING IS CARRIED OUT ON PREVIOUS WADES SURGICAL████████████BLOCK "A4" (BREAST CANCER) (HER-2/NEU)
+DILUTION OF DAKO'S POLYCLONAL ANTIBODY A485 (DIRECTED AGAINST THE INTRACELLULAR DOMAIN OF c-erbB2) USING A 1:300
+ANTIGEN RETRIEVAL. DISTINCT COMPLETE MEMBRANE STAINING IS IDENTIFIED IN 90% OF TUMOR CELLS. THEREFORE, c-
+erbB2 (HER-2/NEU) IS INTERPRETED AS POSITIVE (SCORE 3+). 
+SIGNED COPY ON FILE
+
+████████████████
+PATHOLOGY#
+█████████████
+███████
+
+SUPPLEMENTREPORT
+(ER/PR)
+My signature below is attestation that I have reviewed all slides and agree with the findings as noted
+below.
+IMMUNOPEROXIDASE IDENTIFICATION OF ESTROGEN AND PROGESTERONE RECEPTORS IS CARRIED OUT ON SLIDE ████████
+"A4". DISTINCT INTRANUCLEAR STAINING IS IDENTIFIED FOCALLY FOR PROGESTERONE RECEPTOR (10%) BUT NOT FOR
+ESTROGEN RECEPTOR. THEREFORE, PROGESTERONE RECEPTOR IS INTERPRETED AS BOR DERLINE AND ESTROGEN RECEPTOR AS
+NEGATIVE.
+
+
+                                                                                 Yes     No
+                 Copies of                                                              JN
+                 Diagnostic/Surgical                                                    AA
+                 Primary tumor and liver biopsy                                         JN
+                 Slides, blocks                                                         AA
+                 Fluid-Diagnostic/Cult only                                             AA
+                 South/North, nearest out of State                                      1 Designated
+                 2-path sites ████████████████ Undamaged 07
+                 Pathology Path ████████████████ Designated ██ ████ ██
+                                        ████████

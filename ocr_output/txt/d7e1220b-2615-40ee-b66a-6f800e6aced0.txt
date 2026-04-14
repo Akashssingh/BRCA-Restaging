@@ -1,0 +1,142 @@
+=================================== PAGE 1 ===================================
+ICb-0-3
+                                                Carcinoma, inbil trating duct, NOS
+                                                8500/3    12/8/10
+                                                         Jw
+                                                Site Code: breast, nos C50.9
+
+TSS:                                            UUID:RFBDC4B7-B27A-429C-952A-186F8D4592AE
+                                                TCGA-E2-A154-01A-PR          Redacted
+SPECIMENS:
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+C. LEFT BREAST WLE
+
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+C. LEFT BREAST WLE
+
+GROSS DESCRIPTION:
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+Received fresh labeled with the patient's identification and "SLN #1, left axilla" is a 2.0 x 1.5 x 0.5 cm possible lymph
+node. The tissue is serially sectioned and touch imprints are performed. The specimen is entirely submitted, A1-A2.
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+Received fresh labeled with the patient's identification and "SLN #2, left axilla" is a 1.6 x 1.4 x 0.4 cm possible lymph
+node. The tissue is serially sectioned and touch imprints are performed. The specimen is entirely submitted, B1.
+C. LEFT BREAST
+Received fresh and subsequently placed in formalin labeled with the patient's identification and "left breast" is an
+oriented (short-superior, long-lateral) 25 gm, 5.8 x 5.1 x 1.8 cm lumpectomy. Ink code (previously inked in OR):
+anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange. The specimen is serially
+sectioned into seven slices revealing a 1.5 x 1.5 x 1.3 cm stellate, gritty white tumor that is closest to the anterior
+margin at less than 0.1 cm. Tissue is procured. Also, identified is a second 0.5 x 0.4 x 0.2 cm, firm tan-white,
+suspicious nodule that is closest to the inferior margin at 0.2 cm. The second nodule is at least 0.4 cm inferior to the
+tumor. No additional masses are identified. Representative sections:
+C1-C2-slice 7, inferior margin, perpendicular
+C3-slice 6, tumor-lateral half
+C4-slice 6, tumor-medial half
+C5-slice 5, tumor to anterior margin
+C6-C7-slice 4, tumor to anterior and posterior margins
+C8-slice ?, representative posterior and lateral margins
+C9-slice 1, superior margin, perpendicular
+
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+B. LYMPH NODE, SENTINEL #2, LEFT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+C. BREAST, LEFT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.2-CM
+- SATELLITE INVASIVE TUMOR, MEASURING 1 MM, PRESENT 2.5 MM FROM POSTERIOR
+- INVASIVE TUMOR PRESENT AT ANTERIOR SURGICAL RESECTION MARGIN
+SURGICAL RESECTION MARGIN
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, CRIBRIFORM TYPE WITH FOCAL
+NECROSIS
+- SEE SYNOPTIC REPORT.
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:        Excision
+Needle Localization:   No
+Laterality:     Left
+Invasive Tumor:       Present
+Multifocality:  Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:   1.2cm
+Margins:      Involved at
+anterior
+Extent::      4 mm
+Tubular Score: 2
+
+
+- SURGICAL RESECTION MARGINS (SEE NEXT)
+
+=================================== PAGE 2 ===================================
+- METASTATIC CARCINOMA TO ONE OF TWELVE AXILLARY LYMPH NODES (1/12), MEASURING 3.5-CM
+WITH FOCAL EXTRANODAL EXTENSION
+- METASTATIC CARCINOMA TO ONE OF TWO INTRAMAMMARY LYMPH NODES (1/2), MEASURING 0.8-CM
+WITH FOCAL EXTRANODAL EXTENSION
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+
+B. LYMPH NODES, ADDITIONAL LEFT AXILLARY CONTENTS, DISSECTION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+NOTE: Four tumor nodules are grossly identified. Microscopically 3 of them are invasive ductal carcinoma that have
+the same morphology and one is DCIS. The tissues in between these nodules show scattered foci of DCIS.
+Therefore, these foci may be interconnected through DCIS. Largest confluent invasive tumor measures 2.5-cm.
+
+Two intramammary lymph nodes are identified; one is positive for metastatic carcinoma.
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:        Mastectomy
+Needle Localization:  No
+Laterality:    Left
+Invasive Tumor:       Present
+Multifocality:  Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS  8500/3
+Tumor size:   2.5cm
+Tumor Site:   Upper inner quadrant
+Lower inner quadrant
+Margins:      Negative
+Tubular Score: 3
+Nuclear Grade:        2
+Mitotic Score:  3
+Modified Scarff Bloom Richardson Grade:    3
+Necrosis:     Absent
+Vascular/Lymphatic invasion:   Indeterminate
+Lobular neoplasia:    None
+Lymph nodes: Axillary dissection
+Lymph node status:    Positive 2 / 15 Extranodal extension
+-----------------------------------
+DCIS present
+DCIS Quantity: Estimate 10%
+DCIS Type:    Solid
+Cribriform
+DCIS Location: Associated with invasive tumor
+Nuclear grade: High
+Necrosis:     Present
+-----------------------------------
+ER/PR/HER2 Results
+ER: Positive
+PR: Negative
+HER2: Negative by IHC
+Performed on Case:
+-----------------------------------
+Pathological staging (pTN):     pT 2 N 1c
+
+
+CLINICAL HISTORY:
+    None given
+
+PRE-OPERATIVE DIAGNOSIS:
+    Left breast cancer
+
+Microscopic/Diagnostic Dictation: Pathologist
+Final Review: Pathologist, --
+Final: Pathologist, i
+
+Criteria                                    Yes     No
+Reporting Discrepancy                                   ⊠

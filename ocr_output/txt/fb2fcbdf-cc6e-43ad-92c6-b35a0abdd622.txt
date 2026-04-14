@@ -1,0 +1,64 @@
+=================================== PAGE 1 ===================================
+FINAL DIAGNOSIS:
+PART 1: LEFT AXILLARY SENTINEL LYMPH NODE #1, BIOPSY -
+TWO LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/2) (see comment).
+
+PART 2: BREAST, LEFT, SEGMENTAL MASTECTOMY -
+A. INVASIVE DUCTAL CARCINOMA, NOTTINGHAM GRADE 2 (TUBULE FORMATION 3, NUCLEAR GRADE 2,
+MITOTIC RATE 1; TOTAL SCORE 6/9).
+B. INVASIVE CARCINOMA WITH MEASURES 2.2 CM IN GREATEST DIMENSION.
+C. DUCTAL CARCINOMA IN-SITU (DCIS), NUCLEAR GRADE 2, SOLID TYPE WITH COMEDONECROSIS.
+D. DCIS IS PRESENT ADMIXED WITH INVASIVE COMPONENT AND COMPRISES <5% OF TOTAL TUMOR
+VOLUME.
+E. MARGINS OF RESECTION ARE NEGATIVE FOR INVASIVE CARCINOMA AND DCIS, INVASIVE CARCINOMA
+IS 5 MM FROM CLOSEST (POSTERIOR) MARGIN OF RESECTION.
+F. LYMPHOVASCULAR SPACE INVASION IS IDENTIFIED.
+G. SKIN, NEGATIVE FOR TUMOR.
+H. INVASIVE TUMOR CELLS ARE POSITIVE FOR ESTROGEN AND PROGESTERONE RECEPTORS AND
+EQUIVOCAL FOR HER-2/NEU WITH A SCORE OF 2+, AND PER PREVIOUS PATHOLOGY REPORT (
+
+... NO AMPLIFICATION OF THE HER-2/NEU GENE WAS SEEN BY INTERFACE FISH ANALYSIS.
+CASE SYNOPSIS:                                      ICD-d-3
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+                                                    Carcinoma, infiltrating ductal, NOS 8500/3
+LATERALITY:                      Left
+PROCEDURE:                       Segmental          Site: Breast, NOS C57.9 3/3/11 du
+LOCATION:                        Not specified
+SIZE OF TUMOR:                   Maximum dimension invasive component: 2.2 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+                                 No
+TUMOR TYPE (Invasive component):
+                                 Ductal adenocarcinoma, NOS
+NOTTINGHAM SCORE:                Nuclear grade: 2
+                                 Tubule formation: 3
+                                 Mitotic activity score: 1
+                                 Total Nottingham score: 6
+                                 Nottingham grade (1, 2, 3): 2
+ANGIOLYMPHATIC INVASION:         Yes
+DERMAL LYMPHATIC INVASION:       No
+CALCIFICATION:                   No
+TUMOR TYPE, IN SITU:             DCIS admixed with invasive carcinoma
+                                 Percent of tumor occupied by in situ component: 5 %
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+                                 No
+                                 Distance of invasive tumor to closest margin: 5 mm
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+                                 No
+LYMPH NODES POSITIVE:            0
+LYMPH NODES EXAMINED:            2
+METHOD(S) OF LYMPH NODE EXAMINATION:
+                                 Keratin stain
+T STAGE, PATHOLOGIC:             pT2
+N STAGE, PATHOLOGIC:             pN0(i-)
+M STAGE, PATHOLOGIC:             pMX
+ESTROGEN RECEPTORS:              positive
+PROGESTERONE RECEPTORS:          positive
+HER2/NEU:                        2+
+
+
+
+
+UUTD:4C34243D-5382-43A6-9896-5155CDC5EE34    Redacted
+ZCGA-BA-DADAL-01A-PR
+
+[BARCODE IMAGE]

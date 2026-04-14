@@ -1,0 +1,33 @@
+=================================== PAGE 1 ===================================
+IDS-0-3
+                                                    Carcinoma, infiltrating ductal, NIS  85045
+                                                    Path Site: Breast, UOQ     C50.4
+                                                    UGEF Site: Direct, NIS    C50.9     for  1/15/1
+
+
+
+
+Diagnosis:
+1. Ablated (left) breast sample with a moderately differentiated invasive ductal
+carcinoma with an intraductal component (tumor diameter: 5.0 cm.
+
+Tumor classification: NOS, G II, pT2N1aL0V0R0.
+
+
+
+
+                                                    UUID:D1456192-B3E7-4FCB-B783-9B0615830156
+                                                    TCGA-A8-A07F-01A-PR                Redacted
+                                                    [BARCODE IMAGE]
+
+
+                                                                                        Yes     No
+                                                    Criteria                                    ___ ___
+                                                    Diagnosis Discrepancy                       ___ ___
+                                                    History Tumor Site Discrepancy              ___ ___
+                                                    FFPE Discrepancy                            ___ ___
+                                                    Histology Discrepancy                       ___ ___
+                                                    Histopathological Residency Review Committee
+                                                    Psychotropics Primary NOTES            !!   Original SFD
+                                                    Case is Eligible       N   D   N/L.V.LS.R   C4TCFRR ID
+                                                    [Signature and date marks]

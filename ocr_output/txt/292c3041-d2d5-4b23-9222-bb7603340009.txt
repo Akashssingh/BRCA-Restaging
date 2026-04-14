@@ -1,0 +1,283 @@
+=================================== PAGE 1 ===================================
+Surgical Pathology Report
+
+Name:                                          Case #:
+DOB:                                           Collected:
+Gender:      F                                 Received:
+MRN:                                           Reported:
+Location:                                      Copy To:
+Physician:
+
+Pathologic Interpretation:
+
+A.    Sentinel node #1 CT41 left axilla:                    ICD-0-3
+      - No carcinoma seen in one lymph node (0/1).          Curcimore ruhiltiatory ductal nes F5045/3
+      - Keratin immunohistochemistry pending.               Site Breast, NOS C50 9 M 3/24/1
+
+B.    Left axilla sentinel node #2 count: ..                UUID:44852484-2468-4443-9186-6E2FEA96CBC6
+      - No carcinoma seen in one lymph node (0/1).          TCGA-E4-A1PC-01A-PR         Redacted
+      - Keratin immunohistochemistry pending.
+
+C.    Right axilla sentinel node #1 count
+      - No carcinoma seen in one lymph node (0/1).
+      - Keratin immunohistochemistry pending.
+
+D.    Left breast:
+      - INFILTRATING DUCTAL CARCINOMA, poorly differentiated, Nottingham grade 3 (3+3+3=9), 6.0 cm in greatest
+      dimension.
+      - The tumor infiltrates the dermis.
+      - Lymphovascular invasion is not identified.
+      - Margins free of tumor.
+      - See tumor summary.
+
+Tumor Summary (Invasive Carcinoma of the Breast) (D):
+
+Specimen Type: Partial breast
+Procedure: Total mastectomy (including nipple and skin)
+Lymph Node Sampling: Sentinel lymph node(s)
+Specimen Integrity: Single intact specimen (margins can be evaluated)
+Specimen Laterality: Left
+Tumor Size or Size of Largest Invasive Carcinoma: Greatest dimension of largest focus of invasion: 6.0 cm
+       Additional dimensions: 5.5 x 4.0 cm
+Tumor Focality: Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of Tumor:
+       Skin: Invasive carcinoma directly invades into the dermis or epidermis without skin ulceration
+       Skeletal Muscle: Skeletal muscle is present and is free of carcinoma
+Ductal Carcinoma In Situ: No DCIS is present
+Histologic Type of Invasive Carcinoma: Invasive ductal carcinoma (no special type or not otherwise specified)
+Histologic Grade:
+       Glandular (Acinar)/Tubular Differentiation: Score 3
+       Nuclear Pleomorphism: Score 3
+       Mitotic Count: Score 3
+       Overall Grade: Grade 3
+Margins: Uninvolved by invasive carcinoma
+       Distance from closest margin: 15 mm (inferior)
+       Specify margins:
+              Distance from posterior margin: 20 mm
+Treatment Effect: Response to Presurgical Therapy:
+       In the breast: No known presurgical therapy
+       In the lymph nodes: No known presurgical therapy
+Lymph-Vascular Invasion: Not identified
+Dermal Lymph-Vascular Invasion: Not identified
+Lymph Nodes:
+       Number of sentinel lymph nodes examined: 2
+       Total number of lymph nodes examined (sentinel and nonsentinel): 0
+       Number of lymph nodes with macrometastases: 0
+       Number of lymph nodes with micrometastases: 0
+
+=================================== PAGE 2 ===================================
+SURGICAL PATHOL Report
+
+Number of lymph nodes with isolated tumor cells: 0
+Method of Evaluation of Sentinel Lymph Nodes:
+    Hematoxylin and eosin (H&E), one level
+    Immunohistochemistry pending
+Pathologic Staging (pTNM)
+    Primary Tumor: pT3
+    Regional Lymph Nodes:
+        Modifier: sn
+        Category: pN0 (pending immunohistochemistry)
+    Distant Metastasis: Not applicable
+Ancillary Studies:
+    Estrogen Receptor: Pending
+    Progesterone Receptor: Pending
+    Her2: Pending
+
+AJCC classification (7th ed) pT3 snN0 MX (pending evaluation of keratin in sentinel nodes)
+
+E.      Right breast:
+        - DUCTAL CARCINOMA IN SITU, intermediate grade (DIN2) with expansive necrosis, solid and cribriform types.
+        - The largest focus is 3 mm, and it is present in 3/15 slides.
+        - Resection margins negative.
+        - Proliferative fibrocystic changes including intraductal papilloma (5 mm), columnar cell changes without atypia, apocrine
+        cell metaplasia, stromal fibrosis and microcyst formation.
+        - See tumor summary.
+        - Two fibroadenoma, largest 11 mm.
+
+
+Tumor Summary (DCIS OF THE BREAST) (E):
+
+Specimen Type: Total breast (including nipple and skin)
+Procedure: Total mastectomy (including nipple and skin)
+Lymph Node Sampling: Sentinel lymph node(s)
+Specimen Integrity: Single intact specimen (margins can be evaluated)
+Specimen Laterality: Right
+Tumor Size: Size of Largest Invasive Carcinoma: Greatest dimension of largest focus of invasion: 0.3 cm
+    Number of blocks with DCIS: 3
+    Number of blocks examined: 15
+Histologic Type: Ductal carcinoma in situ. Classified as Tis (DCIS) or Tis (Paget)
+Architectural Patterns:
+    Cribriform
+    Solid
+Nuclear Grade: Grade II (intermediate)
+Necrosis: Present, central (expansive "comedo" necrosis)
+Margins: Involved by DCIS
+    Distance from closest margin: 2mm
+Treatment Effect: Response to Presurgical Therapy: No known presurgical therapy
+Lymph Nodes:
+    Number of sentinel lymph nodes examined: 1
+    Total number of lymph nodes examined (sentinel and nonsentinel): 1
+    Number of lymph nodes with macrometastases: 0
+    Number of lymph nodes with micrometastases: 0
+    Number of lymph nodes with isolated tumor cells: 0
+    Size of largest metastatic deposit: 0
+    Method of Evaluation of Sentinel Lymph Nodes:
+        Hematoxylin and eosin (H&E), one level
+        Immunohistochemistry pending
+Pathologic Staging (pTNM)
+    Primary Tumor: pTis (DCIS)
+    Regional Lymph Nodes:
+        Modifier: sn
+        Category: pN0 (pending immunohistochemistry)
+    Distant Metastasis: Not applicable
+Ancillary Studies:
+
+                                                                                                                    Page 2 of 5
+
+=================================== PAGE 3 ===================================
+SURGICAL PATHOL Report
+
+Estrogen Receptor: Pending
+Progesterone Receptor: Pending
+
+AJCC classification (7th ed) pTls (DCIS) snN0 MX (pending evaluation of keratin in sentinel nodes)
+
+***Electronically Signed Out***
+
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Pano, H pylori, HBoxxl). These ASRs are clinically useful indicators that do not require FDA approval. Antibodies to p53, p16/ER/PR, A465/HER2, H-11/EGFR, CC1/p2/DOG-CMV, FGP, 4.1A43 and HPV by ISH. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive or negative.
+
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s) for the specimen(s); and (ii) Rendered the diagnoses(es).
+
+Procedures/Addenda
+Addendum                               Date Ordered:      1         Status: Signed Out
+                                       Date Complete:
+                                       Date Reported:
+
+Addendum Diagnosis
+
+A. Sentinel Node #1, Left Axilla:
+   Immunohistochemistry for keratin is negative.
+
+B. Left Axilla Sentinel Node #2:
+   Immunohistochemistry for keratin is negative.
+
+C. Right Axilla Sentinel Node #1:
+   Immunohistochemistry for keratin is negative.
+
+D. Left Breast:
+   The tumor cells are positive for ER and PR (focally). They are negative for HER2 (score 0) by
+   immunohistochemistry.
+   Final AJCC staging: pT3, snN0(i), Mn/a.
+
+E. Right Breast:
+   The tumor cells are positive for ER and PR by immunohistochemistry.
+   Final AJCC staging: pTls (DCIS), snN0(1-), M n/a
+
+---, MD, PhD
+
+Intraoperative Consultation
+
+A. Sentinel node #1 CT41 left axilla touchprep:
+No carcinoma seen in frozen section and touch prep. Final diagnosis defer for permanent.
+
+B. Left axilla sentinel node #2 count 31 touch prep:
+No carcinoma seen in frozen section and touch prep. Final diagnosis defer for permanent.
+
+C. Right axilla sentinel node #1 count 79 Touch prep:
+No carcinoma seen in frozen section and touch prep. Final diagnosis defer for permanent.
+
+Page 3 of 5
+
+=================================== PAGE 4 ===================================
+SURGICAL PATHOL Report
+
+Clinical History:
+Not provided
+
+Pre Operative Diagnosis:
+
+Not provided
+
+Specimen(s) Received:
+A: Sentinel node #1 CT41 left axilla touchprep
+B: Left axilla sentinel node #2 count 31 touch prep
+C: Right axilla sentinel node #1 count 79 Touch prep
+D: Left breast (1 stitch superior, 2 lateral, Fresh)
+E: Right breast (1 stitch superior, 2 lateral, Fresh)
+
+Gross Description:
+
+A.      Received fresh and labeled "sentinel node #1       left axilla, touch prep" is a yellow-tan, irregular-shaped, soft tissue
+        fragment measuring 1.5 x 1.5 x 1.0 cm. Specimen bisected and submitted in toto in one cassette for frozen section.
+
+B.      Received fresh and labeled "left axilla sentinel node #2 count 31, touch prep" is a yellow-tan, fibrofatty tissue measuring
+        1.5 x 1.0 x 1.0 cm. Specimen is bisected and submitted in toto in one cassette for frozen section and touch prep.
+
+C.      Received fresh and labeled "right axilla sentinel node #1 count 79, touch prep" is a yellow-tan, irregular-shaped, soft
+        tissue fragment measuring 2.0 x 1.0 x 1.0 cm. Specimen bisected and submitted in toto in one cassette for frozen section
+        and touch prep.
+
+D.      Received fresh and labeled "left breast (1 stitch superior, 2 lateral)" is a left radical modified mastectomy measuring 21.0
+        x 19.0 x 4.0 cm and weighs 750 grams. The skin is light tan, ellipse, measuring 21.0 x 16.0 cm. Areola is 6.0 cm in
+        maximum diameter and nipple is impressed and very hard measuring 2.5 cm in maximum diameter. The specimen is
+        oriented with one stitch at superior and two stitches at lateral. The surgical margin is inked in black. Sectioning reveals a
+        yellow-gray, well defined, tumoral mass measuring 6.0 x 5.5 x 4.0 cm. This tumor is 60% necrotic with focal hemorrhage.
+        No calcification is noted grossly. This tumor is located beneath of nipple. The remainder of mammary tissue is
+        yellow-white, fibrofatty tissue. No other lesions is identified grossly. This tumor is located at less than 0.1 cm from
+        superficial (skin nipple), at 1.5 cm from inferior surgical margin, at 2.0 cm from deep surgical margin and the rest of the
+        surgical margins are away more than 4.0 cm from this tumor. The specimen is submitted in fifteen cassettes as follows:
+
+        1        Perpendicular section superior margin
+        2        Perpendicular section inferior margin
+        3        Perpendicular section medial margin
+        4        Perpendicular section lateral margin
+        5        Perpendicular section of nipple in relation with tumor
+        6        Perpendicular section deep margin
+        7        Tumor in relation with nipple and skin
+        8&9      Hemorrhagic and necrotic area
+        10-13    Tumor
+        14&15    Mammary tissue
+
+E.      Received fresh and labeled "right breast (1 stitch superior, 2 lateral)" is a right radical modified mastectomy measuring
+        20.0 x 15.0 x 4.0 cm and weighs 622 grams. The skin is light tan ellipse measuring 16.0 x 14.0 cm. Areola measures 6.5
+        cm in maximum diameter. The nipple measures 1.5 cm in diameter. The specimen is oriented with one stitch at superior
+        and two stitches at lateral. The resection margin is inked in black. Sectioning reveals gray-tan, fibrocystic area measuring
+        7.0 x 7.0 x 3.0 cm, located at 1.0 cm from inferior surgical margin, at 2.0 cm from medial margin, at 3.0 cm from lateral
+        margin, at 3.5 cm from superior margin, at 0.5 cm from deep surgical margin and immediately beneath the nipple. Deep
+        fibrocystic area has multiple cysts up to 1.0 cm in maximum diameter. The cysts are filled by brown-tan chocolate and
+        green tan purulent material. Remainder of mammary tissue is gray-tan, fibrofatty tissue, unremarkable grossly. No other
+        suspicious lesions are identified grossly. Submitted in fifteen cassettes as follow:
+
+        1        Perpendicular section superior margin
+        2        Perpendicular section inferior margin
+        3        Perpendicular section medial margin
+        4        Perpendicular section lateral margin
+
+Page 4 of 5
+
+=================================== PAGE 5 ===================================
+SURGICAL PATHOL Report
+
+5          Bisected of nipple
+6          Perpendicular section deep margin
+7          Necrotic tissue
+8          Hemorrhagic necrotic area with deep surgical margin
+9-14       Fibrocystic and necrotic mammary tissue
+15         Unremarkable mammary tissue
+
+
+ICD-9(e):      174.8 233.0
+
+
+[Bottom right corner contains a table with handwritten entries, partially visible:]
+                                                    Yes    No
+Clerks
+Surgical Pathography
+Surgical Deep Slide Embedding
+SFAS Discrepancy
+Sup. At Ingesting Inquiry
+Sup at Assembly / DCI/SPT / ACFSP
+Case # [CNSNP]  \\\  QUALIFIED / QUALIFIED
+Autopsy BePApr         Date filled o[?]
+
+Page 5 of 5

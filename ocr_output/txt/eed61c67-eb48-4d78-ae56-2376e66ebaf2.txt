@@ -1,0 +1,285 @@
+=================================== PAGE 1 ===================================
+Surgical Pathology Report
+* Revised *
+
+Name:                                          Case #:
+DOB:                                           Collected:
+Gender:        F                               Received:
+MRN:                                           Reported:
+Location:                                      Copy To:
+Physician:
+
+Pathologic Interpretation:
+
+A. Left breast mastectomy (fresh) 1 - stitch superior / 2 - stitch lateral:
+   Infiltrating ductal adenocarcinoma, high nuclear grade (5.0 cm in greatest dimension).
+   Margins free of tumor
+   Florid adenosis and stroma fibrosis.
+   ER, PR and HER 2-new were ordered, addendum to follow.                    ICL-0-3
+
+B. Sentinel node #1- fs                                                      Carcinoma, medulling, NOS 8510/3
+   Lymph node, no malignancy seen.                                          S/P: breast, NOS  C50.9  3/2/11  /w
+   Keratin ordered, addendum to follow.
+
+C. Sentinel node #2- fs
+   Lymph node, no malignancy seen.                                          UUTD:79C8054A-9698-4375-BD96-A6EF3E26474B
+   Keratin ordered, addendum to follow.                                     TCGA-EN-A1PA-01A-PR  Redacted
+
+D. Sentinel node #3- fs
+   Lymph node, no malignancy seen.
+   Keratin ordered, addendum to follow.
+
+E. Left breast implant capsule short stich superior, long stich lateral:
+   Implant capsule.
+
+F. Left breast implant:
+   See gross description.
+
+Surgical Pathology Cancer Summary
+Macroscopic: Mastectomy
+Lymph node: Sentinel lymph node
+Specimen Size: Greatest dimension:19.0 cm/additional dimensions 18.5 x 2.3 cm
+Laterality: Left
+Tumor Site: Not specified
+Microscopic: Size of invasive component: Greatest dimension 5.0 cm/ additional dimensions: 2.0x3.0cm
+Histologic Type: Invasive ductal carcinoma
+Tubule Formation: Minimal less than 10% (score=3)
+Nuclear Pleomorphism: marked variation in size, nucleoli, chromatin clumping, etc (score=3)
+For a 40 x objective with a field area of 0.152 mm2: score 1
+Total Nottingham Score: Grade II: 6-7 points
+Lymph nodes (pN): Pending keratins
+Primary tumor: (pT3c) tumor more than 5.0 cm in greatest dimension
+Distant Metastasis (pMX): Cannot be assessed
+Margins uninvolved by invasive carcinoma/distance from closest margin: 0.1 cm deep
+Venous Lymphatic: Absent
+Microcalcifications: Not identified
+
+
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our CLIA Permo. H. pylon, HBsAg). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: ID5=CR, Agt c36=PR, A485=HER2, H-11=EGFR, CONFIRM=CMV, F3/4 s t-HAR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive or negative.
+
+***Electronically Signed Out By***
+
+, MD
+
+=================================== PAGE 2 ===================================
+SURGICAL PATHOL Report
+
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s) for the specimen(s); and (ii) Rendered the diagnosis(es).
+
+Amendments
+Amended:                    MD
+Reason: Diagnosis editing/clarification
+                Previous Signout Date:
+
+Procedures/Addenda
+Addendum                    Date Ordered:              Status: Signed Out
+                            Date Complete:
+                            Date Reported:
+
+Addendum Diagnosis
+
+A. Left breast mastectomy (fresh) 1 - stitch superior / 2 - stitch lateral:
+   Tumor is negative for ER, PR and HER 2.
+   HLA-DR ordered addendum
+
+B. Sentinel node #1- fs (
+   Keratin is negative for tumor.
+
+C. Sentinel node #2- fs
+   Keratin is negative for tumor.
+
+D. Sentinel node #3- fs
+   Keratin is negative for tumor.
+
+                            MD
+
+
+Addendum                    Date Ordered:              Status: Signed Out
+                            Date Complete:
+                            Date Reported:
+
+Addendum Diagnosis
+
+A. Tumor is positive for HLA-DR, which along with morphology supports a medullary subtype.
+
+                            , MD
+
+
+Intraoperative Consultation
+
+AFS.    Left breast mastectomy (fresh) 1 - stitch superior / 2 - stitch lateral:
+
+BFS.    Sentinel node #1- fs
+        One lymph node, no tumor seen.
+
+CFS.    Sentinel node #2- fs
+        One lymph node, no tumor seen.
+
+DFS.    Sentinel node #3- fs (
+        One lymph node, no tumor seen.
+
+Page 2 of 3
+
+=================================== PAGE 3 ===================================
+SURGICAL PATHOL Report
+
+MD
+
+Clinical History:
+
+Patient is a                    with breast cancer.
+
+Pre Operative Diagnosis:
+
+Breast cancer
+
+Specimen(s) Received:
+A: Left breast mastectomy (fresh) 1 - stitch superior / 2 - stitch lateral
+B: Sentinel node #1- fs (
+C: Sentinel node #2- fs
+D: sentinel node #3- fs c
+E: Left breast implant capsule shrot stitch superior, long stich lateral
+F. Left breast implant
+
+Gross Description:
+
+A.        Received fresh and labeled "left breast mastectomy (fresh) 1-stitch superior / 2 - stitch lateral" consists skin mastectomy
+weighs 380.0 grams and measure 19.0 x 18.5 x 2.3 cm. The areola complex measure 3.7 x 2.4 cm and it is grossly
+unremarkable with no areas indurations. Sectioning of the specimen a tumor located in the upper outer quadrant measure
+5.0 cm from superior to inferior, 2.0 cm from superficial to deep and 3.0 cm from medial to lateral. Tumor bi-fated 0.1 cm
+away from the deep margin. The tumor is well encapsulated and has lobulated appearance. The second ill-define area of
+fibrosia is present at the upper inner upper quadrant, 2.5 cm x 1.0 x 1.0 cm. The overall stroma to fat ratio is
+approximately 25.0% stroma. No other suspicious areas identified after serial sectioning. Sections submitted as follows.
+
+1           Sections of nipple
+2-4         Sections of the lesion in relation to the deep margin
+5           Sections of the lesion in relation to adjection fibrotic stroma
+6&7         Sections from the upper inner quadrant stroma with sixteen ill-defined areas described
+8&9         Sections from the lower inner quadrant stroma
+10&11       Sections from the upper outer quadrant stroma
+12&13       Sections from the lower outer quadrant stroma
+
+B.          Received fresh and labeled "sentinel node #1- fs        consists of a lymph node, 2.0 x 1.5 x 1.0 cm. Specimen bisected
+and submitted in toto in one cassette for frozen.
+
+C.          Received fresh and labeled "sentinel node #2- fs (      consists of a lymph node, 2.0 x 1.5 x 1.0 cm. Specimen
+bisected and submitted in toto in one cassette for frozen.
+
+D.          Received fresh and labeled "sentinel node #3- fs (      consists of a lymph node, 1.5 x 1.2 x 1.0 cm. Specimen
+bisected and submitted in toto in one cassette for frozen.
+
+E.          Received in formalin and labeled "left breast implant capsule short stitch suspicious, long stich lateral" consists of two
+pieces irregular shaped membrane tissue, 7.0 x 6.0 x 3.0 cm in aggregate. Representative sections submitted in two
+cassettes.
+
+F.          Received in formalin and labeled "left breast implant" consists of a breast prosthesis which weighs 1.97.0 grams and
+measure 10.0 cm in diameter by 3.5 cm. The following inscription is attachec                           Gross description
+only.
+
+
+ICD-9(s):    174.8
+
+
+Page 3 of 3
+
+=================================== PAGE 4 ===================================
+-- 53/60
+
+
+                                    Addendum
+
+
+Patient Name:                                         Accession #:
+Med. Rec. #:                                          Taken:
+DOB:                                                  Received:
+Gender:              F                                Reported:
+Billing #:                                            Client:
+Physician(s):
+                                                      Location:
+Copy To:                                              Service:
+
+Specimen(s) Received:
+A: Left breast mastectomy (fresh) 1 - stitch superior / 2 - stitch lateral
+B: Sentinel node #1- fs
+C: Sentinel node #2- fs ‹
+D: sentinel node #3- fs ‹
+E: Left breast implant capsule shrot stitch sueparior, long stitch lateral
+F: Left breast implant
+
+
+Date Ordered: 1
+Status: Signed Out
+
+Addendum Diagnosis
+
+A. Left breast mastectomy (fresh) 1 - stitch superior / 2 - stitch lateral:
+   Tumor is negative for ER, PR and HER 2.
+   HLA-DR ordered addendum
+
+B. Sentinel node #1- fs
+   Keratin is negative for tumor.
+
+C. Sentinel node #2- fs ‹
+   Keratin is negative for tumor.
+
+D. Sentinel node #3- fs
+   Keratin is negative for tumor.
+
+
+                                                      ***Electronically Signed Out***
+                                                                             , MD
+
+
+
+
+                                                      Page 1of 1 ‹
+
+=================================== PAGE 5 ===================================
+Addendum
+
+
+Patient Name:                                      Accession #:
+Med. Rec. #:                                       Taken:
+DOB:                                               Received:
+Gender:                                            Reported:
+Billing #:                                         Client:
+Physician(s):
+                                                   Location:
+Copy To:                                           Service:
+
+Specimen(s) Received:
+A: Left breast mastectomy (fresh) 1 - stitch superior / 2 - stitch lateral
+B: Sentinel node #1- fs
+C: Sentinel node #2- fs
+D: sentinel node #3- fs
+E: Left breast implant capsule shrot stich sueperior, long stich lateral
+F: Left breast implant
+
+
+Date Ordered:
+Status: Signed Out
+
+Addendum Diagnosis
+
+A. Tumor is positive for HLA-DR, which along with morphology supports a medullary subtype.
+
+
+                                                   ***Electronically Signed Out***
+                                                                            ,, MD
+
+
+
+
+                                                   Yes      No
+Criteria
+Syncytial architecture
+Stromal Lymphoplasmacytic Infiltracy
+IPAA Discrepancy
+L or Deli-history:
+Lymphoid Infiltrate
+see is (amb.):        Globuled  /  Porosity
+Reactive lymph node  No Received X
+                                         3/2074
+                                                   Page 1 of 1

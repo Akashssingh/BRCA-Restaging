@@ -1,0 +1,215 @@
+=================================== PAGE 1 ===================================
+Patient:                                          Referring Physician:
+                                                                        UID:SCFBSAF1-D237-43BC-89CD-C2A52ACF#A29
+                                                                        TCGA-AC-A2QF-01A-PR                Redacted
+                                                                        [BARCODE IMAGE]
+
+DOB:
+
+Ref#:                                            Patient Location:
+
+Date of Service:    Date Received:               Outpatient                             Cat
+                                                 Room:         Bed:                      Date Reported:
+
+                    A copy of this report will be faxed to:
+
+
+                        FINAL SURGICAL PATHOLOGY REPORT
+
+                                    Diagnosis:
+
+    A. -C) RIGHT BREAST WITH AXILLARY SENTINEL LYMPH NODES, MASTECTOMY
+    WITH SENTINEL LYMPH NODE BIOPSIES (X 2).
+        - Invasive lobular carcinoma (multicentric), Nottingham grade 2.
+            - Main tumor mass measures 57 mm in diameter.
+        - Lobular carcinoma in situ (LCIS), comprising less than 5% of tumor volume.
+        - Resection margins are free of tumor.
+            - Invasive tumor is focally present 2 mm from the deep (pectoralis fascia)
+            margin, and is at least 30 mm from all other margins.
+        - Metastatic carcinoma is present in two sentinel lymph nodes (2/2).
+            - Metastatic carcinoma is diffusely present throughout both lymph nodes.
+            - No extranodal extension is present.                    ICD-0-3
+                                                                     carcinoma, infiltrating /tubular NOS
+                                                                     8520/3
+    PATHOLOGIC TUMOR STAGING SYNOPSIS:                              Site: breast, NOS C50.9
+    Type and grade (invasive): Invasive lobular carcinoma, grade 2.           Jan 9/3/11
+    Type and grade (in situ): Lobular carcinoma in situ, nuclear grade 2.
+    Primary tumor: pT3.
+    Regional lymph nodes: pN1a.                                      Criteria              Yes      No
+    Distant metastasis: pMX.                                         Diagnostic Discrepancy                 X
+                                                                     Primary Tumor Size Uncertainty         X
+    Pathologic stage: IIIA.                                          HER-2 Discordance                      X
+                                                                     Tumor Size 5.0cm or Larger             X
+    Lymphovascular invasion: Present.                                Dual/Synchronous Primary Sugges        X
+                                                                     Gros by (circle):      INJURED    DISAGREE      
+    Margin status: Negative (R0).                                    Tested:   H/E  for 9/3/11
+
+    COMMENT: The main tumor mass measures 57 mm in diameter. The tumor cells
+    diffusely infiltrate a relatively discrete dense fibrous area in the central breast. A few
+    smaller foci of invasive lobular carcinoma and LCIS are present in representative
+    sections taken away from the main tumor mass, but the main tumor burden is in the
+    central breast. The pathology findings were telephoned to Dr.
+
+Case #:                                          Pathology Consultation Report                              Page 1
+Printed:                                         Phone                                   This report continues... (FINAL)
+
+=================================== PAGE 2 ===================================
+Patient:
+
+
+Case #:
+
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+
+                                                                                                Page 2
+Case #:                              Pathology Consultation Report                This report continues... (FINAL)
+Printed:                                       Phone:
+
+=================================== PAGE 3 ===================================
+Patient:
+
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Breast Invasive Tumor Staging Information
+(AJCC Cancer Staging Handbook, 7th Ed, and CAP protocol, Oct 2005). This staging also incorporates:
+Previous biopsy:
+Breast profile:
+
+Specimen type:                                                Total breast.
+Specimen procedure:                                           Mastectomy with sentinel lymph node biopsies x
+                                                              2.
+Lymph node sampling:                                          Sentinel lymph nodes.
+Specimen integrity:                                           Single intact specimen.
+Specimen laterality:                                          Right.
+Specimen size (other than mastectomy):                        17 x 12.5 x 2.5 cm.
+
+INVASIVE TUMOR FEATURES:
+            Invasive tumor size:                              57 mm.
+            Invasive tumor site:                              Central.
+            Invasive tumor focality:                          Multicentric (central, UOQ, LIQ, LOQ)
+            Histologic type:                                  Invasive lobular carcinoma.
+            Total Nottingham Grade:                           2 of 3 (intermediate grade).
+                Tubule formation:                             3 of 3.
+                Nuclear Pleomorphism:                         2 of 3.
+                Mitotic count for Nottingham:                 1 of 3.
+                    Mitotic count:                            Five mitoses in ten high power fields.
+
+            Lymphatic invasion:                               Present.
+
+MARGIN STATUS FOR INVASIVE COMPONENT:
+            Distance of tumor from margins:                   2 mm.
+            Closest margin:                                   Deep (bounded by pectoralis fascia).
+            Other margins:                                    Invasive carcinoma is at least 30 mm from all
+                                                              other margins.
+
+LOBULAR CARCINOMA (LCIS) FEATURES:
+            Extent:                                           LCIS present in association with invasive
+                                                              carcinoma, and in representative sections away
+                                                              from main tumor mass.
+
+            Nuclear grade:                                    Intermediate grade.
+            Necrosis:                                         Not present.
+            Calcifications:                                   Not present.
+
+=================================== PAGE 4 ===================================
+FINAL SURGICAL PATHOLOGY REPORT
+
+Margin status for LCIS component:
+Distance of in-situ from nearest margin:
+
+Negative.
+At least 10 mm.
+
+Skin:
+Nipple:
+Skeletal Muscle:
+
+Unremarkable.
+Unremarkable.
+No skeletal muscle present.
+
+INVASIVE PATHOLOGIC TUMOR STAGING (pTNM)
+Primary tumor (pT):
+Regional lymph nodes (pN):
+Distant metastasis (pM):
+
+pT3.
+pN1a.
+pMX.
+
+RECEPTOR STATUS AND HER2/NEU:
+Estrogen receptors:
+Progesterone receptors:
+Her2/neu:
+KI-67 proliferative index:
+
+POSITIVE (100% positive cells, strong intensity).
+Negative (less than 1% positive cells).
+Not overexpressed (IHC score 1+).
+12% positive cells.
+
+Signed by
+
+Source of Specimen:
+A. Right Axillary Sentinel Lymph Node
+B. Right Breast total mastectomy
+C. Sentinel lymph node, Right Axillary Sentinel Lymph Node
+
+Gross Description:
+A. The specimen is labeled right axillary sentinel lymph node #960 and is received in formalin. It consists of a 2.9 x 2.2 x 0.7 cm discoid lobulated portion of fatty tissue. On dissection a single 1.6 x 0.7 x 0.5 cm lymph node is recovered. The node is serially sectioned and entirely submitted in cassette A1.
+
+B. The specimen is labeled right breast and is received without fixative. It consists of a mastectomy specimen which weighs 232 grams. A suture marks the tail of the breast. With this orientation, the specimen measures 12.5 cm from superior to inferior, 17 cm from medial to lateral and 2.5 cm from superficial to deep. There is an overlying 15.5 x 7 cm ellipse of mottled tan to pale red skin. Medially and inferiorly within the skin is a 2.8 cm areola and a slightly retracted appearing 0.8 cm nipple. The skin is bulging but otherwise unremarkable. The anterior-superior margin is inked blue, the anterior-inferior margin is inked green, and the posterior margin, which consists of smooth fascial tissue is inked black. The breast is serially sectioned at close intervals to reveal a central firm and relatively well circumscribed area of fibrous breast parenchyma. This fibrous parenchyma overall measures 5.7 cm from medial to lateral, 2.5 cm from superior to inferior, and 1.7 cm from superficial to deep. The fibrous tissue is separated from the deep margin by a thin layer of movable fascial tissue. The fibrous breast parenchyma is 3 cm from the
+
+Page 4
+Case #:                                    Pathology Consultation Report                                    This report continues... (FINAL)
+Printed:                                    Phone:
+
+=================================== PAGE 5 ===================================
+Patient:
+
+Case #:
+
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+inferior margin, 3 cm from the superior margin, 4 cm from the medial margin, and 6 cm from the lateral
+margin. It is 1 cm from the closest skin and abuts the fascial margin of the posterior breast centrally.
+Representative samples of this tissue are obtained for research purposes. Sections of this fibrous breast
+tissue reveal a central and inferiorly located area of hemorrhage with a twisted biopsy site clip. The
+remainder of the breast is composed predominantly of fatty tissue but rubbery fibrous parenchyma extends
+to the lower-outer quadrant. There are no obvious lymph nodes in the tail of the breast. Representative
+sections are submitted. Section summary:
+B1) nipple and tissue just deep to nipple,
+B2) central deep margin (fascial tissue),
+B3) medial edge of central fibrous tissue,
+B4) superior edge of central mass,
+B5) inferior portion of central mass (biopsy site clip here),
+B6-B7) additional central sections of tumor (B6 has deep margin),
+B8) lateral edge of fibrous mass,
+B9) representative sections upper-inner quadrant,
+B10) representative sections lower-inner quadrant,
+B11) representative sections upper-outer quadrant,
+B12) representative sections lower-outer quadrant.
+
+C. The specimen is labeled right axillary level two sentinel lymph node      and is received in formalin.
+It consists of a 0.9 x 0.6 x 0.5 cm tan lymph node with a small amount of adherent adipose tissue. The
+specimen is serially sectioned and entirely submitted in cassette C1.
+
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+
+B. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+
+C. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+
+
+Case #:                                    Pathology Consultation Report                                    Page 5
+Printed:                                                                                      REPRINT: Orig. printing on
+                                              Phone

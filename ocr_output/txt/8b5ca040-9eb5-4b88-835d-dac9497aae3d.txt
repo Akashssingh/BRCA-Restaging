@@ -1,0 +1,48 @@
+=================================== PAGE 1 ===================================
+TSS Patient ID: .
+
+Case #:        DOB:        Sex: Female  Ethnicity (Race):
+
+Cancer Sample
+
+Diagnosis: Breast Cancer  Histological description: Infiltrative ductal carcinoma
+
+Date of Procurement          I  Anatomic Site: Right Breast  Tumor location: Primary
+
+Tissue Specification: Tumor  Specimen Matrix: Tissue  Specimen Format: OCT
+
+Container: block  Type of Procurement: surgery  Grade: 2
+
+T Stage: 2  N Stage: 1  M Stage: 0  Treatment: none
+
+Treatment Details: n/a
+
+Normal Sample
+
+Anatomic Site: Blood  Sample Type: Normal  Type of Procurement: blood draw
+
+Matrix: Blood  Specimen Format: frozen  Container: tube
+
+Date of Procurement:
+
+
+                                    ICD-0-3
+            carcinoma, infiltrating duct, NOS  8500/3
+            Site: breast, NOS  C50.9    AJ
+                                        10/21/11
+
+
+                            UUID:5F626A86-EE85-4085-07C5-5E4BD9FA7730
+                            TCGA-AN-A0XV-01A-PR                    Redacted
+                            [BARCODE IMAGE]
+
+
+                            Criteria                             Yes    No
+                            Informed Consent
+                            Primary Tumor Bx Discrepancy                X
+                            HIPAA Discrepancy                           X
+                            Prior Malignancy History                    X
+                            Contraindications Protocols
+                            Quality Metrics     [REDACTED]    DISQUALIFIED
+                            Reviewer Initials [SIGNATURE]  Date Reviewed  [SIGNATURE]
+                                              AJ  10/21/11

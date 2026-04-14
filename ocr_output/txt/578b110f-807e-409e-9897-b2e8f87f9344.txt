@@ -1,0 +1,251 @@
+=================================== PAGE 1 ===================================
+Patient:                                    Referring Physician:                 WUID:38732451-A8BE-E7B1-16CC-A3B593A855CE
+                                                                                 IC6A-AC-A3M7-B1A-RH
+                                                                                 [BARCODE IMAGE]            Redacted
+                                                                                                           Account
+DOB:                    Age:                Gender:
+
+Ref#:                   Hosp#:                                  Provider Group:
+
+Date of Service:        Date Received:                          Outpatient                              Case #:
+                                                                Room:                                   Date Reported:
+
+                        A copy of this report will be faxed to:
+
+
+                        FINAL SURGICAL PATHOLOGY REPORT
+
+                                    Diagnosis:
+
+A. - B.) BREAST, AXILLARY LYMPH NODE, RIGHT, MASTECTOMY AND
+SENTINEL LYMPH NODE BIOPSY (400):
+   - Invasive lobular carcinoma, grade 1.
+      - Multifocal, 40 mm, 14 mm and 5 mm in greatest dimension.
+   - Lobular carcinoma in situ (LCIS).
+   - Surgical margins negative.
+   - One of two lymph nodes, POSITIVE metastatic carcinoma (1/2).
+      - Largest focus in lymph node: 2.5 mm             ICD-9-3
+      - No extracapsular extension identified.          Carcinoma, lobular, infiltrating
+                                                         Site: breast, NOS            8520/3
+C. BREAST, LEFT, MASTECTOMY:                                                         C50.9
+   - Sclerosing adenosis, usual ductal hyperplasia, columnar cell change and        G1-IZ
+     apocrine metaplasia.                                                            R-D
+   - No atypical hyperplasia or carcinoma identified.
+
+PATHOLOGIC TUMOR STAGING SYNOPSIS (RIGHT BREAST):
+   Type and grade (invasive): Invasive lobular carcinoma, grade 1.
+   Type and grade (in situ): Lobular carcinoma in situ (LCIS).
+   Primary tumor: pT2.
+   Regional lymph nodes: pN1a (1 of 2 lymph nodes POSITIVE).
+   Distant metastasis: N/A.
+   Pathologic stage: IIB.
+   Lymphovascular invasion: Not identified.
+   Margin status: R0, negative, all margins 20 mm or greater.
+                                                                                     [TABLE WITH CHECKMARKS]
+Breast Invasive Tumor Stag    Information                                           Yes    No
+(AJCC Cancer Staging Handbook,        Ed, and          protocol.
+This staging also incorporates:
+Previous biopsy:
+Breast profile:
+
+
+Case #:                                                                              Page 1
+Printed:                                                    This report continues... (FINAL)
+                        Phone:
+
+
+            MR No. -                        ect No. -                Patient Name -
+Pathology Report - Page 1/5                                                          Page 1
+
+=================================== PAGE 2 ===================================
+Case #:
+
+Specimen type:                                          Total breast.
+Specimen procedure:                                     Total mastectomy.
+Lymph node sampling:                                    Sentinel lymph nodes.
+Specimen integrity:                                     Single intact specimen.
+Specimen laterality:                                    Right.
+Specimen size (other than mastectomy):                  N/A.
+
+INVASIVE TUMOR FEATURES:
+    Invasive tumor size:                                40 mm, 14 mm, 5 mm.
+    Invasive tumor site:                                10:30.
+    Invasive tumor focality:                            Multiple foci.
+    Histologic type:                                    Invasive lobular carcinoma.
+    Total Nottingham Grade:                             Grade 1, cumulative score 5 of 9.
+        Tubule formation:                               Less than 10%, 3 of 3.
+        Nuclear Pleomorphism:                           Low-grade, 1 of 3.
+        Mitotic count for Nottingham:                   Low, 1 of 3.
+            Mitotic count:                              2 per 10 high power field.
+    Other Grading System:                               N/A.
+    Lymphatic invasion:                                 Not identified.
+
+MARGIN STATUS FOR INVASIVE COMPONENT:                   R0, negative.
+    Distance of tumor from margins:
+    Closest margin:                                     All margins 20 mm or greater.
+    Other margins:                                      N/A.
+
+DUCTAL CARCINOMA IN-SITU (DCIS):                       Not identified.
+LOBULAR CARCINOMA IN-SITU (LCIS):                      Present.
+
+Skin:                                                   Present, not involved.
+Nipple:                                                 Present, not involved.
+Skeletal Muscle:                                        Not identified.
+LYMPH NODES:                                            1 of 2 lymph nodes positive, 2.5 mm focus, no
+                                                        extracapsular extension identified.
+
+INVASIVE PATHOLOGIC TUMOR STAGING (pTNM)
+    Primary tumor (pT):                                 pT2.
+    Regional lymph nodes (pN):                          pN1a (1 of 2 lymph nodes positive).
+    Distant metastasis (pM):                            N/A.
+    Pathologic stage:                                   IIB.
+
+
+RECEPTOR STATUS AND HER2/NEU:
+    Estrogen receptors:                                 POSITIVE (99-100% positive cells, strong
+                                                        intensity).
+    Progesterone receptors:                             Negative (0% positive cells).
+    Her2/neu:                                           Negative (0, scale 0-3+).
+    Ki-67 proliferative index:                          Intermediate (11% positive cells).
+
+
+Case #                                                                                          Page 2
+Printed:                                Phone:                                  This report continues. (FINAL)
+
+
+MR No.                  Acct No. -                      Patient Name -                          3
+Pathology Report - Page 2/5
+
+=================================== PAGE 3 ===================================
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Comment:                                                                                              The touch preparation of the sentinel lymph
+                                                                                                      node biopsy was review and no evidence of
+                                                                                                      metastatic carcinoma is identified.
+
+Additional pathologic findings:                                                                       Usual ductal hyperplasia, columnar cell change
+                                                                                                      and apocrine metaplasia.
+
+
+
+
+
+
+
+
+
+
+                                                                                                      Signed by
+
+
+Source of Specimen:
+A. Sentinel lymph node,right sentinel node axillary
+B. Breast,right breast
+C. Breast,left breast
+
+Clinical History/Operative Dx:
+Right/left breast cancer.
+
+Intraoperative Diagnosis:
+A. Right sentinel node axillary            : No tumor cells identified. (Dr.           ). The intraoperative
+interpretation(s) was/were performed and rendered at
+
+Gross Description:
+A. The specimen is labeled right sentinel node axillary          and is received without fixative. It consists of
+two lymph nodes measuring 1 x 0.7 x 0.7 cm and 1.5 x u.a x 0.4 cm. Both nodes are serially sectioned
+and touch imprints are obtained. The larger node is submitted for permanent section in cassettes A1-A2.
+The smaller node is submitted for permanent section in cassette A3.
+
+Case #                                                                                                Page 3
+Printed:                                                                                              This report continues.  (FINAL)
+                                             Phone:
+
+        MR No. -                             Acct No. -                     Patient Name -
+Pathology Report - Page 3/5                                                                           Page 3
+
+=================================== PAGE 4 ===================================
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+B. The specimen is labeled right breast tissue and is received without fixative. It consists of a mastectomy specimen which weighs 381 grams. A black suture at one end of the skin ellipse marks medial. With this orientation, the specimen measures 15 cm from medial to lateral, 11 cm from superior to inferior, and 4 cm from anterior to posterior. There is an overlying ellipse of tan skin measuring 11.8 x 7 cm. The areola measures 3.3 cm and the nipple appears slightly inverted. The anterior-superior margin is inked blue, the anterior-inferior margin is inked green, and the posterior margin, which consists variably of smooth facial appearing tissue and lobulated fatty tissue, is inked black. The breast is serially sectioned along the superior-inferior axis resulting in fifteen slabs. Slab #1 is most medial.
+
+In the central portion of the excision, in slabs 6-9, there is a stellate hard, gritty neoplasm (tumor #1) which overall measures 4 cm from medial to lateral, 1.2 cm from superior to inferior, and 1 cm from anterior to posterior. This neoplasm is 1.5 cm from the closest skin. It is 2 cm from the closest anterior-superior margin and is greater than 4 cm from all other margins. Representative sections of the medial portion of the tissue are obtained for research purposes and the biopsy site and identified within the neoplasm in slab 7. Slab 10 (intervening tissue between tumor #1 and tumors #2 and #3) consists of palpably unremarkable fibrofatty tissue.
+
+In slab 11, 1 cm lateral to the tumor #1, there is chalky yellow discoloration and slight retraction of the fibrofatty tissue suggestive of two small deposits of neoplastic tissue. The larger of these (tumor #2) is 8 cm lateral to the nipple. It measures 1.4 x 1 x 0.8 cm and is greater than 2 cm from the anterior-superior, anterior-inferior, and posterior margins. It is 2.3 cm from the closest lateral margin and widely free of the medial margin.
+
+The smaller tumor deposit (tumor #3) measures 0.5 cm and is 0.8 cm superior of the larger deposit in slab 11. It is 2 cm from the closest anterior-superior margin and greater than 2 cm from all other margins. No other palpable lesions are identified. No lymph nodes are identified within the lateral portion of the excision. Representative sections are submitted.
+
+Section summary:
+B1) nipple and tissue just deep to nipple,
+B2) medial edge of tumor #1 from slab 6,
+B3) anterior-superior margin (tumor #1), slab 6,
+B4) central sections of tumor #1 from slab 7 (biopsy site clip here),
+B5) anterior-inferior margin (tumor #1) from slab 7,
+B6) tumor #1 from slab 8 including closest anterior-superior margin,
+B7) lateral section of tumor #1 from slab 8,
+B8) representative section from slab 10 intervening tissue between tumor #1 and tumors #2 and #3,
+B9) complete cross-section, slab 11, tumor #2 and #3,
+B10) section of tumor #2 in slab 12,
+B11) representative upper inner quadrant (slabs 2, 3, 4),
+B12) representative lower inner quadrant (slabs 3, 4, 5),
+B13) representative lower outer quadrant (slabs 9 and 10).
+
+C. The specimen is labeled left breast tissue and is received in formalin. It consists of a mastectomy specimen weighing 341 grams. A black suture at one end of the skin ellipse marks medial. With this
+
+Case #                                                                                                                           Page 4
+Printed:                                                            Phone:                                           This report continues... (FINAL)
+
+
+MR No. -                                    Acct No.                                    Patient Name
+Pathology Report - Page 4/5                                                                                                *) - Page 4
+
+=================================== PAGE 5 ===================================
+Patient:
+
+Case #:
+
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+orientation, the specimen measures 15.5 cm from medial to lateral, 11 cm from superior to inferior, and
+5.5 cm from superficial to deep. There is an overlying broad ellipse of tan skin which measures 12 x 7 cm.
+In the lateral skin, there is a 0.4 cm violaceous skin lesion. Centrally, there is a well-delineated 4 cm
+areola and a flat to slightly retracted appearing 1 cm nipple. The anterior-superior margin is inked blue,
+the anterior-inferior margin is inked green, and the posterior margin, which consists of lobulated fatty
+tissue, with central fascial appearing tissue, is inked black. The specimen is serially sectioned at close
+intervals to reveal lobulated fatty tissue and scattered tan-white fibrous parenchyma which is most
+prominent centrally. The fibrous parenchyma is focally finely nodular to palpation but there are no
+discrete areas suggestive of invasive neoplasm. There are scattered small fluid-filled cysts within the
+fibrous parenchyma. No lymph nodes are identified within the lateral portion of the excision.
+Representative sections are submitted. Section summary:
+C1) nipple and tissue just deep to nipple,
+C2) lateral skin lesion,
+C3) representative upper inner quadrant,
+C4) representative lower inner quadrant,
+C5) representative upper outer quadrant,
+C6) representative lower outer quadrant,
+C7-C8) sections of central breast including central deep margin
+
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered. Immunohistochemistry was performed with adequate control and shows positive staining for
+metastatic tumor cells in one lymph node.
+
+B. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+
+C. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+
+Dr.                notified of results on               at
+
+
+Case #                                                    1                                                    Page 5
+Printed:                                              Phone:                                    END OF REPORT (FINAL)
+
+
+            MR No.                           Acct No. -                          Patient Name - I
+Pathology Report - Page 5/5                                                                              Page 5

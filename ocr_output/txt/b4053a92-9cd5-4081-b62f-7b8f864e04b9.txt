@@ -1,0 +1,169 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+Carcinoma, infiltrating ductal NOS 8500/3
+Site: breast NOS C50.9    /59/1
+
+D#:
+
+Pathology Form
+
+Specimen Information
+
+Collected by: ______  _____ ____  ____  Date ___  Time: ___
+Preserved by: ______  _____ ____  ____  Date ___  Time: ___
+
+SPECIMEN TYPE (# of samples provided)
+                    Frozen              Paraffin Block           Blood/Serum/Plasma        Slide
+          Diseased    Normal    Diseased    Normal    Diseased    Normal    Diseased    Normal
+             4          2          4          2                                4          2
+          Time to LN2           Time to Formalin              Time to LN2
+             /          min         /4        min                    min
+
+PATHOLOGICAL DESCRIPTION
+                                        Primary Tumor
+              Organ                  Size           Extension of Tumor    Distance to NAT
+         Breast Tumor            4 x 3 x 2cm                                   6        cm
+                                    Lymph Nodes
+            Location                    # Examined              # Metastasized
+
+
+
+
+                                Distant Metastasis
+              Organ                  Detailed Location                    Size
+
+
+
+
+                                Pathological Staging
+                        pT 2    N 1    M 0         Stage:  II
+Notes:
+                        Breast nodes 3 (positive 1
+                                      negative 2
+                        Breast nodes (2 used in nitrogen
+                                      2 slides.)
+
+UUID:7045ECC0-7203-4AD3-A6C6-4F8C0914EAA1
+TCGA-CB-A13S-01A-PR                              Redacted
+
+[BARCODE]
+
+4
+
+[THIS IS TABLE: Bottom right corner shows a small table with checkboxes/marks for various items including Original, Diagnosis Discrepancy, Diagnosis Under-File Discrepancy, HIPAA Discrepancy, Prior Malignancy History, No Report, and CAP/NAACCR fields]
+
+=================================== PAGE 2 ===================================
+D#:
+
+Microscopic Description
+
+[THIS IS TABLE: Histological Pattern table with following sections:]
+
+Cell Distribution         +    -        Structural Pattern           +    -
+Diffuse                  ✓              Streaming
+Mosaic                                  Storiform
+Necrosis                                Fibrosis
+Lymphocytic Infiltration  ✓              Palisading
+Vascular Invasion                       Cystic Degeneration
+Clusterized                             Bleeding
+Alveolar Formation                      Myxoid Change
+Indian File                             Psammoma/Calcification
+
+Cellular Differentiation
+
+Squamous      +  -    Adenomatous     +  -    Sarcomatous    +  -    Lymphomatous   +  -
+Squamoid Cell          Glandular cell   ✓      Round Cell             Large Cell
+Spindle Cell           Cell Stratification     Fibroblast              Small Cell
+Keratin                Secretion                Osteoblast              RS Cell/RS Like
+Desmosome              Intracyt. Vacuole        Lipoblast               Inflam. Cell
+Pearl                  Gland formation   ✓      Myoblast                Plasma Cell
+
+Cellular Differentiation:        Well        Moderate ✓      Poor
+
+Nuclear Appearance
+
+Nuclear Atypia:                                 0           I          II         III
+Aniso Nucleosis                                            ✓
+Hyperchromatism                                                        ✓
+Nucleolar Prominent                                                    ✓
+Multinucleated Giant Cell                                              ✓
+Mitotic Activity                                                       ✓
+
+Nuclear Grade:
+
+[THIS IS TABLE: IHC Data table:]
+Marker              Result                      Value          Date
+ER                  □ Negative  □ Positive
+PR                  □ Negative  □ Positive
+Her-2/neu           □ Negative  □ Positive
+B-Cell Marker       □ Negative  □ Positive
+T-Cell Marker       □ Negative  □ Positive
+Other:              □ Negative  □ Positive
+Other:              □ Negative  □ Positive
+
+Final Pathology Report
+
+Histological Diagnosis: infiltrating duct carcinoma
+                       moderately differentiated                    Grade: II
+
+Comments:
+
+
+Principal Investigator          Pathologist                    Date
+
+5
+
+=================================== PAGE 3 ===================================
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+
+Microscopic Appearance:
+
+1. Histological pattern:
+
+[THIS IS TABLE: Cell Distribution and Structural Pattern]
+                          CELL DISTRIBUTION               STRUCTURAL PATTERN
+Diffuse                        +    -                                      +    -
+Mosaic                              A    Streaming
+Necrosis                            √    Storiform
+Lymphocytic Infiltration            <    Fibrosis
+Vascular Invasion                   ✓    Palisading
+Clustered                           ✓    Cystic Degeneration
+Alveolar Formation                  &    Bleeding
+Indian File                              ✓    Myxoid Change
+                                    ✗    Psammoma/Calcification
+
+2. Cellular features:
+
+Squamous        +    -    Adenomatous      +    -    Sarcomatous      +    -    Lymphomatous    +    -
+Squamous Cell              Tubular cell           √    Round Cell              Large Cell
+Spindle Cell               Cell Ossification      ✗    Fibroblast              Small Cell
+Keratin                    Secretion             ✗    Osteoblast              RS Cell/RS Like
+Desmosome                  Intracyt. Vacuole     √    Lipoblast               Inflam. Cell
+Pearl                      Gland formation        √    Myoblast                Plasma Cell
+
+Otherwise Specified:
+    CaB.p.Da    D₁ 70%₁ D₂ 70%₂ D₃ 70%₃ D₄ 80%₄
+
+2. Cellular Differentiation:
+        Well         Moderately         Poor
+                                         ✗
+
+3. Nuclear Atypia:
+
+Nuclear Appearance                                                      0    I    II   III
+Aniso Nucleosis                                                                        ✓
+Hyperchromatism                                                                        ✓
+Nucleolar Prominent                                                                    √
+Multinucleated Giant Cell                                                             ✓
+Mitotic Activity                                                                       ✓
+                          Nuclear Grade                                               ✓
+
+Histological Diagnosis: Infilting Ductal Carcinoma, NST, G-3
+
+Comments: M₁, M₂: Carcinoma metastasized to LNs.
+
+
+                                                                        Date
+
+
+INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND    PATHOLOGIST STAFF FOR RESEARCH USE ONLY.

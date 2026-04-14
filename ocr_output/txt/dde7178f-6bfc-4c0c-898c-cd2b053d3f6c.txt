@@ -1,0 +1,161 @@
+=================================== PAGE 1 ===================================
+TSS:                                                    106-0-3
+                                                        Cacinoma, infiltrating ductal NOS
+                                                        8500/3
+SPECIMENS:                                              P.M. Site: breast upper inner     9/15/11  be
+A. NON-SENTINEL NODES RIGHT AXILLA                      quadrant
+B. RIGHT BREAST                                         C 50 2
+
+SPECIMEN(S):                                            C&CF Site: breast NOS  C50 9
+A. NON-SENTINEL NODES RIGHT AXILLA
+B. RIGHT BREAST
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+    TPA: Lymph nodes, right axillary non-sentinel, biopsy: Two lymph nodes positive for carcinoma on
+    tough prep.
+    By Dr. called to Dr.
+
+GROSS DESCRIPTION:
+    A. NON-SENTINEL NODES RIGHT AXILLA
+    Received fresh and labeled with the patient name designated "A – non-sentinel nodes right axilla", are 2
+    portions of fibroadipose tissue demonstrating 2 presumptive palpable lymph nodes; one lymph node
+    measures 3.5 x 1.2 x 0.8 cm, the second measures 2.0 x 1.2 x 0.7 cm. Both nodes are bisected.
+    Touch prep performed. One lymph node is submitted in cassette A1 and the second is submitted in
+    cassette A2.
+
+    B. RIGHT BREAST
+    Received fresh and labeled with the patient name designated "B – right breast", is a resected
+    mastectomy specimen weighing 1,383 grams and measuring 29.5 x 22.0 x 4.0 cm. The attached
+    axillary tail measures 13.0 x 7.2 x 1.5 cm. A suture indicates the axillary region. The posterior margin
+    is inked black. The white-beige ellipse of overlying skin measures 21.8 x 11.0. The light beige areola
+    measures 3.5 cm in diameter. The inverted nipple measures 1.0 cm in diameter. The surface of the
+    skin is dense and wrinkled. The specimen is serially sectioned from medial to lateral. Cut section
+    shows two firm beige distinct lesions; the larger lesion is located in the lower inner quadrant in the
+    subareolar region and measures 3.6 x 2.2 x 1.5 cm located 4.4 cm from the smaller lesion. The smaller
+    lesion is firm present in the upper inner quadrant measuring 1.0 x 0.9 x 0.8 cm. The larger lesion is 5.1
+    cm from the deep margin. The smaller lesion approaches the deep margin at a distance of 2.0 cm. The
+    remainder of the specimen shows dark yellow lobulated adipose tissue. Many firm lymph nodes are
+    demonstrated in the axillary tail ranging in size from 0.5 x 0.5 x 0.4 cm up to 2.5 x 2.0 x 1.0 cm. A
+    portion of the specimen is submitted for tissue procurement. Representative sections are submitted as
+    follows:
+        B1-B2: The smaller lesion submitted entirely with overlying deep margin
+        B3-B9: Sections from the larger lesion
+        B10: Margin overlying the larger lesion
+        B11-B13: Sections of nipple
+        B14: Section of skin adjacent to nipple
+        B15: Additional section of skin
+        B16-B17: Representative sections upper outer quadrant
+        B18-B19: Representative sections lower outer quadrant
+        B20: Additional section upper inner quadrant
+        B21-B22: One bisected lymph node
+        B23: One-half of one bisected lymph node
+        B24: One bisected lymph node
+        B25: Three possible lymph nodes
+        B26: Three possible lymph nodes                 UUID:43E3E8C1-D18A-4857-B3F8-F6497AC8A
+        B27: Four possible lymph nodes                  TCGA-E2-A1LL-01A-PR                 Redacted
+        B28: Four possible lymph nodes                  [BARCODE]
+        B29: Four possible lymph nodes
+        B30: One lymph node
+        B31: One lymph node
+        B32: One lymph node
+
+DIAGNOSIS:
+    A. LYMPH NODE, NON-SENTINEL, RIGHT AXILLA, BIOPSY:
+    - METASTATIC CARCINOMA TO TWO OF TWO LYMPH NODES (2/2),
+    MEASURING 2-CM, WITH EXTRANODAL EXTENSION.
+
+=================================== PAGE 2 ===================================
+TSS:
+
+B. BREAST, RIGHT, MASTECTOMY AND AXILLARY NODE DISSECTION:
+- MULTIFOCAL, INVASIVE, DUCTAL CARCINOMA, SBR GRADE 3, LARGEST
+MEASURING 3.6-CM, PRESENT IN THE LOWER INNER AND UPPER INNER
+QUADRANTS AND INVOLVES NIPPLE AND ADJACENT SKIN
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- EXTENSIVE LYMPHOVASCULAR INVASION IDENTIFIED
+- METASTATIC CARCINOMA TO TWENTY FIVE OF TWENTY SIX LYMPH
+NODES (25/26), LARGEST MEASURING 2.1-CM, WITH EXTENSIVE
+EXTRANODAL EXTENSION
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+
+NOTE: Breast biomarkers have been ordered and addendum report to follow.
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:      Mastectomy
+Needle Localization: No
+Laterality:    Right
+Invasive Tumor:    Present
+Mutlifocality: Yes
+Tumor size: 3.6cm
+Tumor Site: Upper inner quadrant
+Lower inner quadrant and nipple and adjacent skin
+Margins:    Negative
+Tubular Score:         3
+Nuclear Grade:         3
+Mitotic Score:         3
+Modified Scarff Bloom Richardson Grade:      3
+Necrosis:    Absent
+Vascular/Lymphatic Invasion: Present
+Extent:      extensive
+Lobular neoplasia:    None
+Lymph nodes:     Axillary dissection
+Lymph node status: Positive 27 / 28 Extranodal extension
+___________________________________________
+DCIS not present
+___________________________________________
+ER/PR/HER2 Results
+ER: Pending
+PR: Pending
+HER2: Pending
+___________________________________________
+Pathological staging (pTN):    pT 2 N 3a
+
+
+CLINICAL HISTORY:
+A    -year-old Caucasian female post menopausal abnormal mammogram. Biopsy showed an
+adenocarcinoma, ER/PR-, Her2+, 2 masses at right breast seen. One at 12 o'clock position subareolar,
+2nd mass at 1 o'clock posterior to 1st mass (3.0 cm).
+
+PRE-OPERATIVE DIAGNOSIS:
+Infiltrating adenocarcinoma
+
+ADDENDUM:
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:        B4
+___________________________________________
+ER: Negative Allred Score: 0 = Proportion Score 0 + Intensity Score 0
+PR: Negative Allred Score: 0 = Proportion Score 0 + Intensity Score 0
+
+=================================== PAGE 3 ===================================
+TSS:
+
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring range from 0 to 8.
+
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours. Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR 136, 1:100) provided by                                    following the manufacturer s instructions. This assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published results in the medical literature, information provided by the reagent manufacturer and by internal review of staining performance.
+
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen:    Surgical Excision
+Block Number:        B4
+
+Interpretation:       POSITIVE
+Intensity:     3+
+% Tumor Staining:     90%
+Fish Ordered:         No
+
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours. Her2 analysis was performed using the FDA approved         HercepTest (TM) test kit
+                using rabbit anti-human HER2. This assay was not modified. External kit-slides provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of the HER2 immunohistochemical stain is guided by published results in the medical literature, information provided by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. Pathology Department takes full responsibility for this test's performance.
+
+Gross Dictation: Pathologist.
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist.
+Final: Pathologist.
+Addendum: Pathologist.
+Addendum Final: Pathologist'
+
+[THIS IS TABLE: A criteria table with columns for Yes and No, with rows for various diagnostic criteria including Diagnosis Discrepancy, Primary Tumor Site Discrepancy, HIPAA Discrepancy, Histologic Tumor Type Vary, Dead/Synchronized Patient W/Dead, Case is Deleted, and Specimen Details. Most entries appear to have handwritten marks or checkmarks.]

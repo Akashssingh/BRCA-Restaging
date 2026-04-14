@@ -1,0 +1,231 @@
+=================================== PAGE 1 ===================================
+Criteria       No 5/2/11                Yes        No
+                                                                    Second Diagnosis
+                                                                    Primary Surgical Path in registry
+                                                                    HIPAA Consent Form in registry
+                                                                    Prior Malignancy History
+                                                                    Date Accessioned/Date Reported    Filtered
+                                                                    Submitting Facility  QUALIFIED    DISQUALIFIED
+                                                                    Saunger Kitteb       Date Reviewed 6/13/11
+                                                                    ity
+
+ICA-0-2
+carcinoma, infiltrating duct, nos 8500/3
+Site: breast, nos  C509
+
+5/21/11
+
+A) LEFT BREAST, TOTAL MASTECTOMY:
+   INVASIVE DUCTAL CARCINOMA, MODIFIED BLACK'S NUCLEAR GRADE 3
+   (POORLY DIFFERENTIATED). (SEE COMMENT)
+   DUCTAL CARCINOMA IN SITU (DCIS), MODIFIED BLACK'S NUCLEAR GRADE 3
+   (HIGH GRADE), SOLID AND CRIBRIFORM PATTERNS WITH COMEDONECROSIS.
+   INVASIVE CARCINOMA MEASURES 1.2 X 1.0 X 1.0 CM.
+   MARGINS WIDELY FREE, INVASIVE CARCINOMA IS PRESENT 2.2 CM FROM
+   CLOSEST INFERIOR MARGIN.
+   No lymphovascular identified.
+   Nipple, no tumor present.
+
+(B) LEFT AXILLARY SENTINEL LYMPH NODE #1, EXCISIONAL BIOPSY:
+    One lymph node, no tumor present (0/1).
+    Immunohistochemistry for cytokeratin is negative for carcinoma.
+
+(C) LEFT AXILLARY SENTINEL LYMPH NODE #2, EXCISIONAL BIOPSY:
+    One lymph node, no tumor present (0/1).
+    Immunohistochemistry for cytokeratin is negative for carcinoma.
+
+(D) RIGHT BREAST, TOTAL MASTECTOMY:
+    INVASIVE DUCTAL CARCINOMA, MODIFIED BLACK'S NUCLEAR GRADE 3
+    (POORLY DIFFERENTIATED). (SEE COMMENT)
+    DUCTAL CARCINOMA IN SITU (DCIS), MODIFIED BLACK'S NUCLEAR GRADE 3
+    (HIGH GRADE), SOLID CRIBRIFORM PATTERNS WITH COMEDONECROSIS AND
+    MICROCALCIFICATIONS.
+    INVASIVE CARCINOMA MEASURES 1.4 CM IN GREATEST SLIDE DIMENSION.
+    DCIS PRESENT 0.35 CM FROM LATERAL ANTERIOR MARGIN.
+    INVASIVE CARCINOMA IS PRESENT 0.4 CM FROM LATERAL ANTERIOR MARGIN.
+    FOCAL LYMPHOVASCULAR INVASION PRESENT.
+    Nipple, no tumor present.
+
+(E) RIGHT SENTINEL LYMPH NODE #1, EXCISIONAL BIOPSY:
+    One lymph node, no tumor present (0/1).
+    Immunohistochemistry for cytokeratin are negative for carcinoma.
+
+(F) RIGHT SENTINEL LYMPH NODE #2, EXCISIONAL BIOPSY:
+    One lymph node, no tumor present (0/1).
+    Immunohistochemistry for cytokeratin are negative for carcinoma.
+
+
+Entire report and diagnosis completed by
+
+COMMENT
+
+In specimen A, LEFT BREAST, the invasive carcinoma has areas of lymphocytic infiltration but
+also has infiltrating borders. Immunohistochemical studies demonstrate that the invasive
+carcinoma is positive for CK903, CK5/6 and vimentin.
+
+This report is issued to give immunohistochemistry results. Immunohistochemical staining is
+performed on a representative formalin-fixed, paraffin-embedded section of INVASIVE DUCTAL
+CARCINOMA, left breast, block A3.
+
+MARKER                        RESULTS                    % POSITIVE  SCORE
+
+Estrogen Receptor            Low Positive (1-9%)         1 %         N/A
+
+Progesterone Receptor        Negative                    0 %         N/A
+
+HER-2/neuoverexpression Negative                         0 %         0
+
+
+                                    UMID:F29256FC-1706-42C1-8086-B17FE4446161        Redacted
+                                         TCGA-GN-A2DO-01A-PR
+                                    [BARCODE IMAGE]
+
+=================================== PAGE 2 ===================================
+This report is issued to give immunohistochemistry results. Immunohistochemical staining is
+performed on a representative formalin-fixed, paraffin-embedded section of INVASIVE DUCTAL
+CARCINOMA, right breast, block D6.
+
+MARKER                          RESULTS                    % POSITIVE    SCORE
+
+Estrogen Receptor              Low Positive (1-9%)         1 %           N/A
+
+Progesterone Receptor          Negative                    0 %           N/A
+
+HER-2/neu
+overexpression                 Negative                    focal 5 %     2+
+
+
+Due to the above HER-2/neu immunohistochemical staining result, gene
+copy level (HER-2/neu: CEP17 signal ratio) will be evaluated by FISH
+and a separate report will be issued.
+
+FOOTNOTE
+
+Estrogen receptor was assessed by immunohistochemistry using antibody 6F11
+
+
+Progesterone receptor was assessed by immunohistochemistry using antibody PgR1294(
+
+HER-2/neu was assessed by immunohistochemistry using antibody AB8 (I
+
+
+GROSS DESCRIPTION
+
+(A) LEFT BREAST, SHORT STITCH SUPERIOR, LONG LATERAL FOR IMMEDIATE
+CONSULTATION - Received is a 16 x 13 x 3.0 cm breast with attached ellipse of tan grossly
+unremarkable skin measuring 6.0 x 3.2 cm. The 1.2 x 1.0 cm nipple is everted. Surgical margin
+is inked. Sectioned from lateral-to-medial aspect into eleven slices. Slice #8 contains nipple.
+Cut surface of slice #6 shows an ill-defined, firm pink gray tumor measuring 1.2 x 1.0 x 1.0 cm. It
+is 2.2 cm away from inferior margin, 2.0 cm from deep margin, 2.5 cm from the skin. Superior,
+lateral and medial margins are widely free Representative sections are submitted.
+     INK CODE: Superior - blue; inferior - orange; deep - black.
+     SECTION CODE: A1, A2, nipple; A3, A4, slice #6, superior aspect of the tumor; A5, A6,
+slice #8 inferior aspect of the tumor; A7, inferior surgical margin slice #6; A8, tissue superiorly to
+the tumor slice #6; A9, deep surgical margin slice #6; A10, A11, tissue laterally to the tumor slice
+#5; A12, A13, slice #7 tissue immediately to the tumor slice #7; A14, A15, upper outer quadrant;
+A16, A17, lower outer quadrant; A18, A19, upper inner quadrant; A20, lower inner quadrant; A21,
+mid lower portion. Fragment of tumor and normal tissue are submitted to tumor bank. .
+
+
+(B) LEFT AXILLARY SENTINEL LYMPH NODE #1 FOR FROZEN SECTION IN VIVO 83, EX
+VIVO 153 - Received is a single lymph node embedded into fatty tissue measuring 1.2 x 1.0 x 0.4
+
+=================================== PAGE 3 ===================================
+cm. Cut surface is light tan. The section is entirely submitted for frozen section in cassette B.
+        *FS/DX: NO TUMOR PRESENT.
+(C) LEFT AXILLARY SENTINEL LYMPH NODE #2 FOR FROZEN SECTION, IN VIVO 253, EX
+VIVO 281 - Received is a single lymph node measuring 1.0 x 0.8 x 0.4 cm. For frozen section
+received is a single lymph node measuring 1.3 x 0.9 x 0.5 cm. Cut surface is light tan. Section
+entirely submitted for frozen section in cassette C.
+        *FS/DX: NO TUMOR PRESENT.
+(D) RIGHT BREAST, SHORT STITCH SUPERIOR, LONG STITCH LATERAL FOR IMMEDIATE
+CONSULTATION - Received is a 14 x 13 x 5.5 cm breast with a 6.5 x 2.5 cm ellipse of tan-skin.
+The 1.2 x 1.0 cm nipple is everted. Surgical margin is inked. Sectioned from the medial-to-lateral
+aspect into ten slices. Slice #7 contains nipple, slice #9 contains an ill-defined, infiltrating,
+indurated tumor measuring 1.2 x 1.3 x 1.1 cm. Radiological clip is present within the mass. The
+lesion is 0.7 cm from the closest lateral surgical margin, 1.5 cm from deep, 5.0 cm away from the
+superior surgical margin, 4.9 cm from the inferior and 2.5 cm away from the skin. Tissue toward
+the medial aspect of the breast shows dense fibrous tissue. Representative sections are
+submitted.
+        INK CODE: Superior - blue; inferior - orange; deep - black.
+        SECTION CODE: D1, D2, nipple; D3, D4, D5, slice #9 superior aspect of the tumor; D6,
+D7, D8, slice #9 inferior aspect of the tumor; D9, slice #9, tissue inferiorly to the tumor; D10,
+slice #9 tissue superiorly to the tumor; D11, deep margin slice #9; D12, slice #9 inferior margin;
+D13, D14, perpendicular sections of the lateral surgical margin; D15, D16, slice #8, tissue
+medially to the tumor; D17, D18, upper inner quadrant; D19, D20, lower inner quadrant.
+(E) RIGHT SENTINEL LYMPH NODE #1 IN VIVO 130, EX VIVO 170 - Received for frozen
+section is a single lymph node embedded in fatty tissue measuring 2.0 x 1.0 x 0.7 cm. Cut
+surface is light tan. Section is entirely submitted for frozen section in cassettes E1, E2.
+        *FS/DX: NO TUMOR PRESENT.
+(F) RIGHT SENTINEL LYMPH NODE #2 FOR FROZEN SECTION IN VIVO 38, EX VIVO 108 -
+Received a single lymph node embedded in fatty tissue measuring 2.0 x 0.9 x 0.8 cm. Cut
+surface is white-tan. Section entirely submitted for frozen section in blocks F1, F2.
+        *FS/DX: NO TUMOR PRESENT.
+
+CLINICAL HISTORY
+
+Breast cancer.
+
+SNOMED CODES
+
+T-04050, M-85003
+
+"Some tests reported here may have been developed and performance characteristics
+determined by                                                These tests have not been
+specifically cleared or approved by the U.S. Food and Drug Administration."
+
+Released by:
+
+Start of ADDENDUM
+
+ADDENDUM
+
+This modified report is being issued to report the results of HER-2/neu FISH
+
+Addendum completed by * **
+
+=================================== PAGE 4 ===================================
+SPECIMEN SOURCE
+
+Right breast
+
+SUMMARY
+
+Tissue section of the invasive carcinoma :               ras evaluated for HER-2/neu gene
+amplification by interphase fluorescence in situ hybridization technique using the
+HER-2/neu DNA Probe Kit (LSI HER-2/neu SpectrumOrange/CEP17
+
+Slide adequacy is satisfactory. Sixty tumor nuclei were counted and showed an average of 1.62
+copies of LSI HER-2/neu gene per nucleus and an average of 1.45 copies of CEP17 per nucleus.
+
+Negative and positive controls (established by                          ) with this batch are
+appropriate.
+
+Two representative images have been archived.
+
+
+INTERPRETATION
+
+The tumor cells demonstrated no amplification of the HER-2/neu gene copy levels (HER-2/neu:
+CEP17 signal ratio: 1.11 )
+
+The following guideline has been established for HER-2/neu testing:
+Normal HER-2/neu levels: < 1.80; equivocal HER-2/neu levels: 1.80 – 2.20; amplified HER-2/neu
+levels: > 2.20
+(Ref: Arch Patholo Lab Med. 2007; 131:18-43)
+
+NOTES
+
+The LSI HER-2/neu probe is specific for the HER-2/neu gene Locus (17q 11.2-q12) and the CEP
+17 DNA probe is specific for the alpha satellite DNA sequence at the centromeric region of
+Chromosome 17 (17 p11.1 -q11.2).
+
+This test has been cleared and approved for specific uses by the U.S. Food and Drug
+Administration. Its system is operating within the performance specifications stated in the product
+insert.
+
+
+Released by:
+
+
+------END OF REPORT------

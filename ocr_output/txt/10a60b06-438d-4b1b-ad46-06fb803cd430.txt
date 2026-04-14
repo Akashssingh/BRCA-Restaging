@@ -1,0 +1,30 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+                                      Carcinoma, infiltrating ductal, NOS  8500/3
+                             PM  Site: Breast, UOQ  C50.4      1/19/14
+                             COE Site: Breast, NOS C50.9
+
+
+Diagnosis:
+1. Moderately differentiated invasive ductal carcinoma with discrete intraductal
+spread (tumor diameter 1.9 cm).
+
+In conjunction with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G II, pT1cN1aL0V0R0.
+
+
+
+
+                                   UUIB:1E09810F-8C0C-4ACB-A70F-A8895ECA0852
+                                   TCGA-AB-A07G-01A-DR                  Redacted
+                                   [BARCODE IMAGE]
+
+
+                        C Items
+                        Diagnosis Discussed                    Yes
+                        Primary Tumor Sita, Discrepancy        [X]
+                        UICC8 Discrepancy                      [X]
+                        Grade Discrepancy                      [X]
+                        Quality Reviewed & Primary Noted       [X]
+                        [Checkboxes with markings]
+                        [Signature marks/initials]

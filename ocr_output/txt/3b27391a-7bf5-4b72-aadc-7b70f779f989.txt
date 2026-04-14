@@ -1,0 +1,32 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+                                                                                Carcinoma, infiltrating ductal, NOS    8500/3
+                                                                                Site: Breast, NOS C50.9    1/2/11   lw
+
+
+
+
+Diagnosis:
+Poorly differentiated invasive ductal carcinoma (tumor diameter: 4 cm).
+
+Concluding tumor classification for the left breast: NOS, G III, pT2N1aL0V0R0
+
+
+
+
+                                                UUID:FC0C18F3-74C3-40FC-B9B5-2FD1728E287A
+                                                7CGA-AB-A0BR-01A-PR              Redacted
+                                                |||||||||||||||||||||||||||||||||||||||||||||||
+                                                |||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+                                                                                        Criteria                        Yes      No
+                                                                                        Diagnostic Discrepancy
+                                                                                        Primary Tumor Site Discrepancy
+                                                                                        Stage Discrepancy
+                                                                                        Prior Malignancy History
+                                                                                        Oral/Pharyngeal/Nasopl noted
+                                                                                        Cervix Uterus                                    AUTOMATED
+                                                                                        Breast                              Ring Accepted

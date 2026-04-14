@@ -1,0 +1,169 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+Carcinoma, infiltrating ducted NOS
+Site: breast NOS C50.9 1/26/10 ✓
+
+-- ID#:
+
+Pathology Form
+
+Specimen Information
+
+Collected by: __________________ Date: _______ me:___
+
+Preserved by: __________________ Date _______ Time:_
+
+[THIS IS TABLE: Specimen Type Table showing:
+- Frozen section with Diseased (4) and Normal (2) samples, Time to LN2: 7 min
+- Paraffin Block with Diseased (4) and Normal (2) samples, Time to Formalin: 13 min
+- Blood/Serum/Plasma section (empty)
+- Slide section with Diseased (4) and Normal (2) samples]
+
+PATHOLOGICAL DESCRIPTION:
+
+Primary Tumor
+Organ | Size | Extension of Tumor | Distance to NAT
+BREAST TUMOR | 4 x ? x2.3cm | | 5 cm
+
+Lymph Nodes
+Location | # Examined | # Metastasized
+[Empty rows]
+
+Distant Metastasis
+Organ | Detailed Location | Size
+[Empty rows]
+
+Pathological Staging
+pT 2 N 2 M 0 Stage: III
+
+Notes:
+breast nodes 2 wells in Nitrogen
+
+UUTD:358AF6CE-F9ED-4A1C-8714-BDF87C141CEC
+TCGA-CB-A138-01A-PR [Redacted barcode]
+
+[Bottom of page contains a small table/form with checkboxes, partially visible]
+
+4
+
+=================================== PAGE 2 ===================================
+ID#:
+
+Microscopic Description
+
+Histological Pattern:
+Cell Distribution | + | - | Structural Pattern | + | -
+Diffuse | ✓ | | Streaming | |
+Mosaic | | | Storiform | |
+Necrosis | | | Fibrosis | |
+Lymphocytic Infiltration | ✓ | | Palisading | |
+Vascular Invasion | | | Cystic Degeneration | |
+Clusterized | | | Bleeding | |
+Alveolar Formation | | | Myxoid Change | |
+Indian File | | | Psammoma/Calcification | |
+
+Cellular Differentiation:
+Squamous | + | - | Adenomatous | + | - | Sarcomatous | + | - | Lymphomatous | + | -
+Squamoid Cell | | | Glandular cell | ✓ | | Round Cell | | | Large Cell | |
+Spindle Cell | | | Cell Stratification | | | Fibroblast | | | Small Cell | |
+Keratin | | | Secretion | | | Osteoblast | | | RS Cell/RS Like | |
+Desmosome | | | Intracyt. Vacuole | | | Lipoblast | | | Inflam. Cell | |
+Pearl | | | Gland formation | ✓ | | Myoblast | | | Plasma Cell | |
+
+Cellular Differentiation: | Well | Moderate | Poor |✓|
+
+Nuclear Appearance:
+Nuclear Atypia: | 0 | I | II | III
+Aniso Nucleosis | | | ✓ |
+Hyperchromatism | | | ✓ | ✓
+Nucleolar Prominent | | | ✓ | ✓
+Multinucleated Giant Cell | | | |
+Mitotic Activity | | | ✓ |
+
+Nuclear Grade:
+
+IHC Data:
+Marker | Result | Value | Date
+ER | □ Negative □ Positive | |
+PR | □ Negative □ Positive | |
+Her-2/neu | □ Negative □ Positive | |
+B-Cell Marker | □ Negative □ Positive | |
+T-Cell Marker | □ Negative □ Positive | |
+Other: | □ Negative □ Positive | |
+Other: | □ Negative □ Positive | |
+
+Final Pathology Report:
+
+Histological Diagnosis: Infiltrating ductal carcinoma
+(Poorly differentiated) Grade: III
+
+Comments:
+
+
+Principal Investigator                  Pathologist                  Date
+
+5
+
+=================================== PAGE 3 ===================================
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+
+Microscopic Appearance:
+
+1. Histological pattern:
+CELL DISTRIBUTION
+[Table with + and - columns]
+Diffuse                                  ✓
+Mosaic                     ✓
+Necrosis                   ✓
+Lymphocytic Infiltration   ✓
+Vascular Invasion
+Clusterized                           ✓
+Alveolar Formation         ✓
+Indian File                           ✓
+
+STRUCTURAL PATTERN
+[Table with + and - columns]
+Streaming
+Storiform
+Fibrosis
+Palisading
+Cystic Degeneration
+Bleeding
+Myxoid Change
+Psammoma/Calcification
+
+2. Cellular features:
+[Complex table with +/- columns]
+Squamous    +  -  | Adenomatous     +  -  | Sarcomatous    +  -  | Lymphomatous   +  -
+Spindle Deg Cell  | Glandular cell   ✓    | Round Cell           | Large Cell
+Spindle Cell      | Cell Stratification ✓ | Fibroblast          | Small Cell
+Keratin           | Secretion        ✓    | Osteoblast          | RS Cell/RS Like
+Desmosome         | Intracyt. Vacuole ✓   | Lipocyt             | Inflam. Cell
+Pearl             | Gland formation  ✓    | Myoblast            | Plasma Cell
+
+Otherwise Specified: D₁ 70%, D₂ 80%, D₃ 70%, D₄ 70%         Necrosis
+                                                              S%
+
+2. Cellular Differentiation:
+[Table]
+Well | Moderately | Poor
+     |     ✓      |
+
+3. Nuclear Atypia:
+[Table]
+Nuclear Appearance          | 0 | I | II | III
+Aniso Nucleosis            |   |   | ✓  |
+Hyperchromatism            |   |   |    | ✓
+Nucleolar Prominent        |   |   | ✓  |
+Multinucleated Giant Cell  |   |   |    | ✓
+Mitotic Activity           |   |   | ✓  |
+Nuclear Grade              |   |   | ✓  |
+
+Histological Diagnosis: Takit/Tox A ng Dyektal Carcinsma. NOS σ-2.
+
+Comments: M₁, M₂: Carcinoma metastasized to LN.
+
+                                        Date
+
+INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY.

@@ -1,0 +1,234 @@
+=================================== PAGE 1 ===================================
+UNID:88C192A7-E538-4361-8AD3-FF538A238260
+PCGN-01-AGG1-01A-PR                    Redacted
+
+[BARCODE IMAGE]
+
+Sample #
+
+FINAL PATHOLOGIC DIAGNOSIS
+
+A. Right axillary sentinel node #1; biopsy:
+
+-One lymph node, no tumor (0/1).
+
+B. Right axillary sentinel node #2; biopsy:
+
+-One lymph node, no tumor (0/1).
+
+C. Right breast lumpectomy; lumpectomy:
+
+-Invasive ductal carcinoma with tubulo-lobular features, similar to                 ICUD-O:3               NAS
+                                                                        Carcinoma infiltrating duct
+previous biopsy, extending into dermis, see below.                                               8500/3
+
+-Separate focus of infiltrating ductal carcinoma (1.0 cm) with dermal              Site: ® Breast No.3
+                                                                                              0509
+involvement, histologically similar to and superior to first mass.
+                                                                                    Sp'd 9/16/13
+-Hemorrhagic fat necrosis at previous biopsy site.
+
+
+Breast Pathologic Parameters
+
+1. Invasive carcinoma:
+
+A. Microscopic measurement: 1.9 cm
+
+B. Composite histologic (modified SBR) grade: I
+
+- Architecture: 2
+
+- Nuclear grade: 2
+
+- Mitotic count: 1
+
+=================================== PAGE 2 ===================================
+2. Intraductal carcinoma: not identified
+
+
+3. Excisional biopsy margins: Free of tumor (2 mm from ante4rior margin)
+
+
+4. Blood vessel and lymphatic invasion:
+
+- Present in dermal lymphatics (C20 and C27)
+
+
+5. Nipple: N/A
+
+
+6. Skin: direct extension of tumor. Inked edges free of tumor.
+
+
+7. Skeletal muscle: absent
+
+
+8. Axillary lymph nodes: Negative
+
+
+9. Special studies (see _         ):
+
+- ER: Strong expression in >90% of invasive tumor nuclei
+
+- PR: Strong expression in >90% of invasive tumor nuclei
+
+- Her2/neu antigen (FISH): Non-amplified (ratio: 1.10)
+
+
+10. pTNM (AJCC, 7th edition, 2010): pT1c(m)N0MX
+
+
+Effective                  ˜ this Checklist utilizes the 7th edition TNM staging
+
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+
+International Union Against Cancer (UICC).
+
+=================================== PAGE 3 ===================================
+Clinical History:
+
+The patient is a -year-old female with right breast lump undergoing right
+
+breast lumpectomy, right axillary s-node biopsy. On . bilateral
+
+diagnostic mammography/R UTS-Right revealed a 1.7 cm area of architectural
+
+distortion in the mid posterior depth in the right breast with no associated
+
+calcifications. Breast MRI on showed a right breast unifocal suspicious
+
+abnormality at 5 o'clock that measures 19 x 19 x 14 mm. On right UTS core
+
+biopsy at 5 o'clock revealed IDC, with tubular-lobular features, Grade 1 with
+
+associated microcalcifications.
+
+
+Specimens Received:
+
+A: Right axillary sentinel node #1
+
+B: Right axillary sentinel node #2
+
+C: Right breast lumpectomy; lumpectomy
+
+
+Gross Description:
+
+The specimens are received in three containers each labeled with the patient's
+
+name and medical record number.
+
+=================================== PAGE 4 ===================================
+A. The first container is additionally identified as, 'right axillary s-node
+
+-1'. Received fresh for frozen section diagnosis is one lymph node measuring 2.0
+
+x 1.6 x 0.5 cm, which is bisected for frozen and diagnosed as, 'one lymph node,
+
+no tumor present,' per Dr.        Specimen is entirely submitted in A1 FS.
+
+
+B. The second container is additionally identified as, 'right axillary s-node
+
+-2'. Received fresh for frozen section diagnosis is one lymph node measuring
+
+1.5 x 0.5 x 0.3 cm that is frozen and read as, 'one lymph node, no tumor
+
+present,' per Dr. ,        The specimen is entirely submitted in B1 FS.
+
+
+C. The third container is additionally identified as, 'right breast
+
+lumpectomy'. Received fresh is a 92.6 gm lumpectomy specimen measuring 9.6 cm
+
+from medial to lateral, 7.7 cm from superior to inferior and 2.7 cm from
+
+anterior to posterior. A double short suture designates superior, and a double
+
+long suture designates lateral. No single short stitch is found although the
+
+container label states that there is a single short stitch at the anterior
+
+aspect; however there is a portion of skin that designates the anterior aspect
+
+that measures 7.5 x 1.5 cm.
+
+
+The margins are inked as follows:
+
+
+anterior- black
+
+posterior - red
+
+superior - blue
+
+inferior - green
+
+=================================== PAGE 5 ===================================
+medial - yellow
+
+lateral - violet
+
+
+The specimen is serially sectioned from medial to lateral into 17 slices. There
+
+is a 1.5 x 1.0 x 0.9 cm firm, white, stellate mass, with a central dark
+
+gray-brown area, located in slices 8 through 10 in the anterior/central aspect
+
+of the specimen. It is located 1.0 cm from the black margin, 2.2 cm from the red
+
+margin, 2.0 cm from the blue margin and 2.0 cm from the green margin. A metallic
+
+clip is identified in slice #10, adjacent to the mass. Superior to the mass and
+
+in slices 6 through 11 is a brownish focus consistent with hemorrhage measuring
+
+up to 1.0 x 1.0 cm, most prominent in slice 11. Representative sections are
+
+submitted as follows:
+
+
+C1: Entire medial margin, serially sectioned
+
+C2-C3: Entire lateral margin, serially sectioned
+
+C4-C8: Slice #9 including lesion
+
+C9-C14 Slice #10 including lesion
+
+C15-C18: Slice #8 with some tissue removed for banking
+
+C19-C22: Slice #7
+
+C23-C27: Slice #11, with hemorrhagic lesion most prominent in C26
+
+C28-C29: Slice #3, including skin in C29
+
+C30-C33: Slice #15
+
+
+Tissue fixed for at least 6 hours in 10% NBF and no more than 72 hours.
+
+=================================== PAGE 6 ===================================
+, M.D.
+
+
+Pathologist Sign Out:
+
+
+
+
+[There is a small table/checklist at the bottom right of the page with handwritten marks and text that appears to show:]
+
+Criteria                               Yes    No
+Diagnosis Discussed                           ✓
+Passing Report into Routing/RDS              ✓
+HIPAA Compliance                             ✓
+Pathology Resident Report                    ✓
+Quality/Financial Information    QUALIFIED   FCNS 04/10
+Case Sign ✓
+Reviewed                                     4/11/13

@@ -1,0 +1,174 @@
+=================================== PAGE 1 ===================================
+UUID:C4C7D198-F6EC-4A70-B136-534EA3419217
+TCGA-A2-A0YF-01A-PR                    Redacted        Chief of Pathology
+
+                                                        Phone
+                                                        Fax
+
+
+Specimen:               Received:                      Status: SOUT
+                        Spec Type: SURGICAL P          Subm Dr:
+
+PREOPERATIVE DIAGNOSIS
+
+BREAST CANCER IN SITU/NIPPLE DISCHARGE/LT BREAST MACROMASTIA
+
+OPERATION PERFORMED
+
+DATE:
+DOCTOR(S):
+PROCEDURE:      STOESY/EXCISION SENTINEL NODE DEEP AXILLARY
+
+TISSUE REMOVED                                        /cb-0-3
+                                                      Carcinoma, infiltrating duct, NOS 8500/3
+A. LT BREAST TISSUE                                   siz: breast, upper outer quadrant C50.4
+B. RT SIMPLE MASTECTOMY                  PLM          
+C. RT AXILLA SENTINEL NODE #1            CQCF         site: breast, NOS C50.9        10/31/14  Jur
+
+GROSS DESCRIPTION
+
+PART A RECEIVED FRESH LABELED                         LEFT BREAST TISSUE, IS
+A LEFT BREAST TISSUE, IS A 643.5 GRAMS OF FIBROFATTY BREAST TISSUE AND
+SKIN SUBMITTED IN 2 PIECES, ONE IS A PORTION OF SKIN WITH AREOLAR TITE
+TISSUE AT ONE END AND THE SECOND IS SKIN AND UNDERLYING FIBROFATTY TISSUE
+REMOVED IN A BREAST REDUCTION PATTERN. SECTIONING REVEALS BLAND YELLOW
+FATTY TISSUE WITH FINE FIBROUS BANDS AND NO AREAS OF MYELOLIPOSIS OR
+MASS IS IDENTIFIED. REPRESENTATIVE TISSUE IS SUBMITTED AS FOLLOWS:
+A1--SKIN TISSUE SUPERIOR, A2--MEDIAL ARM, A3 THROUGH A5--LATERAL ARM FROM
+SUPERIOR TO INFERIOR.
+
+PART B RECEIVED FRESH LABELED                         RIGHT SIMPLE MASTECTOMY
+STITCH 12 O'CLOCK, IS A SIMPLE MASTECTOMY SPECIMEN MEASURING 21 X 21.5 X
+6.6 CM. THE NIPPLE IS UNREMARKABLE. WITHIN A 21.2 X 12.5 CM SKIN
+ELLIPSE, A SUTURE DENOTES 12 O'CLOCK. THE SUPERFICIAL ASPECT IS MARKED
+WITH BLUE INK, THE DEEP MARGIN WITH BLACK INK. A WELL-HEALED SCAR IS
+NOTED ON THE LATERAL ASPECT OF THE BREAST SKIN MEASURING 5.0 CM IN
+LENGTH. SECTIONING REVEALS BLAND YELLOW FATTY TISSUE WITH FINE FIBROUS
+BANDS IN THE MIDPORTION. BLUE DYE IS NOTED. THERE IS AN AREA OF GRAY
+FIBROSIS WITH TAN-BROWN DISCOLORATION SUGGESTIVE OF A PREVIOUS BIOPSY
+SITE IN THE UPPER OUTER QUADRANTS. THERE IS A FIRM NODULE IN THE 9
+O'CLOCK LATERAL ASPECT OF THE SPECIMEN WITH FOCAL BLUE DYE SUGGESTIVE OF
+A LYMPH NODE. THIS IS 1.1 CM FROM THE DEEP MARGIN. SECTION IS SUBMITTED
+IN B2 (MIRROR IMAGE TO PROTOCOL). THE AREA BETWEEN THIS BIOPSY SITE IS 5
+CM FROM THE DERP MARGIN. BIOPSY CLIPS ARE NOT OTHERWISE IDENTIFIED
+WITHIN THE SPECIMEN. SECTIONS ARE SUBMITTED AS FOLLOWS: B1--NIPPLE AND
+SKIN SCAB, B2--POSSIBLE LYMPH NODE AT 9 O'CLOCK AREA, B3--DEEP MARGIN TO
+B4--DEEP MARGIN TO PREVIOUS BIOPSY SITE, B5 THROUGH B12--SECTIONS OF
+THIS PREVIOUS BIOPSY SITE WITH B7 AND B12 THE FARTHEST FROM EACH OTHER AT
+2 CM SPA, B13--NODULARITY IMMEDIATELY DEEP TO B12, UPPER OUTER QUADRANT,
+B14--UPPER OUTER QUADRANT IMMEDIATELY ADJACENT TO B13, B15--LOWER OUTER
+QUADRANT IMMEDIATELY INFERIOR TO B2, B16--RANDOM LOWER OUTER QUADRANT 6
+CM FROM PREVIOUS BIOPSY SITE, B17--NODULARITY 6 O'CLOCK AREA 9 CM FROM
+PREVIOUS BIOPSY SITE (MIRROR IMAGE TO PROTOCOL), B18--LOWER INNER
+
+=================================== PAGE 2 ===================================
+987
+
+                                                         Phone
+                                                         Fax         2
+
+Patient:                                                             (Continued)
+
+Specimen            Received:                   Status:
+                    Spec Type: SURGICAL P       Subm Dr:
+        GROSS DESCRIPTION                       (Continued)
+
+    QUADRANT, B19--UPPER INNER QUADRANT, SEPARATELY SUBMITTED WITHIN THE
+    CONTAINER IS A SMALL FRAGMENT OF YELLOW FATTY TISSUE MEASURING 3.5 X 3.0
+    X 1.2 CM IN GREATEST DIMENSION. THIS IS GROSSLY UNREMARKABLE AND
+    REPRESENTATIVE TISSUE IS SUBMITTED IN B20.
+
+    PART C RECEIVED FRESH LABELED,             , RIGHT AXILLA FIRST
+    SENTINEL NODE HOT AND BLUE, IS YELLOW-TAN FATTY TISSUE MEASURING 3.4 X
+    2.0 X 1.0 CM. SECTIONING REVEALS A GROSSLY UNREMARKABLE FAT-REPLACED
+    NODAL TISSUE SUBMITTED ENTIRELY LABELED C.
+
+
+        PATH PROCEDURES
+
+    PROCEDURES:
+                88305, 88307/2, IMMUNOPEROXIDAS, A BLK/5, B BLK/20, CBX X6
+
+        FINAL DIAGNOSIS
+
+    PART A   LEFT BREAST, REDUCTION MAMMOPLASTY:
+
+    1.   CONSISTENT WITH MACROMASTIA.
+
+    2.   SCATTERED FOCI OF ATYPICAL LOBULAR HYPERPLASIA.
+
+    PART B   RIGHT BREAST, SIMPLE MASTECTOMY:
+
+    1.   MODERATELY DIFFERENTIATED INTRADUCTAL AND INFILTRATING DUCT
+         CARCINOMA. THE INVASIVE COMPONENT SHOWS NUCLEAR GRADE 2, MODERATE
+         MITOTIC INDEX AND TUBULE FORMATION 3 FOR A TOTAL NOTTINGHAM SCORE OF
+         7. DCIS OF THE CRIBRIFORM AND PAPILLARY TYPES, NUCLEAR GRADE 2 HAS
+         RARE FOCI OF INTRALUMINAL NECROSIS AND COMPRISES APPROXIMATELY 50% OF
+         THE TUMOR.
+
+    2.   THE TUMOR IS MULTIFOCAL IN THE UPPER OUTER QUADRANT WITH THE LARGEST
+         INVASIVE FOCUS MEASURING 7 MM IN GREATEST DIMENSION. ADDITIONAL
+         INVASIVE FOCI ARE ALSO PRESENT THAT RANGE FROM 2 TO 3 MM IN GREATEST
+         DIMENSION. DCIS IS IDENTIFIED ON 15 OF 20 BLOCKS EXAMINED HAVING A
+         MAXIMUM CALCULATED DIMENSION OF 6 CM.
+
+    3.   THE NIPPLE SKIN, RANDOM SECTIONS OF REMAINING QUADRANTS AND MARGINS
+         ARE FREE OF TUMOR.
+
+    4.   LYMPHOVASCULAR INVASION IS NOT IDENTIFIED.
+
+    5.   THE BIOPSY SITE            IS PRESENT.
+
+    PART C   RIGHT AXILLA, SENTINEL LYMPH NODE BIOPSY: METASTATIC BREAST
+    CARCINOMA IS IDENTIFIED IN THE SUBCAPSULAR SINUS/CORTEX IN A FOCUS
+    MEASURING 0.17 MM IN GREATEST MICROSCOPIC DIMENSION ON THE CYTOKERATIN
+    STAIN WHICH WERE NOT SEEN ON INITIAL H AND E EXAMINATION. RARE
+
+=================================== PAGE 3 ===================================
+Chief of Pathology
+
+                                                                Phone: f"
+                                                                Fax ("
+
+┌──────────┬────────────────────────────────────────────────────────────────────────┬──────────────────────────┐
+│Patient:  │                                                                        │        (Continued)       │
+├──────────┴────────────────────────────────────────────────────────────────────────┴──────────────────────────┤
+│Specimen:              Received:                      Status:                                                │
+│                       Spec Type: SURGICAL P          Subm Dr:                                               │
+│         FINAL DIAGNOSIS           (Continued)                                                               │
+│                                                                                                             │
+│ADDITIONAL ISOLATED TUMOR CELLS ARE ALSO PRESENT.                                                           │
+│                                                                                                             │
+│                                                                                                             │
+│Signed ________________________________________                                              (prelim.)       │
+│                                                                                                             │
+│        ________(signature on file)________                                                                 │
+│                                                                                                             │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+
+
+
+
+
+
+
+
+                                                           ┌──────────────────────────┬─────┬────┐
+                                                           │Criteria                  │ Yes │ No │
+                                                           ├──────────────────────────┼─────┼────┤
+                                                           │Telephone Discrepancy     │     │  ✓ │
+                                                           ├──────────────────────────┼─────┼────┤
+                                                           │Primary Tumor Site Discrepancy│  │  ✓ │
+                                                           ├──────────────────────────┼─────┼────┤
+                                                           │IHF/AI Discrepancy        │     │  ✓ │
+                                                           ├──────────────────────────┼─────┼────┤
+                                                           │Gross Discrepancy         │     │  ✓ │
+                                                           ├──────────────────────────┼─────┼────┤
+                                                           │Fine/Performance Imp. Merit│     │    │
+                                                           ├──────────────────────────┴─────┴────┤
+                                                           │Case ID(EMS): ___\_\_\_\_\_of__|     │
+                                                           ├──────────────────────────────────────┤
+                                                           │Reviewer Initials \_\_\_\   Date Reviewed \_\|\_\|\_\│
+                                                           └──────────────────────────────────────┘

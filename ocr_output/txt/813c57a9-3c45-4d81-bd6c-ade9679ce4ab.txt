@@ -1,0 +1,76 @@
+=================================== PAGE 1 ===================================
+ICS-0-3
+                                                     carcinoma, infiltrating duct, NOS  85743/3
+                                                     Site: breast, NOS  C50.9     hx  4/12/11
+                                                                    page 1 / 2
+
+
+                         Department of Cancer Pathology
+                                                                    copy No.
+                                                                    Date:
+
+
+                    Examination: Histopathological examination
+                                                                    Examination No.:
+Patient: XXX                    PESEL: XXX         Age:      Gender: F
+
+Material: 1. Multiple organ resection - left breast with axillary tissues
+                                                                    [TABLE showing checkboxes with various options, some marked]
+Unit in charge:
+Physician in charge:
+Material collected on:            Material received on:
+Expected time of examination: upto 8 working days
+Clinical diagnosis: Cancer of the left breast.
+
+Examination performed on:
+
+Macroscopic description:
+Left breast sized 21 x 18 x 3 cm removed along with axillary tissues sized 10 x 5 x 2 cm and a 15 x 6 cm skin flap. Weight 520 g.
+Tumour sized 1.9 x 1.6 x 1.7 cm in the middle part, 1.5 cm from the upper boundary, 1.6 cm from the base and   0 cm from
+the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (2+3+2/10 mitoses/10 HPF - visual area: 0.55mm).
+Foci of carcinoma ductale in situ (DCIS) found within the tumour (solid and cribrate type, with medium nuclear atypia,
+without necrosis and with calcifications of below 5% of the tumour).
+Infiltratio carcinomatosa mamillae.
+Focus of carcinoma ductale invasivum found in the glandular tissue (inner lower quadrant - diameter 0.1 cm).
+Also showing also lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis simplex (UDH).
+AXILLARY LYMPH NODES:
+Metastases carcinomatosae in lymphonodis (No VI/XVIII).
+Infiltratio capsulae lymphonodi.
+Preliminary result:
+Final response to be given after whole of the material is analysed.
+
+
+                                                                    Compliance validated by:  I
+Examination performed on: .
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell
+nuclei. HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells ( Score = 1+ )
+
+
+                                                                    Compliance validated by: _.
+Examination performed on: '
+                                        UUD:05614445-4E8F-4050-8FC6-D3AD5CAAD082
+                                        TCGA-D8-A1XD-01A-PR       Redacted
+                                        [BARCODE IMAGE]
+
+=================================== PAGE 2 ===================================
+Examination: Histopathological examination                page 2 / 2
+
+                                                           Examination No.:
+
+Patient: XXX         PESEL: XXX         Gender: F
+
+Examination performed on:
+
+Histopathological diagnosis:
+Carcinoma ductale invasivum bifocal et ductale in situ mammae sinistrae.
+Invasive ductal bifocal carcinoma and ductal in situ carcinoma of the left breast.
+Metastases carcinomatosae in lymphonodis axillae (No VI/XVIII) (NHG2, pT1c, pN2a).
+Cancer Metastases in axillary lymph nodes.
+
+
+                                                           Compliance validated by:
+                                                           CONTACT YOUR DOCTOR WITH THIS REPORT!

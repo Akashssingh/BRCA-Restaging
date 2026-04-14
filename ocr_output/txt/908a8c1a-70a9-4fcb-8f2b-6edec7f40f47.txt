@@ -1,0 +1,420 @@
+=================================== PAGE 1 ===================================
+Clinical Diagnosis & History:
+Right multicentric IDC and TLC presents for bilateral TM, bilateral SLNBx.
+
+Specimens submitted:
+1: SP: Sentinel node #1 level 1 left axilla
+2: SP: Sentinel node #2 level 1 left axilla
+3: SP: Sentinel node #1 level 1 right axilla
+4: SP: Sentinel node #2 level 1 right axilla (fs)
+5: SP: Right breast and axillary contents level 1, 2, and 3
+6: SP: Left breast
+7: SP: Right rotter's node
+8: SP: Additional level 1 lymph right axilla node 1
+9: SP: Additional right level 2 axillary contents
+10: SP: Level 3 lymph node right axilla
+
+DIAGNOSIS:
+
+1)      SENTINEL NODE #1 LEVEL 1 LEFT AXILLA; EXCISION;
+        - ONE BENIGN LYMPH NODE (0/1).
+
+2)      SENTINEL NODE #2 LEVEL 1 LEFT AXILLA; EXCISION;
+        - ONE BENIGN LYMPH NODE (0/1).
+
+3)      SENTINEL NODE #1 LEVEL 1 RIGHT AXILLA; EXCISION;
+        - METASTATIC CARCINOMA INVOLVING ONE OF ONE LYMPH NODE (1/1).
+        - THE METASTATIC CARCINOMA IS PRESENT AS SUB-CAPSULAR TUMOR CELL
+        CLUSTERS MEASURING TO 2MM AND COMPOSED OF 30-40 CELLS. THE TUMOR CELLS ARE
+        SEEN BOTH IN THE H&E STAINED AND KERATIN (AE1:AE3) IMMUNOSTAINED SECTIONS.
+
+4)      SENTINEL NODE #2 LEVEL 1 RIGHT AXILLA; EXCISION;
+        - METASTATIC CARCINOMA INVOLVING ONE OF ONE LYMPH NODE (1/1).
+        - THE METASTATIC FOCUS MEASURES 1.2 CM, WITH EXTRANODAL EXTENSION
+        (>2MM).
+
+5)      BREAST, RIGHT; MASTECTOMY;
+        TUMOR #1;
+        - INVASIVE DUCTAL CARCINOMA, WITH FOCAL LOBULAR GROWTH PATTERN.
+        HISTOLOGIC GRADE II/III (MODERATE TUBULE FORMATION); NUCLEAR GRADE II/III
+        (MODERATE VARIATION IN SIZE AND SHAPE), MEASURING 3.6 CM IN LARGEST
+        DIMENSION GROSSLY.
+
+** Continued on next page **                   ICD-O-3
+
+Carcinoma infiltrating duct NOS 8500/3
+Site: breast NOS C50.9   fw 10/24/11
+
+[THIS IS TABLE: A partially filled table showing columns for what appears to be diagnostic criteria, with some checkmarks visible]
+
+UMID:2Patient 2963-4863-B2F6-628951408A45
+TCGA-AO-A03A-01A-PR
+Restricted
+[Barcode visible]
+
+=================================== PAGE 2 ===================================
+Page 2 of 4
+  - DUCTAL CARCINOMA IN-SITU (DCIS) IS ALSO IDENTIFIED, MICROPAPILLARY TYPE
+WITH INTERMEDIATE NUCLEAR GRADE AND MINIMAL NECROSIS.
+  - THE DCIS CONSTITUTES LESS THAN OR EQUAL TO 25% OF THE TOTAL TUMOR MASS,
+AND IS PRESENT ADMIXED WITH THE INVASIVE COMPONENT.
+  - THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER INNER QUADRANT, AT
+1:00.  - THE DCIS IS LOCATED IN THE UPPER INNER QUADRANT.
+  - NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA
+IS IDENTIFIED.
+  - NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+COMPONENT.
+  - EXTENSIVE VASCULAR INVASION IS PRESENT
+  - NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+  - INVASIVE CARCINOMA IS 3.3 CM FROM THE DEEP MARGIN GROSSLY.
+TUMOR #2:
+  - INVASIVE DUCTAL CARCINOMA, NOS TYPE, WITH FOCAL LOBULAR GROWTH
+PATTERN, HISTOLOGIC GRADE II/III (MODERATE TUBULAR FORMATION), NUCLEAR GRADE
+II/III (MODERATE VARIATION IN SIZE AND SHAPE), MEASURING 2.5 CM IN LARGEST
+DIMENSION GROSSLY.
+  - DUCTAL CARCINOMA IN-SITU (DCIS) IS ALSO IDENTIFIED, SOLID, CRIBRIFORM TYPE
+WITH INTERMEDIATE NUCLEAR GRADE AND MODERATE NECROSIS.
+  - LOBULAR INVOLVEMENT BY DCIS IS PRESENT.
+  - THE DCIS CONSTITUTES LESS THAN OR EQUAL TO 25% OF THE TOTAL TUMOR
+MASS, AND IS PRESENT ADMIXED WITH THE INVASIVE COMPONENT.
+  - THE INVASIVE CARCINOMA IS LOCATED IN THE LOWER INNER QUADRANT AT
+5:00.  - THE DCIS IS LOCATED IN THE LOWER INNER QUADRANT.        - NO
+INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+IDENTIFIED.
+  - CALCIFICATIONS ARE PRESENT IN THE INVASIVE CARCINOMA ONLY.
+  - VASCULAR INVASION IS PRESENT.
+  - NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+  - INVASIVE CARCINOMA IS 4.5 CM FROM THE DEEP MARGIN GROSSLY.
+  - THE NON-NEOPLASTIC BREAST TISSUE SHOWS USUAL DUCTAL HYPERPLASIA,
+PAPILLARY APOCRINE HYPERPLASIA, COLUMNAR CELL CHANGE, AND CYSTS.
+- THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+LYMPH NODES IN RELATION TO THE TOTAL NUMBER OF LYMPH NODES EXAMINED):
+13/17.
+  - THERE IS EXTRANODAL EXTENSION (>2mm) OF CARCINOMA. THE LARGEST
+METASTATIC CARCINOMA MEASURES 1.1CM.
+  - RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) ARE AS FOLLOWS:
+TUMOR 1:
+ESTROGEN RECEPTOR
+50% nuclear staining with moderate intensity
+PROGESTERONE RECEPTOR
+<5% nuclear staining with weak intensity
+HER2
+Negative ( 1+)
+(<10% of invasive tumor cells exhibit weak complete membranous staining;
+Uniformity of staining: absent;
+Homogenous, dark circumferential pattern: absent)
+TUMOR 2:
+ESTROGEN RECEPTOR
+50-60% nuclear staining with moderate intensity
+
+
+                        ** Continued on next page **
+
+=================================== PAGE 3 ===================================
+Page 3 of 8
+    ---------------------------
+    PROGESTERONE RECEPTOR
+    10-20% nuclear staining with moderate intensity
+    Negative (1+)
+    (<10% of invasive tumor cells exhibit weak complete membranous staining;
+    Uniformity of staining: absent;
+    Homogenous, dark circumferential pa**---- absent)
+    Comment: Controls are satisfactory.        A PATHWAY anti-HER-2/neu is an
+    FDA-approved rabbit monoclonal primary antibody (clone 4B5) directed against
+    the external domain of the c-erbB-2 oncoprotein (HER2) for
+    immunohistochemical detection of HER2 protein overexpression in breast
+    cancer tissue. HER2 testing is used for biostologic evaluation. The HER2 test
+    results are reported in accordance with the ASCO/CAP guidelines
+    recommendations for HER2 testing in breast cancer (J Clin Oncol 2007;
+    25(1):118-145).    The SR and PR rabbit monoclonal antibodies are also FDA
+    approved.
+
+6)     LEFT BREAST; MASTECTOMY:
+       BENIGN BREAST WITH PAPILLARY APOCRINE HYPERPLASIA, USUAL DUCTAL
+       HYPERPLASIA AND COLUMNAR CELL CHANGE.
+       - BENIGN NIPPLE.
+
+7)     RIGHT ROTTER'S NODE; EXCISION:
+       - METASTATIC CARCINOMA LARGELY REPLACING ONE OF ONE LYMPH NODE (1/1).
+       - THE METASTATIC FOCUS MEASURES 0.9 CM, WITH NO EXTRANODAL EXTENSION.
+
+8)     ADDITIONAL LEVEL 1 LYMPH RIGHT AXILLA NODE 1; EXCISION:
+       - METASTATIC CARCINOMA INVOLVING THREE OF THREE LYMPH NODES (3/3).
+       LARGEST METASTATIC CARCINOMA MEASURES 0.9CM.
+       - EXTRANODAL EXTENSION IS PRESENT.
+
+9)     ADDITIONAL RIGHT LEVEL 2 AXILLARY CONTENTS; EXCISION:
+       - METASTATIC CARCINOMA INVOLVING FOUR OF FOUR LYMPH NODES (4/4).
+       LARGEST METASTATIC CARCINOMA MEASURES 0.5CM.
+       - EXTRANODAL EXTENSION IS PRESENT.
+
+10)    LEVEL 3 LYMPH NODE RIGHT AXILLA; EXCISION:
+       METASTATIC CARCINOMA LARGELY REPLACING ONE OF ONE LYMPH NODE (1/1).
+       LARGEST METASTATIC CARCINOMA MEASURES 0.2CM.
+       - EXTRANODAL EXTENSION IS PRESENT.
+
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+
+
+*** Report Electronically Signed Out ***
+
+Gross Description:
+
+
+
+1). The specimen is received for a canceled a canceled frozen section
+
+                    ** Continued on next page **
+
+=================================== PAGE 4 ===================================
+Page 4 of 8
+consultation, placed in formalin labeled "Sentinel node number one level 1
+left axilla" and consists of a 1.4 x 0.5 x 0.5 cm piece of lymphoid fatty
+tissue is bisected and entirely submitted.
+
+Summary of sections:
+U - undesignated
+
+
+2). The specimen is received for a canceled frozen section consultation,
+placed in formalin, labeled "Sentinel node number two, level one left
+axilla" and consists of a 1.3 x 1.3 x 0.5 cm pink-tan lymph node which is
+bisected and entirely submitted.
+
+Summary of sections:
+U - undesignated
+
+
+3). The specimen is received fresh for frozen section consultation, labeled
+"Sentinel node number one level 1 right axilla" and consists of a 0.4 x 0.4
+x 0.3 cm lymph node which is bisected and entirely submitted for frozen
+section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+4). The specimen is received   fresh for frozen section consultation,
+labeled "Sentinel node number two level 1 right axilla" and consists of a
+1.2 x 1.0 x 1.0 cm lymph node which is bisected and entirely submitted for
+frozen section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+5) The specimen is received fresh labeled, "right breast and axillary
+contents level 1,2, and 3" and consists of a breast with attached axillary
+contents. The breast measures 19 x 18 x 6 cm with overlying skin ellipse
+measuring 18 x 6 x 7.5 cm. Situated on the skin surface is a nipple measuring
+1.5 x 1.5 x 0.5 cm. Deep to this is scar measuring 3.5 cm. The skin shows no scar.
+Axillary contents measures 14 x 7 x 2.5 cm. The posterior surface of the
+breast is inked black and the anterior surface is inked blue. The specimen is serially
+sectioned to reveal a mass (mass 1) measuring 2.8 x 3.01 x 2.5 cm, and
+located in the UIQ at 1 o' clock and 3.3 cm from the nipple. A clip is
+identified in the mass 1. Another mass (mass 2) measuring 2.5 x 2.2 x 1.5 cm
+LIQ at 5 o' clock , located 4.5 cm from the deep margin is identified. The
+remaining breast tissue shows fibroglandular tissue. The axillary tissue is
+dissected to reveal multiple lymph nodes. Representative sections are
+
+
+** Continued on next page **
+
+=================================== PAGE 5 ===================================
+Page 5 of 8
+submitted. All dissected lymph nodes are entirely submitted.
+
+Summary of sections:
+N - nipple
+NB - nipple base
+D1 - deep margin for mass 1
+D2  deep margin for mass 2
+T1  mass 1
+T2  mass 2
+UIQ - upper inner quadrant
+LIQ - lower inner quadrant
+UOQ - upper outer quadrant
+LOQ - lower outer quadrant
+LN  lymph nodes
+
+                                                                . M.D.
+
+6) The specimen is received fresh labeled, "left breast" and consists of a
+breast measuring 25 x 18 x 5cm with overlying skin ellipse measuring 18 x 8
+cm. Situated on the skin surface is a nipple measuring 1.8 x 1.3 cm and
+areola measuring 9.5 cm. The skin is unremarkable. A suture is to the axillary aspect. The posterior surface of the breast is inked black and the
+axillary aspect is inked yellow. The specimen is serially sectioned to
+reveal unremarkable fibroglandular tissue without mass lesion. Sectioning of
+the axillary aspect reveals no grossly identifiable lymph nodes.
+Representative sections are submitted.
+
+Summary of sections:
+N - nipple
+NB - nipple base
+D - deep margin
+UIQ - upper inner quadrant
+LIQ - lower inner quadrant
+UOQ - upper outer quadrant
+LOQ - lower outer quadrant
+
+
+7). The specimen is received in formalin, labeled "Right Rotter' s node" and
+consists of a single pink tan fleshy lymph node measuring 1 x 0.8 x 0.5 cm.
+The lymph node is entirely submitted.
+
+Summary of sections:
+LN- lymph node
+
+
+8). The specimen is received in formalin, labeled "Additional level 1 lymph
+node,, right axilla" and consists of four pink tan firm lymph nodes ranging
+from 0.4 to 2.2 cm in greatest dimension. All identified lymph nodes are
+submitted.
+
+Summary of sections:
+LN -- lymph nodes
+NLWN1-- bisected lymph node #1
+
+
+                    ** Continued on next page **
+
+=================================== PAGE 6 ===================================
+Page 6 of 8
+--------------------------------------------------------------------------------
+BLN2' bisected lymph node #2
+
+
+9). The specimen is received in formalin, labeled "Additional right level
+two axillary contents" and consists of a portion of yellow tan adipose
+tissue, with four pink tan firm lymph nodes ranging from 0.6 to 1 cm in
+greatest dimension. All identified lymph nodes are submitted.
+
+Summary of sections:
+LN -- lymph nodes
+
+
+10). The specimen is received in formalin, labeled "Level three lymph node,
+right axilla" and consists of a single pink tan fatty lymph node measuring
+0.8 x 0.3 x 0.2 cm. The lymph node is entirely submitted.
+
+Summary of sections:
+LN- lymph node
+
+
+
+Summary of Sections:
+Part 1: SP: Sentinel node #1 level 1 left axilla
+
+Block          Sect. Site         PCs
+1              u                  1
+
+Part 2: SP: Sentinel node #2 level 1 left axilla
+
+Block          Sect. Site         PCs
+1              u                  1
+
+Part 3: SP: Sentinel node #1 level 1 right axilla (fs)
+
+Block          Sect. Site         PCs
+1              fsc                1
+
+Part 4: SP: Sentinel node #2 level 1 right axilla (fs)
+
+Block          Sect. Site         PCs
+1              fsc                1
+
+Part 5: SP: Right breast and axillary contents level 1, 2, and 3
+
+Block          Sect. Site         PCs
+5              BLM                10
+1              D1                 1
+1              D2                 1
+1              LIQ                1
+5              LN                 15
+
+
+** Continued on next page **
+
+=================================== PAGE 7 ===================================
+Page 7 of 8
+    2           LOQ                 2
+    3           N                   1
+    1           NB                  1
+    3           T1                  3
+    3           T2                  3
+    1           UIQ                 1
+    2           UOQ                 2
+
+Part 6:  SP: Left breast
+
+Block       Sect. Site         PCs
+1           P                       1
+2           LIQ                     2
+2           LOQ                     2
+1           N                   2   1
+1           NB                      1
+2           UIQ                     2
+2           UOQ                     2
+
+Part 7:  SP: Right rottar's node
+
+Block       Sect. Site         PCs
+1           LN                      1
+
+Part 8:  SP: Additional level 1 lymph right axilla node 1
+
+Block       Sect. Site         PCs
+1           bln1                    2
+2           bln2                    2
+1           LN                  2
+
+Part 9:  SP: Additional right level 2 axillary contents
+
+Block       Sect. Site         PCs
+1           LN                      4
+
+Part 10:  SP: Level 3 lymph node right axilla
+
+Block       Sect. Site         PCs
+1           LN                      1
+
+
+Intraoperative Consultation:
+Note:  The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+
+    3)      FROZEN SECTION DIAGNOSIS:      SP: SENTINEL NODE #1 LEVEL 1 RIGHT
+AXILLA (FS):  BENIGN LYMPH NODE (
+    PERMANENT DIAGNOSIS: SAME
+
+    4)      FROZEN SECTION DIAGNOSIS:      SP: SENTINEL NODE #2 LEVEL 1 RIGHT
+AXILLA (FS):  METASTATIC CARCINOMA
+    PERMANENT DIAGNOSIS: SAME
+
+
+                    ** Continued on next page **
+
+=================================== PAGE 8 ===================================
+Page 8 of 8
+
+
+    M:  The diagnoses given in this section pertain only to the tissue sample
+        amined at the time of the intraoperative consultation.
+
+        3)      FROZEN SECTION DIAGNOSIS:      SP: SENTINEL NODE #1 LEVEL 1 RIGHT
+    AXILLA (FS): BENIGN LYMPH NODE
+    PERMANENT DIAGNOSIS: SAME
+
+        4)      FROZEN SECTION DIAGNOSIS:      SP: SENTINEL NODE #2 LEVEL 1 RIGHT
+    AXILLA (FS): METASTATIC CARCINOMA         ,.
+    PERMANENT DIAGNOSIS: SAME
+
+
+
+
+                              ** End of Report **

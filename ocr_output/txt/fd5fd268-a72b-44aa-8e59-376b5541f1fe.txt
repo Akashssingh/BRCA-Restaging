@@ -1,0 +1,104 @@
+=================================== PAGE 1 ===================================
+/Cb-0-3
+Carcinoma infiltrating ductal NOS 8500/3
+Site: breast, NOS C50.9   /obl.  [signature mark]
+
+Pathology Form
+
+Specimen Information
+
+Collected by: _______ L                    Date: _____            _Time:_____
+
+Preserved by: _ — ·                        _______ L _______     Date —  _______    To:______
+
+SPECIMEN.TYPE.(#of samples provided)
+Frozen                           Paraffin Block                Blood/Serum/Plasma             Slide
+Diseased      Normal      Diseased      Normal      Diseased      Normal      Diseased      Normal
+4                2              4              2                                              4              2
+Time to LN2                Time to Formalin                    Time to LN2
+/2              min         /3              min                                min
+
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Organ                                    Size              Extension of Tumor      Distance to NAT
+BREAST TUMOR                    4 x 3 x 3 cm                                      6          cm
+                                      Lymph Nodes
+Location                              # Examined                    # Metastasized
+
+
+
+
+Distant Metastasis
+Organ                              Detailed Location                         Size
+
+
+
+
+Pathological Staging
+pT 2    N 2    Mo                 Stage: IV
+
+Notes:        BREAST nodes 8  ( positive 4 · Negative 4-)
+
+
+UUDI:65C73797_1A85-47AD-5AF6-45A28788C45
+TCGA-CM-A371-01A-PR                     Redacted
+[BARCODE]
+
+                                                              Criteria                     Yes    No
+                                                              Diagnostic Discrepancy
+                                                              Primary Tumor Site Discrepancy
+                                                              Unknown Accession
+                                                              Prior Malignancy History
+                                                              Synchronous Primary Present
+                                                              Different Category           (SELECT)        (SELECT) FEB           9/20/10
+                                                              [signatures/marks]           Date Received
+4
+
+=================================== PAGE 2 ===================================
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+
+Microscopic Appearance:
+
+1. Histological pattern:
+CELL DISTRIBUTION | + | - | STRUCTURAL PATTERN | + | -
+Diffuse | | X | Streaming | |
+Mosaic | | X | Storiform | |
+Necrosis | | X | Fibrosis | |
+Lymphocytic Infiltration | | X | Palisading | |
+Vascular Invasion | | X | Cystic Degeneration | |
+Clusterized | | X | Bleeding | |
+Alveolar Formation | | X | Myxoid change | |
+Indian File | | X | Psammoma/Calcification | |
+
+2. Cellular features:
+| + | - | Adenomatous | + | - | Sarcomatous | + | - | Lymphomatous | + | -
+Squamous | | | | X | | Round Cell | | | Large Cell | |
+Squamoid Cell | | | Glandular cell | X | | | | | Small Cell | |
+Spindle Cell | | | Cell Stratification | X | Fibrosarcoma | | | |
+Kernel | | | Secretion | X | Osteoblast | | | R5 Cell/R5 Like | |
+Desmosome | | | Intracyt. Vacuole | X | Lipoblast | | | Inflam. Cell | |
+Pearl | | | Gland formation | | X | Myoblast | | | Plasma Cell | |
+Otherwise Specified: D, 70%, Dc 70%, Da 70%, Dg 25%, NECLASX 5%
+
+2. Cellular Differentiation:
+Well | Moderately | Poor
+| | X
+
+3. Nuclear Atypia:
+Nuclear Appearance | 0 | I | II | III
+Aniso Nucleosis | | | | X
+Hyperchromatism | | | | X
+Nucleolar Prominent | | | | X
+Multinucleated Giant Cell | | | | X
+Mitotic Activity | | | | X
+Nuclear Grade
+
+Histological Diagnosis: Infiltrating Ductal Carcinoma, NOS, G-5
+
+Comments: MD: Carcinoma metastasized to LN; it not a Lymphoma; Rejected
+
+Date
+
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY:
+
+* (INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND

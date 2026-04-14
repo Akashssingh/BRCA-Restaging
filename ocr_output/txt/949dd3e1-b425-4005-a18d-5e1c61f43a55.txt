@@ -1,0 +1,137 @@
+=================================== PAGE 1 ===================================
+Surgical Pathology Report
+
+* Final Report *
+
+Result type:        Surgical Pathology Report
+Result date:
+Result status:      Signed
+Result title:       Surgical Pathology Report
+Performed by:
+Verified by:
+Encounter info:
+
+                    * Final Report *
+
+Clinical History
+Right breast IDC at 12:00 position on prior core, ER+, PR+, HER2-
+FNA of right axillary node was positive
+
+Specimen
+#1       Right breast, stitch is lateral
+#2       Right axillary contents
+
+Gross Examination
+#1       Received fresh labeled right breast, stitch is lateral, is a 1108 gram,
+21.5 x 20.0 x 6.5 cm simple mastectomy specimen, oriented as stated above.
+There is a overlying 16.5 x 11.6 cm ellipse of brown skin with a normal
+appearing nipple and areola. There is no scarring or retraction on the skin
+surface.
+
+The deep margin is inked black and sectioning demonstrates a 17.5 x 12.0 cm
+ill-defined area of firm, gritty pink tan fibrogiandular tissue, spanning all
+four quadrants. The gritty tissue is 0.6 cm from the nearest overlying deep
+margin, (upper inner quadrant). Within the gritty, nodular parenchyma there is
+a well circumscribed 4.0 x 3.5 x 3.5 cm white tan, indurated mass. This mass is
+located subareolar, is 1.8 cm deep to the skin, 2.5 cm from the deep margin and
+at least 6 cm from all remaining margins. There are also four additional
+smaller well circumscribed white tan, indurated masses, all within the upper
+inner quadrant. They range from 1.0-1.6 cm in greatest dimension. The closest
+to the largest subareolar mass is 3.0 cm away (superior and medial). One of the
+smaller nodules in the upper inner quadrant is focally hemorrhagic
+(approximately 12:00-1:00 location).
+
+The remainder of the tissue is composed of soft, lobulated adipose tissue
+intermixed with scant, delicate brands of fibrous tissue (80% and 20%
+respectively). There are no apparent lymph nodes at the lateral pole and no
+additional obvious masses are grossly seen. Fourteen sections are submitted in
+thickest "A-M". Block summary: "A", nipple and skin; "B", deep margin at
+closest approach to gritty nodular tissue (upper inner quadrant), perpendicular;
+"C", deep margin at closest approach to subareolar mass, perpendicular; "D",
+subareolar mass; "E-H", four smaller masses in upper inner quadrant (one section
+per mass), focally hemorrhagic mass at 12:00-1:00 in "E"; "I", most medial
+aspect of gritty nodular tissue; "J", most lateral aspect of gritty nodular
+
+Printed by:
+Printed on:                                                    Page 1 of 3
+                                                               (Continued)
+
+=================================== PAGE 2 ===================================
+Surgical Pathology Report
+
+* Final Report *
+
+tissue; "K", gritty, nodular tissue from lower inner quadrant; "L", gritty
+tissue from upper outer quadrant; "M", gritty tissue from lower outer quadrant.
+
+#2 Received fresh, placed in                                labeled right axillary
+contents, is a 9.0 x 7.0 x up to 2.5 cm aggregate of multiple irregular
+fragments of tan yellow fibroadipose tissue. After fixation, multiple lymph
+node candidates are identified up to 2.0 cm in greatest dimension. Within the
+node candidates there is a focal firm, 0.8 cm area of discoloration. The
+largest candidate there is submitted as thirty-three sections in fifteen: "A-O". Block
+summary: "A", representative cross section of abnormally firm lymph node
+candidate; "B", one candidate trisected; "C-E", one candidate each cassette,
+each trisected; "F", multiple individual candidates; "G", one candidate bisected;
+each bisected; "H", one candidate trisected; "I-L", one candidate, each cassette, each
+bisected; "M-O", lymph node candidate, sectioned.
+
+Microscopic Examination
+#1,2 Microscopic examination performed.
+
+Comment
+The breast is extensively involved by DCIS, over an area that spans all four
+quadrants and involves most of the breast. Scattered throughout the DICS are
+four discrete foci of invasive ductal carcinoma, all with identical histology.
+
+Signature Line
+Signed by:
+ELECTRONIC SIGNATURE
+
+Final Diagnosis
+#1 BREAST, RIGHT SIMPLE MASTECTOMY:
+   MULTIFOCAL INVASIVE DUCTAL CARCINOMA, INTERMEDIATE GRADE.
+   THERE ARE FOUR FOCI OF INVASIVE TUMOR, ALL WITH IDENTICAL HISTOLOGY.
+   TUBULE FORMATION: MODERATE (SCORE 2).
+   NUCLEAR PLEOMORPHISM: MODERATE (SCORE 2).
+   MITOTIC COUNT: MODERATE (SCORE 2).
+   TOTAL NOTTINGHAM SCORE: 6 OF 9 (GRADE II).
+   LOCATION IN BREAST: LARGEST MASS IS AT 12:00-1:00 POSITION, THE FOUR
+   SMALLER MASSES ARE ALL IN THE UPPER INNER QUADRANT.
+   (SEE COMMENT)
+   TUMOR SIZE: 4.0 CM, 1.6 CM, 1.5 CM, 1.0 CM, 1.0 CM.
+   PERCENT OF INTRADUCTAL CARCINOMA (DCIS): APPROXIMATELY 90%, RANGING
+   FROM INTERMEDIATE TO HIGH NUCLEAR GRADE WITH NECROSIS.
+   STATUS OF BREAST TISSUE AWAY FROM LESION: FIBROCYSTIC CHANGES.
+   LOCAL LYMPHATIC SPACE STATUS: NEGATIVE.
+   DERMAL LYMPHATIC SPACE STATUS: NEGATIVE.
+   SKIN AND NIPPLE SURFACE: NEGATIVE.
+   SURGICAL MARGIN STATUS: NEGATIVE (AT LEAST 0.9 CM).
+   STATUS OF MICROCALCIFICATIONS: PRESENT IN DCIS.
+
+Printed by:                                                          Page 2 of 3
+Printed on:                                                          (Continued)
+
+=================================== PAGE 3 ===================================
+Surgical Pathology Report
+
+* Final Report *
+
+                    ESTROGEN RECEPTOR ASSAY: POSITIVE ON PRIOR CORE (2+, 95%).
+                    PROGESTERONE RECEPTOR ASSAY: POSITIVE ON PRIOR CORE (3+, 95%).
+                    HERCEPTEST (HER-2/NEU) STATUS: NEGATIVE ON PRIOR CORE (SCORE 1+).
+
+#2   LYMPH NODES, RIGHT AXILLA, DISSECTION:
+     POSITIVE FOR METASTATIC CARCINOMA (2/16).
+     SIZE OF LARGEST METASTASIS: 0.8 CM, NO EXTRACAPSULAR EXTENSION.
+
+PATHOLOGIC STAGE (TNM CLASSIFICATION): pT2 pN1a.
+
+Ordering Provider
+Ordering Physician:
+
+
+Printed by:
+Printed on:                                                                    Page 3 of 3
+                                                                               (End of Report)
+                                                                       7/24/13

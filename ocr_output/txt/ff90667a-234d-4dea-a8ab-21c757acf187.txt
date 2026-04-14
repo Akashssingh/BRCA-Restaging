@@ -1,0 +1,27 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+                         Carcinoma, infiltrating lobules, NOS  8520/3
+             Path  Site: Breast, ULQ  C50.2      1/5/11  lw
+             CGIF  Site: Breast, nos  C50.9
+
+
+
+
+Diagnosis:
+                1. Invasive carcinoma (tumor diameter: 2.5 cm) with focal slight
+intraductal spread. Invasion of lymph vessels.
+
+In conclusion this is a poorly differentiated lobular carcinoma.
+Tumor classification: lobular carcinoma, G III, pT2N3aL1V0RX.
+
+
+
+
+                                      UUID:D73AF788-EED1-413C-B240-C97F27E4EBLF
+                                      TCGA-A8-A09W-01A-PR                    Redacted
+                                      [BARCODE IMAGE]
+
+
+
+
+                                      [SIGNATURE/STAMP IMAGE - appears to be a diagonal stamp or signature]

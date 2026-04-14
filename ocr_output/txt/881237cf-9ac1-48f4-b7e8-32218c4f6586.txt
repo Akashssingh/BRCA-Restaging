@@ -1,0 +1,113 @@
+=================================== PAGE 1 ===================================
+Criteria       5/29/11        Yes     No
+                                                                        Specimens Discrepancy
+                                                                        Specimen Label Discrepancy
+ICb-0-3                                                                HIPAA Compliance
+Carcinoma, infiltrating duct, NOS 85003                                Drug Malignancy History
+Site: breast, NOS   C50.9                      5/29/11                 Qual/Perf/Compl/Time/Primary Noted
+                                                                        Case is Ethnic      COMPLETE / INSERTIVE?
+                                                                        Diagnosis Online    Staff Pathologist  5-20-11
+
+
+
+DIAGNOSIS
+
+(A) LEFT AXILLARY SENTINEL LYMPH NODE #1, EXCISION:
+    METASTATIC CARCINOMA INVOLVING 1 OF 1 LYMPH NODE (1/1).
+    LYMPH NODE METASTASIS MEASURES 0.2 MM AND IS SEEN ON H AND E SECTION.
+    NO EXTRA NODAL EXTENSION IDENTIFIED
+(B) LEFT AXILLARY SENTINEL LYMPH NODE #2, EXCISION:
+    One lymph node, no tumor present.
+(C) LEFT AXILLARY SENTINEL LYMPH NODE #3, EXCISION:
+    One lymph node, no tumor present.
+(D) LEFT AXILLARY SENTINEL LYMPH NODE #4, EXCISION:
+    One lymph node, no tumor present.
+(E) LEFT AXILLARY SENTINEL LYMPH NODE #5, EXCISION:
+    Two lymph nodes, no tumor present.
+(F) LEFT AXILLARY SENTINEL LYMPH NODE #6, EXCISION:
+    One lymph node, no tumor present.
+(G) LEFT BREAST, TOTAL MASTECTOMY:
+    INVASIVE DUCTAL CARCINOMA, MODIFIED BLACK'S NUCLEAR GRADE 3 (POORLY DIFFERENTIATED)
+    INVOLVING TWO SEPARATE NODULES. (SEE COMMENT)
+    INVASIVE DUCTAL CARCINOMA MEASURES 1.8 CM AND 0.5 CM IN GREATEST DIMENSION.
+    DUCTAL CARCINOMA IN SITU (INTERMEDIATE GRADE) CRIBRIFORM AND SOLID PATTERNS, INVOLVING
+    LESS THAN 5% OF THE TUMOR.
+    LYMPHOVASCULAR INVASION IDENTIFIED.
+    Pseudo angiomatous stromal hyperplasia.
+    Columnar cell alterations.
+    Proliferative fibrocystic changes.
+    Fibroadenoma.
+    Margins of resection are free of tumor.
+
+(H) LEFT AXILLARY SENTINEL LYMPH NODE #7, EXCISION:
+    One lymph node, no tumor present.
+(I) SENTINEL LYMPH NODE #8, EXCISION:                              WJID:D437E9FF-5C00-4FD6-B8D8-0881CDC45807
+    One lymph node, no tumor present.                              TCGA-GM-A2D1-01A-PR        Redacted
+                                                                   [BARCODE IMAGE]
+Entire report and diagnosis completed by
+
+COMMENT
+
+Invasive ductal carcinoma is present in two different foci, the larger nodule measures 1.8 cm in greatest dimension and is located
+in the left upper outer quadrant at 3-4 o'clock. The smaller nodule measures 0.5 cm in greatest dimension and is located in the
+lower inner quadrant. Resection margins are negative for tumor.
+
+Prognostic markers were performed on the patient's core biopsy.
+
+
+GROSS DESCRIPTION
+
+(A) LT AXILLARY SLN #1, BLUE, COUNT IN VIVO 320, EX VIVO 543 - A tan-blue stained lymph node (1.2 x 0.7 x 0.6 cm).
+Trisected. Touch preparations are made.
+    *FS/DX: NEGATIVE FOR TUMOR.
+(B) LT AXILLARY SLN #2, BLUE, COUNT IN VIVO 53, EX VIVO 33 - A tan-blue stained lymph node (1.2 x 0.7 x 0.6 cm).
+Trisected. Touch preparations are made. Submitted for touch prep analysis ( 2 touch preps).
+    *FS/DX: NEGATIVE FOR TUMOR.
+(C) LT AXILLARY SLN #3, BLUE, COUNT IN VIVO 300, EX VIVO 588 - A tan-blue stained lymph node (0.9 x 0.6 x 0.5 cm).
+Trisected. Touch preparations are made. Submitted for touch prep analysis ( 2 touch preps)
+
+=================================== PAGE 2 ===================================
+(D) LT AXILLARY SLN #4, IN VIVO 300, EX VIVO 44 - A tan-blue stained lymph node (0.5 x 0.2 x 0.2 cm). Touch preparations
+are made. Bisected and Submitted for touch prep analysis ( 2 touch preps)..
+*FS/DX: NEGATIVE FOR TUMOR.
+(E) LT AXILLARY SLN #5, BLUE, COUNT IN VIVO 107, EX VIVO 212 - Two tan-blue stained lymph nodes (1.2 x 0.5 x 0.5 cm
+and 0.6 x 0.4 x 0.4 cm). Touch preparations are made. Larger node is sectioned into five pieces and entirely submitted in E1.
+Smaller lymph node is bisected and submitted in toto in E2.
+*FS/DX: NEGATIVE FOR TUMOR.
+(F) LT AXILLARY SLN #6, BLUE, COUNT IN VIVO 44, EX VIVO 92 - A tan-blue stained lymph node (0.9 x 0.8 x 0.8 cm). Touch
+preparations are made. Trisected and Submitted for touch prep analysis ( 2 touch preps).
+*FS/DX: NEGATIVE FOR TUMOR.
+(G) LEFT BREAST - An oriented mastectomy specimen (15.0 x 11.0 x 4.0 cm), with skin ellipse (14.5 x 7.5 x 0.2 cm).
+Unremarkable areola and nipple (0.9 x 0.9 cm). Serially sectioned from lateral to medial.
+A tan firm mass (index mass) with irregular borders located in left outer quadrant, at 3-4 o'clock, 1.8 x 1.7 x 1.5 cm.
+Closest margin is deep margin. Diffuse areas of nodularity and fibrosis adjacent to the tumor and extending superiorly into the
+upper outer quadrants and into the inner quadrants, measuring 6.0 x 5.0 x 5.0 cm. A white fibrotic nodule, located in lower outer
+quadrant, at 5 o'clock, 2.3 x 1.5 x 1.5 cm. A firm white fibroadenoma, 1.0 x 1.0 x 0.9 cm is located at 12 o'clock.
+NOTE: The specimen is inked different from routine.
+INK CODE: Blue - superior, black - deep, green - inferior, red - medial and lateral.
+SECTION CODE: G1, index mass and deep margin; G2-G5, index mass; G6, G7, fibrotic nodule at 5 o'clock; G8, G9,
+lower outer quadrant; G15, upper inner quadrant;
+possible fibroadenoma at 12 o'clock; G10, G11, upper outer quadrant; G12-G14, lower inner quadrant; G15, upper inner quadrant;
+G16, lower inner quadrant; G17, deep margin; G18, superior margin; G19, interior margin; G20, nipple; G21, skin.
+
+(H) LEFT AXILLARY SENTINEL LYMPH NODE #7 IN VIVO 35, EX VIVO 55- One lymph node, 0.2 x 0.2 x 0.1 cm. Two touch
+preps are performed and the specimen is entirely submitted for frozen section per protocol H. .
+*TP/DX: NO TUMOR PRESENT.
+(I) SENTINEL LYMPH NODE #8, NOT BLUE, IN VIVO 55, EX VIVO 85 - A 0.3 x 0.2 x 0.2 cm pink-tan lymph node, bisected and
+submitted in toto in I. Two touch preps prepared
+*TP/DX: NO TUMOR PRESENT.
+
+CLINICAL HISTORY
+
+Breast carcinoma.
+
+SNOMED CODES
+
+T-04050, M-85003, M-80310, M-72571
+
+"Some tests reported here may have been developed and performance characteristics determined by l
+These tests have not been specifically cleared or approved by the U.S. Food and Drug Administration."
+
+Released by:
+
+------END OF REPORT------

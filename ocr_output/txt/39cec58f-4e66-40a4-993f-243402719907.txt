@@ -1,0 +1,288 @@
+=================================== PAGE 1 ===================================
+Clinical Diagnosis & History:
+Right breast Cancer on cone biopsy and left breast Abnormality for right TW,
+State, possible right ALND, and left breast needle localization and excision.
+
+Specimens Submitted:
+1: SP: Sentinel node #1 level 1 right axilla
+2: SP: Non-sentinel right axilla
+3: SP: Left breast segmental resection
+4: SP: Right breast
+
+DIAGNOSIS:
+
+1)
+    SENTINEL NODE #1, LEVEL I, RIGHT AXILLA: BIOPSY.
+    - ONE BENIGN LYMPH NODE (0/1).
+    - DEEPER LEVEL RECURS AND SPECIAL STAINS HAVE BEEN ORDERED. THE RESULTS
+    WILL BE REPORTED IN AN ADDENDUM.
+
+2)
+    NON-SENTINEL LYMPH NODE, RIGHT AXILLA: BIOPSY.
+    - ONE BENIGN LYMPH NODE (0/1).
+
+3)
+    BREAST, LEFT: SEGMENTAL RESECTION:
+    BREAST TISSUE SHOWING DUCTAL HYPERPLASIA WITHOUT ATYPIA AND STROMAL
+    FIBROSIS.
+
+4)
+    BREAST, RIGHT: MASTECTOMY:
+    - INVASIVE DUCTAL CARCINOMA WITH A SOLID PAPILLARY ARCHITECTURE.
+    HISTOLOGIC GRADE II/III (SLIGHT OR NO TUBULE FORMATION). NUCLEAR GRADE
+    II/III (MODERATE VARIATION IN SIZE AND SHAPE, MEASUREM OR IN LARGEST
+    DIMENSION GROSSLY.
+    - DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID TYPE WITH
+    INTERMEDIATE NUCLEAR GRADE AND MINIMAL NECROSIS.
+    - THE DCIS CONSTITUTES <25% OF THE TOTAL TUMOR MASS AND IS PRESENT AWAY
+    FROM THE INVASIVE COMPONENT.
+    - THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER AND LOWER INNER
+    QUADRANTS AND CENTRAL AREA.
+    - THE DCIS IS LOCATED IN THE CENTRAL AREA.
+    - NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA
+    IS IDENTIFIED.
+    - NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+
+** Continued on next page **
+
+[Handwritten notes on right side:]
+10-03
+calcitoma w/infiltrating duct nos
+Site bovest
+1251 9.7 Rx 1
+
+[Barcode visible on left side]
+
+=================================== PAGE 2 ===================================
+COMPONENT.
+   - NO VASCULAR INVASION IS NOTED.
+   - NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+   - NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+   - THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES.
+   - RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU AND NEUROENDOCRINE
+MARKERS) WILL BE REPORTED           AS AN ADDENDUM.
+
+NOTE:
+            HAS REVIEWED THE CASE AND CONCURS.
+
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+
+
+*** Report Electronically Signed Out ***
+
+Special Studies:
+Result
+                    Special Stain
+                    AE1:AE3                Comment
+                    NEG CONT
+                    IMM RECUT
+                    RECUT
+                    RECUT
+                    RECUT
+                    RECUT
+                    ER-C
+                    PR-C
+                    HER2-C
+                    CHR
+                    SYN
+                    CD56
+                    B-CADHERIN
+                    E-CADHERIN
+                    NEG CONT
+                    IMM RECUT
+                    RECUT
+
+
+Gross Description:
+
+
+1)      The specimen is received fresh for frozen section, labeled "Sentinel
+Node #1 Level 1 Right Axilla". It consists of a 0.6 cm lymph node
+surrounded by adipose tissue. Entirely frozen.
+
+Summary of Sections:
+FSC - frozen section control
+
+
+
+** Continued on next page **
+
+=================================== PAGE 3 ===================================
+3
+
+2)      The specimen is received fresh for frozen section, labeled
+"Non-sentinel Right Axilla". It consists of a 1.8 cm lymph node, sectioned
+and entirely submitted.
+
+Summary of Sections:
+FSCA - frozen section control A
+FSCB - frozen section control B
+
+
+3)      The specimen is received frozen, labeled "Left Breast Segmental
+Resection (short stitch superior, long stitch lateral)". It consists of a
+4.5 x 3.8 x 0.9 cm irregular fragment of adipose tissue oriented with a
+suture placed for the lateral and a short suture for the superior aspect. The
+specimen is inked with standard colors: anterior - yellow; posterior -
+black, inferior - red and superior - blue. Serial sections reveal a mostly
+identifiable mass on the surface with focal adipose tissue. No gross
+fibrous appearance at scan. The specimen is serially sectioned and entirely
+submitted.
+
+Summary of Sections:
+LM - lateral margin
+MM - medial margin
+S serial sections from the lateral to medial aspect
+
+
+4)      The specimen is received fresh, labeled "Right Breast (stitch marks
+axillary tail)". It consists of a 22.5 x 16.3 x 3.2 cm breast, oriented
+with a stitch for the axillary tail and displaying skin centrally located
+1.5 x 0.6 cm unremarkable nipple. In the same container, multiple fragments
+areola. The epidermis measures 8.5 x 6 cm with a
+of adipose tissue are found, measuring 3.5 x 3.5 x 2
+cm. Serial sections of the Breast parenchyma reveal a simple fragments
+firm, fleshy, tan mass with relatively well circumscribed borders, located
+centrally, retroareolar, on the upper inner and lower inner quadrants, and
+is located at 3.3 cm from the deep margin. The involved Breast parenchyma
+is retracted, focal, mostly with focal areas of fibrosis. Representative
+sections are submitted. The axillary tail is dissected and several possible
+lymph nodes are found. A representative section is submitted for T7S.
+
+Summary of Sections:
+N - nipple
+G - sections of the tumor including the deep margin
+UIO upper inner quadrant
+UOO upper outer quadrant
+LIQ lower inner quadrant
+LOQ lower outer quadrant
+GMA tissue labeled "r/o with breast"
+LN - possible lymph nodes
+
+
+                ** Continued on next page **
+
+=================================== PAGE 4 ===================================
+4
+
+
+                Summary of Sections:
+                Part I: SP: Sentinel node #1 level 1 right axilla
+
+                Block          Sect. Site
+                1                    fsc         PCs
+                                                      0
+
+                Part 2: SP: Non-sentinel right axilla
+
+                Block          Sect. Site
+                1                    (not entered)    PCs
+                1                    fsc              1        1
+
+                Part 3: SP: Left breast segmental resection
+
+                Block          Sect. Site
+                2                    am          PCs
+                2                    am               0
+                8                    z                0
+                                     z                0
+
+                Part 4: SP:    Right breast
+
+                Block          Sect. Site
+                1                    gvb         PCs
+                2                    uq               3
+                6                    LN               0
+                2                    m                6
+                4                    loq              0
+                4                    n                
+                2                    t                4
+                2                    uiq              6
+                                     uoq              0
+                                                      4
+
+
+                Procedures/Addenda:
+                Addendum
+                Date Ordered:
+                Date Complete:                   Status: Signed Out
+                Date Reported:                   By:
+
+                Addendum Diagnosis
+                ADDENDUM
+
+                SITE:   SENTINEL LYMPH NODE #1, LEVEL I, RIGHT AXILLA:
+                PART #1:
+
+                - ADDITIONAL H&E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+                CYTOKERATINS (AE1:AE3) SHOW NO EVIDENCE OF METASTATIC TUMOR.
+
+
+                                ** Continued on next page **
+
+=================================== PAGE 5 ===================================
+5
+
+
+Addendum
+Date Ordered:
+Date Complete                               Status: Signed Out
+Date Reported                               By:
+
+Addendum Diagnosis
+ADDENDUM
+
+SITE: RIGHT BREAST
+PART #4.
+
+ER: 95% OF NUCLEAR STAINING WITH STRONG INTENSITY.
+PR: 95% OF NUCLEAR STAINING WITH STRONG INTENSITY.
+HER2/NEU (HERCEPTEST): NEGATIVE (STAINING INTENSITY OF 0).
+CONTROLS ARE SATISFACTORY.
+
+
+
+
+Addendum
+Date Ordered:
+Date Complete:                              Status: Signed Out
+Date Reported:                              By:
+
+Addendum Diagnosis
+ADDENDUM
+
+SITE: LEFT BREAST
+PART #3
+
+- CALCIFICATIONS ARE PRESENT IN BENIGN DUCTS AND CRYSTALS CONSISTENT WITH
+CALCIUM OXALATE ARE PRESENT IN APOCRINE CYSTS.
+
+
+
+
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+
+** Continued on next page **
+
+=================================== PAGE 6 ===================================
+4/
+
+1)       FROZEN SECTION DIAGNOSIS:
+         PERMANENT DIAGNOSIS: SAME.      NEGATIVE LYMPH NODE.
+
+2A)      FROZEN SECTION DIAGNOSIS:
+         PERMANENT DIAGNOSIS: SAME.      NEGATIVE LYMPH NODES (2 SECTIONS).
+
+2B)      FROZEN SECTION DIAGNOSIS:
+         PERMANENT DIAGNOSIS: SAME.      NEGATIVE LYMPH NODES (2 SECTIONS).
+
+
+
+
+** End of Report **

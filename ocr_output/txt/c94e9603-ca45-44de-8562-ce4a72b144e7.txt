@@ -1,0 +1,22 @@
+=================================== PAGE 1 ===================================
+Criteria
+                                                    PREGNANCY                                   Yes        No
+                                                    Primary Tumor Site (CONSULT)                           ✓
+                                                    Past Mastectomy                                        ✓
+                                                    Prior Excision / Biopsy                                ✓
+                                                    Chest Wall Invasion                                    ✓
+                                                    Case is Consult      Carcinoma    // Organizer/        ✓
+                                                    Reviewed Results     Skin? Nipple? Nat? Duct
+                                                                        Hist/H
+
+Final Diagnosis
+
+Breast, right, wide local excision: Invasive Nottingham grade III (of III) ductal carcinoma forming a 1.8 x 1.4 x 1.4 cm mass (AJCC pT1c) with prior needle biopsy tract. Angiolymphatic invasion is present. No ductal carcinoma in situ identified. All surgical margins are free of tumor. The closest margin (deep) is free by 0.3 cm.
+
+Lymph nodes, right axillary, dissection: Metastatic adenocarcinoma in multiple (6 of 28) right axillary lymph nodes. Three of the positive lymph nodes are matted and form a 1.4 x 1.2 x 1.2 cm mass with extracapsular extension into soft tissue (AJCC pN2).
+
+Her-2/NEU has been ordered on paraffin embedded tissue.
+
+                                                    ICD-O-3
+                                                    carcinoma- infiltrating duct, NOS 8500/3
+                                                    Site: breast, NOS C50.9    hh 4/55/11

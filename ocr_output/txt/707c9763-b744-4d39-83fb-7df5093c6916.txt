@@ -1,0 +1,54 @@
+=================================== PAGE 1 ===================================
+/CD-0-3
+                                                     carcinoma, infiltrating lobulas; NOS
+                                                     s/p: bilaad, REF: C50.9         8520/3
+UUID:E5011BD1-E1DE-4A47-8F3C-6680A1E0B84DC
+    TCGA-DB-7V-B47E-2VB-GHA               Redacted                            M 5/13/11
+[BARCODE IMAGE]                                                                          page 1 / 1
+
+
+
+
+                                                                                        original
+
+_______________________________________________________________________________
+
+
+                        Examination: Histopathological examination
+
+Internal invoice No.                Value of diagnostic procedure                  Examination No.: 1
+
+
+Patient: XXX              PESEL: XXX           Age: 1     Gender: F
+                                                                         [THIS IS TABLE: Small table with checkboxes
+Material: Total organ resection - right breast 8                         showing various clinical parameters]
+Unit in charge:
+
+Physician in charge:
+
+Material collected on:              Material received on:
+
+Expected time of examination: up to 8 working days
+
+Clinical diagnosis:
+
+
+Examination performed or
+
+Macroscopic description:
+Right breast sized 1..2 x 11.2 x 3.6 cm removed without axillary tissues and with a skin flap of 13.2 x 16.3 cm. Weight
+200 g.
+Tumour sized 3.2 x 1.8 x 2.8 cm on the boundary of outer quadrants, located 1.8 cm from the outer boundary, 0.3 cm
+from the base and 0 cm from the skin.
+Microscopic description:
+Carcinoma lobulare invasivum (classical type) - NHG2 (3+2+1: 0 mitoses/10 HPF - visual area: 0.55mm).
+Infiltratio carcinomatosa cutis mammae.
+Mamilla sine laesionibus.
+Glandular tissue showing adenosis sclerosans et calcifications
+Histopathological diagnosis:
+(Including Examination
+Carcinoma lobulare invasivum mammae dextrae. Invasive lobular carcinoma of the right breast}
+(NHG2, pT2, pN0/sn/).
+
+
+                                    Compliance validated by:

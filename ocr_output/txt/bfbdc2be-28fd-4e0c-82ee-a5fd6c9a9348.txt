@@ -1,0 +1,67 @@
+=================================== PAGE 1 ===================================
+P. 25/33
+
+FINAL DIAGNOSIS:
+BREAST, RIGHT, MODIFIED RADICAL MASTECTOMY -
+A. INVASIVE DUCTAL CARCINOMA WITH ASSOCIATED CALCIFICATIONS.
+B. NOTTINGHAM GRADE 3 (TUBULE FORMATION: 3, NUCLEAR PLEOMORPHISM: 3, MITOTIC ACTIVITY: 3; TOTAL SCORE: 9/9).
+C. INVASIVE TUMOR MEASURES 2.5 X 2.3 X 2.0 CM.
+D. DUCTAL CARCINOMA IN SITU (DCIS), NUCLEAR GRADE 3, SOLID, CRIBRIFORM MICROPAPILLARY AND CLEAR CELL TYPES WITH COMEDONECROSIS AND ASSOCIATED CALCIFICATIONS.
+E. THE DUCTAL CARCINOMA IN SITU (DCIS) CONSTITUTES 50% OF THE TOTAL TUMOR VOLUME AND IS PRESENT ADMIXED WITH THE INVASIVE COMPONENT.
+F. THE DUCTAL CARCINOMA IN SITU (DCIS) IS PRESENT IN 12/22 SLIDES.
+G. NO LYMPHOVASCULAR SPACE INVASION IS IDENTIFIED.
+H. RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA. DUCTAL CARCINOMA IN SITU (DCIS) IS 4.0 MM FROM THE NEAREST ANTERIOR MARGIN. THE INVASIVE CARCINOMA IS GREATER THAN 1.0 CM FROM ALL MARGINS.
+I. THE NIPPLE IS INVOLVED BY DUCTAL CARCINOMA IN SITU.
+J. SKIN IS NEGATIVE FOR TUMOR.
+K. NON-NEOPLASTIC BREAST: INTRADUCTAL PAPILLOMA AND FIBROCYSTIC CHANGES WITH FIBROADENOMATOID NODULES.
+L. BIOPSY SITE CHANGES WITH FAT NECROSIS.
+M. METASTATIC CARCINOMA INVOLVING FOUR OF TWENTY-SIX LYMPH NODES (4/26).
+N. THE LARGEST METASTATIC FOCUS MEASURES 2.0 CM.
+O. EXTRACAPSULAR EXTENSION IS IDENTIFIED AND MEASURES 1 MM.
+P. THE INVASIVE TUMOR CELLS TESTED POSITIVE FOR ESTROGEN AND WEAKLY POSITIVE FOR PROGESTERONE RECEPTORS AND NEGATIVE FOR HER-2, AS PER PREVIOUS PATHOLOGY REPORT
+
+CASE SYNOPSIS:
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY: Right
+PROCEDURE: Modified radical mastectomy
+LOCATION: Lower outer quadrant
+SIZE OF TUMOR: Maximum dimension invasive component: 2.5 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI: No
+
+TUMOR TYPE (invasive component): ICD-0-3
+                                   Ductal adenocarcinoma, NOS
+NOTTINGHAM SCORE:                  Nuclear grade: 3      carcinoma, infiltrating ductal, nos 8500/3
+                                   Tubule formation: 3   Site: breast, nos  C50.9  3/4/n her
+                                   Mitotic activity score: 3
+                                   Total Nottingham score: 9
+                                   Nottingham grade (1, 2, 3): 3   UIID:29EDE587-9B8A-4A8E-B3EF-959EB4AECC96
+ANGIOLYMPHATIC INVASION:           Yes                            TCGA-BH-A0E2-01A-PR        Redacted
+DERMAL LYMPHATIC INVASION:         No
+CALCIFICATION:                     Yes, malignant zones
+TUMOR TYPE, IN SITU:               Cribriform
+                                   Solid
+                                   Micropapillary
+                                   Comedo
+                                   DCIS admixed with invasive carcinoma
+                                   Percent of tumor occupied by in situ component 50 %
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+                                   No
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+                                   No
+                                   Distance of in situ disease to closest margin: 4.0 mm
+PAGET'S DISEASE OF NIPPLE:         No
+LYMPH NODES POSITIVE:              4
+LYMPH NODES EXAMINED:              26
+METHOD(S) OF LYMPH NODE EXAMINATION:
+                                   H/E levels
+SIZE OF NODAL METASTASES:          Diameter of largest lymph node metastasis: 20 mm
+LYMPH NODE METASTASIS(-ES) WITH EXTRACAPSULAR EXTENSION:
+                                   Yes
+SKIN INVOLVED (ULCERATION):        No
+NON-NEOPLASTIC BREAST TISSUE: PEA, Adenosis, FCD, Other: Fibroadenomatoid nodules.
+T STAGE, PATHOLOGIC:               pT2
+N STAGE, PATHOLOGIC:               pN2a
+M STAGE, PATHOLOGIC:               pMX
+ESTROGEN RECEPTORS:                positive
+PROGESTERONE RECEPTORS:            positive
+HER2/NEU:                          Negative

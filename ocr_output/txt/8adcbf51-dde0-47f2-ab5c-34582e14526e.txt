@@ -1,0 +1,400 @@
+=================================== PAGE 1 ===================================
+Clinical Diagnosis & History:
+Invasive lobular (questionable duct), carcinoma left breast LOQ for left
+wide excision with needle localization, FNAB.
+
+Specimens Submitted:
+1: SP: Sentinel node #1 level one left axilla
+2: SP: Sentinel node #2 level one left axilla
+3: SP: Non-sentinel tissue left axilla
+4: SP: Sentinel node #3 level one left axilla
+5: SP: Breast, left, 4:00, excision of tumor site
+6: SP: Breast, left, superior margin
+7: SP: Breast, left, medial margin
+8: SP: Breast, left, inferior margin
+9: SP: Breast, left, lateral margin
+10: SP: Breast, left, posterior margin
+
+DIAGNOSIS:
+
+1. SP: Sentinel node #1 level one left axilla:
+   Sentinel Lymph Node Status:
+       No carcinoma present
+       Number of Sentinel Lymph Nodes Examined: 1
+   Level of Detection:
+       Initial H&E stained section
+       Deeper H&E stained sections and cytokeratin AE1:AE3 stains
+   Extracapsular Extension:
+       Not applicable
+
+2. SP: Sentinel node #2 level one left axilla:
+   Sentinel Lymph Node Status:
+       No carcinoma present
+       Number of Sentinel Lymph Nodes Examined: 1
+   Level of Detection:
+       Initial H&E stained section
+       Deeper H&E stained sections and cytokeratin AE1:AE3 stains
+   Extracapsular Extension:
+       Not applicable
+
+** Continued on next page **
+
+[Handwritten notes visible on right side:]
+ICD-9-3
+Carcinoma, infiltrating lobular    85203
+S/P breast, NOS    C50.9    2/1/11
+
+[Bottom right corner contains what appears to be a signature table with checkboxes]
+
+=================================== PAGE 2 ===================================
+Page 2 of 7
+---------------------------------------------------------------
+
+3. SP: Non-sentinel tissue left axilla:
+   Two benign lymph nodes (0/2)
+
+4. SP: Sentinel node #3 level one left axilla:
+   Sentinel Lymph Node Status:
+   No carcinoma present
+   Number of Sentinel Lymph Nodes Examined: 1
+   Level of Detection:
+        Initial H&E stained section
+        Deeper H&E stained sections and cytokeratin AE1/AE3 stains
+   Extracapsular Extension:
+        Not applicable
+
+---------------------------------------------------------------
+
+5. SP: Breast, left, 4:00, excision of tumor site:
+   Invasive Carcinoma:
+        Invasive mammary carcinoma (see comments)
+   Histologic Grade:
+        III/III: Minimal or no tubule formation (< 10% of tumor)
+   Nuclear Grade:
+        III/III (marked variation in size and shape)
+   Tumor Size:
+        Gross measurement 26mm
+   Lobular Neoplasia:
+        Lobular carcinoma in situ (LCIS), classical type
+        focal
+   Calcification:
+        Not identified
+   Lymphovascular Invasion:
+        Not present
+   Surgical Margins:
+        For final margin status see separately submitted margins
+   Benign Breast Tissue:
+        Biopsy site change
+   Estrogen Receptor (6F11 - V
+        Positive nuclear staining in 99% of tumor cells
+        Strong intensity
+   Progesterone Receptor (1E2, Ventana):
+        Positive nuclear staining in 90% of tumor cells
+        Strong intensity
+        Moderate intensity
+   HER2 (4B5,
+        equivocal (2+). FISH will be performed.
+   Membranous staining (for Her2 positive and equivocal cases only):
+        10-30% of tumor cells display incomplete membranous staining
+        Uniformity of staining is absent
+        Homogenous, dark circumferential pattern is absent
+   Comment:    This high grade invasive carcinoma has a solid growth pattern.
+   There is focal associated LCIS. Based on the cytomorphology and the fact
+   that it is E-Cadherin negative, most likely this is an invasive lobular vs
+
+** Continued on next page **
+
+=================================== PAGE 3 ===================================
+Page 3 of 7
+with plasmorphic features.
+--------------------------------------------------------------------
+
+6. SP: Breast, left, superior margin:
+   Benign breast parenchyma
+
+7. SP: Breast, left, medial margin:
+   Benign breast parenchyma and skeletal muscle
+
+8. SP: Breast, left, inferior margin:
+   Benign breast parenchyma
+
+9. SP: Breast, left, lateral margin:
+   Benign breast parenchyma
+
+10. SP: Breast, left, posterior margin:
+    Benign breast parenchyma and skeletal muscle
+
+Comment:
+Controls are satisfactory. Ventana's PATHWAY anti-HER-2/neu is an
+FDA approved rabbit monoclonal primary antibody (clone 4B5) directed against
+the internal domain of the c-erbB-2 oncoprotein (HER2) for
+immunohistochemical detection of HER-2 protein overexpression in breast
+cancer tissue routinely processed for histologic evaluation. Results
+reported in accordance with the ASCO/CAP guideline recommendations for HER2
+testing in breast cancer (J Clin Oncol 2007; 25(1):118-145). ER and PR are
+also rabbit monoclonal antibodies which are FDA approved.
+Some of the immunohistochemistry and ISH tests were developed and their
+performance characteristics were determined by the Department of Pathology.
+These tests have not been cleared or approved by the US Food and Drug
+Administration. The FDA has determined that such clearance or approval is
+not necessary. These tests are used for clinical purposes and should not
+be regarded as investigational or for research. This laboratory is certified
+under the Clinical Laboratory Improvement Amendments of 1988 (CLIA ' 88) as
+qualified to perform high complexity clinical laboratory testing.
+
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+
+*** Report electronically Signed Out ***
+
+Gross Description:
+
+
+1) The specimen is received in formalin, labeled "Sentinel node #1 level 1
+left axilla" and consists of a gray-tan lymph node measuring 2.2 cm in
+greatest dimension. The lymph node is bisected and submitted entirely.
+
+                    ** Continued on next page **
+
+=================================== PAGE 4 ===================================
+------------------------------------------------------------------ Page 4 of 7
+
+Summary of sections:
+SLN - bisected lymph node
+
+
+2) The specimen is received in formalin, labeled "Sentinel node #2 level 1
+left axilla" and consists of a pink-tan lymph node measuring 1.1 cm in
+greatest dimension, which is bisected and submitted entirely.
+
+Summary of sections:
+U  undesignated
+
+
+3) The specimen is received in formalin, labeled "Non-sentinel
+axilla" and consists of a piece of fatty tissue measuring 4.5 x 4.5 x 0.5 cm
+in greatest dimension. A few pink-tan lymphoid nodules are identified
+ranging from 0.1 to 0.7 cm in greatest dimension, which are entirely
+submitted.
+
+Summary of sections:
+U - undesignated
+
+
+4) The specimen is received in formalin, labeled "Sentinel node #3 level 1
+left axilla" and consists of a pink-tan lymph node measuring 0.5 cm in
+greatest dimension, which is submitted whole.
+
+Summary of sections:
+U  undesignated
+
+
+5) The specimen is received fresh labeled "Excision of tumor site at 4
+o'clock left breast." It consists of an unoriented segment of yellow-tan
+fatty breast tissue measuring 8.5 x 6.5 x 3.4 cm. The specimen is received
+on a cardboard grid. There is an accompanying specimen radiograph which
+demonstrates a solid tumor mass containing a previous biopsy clip. The outer
+surface of the specimen is inked blue. Sections reveal a 2.6 x 2.4 x 2.2
+cm well circumscribed, stony hard, white-tan tumor with a central previous
+biopsy site measuring 0.8 x 0.7 x 0.6 cm. A small metal surgical previous
+identified within the biopsy site. The tumor abuts the black inked tissue
+edge. The remainder of the breast tissue is predominantly yellow tan fatty
+and lobulated with focal white-tan fibrous areas. A sample of the tumor is
+given to IFS. The remainder of the tumor is blocked out, sequentially
+sectioned, and submitted entirely.
+
+Summary of sections:
+TB-sequential section of tumor, bisected
+T-tumor
+
+
+6) The specimen is received fresh, labeled "Superior margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 4.3 x 3.2 cm, and
+
+
+** Continued on next page **
+
+=================================== PAGE 5 ===================================
+---------------------------------------- of 7
+0.9 cm thick. A stitch marks the new margin of excision, which is inked
+black. No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+
+Summary of sections:
+SS - sequential sections
+
+
+7) The specimen is received fresh, labeled "Medial margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 3.8 x 3.2, and 1.0
+cm thick. A stitch marks the new margin of excision, which is inked black.
+NO tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+
+Summary of sections:
+SS - sequential sections
+
+
+8) The specimen is received fresh, labeled "Inferior margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 4.0 x 3.9, and 1.5
+cm thick. A stitch marks the new margin of excision, which is inked black.
+NO tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+
+Summary of sections:
+SS - sequential sections
+
+
+9) The specimen is received fresh, labeled "Lateral margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 4.9 x 3.5cm and
+1.2 cm thick. A stitch marks the new margin of excision, which is inked
+black. No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+
+Summary of sections:
+SS - sequential sections
+
+
+10) The specimen is received fresh, labeled "Posterior margin left breast"
+and consists of a piece of fibrofatty breast tissue measuring 4.7 x 2.5 cm
+and 0.5 cm thick. A stitch marks the new margin of excision, which is inked
+black. No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+
+Summary of sections:
+SS - sequential sections
+
+
+
+
+                    ** Continued on next page **
+
+=================================== PAGE 6 ===================================
+Page 6 of 7
+
+Summary of Sections:
+Part 1: SP: Sentinel node #1 level one left axilla
+
+Block         Sect. Size        PCs
+1                  bln                    1
+
+Part 2: SP: Sentinel node #2 level one left axilla
+
+Block         Sect. Size        PCs
+1                  bln                    1
+
+Part 3: SP: Non-sentinel tissue left axilla
+
+Block         Sect. Size        PCs
+1                  M                      1
+
+Part 4: SP: Sentinel node #3 level one left axilla
+
+Block         Sect. Size        PCs
+1                  U                      1
+
+Part 5: SP: Breast, left, 4:00, excision of tumor site
+
+Block         Sect. Size        PCs
+1                  T                      1
+2                  7A                     2
+2                  7B                     2
+2                  7C                     2
+
+Part 6: SP: Breast, left, superior margin
+
+Block         Sect. Size        PCs
+6                  ss                     6
+
+Part 7: SP: Breast, left, medial margin
+
+Block         Sect. Size        PCs
+5                  ss                     5
+
+Part 8: SP: Breast, left, inferior margin
+
+Block         Sect. Size        PCs
+6                  ss                     6
+
+Part 9: SP: Breast, left, lateral margin
+
+Block         Sect. Size        PCs
+5                  ss                     5
+
+Part 10: SP: Breast, left, posterior margin
+
+Block         Sect. Size        PCs
+5                  ss                     5
+
+
+                ** Continued on next page **
+
+=================================== PAGE 7 ===================================
+Page 7 of 7
+
+Procedures/Addenda:
+Addendum
+Date Ordered:                    Status: Signed Out
+Date Complete:                   By:
+Date Reported:
+
+Addendum Diagnosis
+
+PART #5: LEFT BREAST
+
+ONCOTYPE TESTING RESULTS RECEIVED ON         CURRENCE SCORE =23.
+AVERAGE RATE OF DISTANT RECURRENCE OF 15% (95% CI: 12%-18%).
+
+TESTING WAS PERFORMED AT:
+
+
+ONCOTYPE REPORT CAN BE FOUND IN
+
+
+
+
+                        ** End of Report **
+
+=================================== PAGE 8 ===================================
+.
+
+
+
+                                                                                                                                    .
+
+
+                                    Specimen Received:                                                     
+                                    A. Left BREAST (UOQ)                                                    
+                                                                                                            
+                                    This PROCEDURE of Excisional Biopsy with mobilization
+                                    of BREAST (Incl Inframammary Dissection Line Frozen)                  
+                                    Extended to include a SENTINEL Axillary LND in preferred using PDA-approved
+                                    Techniques, LB signifies every inked border and procedure               
+                                    REBT INDUCED PARTIAL MASTEC + AX LND                                   
+
+                                    A. A=Known mass each clinically IF NOT Oriented                         
+                                    SPECIMEN (AV) L S x 9x8 (maximum) 1.5 mm max S-Medial                  
+                                    B. L=2   2 SENTINEL LNs has been mobilized- 1 is   B mm max mobilized
+                                    ----                                                                     
+                                                                                                            
+                                    LNs NOTF3                                                               
+                                    SPECIMEN & BREAST RESECT with LCL-1 present calls present              
+                                    LNB B0113.6 DUCTILE BREAST:INFILTRATING                                
+                                    Specimen 1: +nodularity 1.2 x 1.5 mm by CWL segment                    
+                                    of nodular L12A12 A Anterior Breast Right or under it                  
+                                    with medial LATERAL MARGIN L.S.                                         
+                                    LNFLT - B1 LY 3/9                                                      
+                                    B.   The INFILTRATING AXOD RECDR is to UQ.I C is BP-A=APPROVED AXILLARY 
+                                    The LYMPH & and MEDIAL AXOD (HPTM) 12 is BP-A=APPROVED ANTERIOR        
+                                    AXILLARY, T'BORD 3 S APICAL 3 cm by LV R=CT ADIODCT                    
+                                    1 LV, Axillar BRES BP +W ALL3.3                                        
+                                    NODE, out RECURRENT MEDIAL (HPTM) 1-1 ANTERIOR MIDAXILLARY present     
+                                    This LYMPH APICAL RETA.L (CA3 AXOD): 3/9                               
+                                    THREE 1+RCT.12+LV BP LHTTX MEDIAL .3 LA LATERAL L3                     
+                                    AXILLARY MEDIA.1+1 TERE [AREAL BP_ANGC3 APEX right or Excisct AXILLARY 
+                                    THY 3PLUS   (MOON AD OR FATH METHOD) + ADR DU+1:L FROZEN ADN REPORTED  
+                                                                                                            
+                                    I   REPORT ELECTRONICALLY SIGNED ON:   **                               
+                                    
+                                    **  Scannned On Same Page   **

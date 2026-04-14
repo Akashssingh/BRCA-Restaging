@@ -1,0 +1,94 @@
+=================================== PAGE 1 ===================================
+106-0-3
+                                                        Carcinoma ductal NOS, infiltrating 8520/3
+                                                        Site Code: breast, NOS    C50.9    11/7/14  KW
+
+Patient:
+
+Surgical Pathology: Final-
+
+Surg Path
+
+
+CLINICAL HISTORY:
+Not provided by surgeon. Status post mammogram with calcifications in right
+UOQ and prominent tracer accumulation in both breasts on bone scan (DHIS).
+
+GROSS EXAMINATION:
+A. "Right breast biopsy". The specimen is a piece of breast tissue measuring
+3.0 x 3.0 x 4.0 cm with a 2.0 x 1.3 cm. tan well-lobulated well-circumscribed
+mass. Blocks are submitted as follows:
+
+Block A1 - Remnant of frozen section "AF1".
+Blocks A2 through A8 - Multiple sections of the biopsy comprising
+                       nearly the entire specimen.
+
+B. "Right breast". The specimen consists of a breast with an ellipse of skin
+and relatively small axillary tail. The anterior aspect of the breast is
+inked in black ink, and the posterior or deep aspect in blue ink. Overall,
+the specimen is 27.0 x 16.3 cm. with the breast measuring 19.5 x 16.3 cm. and
+the axillary tail measuring 7.0 x 6.0 cm. in greatest dimensions. The skin
+ellipse is 15.4 x 7.4 cm. with a 4.0 cm. semi-circular incision immediately
+superior to the nipple. This incision is sutured together with black suture
+material. On serial sectioning, the breast has a large white fibrous mass
+immediately deep to the nipple. In the anterior aspect of this mass is a 2.3
+x 2.0 cm. biopsy cavity that is slightly hemorrhagic. The dense fibrous
+tissue is not grossly involved with the margins and extends laterally 6.0 cm.
+from the biopsy cavity. Examination of the axillary tail reveals seven lymph
+nodes in Region I, four lymph nodes in Region II, and five lymph nodes in
+Region III. Blocks are submitted as follows:
+
+Blocks B1 through B5 - Deep surgical margins from superior aspect
+                       to inferior.
+Block B6 - Medial biopsy cavity.
+Block B7 - Additional surgical margin with grossly close surgical margins.
+Block B8 and B9 - Lateral biopsy cavity.
+Blocks B10 and B11 - Inner upper quadrant.
+Blocks B12 and B13 - Inner lower quadrant.
+Blocks B14 and B15 - Upper outer quadrant.
+Blocks B16 and B17 - Lower outer quadrant.                                     [TABLE showing checkboxes]
+Block B18 - Section through biopsy scar.
+Block B19 - Section through nipple.
+Block B20 - Four lymph node candidates from Region I.
+Block B21 - Three lymph node candidates from Region I,
+            the largest being bisected and inked in blue ink.
+Block B22 - Three lymph node candidates from Region II,
+            the largest being bisected and inked in blue ink.
+Block B23 - One lymph node candidate from Region II, bisected.
+Block B24 - Four lymph node candidates from Region III.
+Block B25 - One lymph node candidate from Region III, bisected.
+
+INTRA OPERATIVE CONSULTATION:
+Frozen section diagnosis AF1:
+"Right breast biopsy - INFILTRATING CARCINOMA."
+
+MICROSCOPIC EXAMINATION:
+Other changes seen in the breast include focal florid usual hyperplasia,
+interlobular fibrosis, papillary apocrine metaplasia, and cystically dilated
+ducts.
+
+DIAGNOSIS:                                                UUIO:S5F3F317-E441-4C10-A3E3-0645A4E8374E
+                                                          TCGA-B6-A01A-01A-PR        Redacted
+eBrowser Result GCP                                       [BARCODE]
+
+=================================== PAGE 2 ===================================
+A.    "RIGHT BREAST BIOPSY":
+
+      BREAST TISSUE WITH CRIBRIFORM INTRADUCTAL AND
+      INFILTRATING DUCTAL CARCINOMA;
+      N.S.A.B.P. NUCLEAR GRADE - MODERATELY-DIFFERENTIATED,
+           HISTOLOGIC GRADE - TWO OF THREE.
+      THE TUMOR MEASURES 2.0 CM. IN GREATEST DIAMETER.
+
+B.    "RIGHT BREAST":
+
+      BREAST WITH PREVIOUS BIOPSY SITE, NO RESIDUAL CARCINOMA IS SEEN.
+      NO TUMOR IS SEEN IN FIFTEEN AXILLARY LYMPH NODES___________
+           Verified by:
+                         (Electronic Signature)
+                         Date Signed:
+
+
+
+
+eBrowser Result for:                                                                     2 of 2

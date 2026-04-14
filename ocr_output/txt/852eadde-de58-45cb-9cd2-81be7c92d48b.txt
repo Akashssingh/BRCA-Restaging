@@ -1,0 +1,77 @@
+=================================== PAGE 1 ===================================
+FINAL DIAGNOSIS:
+
+PART 1: LEFT BREAST, SEGMENTAL MASTECTOMY AT 3 O'CLOCK -
+    A. TWO FOCI OF INFILTRATING DUCTAL CARCINOMA, 0.7 AND 1.5 CM, NOTTHINGHAM SCORE 6/9 (TUBULES 
+       3, NUCLEAR 2, MITOSES 1).
+    B. TUMOR AGGREGATE 2.2 CM.
+    C. DUCTAL CARCINOMA IN SITU WITH COMEDO NECROSIS ASSOCIATED WITH MICROCALCIFICATION
+       PRESENT IN BOTH FOCI OF TUMOR AND REPRESENTING 10% OF THE TUMOR VOLUME.
+    D. LYMPHOVASCULAR SPACE INVOLVEMENT IS NOT PROMINENT.
+    E. 1ST INVASIVE TUMOR IS 0.2 CM FROM THE ANTERIOR MARGIN AND DCIS IS 0.1 CM FROM ANTERIOR
+       MARGIN.
+    F. 2ND INVASIVE TUMOR IS 0.1 CM FROM THE POSTERIOR MARGIN.
+    G. MARGINS FREE OF TUMOR.
+    H. FIBROCYSTIC CHANGES WITH ATYPICAL DUCTAL EPITHELIAL HYPERPLASIA, SCLEROSING ADENOSIS
+       ASSOCIATED WITH MICROCALCIFICATION.
+    I. MICROSCOPIC RADIAL SCAR, CONFIRMED BY POSITIVE P63 AND SMOOTH MUSCLE MYOSIN HEAVY
+       CHAIN IMMUNOSTAIN.
+
+PART 2: LEFT AXILLA, SENTINEL LYMPH NODE #1, BIOPSY -
+        TWO LYMPH NODES NEGATIVE FOR TUMOR.
+
+PART 3: LEFT AXILLA, SENTINEL LYMPH NODE #2, BIOPSY -
+        ONE LYMPH NODE NEGATIVE FOR TUMOR.
+
+CASE SYNOPSIS:
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:                              Left
+PROCEDURE:                               Segmental
+LOCATION:                                Upper outer quadrant
+SIZE OF TUMOR:                           Maximum dimension invasive component: 1.5 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI: Yes
+TUMOR AGGREGATE SIZE:                    Sum of the sizes of multiple invasive tumors: 2.2 cm
+TUMOR TYPE (Invasive component):
+
+NOTTINGHAM SCORE:                        Ductal adenocarcinoma, NOS
+                                        Nuclear grade: 2
+                                        Tubule formation: 3
+                                        Mitotic activity score: 1
+                                        Total Nottingham score: 6
+ANGIOLYMPHATIC INVASION:                Nottingham grade (1, 2, 3): 2
+DERMAL LYMPHATIC INVASION:              No
+CALCIFICATION:                          Not applicable
+                                        Yes, benign zones
+TUMOR TYPE, IN SITU:                    Yes, malignant zones
+                                        Solid
+                                        Comedo
+                                        DCIS admixed with invasive carcinoma
+SURGICAL MARGINS INVOLVED BY            Percent of tumor occupied by in situ component: 10 %
+INVASIVE COMPONENT:                     No
+
+SURG MARGINS INVOLVED BY IN SITU COMPONENT: Distance of invasive tumor to closest margin: 1 mm
+                                        No
+LYMPH NODES POSITIVE:                   Distance of in situ disease to closest margin: 1 mm
+LYMPH NODES EXAMINED:                   0
+METHOD(S) OF LYMPH NODE EXAMINATION:    3
+
+SENTINEL NODE METASTASIS:               H/E stain
+NON-NEOPLASTIC BREAST TISSUE:          No
+T STAGE, PATHOLOGIC:                   ADH, Radical scar, FCD
+N STAGE, PATHOLOGIC:                   pT1c
+M STAGE, PATHOLOGIC:                   pN0
+ESTROGEN RECEPTORS:                    pMX
+PROGESTERONE RECEPTORS:                previously performed
+HER2/NEU:                              previously performed
+                                       zero or 1+
+
+[Handwritten notes visible:]
+ICb-0-3
+Onosoumeb, infiltrating duct, nos P50213
+Site: breast, nos C50.9   3/19/14
+
+[Barcode visible with text:]
+UUIB:24441F1E-E0A8-4AA0-80B1-96742605B0E6
+TCGA-BH-A0BP-01A-PR            Redacted
+
+[Table visible at bottom right corner - appears to be a form with checkboxes]

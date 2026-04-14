@@ -1,0 +1,259 @@
+=================================== PAGE 1 ===================================
+Clinical Diagnosis & History:                                    UUIB:Cl#F4D1-802C-4435-AB1E-9E38AF184775
+Palpable breast mass, FNA positive malignant cells.              TCGA-AO-A036-01A-PR        Redacted
+
+Specimens Submitted:
+1: SP: Sentinel node #1 level one left axilla(fs)
+2: SP: Sentinel node #2 level one left axilla (fs)
+3: SP: Non sentinel lymph node left axilla
+4: SP: Sentinel node #3, level one left axilla (fs)
+5: SP: Left breast mass
+
+DIAGNOSIS:
+
+1)      LYMPH NODE, SENTINEL #1 LEVEL I LEFT AXILLA; EXCISION.
+        - ONE BENIGN LYMPH NODE, (0/1).
+        - ADDITIONAL H/E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+        CYTOKERATINS (AE1:AE3)
+        SHOW NO EVIDENCE OF METASTATIC TUMOR.
+
+2)      LYMPH NODE, SENTINEL #2 LEVEL 1 LEFT AXILLA; EXCISION.
+        - ONE BENIGN LYMPH NODE, (0/1).
+        - ADDITIONAL H/E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+        CYTOKERATINS (AE1:AE3)
+        SHOW NO EVIDENCE OF METASTATIC TUMOR.
+
+3)      LYMPH NODE, NON-SENTINEL LEFT AXILLA; EXCISION.
+        - ONE BENIGN LYMPH NODE, (0/1).
+        - BENIGN FIBROADIPOSE TISSUE AND NERVE.
+
+4)      LYMPH NODE, SENTINEL #3 LEVEL 1 LEFT AXILLA; EXCISION.
+        - ONE BENIGN LYMPH NODE, (0/1).
+        - ADDITIONAL H/E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+        CYTOKERATINS (AE1:AE3)
+        SHOW NO EVIDENCE OF METASTATIC TUMOR.
+
+5)      BREAST, LEFT; EXCISION.
+        - INVASIVE DUCTAL CARCINOMA, NOS TYPE, POORLY DIFFERENTIATED,
+        ASSOCIATED WITH PROMINENT
+        INFLAMMATORY INFILTRATE, HISTOLOGIC GRADE III/III (SLIGHT OR NO TUBULE
+        FORMATION), NUCLEAR
+        GRADE III/III (MARKED VARIATION IN SIZE AND SHAPE), MEASURING 4.5 CM IN
+
+        ** Continued on next page **            ICb-0-3
+
+                                    Carcinoma, infiltrating duct, Nos 850₀/3
+                                    Size: breast, Nos   C50.9   Au  10/23/1₄
+
+
+[Table at bottom with checkboxes, mostly illegible/partial signatures]
+
+=================================== PAGE 2 ===================================
+Page 2 of 5
+LARGEST DIMENSION
+GROSSLY.
+- AN IN SITU COMPONENT IS NOT IDENTIFIED.
+- CALCIFICATIONS ARE PRESENT FOCALLY IN BENIGN BREAST PARENCHYMA.
+- NO VASCULAR INVASION IS NOTED.
+- THE MARGINS OF RESECTION ARE NEGATIVE FOR CARCINOMA, (SEE NOTE). THE
+NEAREST (POSTERIOR)
+  MARGIN HAS A CLEARANCE OF 0.7CM MICROSCOPICALLY.
+- THE SKIN IS NOT INVOLVED BY CARCINOMA.
+- THE NON-NEOPLASTIC BREAST TISSUE SHOWS FIBROADENOMATOID AND BIOPSY
+SITE CHANGES.
+- IMMUNOHISTOCHEMICAL STAINS WERE PERFORMED ON FORMALIN-FIXED TISSUE WITH
+THE FOLLOWING
+  RESULTS FOR INVASIVE CARCINOMA (BLOCK 5 T B):
+  ESTROGEN RECEPTOR (6F11,
+0 % NUCLEAR STAINING
+               ER-ESTRONE RECEPTOR (1E2, '
+0 % NUCLEAR STAINING
+HER2 (HERCEFTEST,
+NEGATIVE (0)
+
+(0% OF INVASIVE TUMOR CELLS EXHIBIT COMPLETE MEMBRANOUS STAINING;
+UNIFORMITY OF STAINING: ABSENT, HOMOGENEOUS, DARK CIRCUMFERENTIAL PATTERN: ABSENT)
+
+CONTROLS ARE SATISFACTORY.
+
+COMMENT:      HERCEPTESTIN       IS AN FDA-APPROVED METHOD FOR ASSESSMENT OF
+HER2 PROTEIN OVEREXPRESSION IN BREAST CANCER TISSUE ROUTINELY PROCESSED FOR
+HISTOLOGICAL EVALUATION. THE HER2 TEST RESULTS ARE REPORTED IN ACCORDANCE
+WITH THE ASCO/CAP GUIDELINE RECOMMENDATIONS FOR HER2 TESTING IN BREAST
+CANCER (J CLIN ONCOL 2007; 25(1):118-145).
+
+NOTE: SLIDE 5-L-13 REVIEWED AT DAILY INTRADEPARTMENTAL CASE REVIEW
+CONFERENCE
+
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+
+
+*** Report Electronically Signed Out *** }
+
+Special Studies:
+Result                    Special Stain              Comment
+                          RECUT
+
+Gross Description:
+                          ND
+
+
+1). The specimen is received fresh for frozen section consultation, labeled
+
+                ** Continued on next page **
+
+=================================== PAGE 3 ===================================
+-- Page 3 of 5
+"Sentinel node number 1, level 1, left axilla" and consists of a single pink
+tan fatty lymph node measuring 1.6 cm in greatest dimension. Bisected and
+entirely submitted for frozen section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+2). The specimen is received fresh for frozen section consultation, labeled
+"Sentinel node #2, level one, left axilla" and consists of a single pink
+tan fatty lymph node measuring 1.6 cm in greatest dimension. Bisected and
+entirely submitted for frozen section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+3).The specimen is received in formalin, labeled "non-sentinel lymph nodes,
+left axilla" and consists of fibroadipose tissue and potential lymph nodes
+ranging from 0.4 to 2.2 cm in greatest dimension. All identified lymph
+nodes are submitted.
+
+Summary of sections:
+LN  potential lymph nodes
+BLN-- bisected lymph nodes
+
+4). The specimen is received fresh for frozen section consultation, labeled
+"Sentinel node #3, level one, left axilla" and consists of a single pink
+tan fatty lymph node measuring 1.1 cm in greatest dimension. Bisected and
+entirely submitted for frozen section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+5.)  The specimen is received fresh, labeled "left superior breast mass, short stitch
+superior, long -- lateral" and consists of a 14 x 9 x 4.9 cm, piece of
+fibrofatty breast tissue with an overlying of 12.1 x 3.3 x 0.2 cm wrinkled
+tan ellipse of skin ellipse. A short stitch indicates the superior specimen is inked
+long stitch indicates the lateral margin of excision. The specimen is inked
+superior -- blue, inferior green, anterior -- red, posterior -- black.
+medial -- orange, and lateral -- yellow. Serial sections reveal a 4.8 x
+3.0 x 3.0 cm well circumscribed, firm, focally hemorrhagic, tan white
+stellate mass located 0.7 cm from the posterior closest margin of excision.
+Sectioning through the remaining breast tissue reveals an abundant amount of
+dense white fibrous tissue with a moderate amount of yellow, lobulated of
+adipose. The inferior, medial and lateral margins are shaved and entirely
+submitted separately. Perpendicular sections of the superior, anterior and
+posterior margins are submitted. Representative sections of the tumor and
+
+
+** Continued on next page **
+
+=================================== PAGE 4 ===================================
+the remaining tissue are submitted.----------------------- Page 4 of 5
+
+Summary of sections,
+SP - superior margin (perpendicular)
+I - inferior margin
+M - medial margin
+L - lateral margin
+AP - anterior margin (perpendicular)
+PP - posterior margin (perpendicular)
+T - tumor
+SS - serial sections remaining tissue
+
+
+Summary of Sections,
+Part 1: SP; Sentinal node #1 level one left axilla(fs)
+
+Block       Sect. Site
+1             PSC        PCs
+                           1
+
+Part 2: SP; Sentinel node #2 level one left axilla (fs)
+
+Block       Sect. Site
+1             PSC        PCs
+                           1
+
+Part 3: SP; Non sentinal lymph node left axilla
+
+Block       Sect. Site
+2              DLN       PCs
+1              LN                2
+                                 1
+
+Part 4: SP; Sentinal node #3, level one left axilla (fs)
+
+Block       Sect. Site
+1              (not entered)    PCs
+                                 1
+
+Part 5: SP; Left breast mass
+
+Block       Sect. Site
+1              AP         PCs
+3              I                 1
+1              L                 5
+1              M                 1
+1              PP                1
+1              SP                1
+2              SS                1
+3              T                 2
+                                 1
+
+
+** Continued on next page **
+
+=================================== PAGE 5 ===================================
+Page 5 of 5
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+
+        1)      FROZEN SECTION DIAGNOSIS:        SP: SENTINEL NODE #1 LEVEL ONE
+LEFT AXILLA(FS)            BENIGN
+PERMANENT DIAGNOSIS:       SAME
+
+        2)      FROZEN SECTION DIAGNOSIS:        SP: SENTINEL NODE #2 LEVEL ONE
+LEFT AXILLA (FS)           BENIGN
+PERMANENT DIAGNOSIS:       SAME
+
+        4)      FROZEN SECTION DIAGNOSIS:        SP: SENTINEL NODE #3, LEVEL ONE
+LEFT AXILLA (FS)           BENIGN
+PERMANENT DIAGNOSIS:       SAME
+
+
+                                               , MD
+
+
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+
+        1)      FROZEN SECTION DIAGNOSIS:        SP: SENTINEL NODE #1 LEVEL ONE
+LEFT AXILLA(FS)            BENIGN
+PERMANENT DIAGNOSIS:       SAME
+
+        2)      FROZEN SECTION DIAGNOSIS:        SP: SENTINEL NODE #2 LEVEL ONE
+LEFT AXILLA (FS)           BENIGN
+PERMANENT DIAGNOSIS:       SAME
+
+        4)      FROZEN SECTION DIAGNOSIS:        SP: SENTINEL NODE #3, LEVEL ONE
+LEFT AXILLA (FS)           BENIGN
+PERMANENT DIAGNOSIS:       SAME
+
+
+
+
+                        ** End of Report **

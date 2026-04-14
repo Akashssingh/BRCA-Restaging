@@ -1,0 +1,93 @@
+=================================== PAGE 1 ===================================
+Carcinoma, lobular, NOS 8520/3
+Pat                                     Site: Breast, NOS C50.9
+                                                                    H&H   for
+
+* Surgical Pathology
+
+Surg Path
+
+
+CLINICAL HISTORY:
+Left breast mass.  Locally advanced left breast Ca.
+
+GROSS EXAMINATION:
+A. "Breast biopsy" received and fixed.  The specimen consists of a 3.1 x 2.4 x
+1.3 cm unoriented fragment of yellow-tan soft fibroadipose tissue which is
+inked blue and sectioned to reveal a 1.5 x 1.0 x 1.0 cm firm white-tan ill-
+defined lesion that extends to the inked surgical margin.  The remainder of
+the tissue consists of adipose tissue.  The specimen is entirely submitted as
+Block Al-A10.
+
+                    for Dr.        slides to Dr.
+
+DIAGNOSIS:
+A. "LEFT BREAST" (INCISIONAL BIOPSY):
+                                                        UHD:EEEBB205-0598-4EFE-80AE-D572EEDE9875
+    INVASIVE PLEOMORPHIC LOBULAR CARCINOMA.             TCGA-B6-A0WX-01A-PR
+    N.S.A.B.P. NUCLEAR GRADE 2 OF 3.                    [BARCODE]
+    N.S.A.B.P. HISTOLOGIC GRADE 3 OF 3.
+    LYMPHATIC/VASCULAR INVASION: ABSENT.
+
+    IN-SITU CARCINOMA: ABSENT.
+
+    STATUS OF NON-NEOPLASTIC BREAST TISSUE: NOT APPLICABLE (INCISIONAL
+       BIOPSY).
+    SIZE OF BIOPSY: 3.1 X 2.4 X 1.3 CM. (DIFFUSELY INVOLVED BY INVASIVE
+       CARCINOMA)
+    MICROCALCIFICATIONS: ABSENT.
+    SURGICAL MARGIN STATUS: NOT APPLICABLE (INCISIONAL BIOPSY)
+
+    ESTROGEN/PROGESTERONE RECEPTOR AND CELL CYCLE ANALYSIS: PENDING
+       METHODOLOGY: IMMUNOHISTOCHEMISTRY, PARAFFIN BLOCK (A5).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+                                        M.D.
+
+                    Electronically signed:
+
+ADDENDUM 1:
+
+Tissue was sent to the                              for assay of the estrogen
+and progesterone receptors.  The estrogen receptor activity was judged to be
+negative with an estimated FMOL value of 0. The progesterone receptor activity
+was judged as negative with an estimated FMOL value of 0.  Please refer to
+          for a complete report.
+
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+                                        , M.D. Page #
+
+                    Electronically signed:
+
+ADDENDUM 2:
+Immunostaining for HER2/neu (c-erbB-2) oncoprotein is performed on recut
+sections of block A5. The immunostaining is done using DAKO rabbit anti-human
+
+                                                        [Hand-drawn table visible in corner]
+
+=================================== PAGE 2 ===================================
+c-erbB-2 oncoprotein which is an affinity-isolated antibody · product
+number ). The immunostaining is performed after antigen retrieval by
+heating the unstained sections at 95 degrees centigrade for 20 minutes in 10
+mM citrate buffer, pH 6.0. The primary antibody is used at a dilution of
+1:3000 (manual staining), with an incubation for one hour at 37 degrees
+centigrade. The Histostain Plus kit ( ) is used as the
+detection system. Rare tumor cells exhibit barely perceptible, complete
+membrane staining, but their number is too few to indicate overexpression of
+HER2/neu oncoprotein. The majority of tumor tumor cells have barely
+perceptible, focal membrane staining (score = 1+), indicating that the tumor
+does NOT overexpress HER2/neu oncoprotein.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+, M.D., Ph.D. Pager (
+
+Electronically signed:
+
+2 of 2

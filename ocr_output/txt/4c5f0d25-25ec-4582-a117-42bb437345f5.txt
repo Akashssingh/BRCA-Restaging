@@ -1,0 +1,16 @@
+=================================== PAGE 1 ===================================
+ICD-O-3
+Carcinoma, infiltrating ductal, NOS  8500/3
+
+Path  Site: Breast, UOQ  C50.4    1/9/11  JAF
+CQCF  Site: Breast, NOS  C50.9
+
+Diagnosis:
+2: Right breast resection material with a 2.2 cm poorly differentiated invasive ductal breast carcinoma with a minimum margin of almost 1 cm basally and at 6 o'clock and surrounding fibrolipomatous atrophic glandular tissue without any evidence of an intraductal tumor component and tumor-free overlying skin, including the nipple.
+
+Tumor classification:
+M-8500/3, G3, pT2, pN2a, pMX, stage IIIA, R0.
+
+[Barcode and identification number present]
+
+[Table at bottom with columns including "Courtesy", "Yes", and "No" with some checkmarks - partially visible]

@@ -1,0 +1,45 @@
+=================================== PAGE 1 ===================================
+FINAL DIAGNOSIS:
+PART 1: LYMPH NODE, RIGHT AXILLARY SENTINEL #1, BIOPSY AND FROZEN SECTION -
+ONE LYMPH NODE, FREE OF TUMOR (0/1).
+
+PART 2: LYMPH NODE, RIGHT AXILLARY SENTINEL #2, BIOPSY AND FROZEN SECTION -
+MICROMETASTATIC ADENOCARCINOMA INVOLVING ONE OUT OF TWO LYMPH NODES (1/2), UP TO 1.5 MM (2
+FS2) (see comment).
+                                                                    ICD-0-3
+PART 3: BREAST, RIGHT, TOTAL MASTECTOMY -                          Carcinoma, infiltrating ductal, NOS 8504/-
+A. INFILTRATING DUCTAL CARCINOMA.                                  ; Site: breast, NOS C50.9 3/31/11 bs
+B. THE TUMOR SIZE IS 2.7 X 2.5 X 2.4 CM.
+C. NOTTINGHAM SCORE IS 9/9 (TUBULE 3, NUCLEAR 3, MITOSES 3).
+D. EXTENSIVE LYMPHOVASCULAR INVASION IS PRESENT.
+E. DUCTAL CARCINOMA IN-SITU, SOLID AND CRIBRIFORM TYPES, NUCLEAR GRADE 3, WITH
+COMEDONECROSIS, ASSOCIATED MICROCALCIFICATION AND RETROGRADE CANCERIZATION OF
+LOBULES, PRESENTING ABOUT 5% OF TUMOR VOLUME.
+F. DUCTAL CARCINOMA IN-SITU IS PRESENT ADMIXED AND OUTSIDE OF INVASIVE TUMOR.
+G. MARGINS OF RESECTION ARE FREE OF TUMOR.
+H. NIPPLE, NO TUMOR IS SEEN.
+I. SKIN, NO TUMOR IS SEEN.
+J. CHANGES CONSISTENT WITH PREVIOUS BIOPSY SITE, SEE PRIOR
+K. ATYPICAL DUCTAL EPITHELIAL HYPERPLASIA.
+L. FIBROADENOMA AND FIBROADENOMAT0ID NODULAR CHANGES.
+M. FIBROCYSTIC CHANGES WITH COLUMNAR CELL CHANGES, DUCTAL EPITHELIAL HYPERPLASIA AND
+ASSOCIATED MICROCALCIFICATIONS.
+N. MICROSCOPIC CAPILLARY HEMANGIOMA.
+O. MEDIAL CALCIFICATION OF BLOOD VESSEL.
+P. IMMUNOHISTOCHEMICAL STAINING FOR ESTROGEN RECEPTOR, PROGESTERONE RECEPTOR AND HER-
+2/NEU ARE BEING PERFORMED ON PREVIOUS SPECIMEN                      AND RESULTS ARE PENDING.
+
+
+COMMENT:
+Part 2: The above measurement of the micrometastatic tumor within the lymph node is made on the slide
+original frozen section slide was re-reviewed with Dr.                and there was no diagnostic changes identified.    The
+
+Part 3: Immunohistochemical staining for e-cadherin/p120, support the ductal phenotype of the carcinoma in situ.
+
+
+
+UUID:8D76394C-4084-4E74-8AB8-FAE08E21FD10                           [TABLE: Shows diagnostic codes]
+TCGB-BH-A0BF-01A-01-BS4-95                    Redacted
+[BARCODE]                                                            Reviewed J.L. [signature]
+                                                                     Case ID (s-049): MBS Date Received 3-16-11
+                                                                     Reviewer District: [signature] 3/31/11

@@ -1,0 +1,325 @@
+=================================== PAGE 1 ===================================
+Clinical Diagnosis & History:
+Biopsy proven left breast IDC, approximately 3-4 cm in size. Presents for
+left TM, SLN biopsy, as well as right TM. Protocol         History of right
+breast MRI guided core biopsy.
+
+Specimens Submitted:
+1: SP: Sentinel node #1 level one left axilla (fs)
+2: SP: Sentinel node #2 level one left axilla (fs)
+3: SP: Sentinel node #3 level one left axilla (fs)
+4: SP: Right breast
+5: SP: Left breast
+6: SP: Additional lymph node, left axilla
+
+DIAGNOSIS:
+
+1)      SENTINEL LYMPH NODE #1, LEVEL I LEFT AXILLA, EXCISION:
+        - ONE BENIGN LYMPH NODE (0/1).
+        - ADDITIONAL H/E STAINED SECTIONS AND IMMUNOPEROXIDASE STAINS FOR
+        CYTOKERATINS (AE1:AE3) SHOW NO EVIDENCE OF METASTATIC CARCINOMA.
+
+2)      SENTINEL LYMPH NODE #2, LEVEL I LEFT AXILLA, EXCISION:
+        - ONE BENIGN LYMPH NODE (0/1).
+        - ADDITIONAL H/E STAINED SECTIONS AND IMMUNOPEROXIDASE STAINS FOR
+        CYTOKERATINS (AE1:AE3) SHOW NO EVIDENCE OF METASTATIC CARCINOMA.
+
+3)      SENTINEL LYMPH NODE #3, LEVEL I LEFT AXILLA, EXCISION:
+        - METASTATIC CARCINOMA PRESENT IN THE FORM OF MICROSCOPIC CLUSTERS AND SINGLE
+        CELLS IS IDENTIFIED IN ONE OF ONE LYMPH NODE ON ADDITIONAL CYTOKERATIN
+        IMMUNOHISTOCHEMICAL STAINS (AE1:AE3). THE CLUSTER OF CARCINOMA MEASURES
+        LESS THAN 0.2 MM, BUT SEVERAL CLUSTERS ARE PRESENT THROUGHOUT THE
+        LYMPH NODE, ADDING UP TO ABOUT 300-400 CELLS IN TOTAL.
+        RARE TUMOR CLUSTERS ARE ALSO IDENTIFIED ON ADDITIONAL H/E STAINED SECTIONS.
+
+4)      BREAST, RIGHT TOTAL MASTECTOMY:
+        - BENIGN BREAST TISSUE WITH FOCAL ATYPICAL DUCTAL HYPERPLASIA (ADH),
+        COLUMNAR CELLS,      FIBROADENOMATOID CHANGES AND BIOPSY SITE.
+        - CALCIFICATIONS ARE ASSOCIATED WITH ADH AND BENIGN EPITHELIUM.
+        - BENIGN SKIN AND NIPPLE.
+
+5)      BREAST, LEFT, TOTAL MASTECTOMY:
+
+
+        ** Continued on next page **
+
+
+[Handwritten notes visible on right side:]
+ICb-0-3
+Carcinoma, infiltrating lobular $5201
+S14: breast, NOS C50.9
+2/10/11
+Juw
+
+[Bottom right contains a table with checkmarks and handwritten entries including dates and initials]
+
+=================================== PAGE 2 ===================================
+..................................................... Page 2 of 7
+  : INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE, PRESENT AS MULTIPLE FOCI
+  DISTRIBUTED OVER AN AREA SPANNING ABOUT 6 CM GROSSLY.
+  - EXTENSIVE LOBULAR CARCINOMA IN SITU (LCIS) IS ALSO IDENTIFIED,
+  CLASSICAL TYPE (TYPE A).
+  - THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER OUTER QUADRANT AND
+  LOWER OUTER QUADRANT.
+  - NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA
+  IS IDENTIFIED.
+  - CALCIFICATIONS ARE PRESENT IN THE IN SITU AND INVASIVE CARCINOMA, AND
+  IN BENIGN BREAST    PARENCHYMA.
+  - NO VASCULAR INVASION IS NOTED.
+  - NO PERINEURAL INVASION IS IDENTIFIED IN A SECTION IMMUNOSTAINED FOR
+  CYTOKERATIN AE1:AE3.
+  - INVASIVE CARCINOMA IS 0.6 CM FROM THE NEAREST (DEEP) MARGIN.
+  - NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+  - NO CALCIFICATIONS ARE IDENTIFIED.
+  - THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE, FIBROADENOMATOID
+  CHANGES AND APOCRINE METAPLASIA.
+
+  IMMUNOHISTOCHEMICAL STAINS WERE PERFORMED ON FORMALIN-FIXED TISSUE WITH
+THE FOLLOWING RESULTS FOR INVASIVE CARCINOMA (BLOCK 5-5):
+
+ESTROGEN RECEPTOR (6F11, VENTANA):      95% NUCLEAR STAINING WITH STRONG
+INTENSITY
+PROGESTERONE RECEPTOR (1E2; VENTANA):.   30% NUCLEAR STAINING WITH STRONG
+INTENSITY
+HER2 (HERCEPTEST; DAKO).               NEGATIVE (0)
+
+       CONTROLS ARE SATISFACTORY.
+
+Comment:     HerceptestTM (Dako) is an FDA-approved method for assessment of
+HER2 protein overexpression in breast cancer tissue routinely processed for
+histological evaluation. The HER2 test results are reported in accordance
+with the ASCO/CAP guidelines for HER2 testing and reporting in breast
+cancer (J Clin Oncol 2007; 25(1):118-145).  Some of the immunohistochemistry
+and ISH tests were developed and their performance characteristics
+determined by the Department of Pathology. They have not been cleared or
+approved by the US Food and Drug Administration. The FDA has determined that
+such clearance or approval is not necessary. These tests are used for
+clinical purposes. They should not be regarded as investigational or for
+research. The tests were developed and run under the Clinical Laboratory
+Improvement Amendments of 1988 (CLIA ' 88) as qualified to perform high
+complexity clinical laboratory testing.
+
+6)   LYMPH NODE, LEFT AXILLA, EXCISION:
+     - ONE BENIGN LYMPH NODE (0/1).
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+
+*** Report Electronically Signed Out ***
+
+             ** Continued on next page **
+
+=================================== PAGE 3 ===================================
+Page 3 of 7
+
+
+1). The specimen is received fresh for frozen section consultation, labeled
+"sentinel node #1, level 1, left axilla" and consists of a pink tan firm
+lymph node measuring 1.8 x 0.6 x 0.4 cm. The specimen is bisected and
+entirely submitted for frozen section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+2). The specimen is received  fresh for frozen section consultation, labeled
+"sentinel node #2, level 1, left axilla" and consists of a pink tan firm
+lymph node measuring 2.8 x 1.5 x 0.4 cm. The specimen is bisected and
+entirely submitted for frozen section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+3). The specimen is received  fresh for frozen section consultation, labeled
+"sentinel node #3, level 1, left axilla" and consists of two pink tan firm
+lymph nodes measuring 1.2 x 1.2 x 0.6 cm and 0.8 x 0.8 x 0.4 cm. The
+specimen is bisected and entirely submitted for frozen section.
+
+Summary of sections:
+FSC -- frozen section control
+
+
+4). The specimen is received fresh labeled, "Right breast stitch marks
+axillary tail" and consists of a breast measuring 19 x 18 x 3.5 cm with
+an attached axillary tail measuring 12 x 4 x 3.5 cm. Attached to the
+skin surface is an everted nipple measuring 1.7 x 1.5 x 0.3 cm and areola
+measuring 3.7 x 3.4 cm.  No visible scar is identified on the skin surface.
+  A suture demarcates the axillary aspect.  The posterior surface of the
+breast is inked black, the anterior surface is inked blue and the specimen
+is serially sectioned to reveal a dark red well circumscribed biopsy cavity
+filled with red hemorrhagic material measuring 2.5 x 2 x 2 cm, and located
+in the upper inner quadrant, 9 cm from the nipple and 2 cm deep margin.  A
+clip is not identified in the specimen.  Sectioning of the axillary aspect
+reveals no grossly identifiable lymph nodes.  Representative sections are
+submitted. Sample of all quadrants were given to TPS protocol.
+
+Summary of sections:
+N - nipple
+NB - nipple base
+S - skin scar
+D - deep margin
+
+
+                        ** Continued on next page **
+
+=================================== PAGE 4 ===================================
+Page 4 of 7
+BX - biopsy site
+UIO - upper inner quadrant
+LIQ - lower inner quadrant
+UOQ - upper outer quadrant
+LOQ - lower outer quadrant
+
+
+5). The specimen is received fresh labeled, "left breast" and consists of a
+breast measuring 23 x 19 x 2 cm with overlying skin ellipse measuring 9 x 4
+cm. Situated center on the skin surface is a nipple measuring 1.5 x 1.2 cm
+and areola measuring 3.2 x 3.2 cm. The skin shows a linear scar measuring 3
+cm, situated lateral to the nipple. A suture demarcates the axillary
+aspect. The skin is inked green and the deep surface is inked blue. Interior
+blue and the axillary aspect is inked yellow. The specimen is serially
+sectioned to reveal a tan white firm stellate tumor mass measuring 3.1 x
+2.0 cm, located in LOQ 0.5 cm from the deep margin, extending to the
+overlying skin. A clip is not identified. Sectioning of the axillary
+aspect reveals no grossly identifiable lymph nodes. Representative sections
+are submitted.
+
+Summary of sections:
+N - nipple
+NB - nipple base
+S - skin scar
+D - deep margin
+BX - biopsy site
+T - tumor
+UIQ - upper inner quadrant
+LIQ - lower inner quadrant
+UOQ - upper outer quadrant
+LOQ - lower outer quadrant
+
+
+6). The specimen is received in formalin, labeled "additional lymph nodes
+left axilla" and consists of irregular yellow tan lobulated tissue measuring
+0.8 x 0.3 x 0.3 cm. The specimen is entirely submitted.
+
+Summary of sections:
+LN- lymph nodes
+
+
+Summary of Sections:
+Part 1: SP: Sentinel node #1 level one left axilla (fs)
+
+Block          Sect. Site       PCs
+1                   FSC          1
+
+Part 2: SP: Sentinel node #2 level one left axilla (fs)
+
+
+                    ** Continued on next page **
+
+=================================== PAGE 5 ===================================
+Page 5 of 7
+Block           Sect. Site      PCs
+1                     PSC             1
+
+Part 3:  SP: Sentinel node #3 level one left axilla (fs)
+
+Block           Sect. Size      PCs
+1                     PSC             1
+
+Part 4:  SP: Right breast 1
+
+Block           Sect. Size      PCs
+1                     BX              4
+1                     D               1
+2                     LIQ             2
+2                     LOQ             2
+1                     M               1
+1                     NB              1
+1                     S               1
+2                     UIQ             2
+2                     UOQ             2
+
+Part 5:  SP: Left breast
+
+Block           Sect. Size      PCs
+2                     I               2
+1                     BX              1
+2                     D               2
+2                     LIQ             2
+2                     LOQ             2
+1                     M               1
+1                     NB              1
+1                     S               1
+5                     T               5
+2                     UOQ             2
+
+Part 6:  SP: Additional lymph node, left axilla 1
+
+Block           Sect. Size      PCs
+1                     LN              1
+
+
+Procedures/Addenda:
+Addendum
+                                 Status: Signed Out
+Date Issued                      By:
+Date Reported
+
+Addendum Diagnosis
+
+                         ADDENDUM
+
+PART #5
+LEFT  BREAST:
+
+
+                 ** Continued on next page **
+
+=================================== PAGE 6 ===================================
+Page 6 of 7
+INVASIVE LOBULAR CARCINOMA IS PRESENT IN TEN OUT OF NINETEEN SLIDES, and
+involves upper outer and lower outer quadrants. A microscopic focus of
+invasive lobular carcinoma is also present in a section from the lower
+inner quadrant (<1mm) THE SIZE OF THE INVASIVE TUMOR IS DIFFICULT TO
+ASSESS IN THIS CASE, AS INVASIVE CARCINOMA IS PRESENT AS MULTIPLE NODULES,
+MANY OF WHICH MERGE INTO ONE ANOTHER. THE LARGEST CONTIGUOUS SPAN OF
+INVASIVE CARCINOMA MEASURES AT LEAST 2.6 CM MICROSCOPICALLY IN SLIDE S-18.
+IN THIS SLIDE THE TUMOR IS PERIPHERALLY TRANSECTED ALONG A BROAD FRONT.
+
+
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+
+1)      FROZEN SECTION DIAGNOSIS: SP: Sentinel node #1 level one left axilla
+(fs)    : Benign
+        PERMANENT DIAGNOSIS:      SAME
+
+2)      FROZEN SECTION DIAGNOSIS: SP: Sentinel node #2 level one left axilla
+(fs)    : Benign
+        PERMANENT DIAGNOSIS:      SAME
+
+3)      FROZEN SECTION DIAGNOSIS: SP: Sentinel node #3 level one left axilla
+(fs)    Benign
+        PERMANENT DIAGNOSIS:      SEE FINAL
+
+
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+
+1)      FROZEN SECTION DIAGNOSIS: SP: Sentinel node #1 level one left axilla
+(fs) (  : Benign
+        PERMANENT DIAGNOSIS:      SAME
+
+2)      FROZEN SECTION DIAGNOSIS: SP: Sentinel node #2 level one left axilla
+(fs)    Benign
+        PERMANENT DIAGNOSIS:      SAME
+
+3)      FROZEN SECTION DIAGNOSIS: SP: Sentinel node #3 level one left axilla
+(fs)    : Benign
+        PERMANENT DIAGNOSIS:      SEE FINAL
+
+
+                ** Continued on next page **

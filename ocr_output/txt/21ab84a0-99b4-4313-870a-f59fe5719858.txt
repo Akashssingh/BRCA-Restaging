@@ -1,0 +1,168 @@
+=================================== PAGE 1 ===================================
+UUID:F27381IF-D3CE-4619-BEC2-15C110567503
+ACGR-EW-A2FS-01A-DR
+                                                    Redacted
+
+[BARCODE IMAGE]
+
+                                                    Pathology Report
+
+Name:                                               Case #:
+DOB:                                                Collected:
+Gender:         F                                   Received:
+MRN:                                                Reported:
+Location:                                           Copy To:
+Physician:
+
+
+Pathologic Interpretation:
+
+A.      Lymph node, sentinel lymph node:
+        -Micrometastatic carcinoma to one lymph node, 0.36 mm. detected with immunohistochemistry for keratin (1/1).
+
+B.      Lymph node, sentinel lymph node:
+        -No malignancy seen in one lymph node (0/1). Immunohistochemistry for keratin is negative.
+
+C.      Lymph node, sentinel lymph node:
+        -No malignancy seen in three lymph nodes (0/3). Immunohistochemistry for keratin is negative.
+
+D.      Lymph node, biopsy:
+        -No malignancy seen in one lymph node (0/1).   Immunohistochemistry for keratin is negative.
+
+E.      Lymph node, sentinel lymph node:
+        -No malignancy seen in one lymph node (0/1).   Immunohistochemistry for keratin is negative.
+
+F.      Lymph node, sentinel lymph node:
+        -No malignancy seen in one lymph node (0/1).   The immunohistochemistry for keratin is negative.
+
+G.      Left simple mastectomy 1 stitch superior 2 stitches latesl:
+        -Invasive poorly differentiated ductal carcinoma, high nuclear grade, 3.7 cm.
+        -Extensive in situ ductal carcinoma associated with and away from invasive carcinoma.
+        -Specimen margins are negative for invasive carcinoma.
+        -Deeper margin is focally positive for DCIS.    See tumor summary.
+        -The tumor cells are positive for ER and negative for PR and Her2 by immunohistochemistry.
+
+TUMOR SUMMARY:
+Specimen type: Mastectomy.
+Lymph Node Sampling:   Sentinel lymph node.
+Laterality:  Left.
+Size of invasive component:
+Greatest dimension:  3.7 cm.
+        Additional dimensions: 3.3 x 2.7 cm.
+Histologic Type: Invasive ductal carcinoma with extensive intraductal component.
+Tubule Formation:       Minimal less than 10% score (score= 3).
+Nuclear Pleomorphism: Marked variation in size, nucleoli, chromatin clumping, etc (score=3).
+Mitotic count:  Greater than 10 mitoses per 10 HPF (score =3)
+Total Nottingham Score: Grade III.
+Pathologic Staging:
+        Primary Tumor: pT2.                                    /cb-0-3
+        Regional lymph nodes: pN1ml.
+        Distant Metastasis:  pMX.                             Carcinoma infiltrating duct NOS 8544/3
+        Margins: Margins uninvolved by invasive carcinoma.
+        Margins involved with DCIS:                            Site: breast, Nos  C50.9
+                Specify which margin: Deep                                                     
+        Extent of Margin Involvement for DCIS:  Unifocal.                           6/1/11
+        Venous/lymphatic: Absent.
+        Microcalcifications:  Present in invasive carcinoma.
+
+
+
+
+                                                    ***Electronically Signed Out By***
+
+=================================== PAGE 2 ===================================
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s) for the specimen(s), and (ii) Rendered the diagnosis(es).
+
+Intraoperative Consultation
+
+A. Lymph node, sentinel lymph node: no tumor seen.
+
+B. Lymph node, sentinel lymph node: no tumor seen.
+
+C. Lymph node, sentinel lymph node: no tumor seen.
+
+D. Lymph node, biopsy: no tumor seen.
+
+C. Lymph node, sentinel lymph node: no tumor seen.
+
+F. Lymph node, sentinel lymph node: no tumor seen.
+
+Clinical History:
+
+Patient is a       year-old female with left breast cancer.
+
+Pre Operative Diagnosis:
+
+Not Provided
+
+Specimen(s) Received:
+A: Lymph node, sentinel lymph node
+B: Lymph node, sentinel lymph node
+C: Lymph node, sentinel lymph node
+D: Lymph node, biopsy
+E: Lymph node, sentinel lymph node
+F: Lymph node, sentinel lymph node
+G: left simple mastectomy 1 stitch superior 2 stitches lateral
+
+Gross Description:
+
+A.      Received in formalin and labeled "lymph node, sentinel lymph node" is a tan, soft lymph node measuring 0.5 x 0.5 x 0.4
+        cm. Specimen bisected and submitted in toto in one cassette for frozen section.
+
+B.      Received in formalin and labeled "lymph node, sentinel lymph node" are three tan, soft nodule measuring from 0.3 up to
+        0.5 cm in greatest dimension. Submitted in three cassettes (one lymph node per each cassette).
+
+C.      Received in formalin and labeled "lymph node, sentinel lymph node" is a tan, soft lymph node measuring 0.3 x 0.3 x 0.3
+        cm. Specimen bisected and submitted in toto in one cassette for frozen section.
+
+D.      Received in formalin and labeled "intramammary lymph node" is a tan, soft lymph node measuring 0.5 x 0.5 x 0.4 cm.
+        Specimen bisected and submitted in toto in one cassette.
+
+E.      Received fresh and labeled "sentinel lymph node #4" is a tan, soft lymph node measuring 0.3 x 0.3 x 0.3 cm. Specimen
+        bisected and submitted in cassette one for frozen section.
+
+F.      Received fresh and labeled "sentinel lymph node #5" is a tan, soft lymph node measuring 0.6 x 0.3 x 0.3 cm. Submitted in
+        cassette one for frozen section.
+
+Page 2 of 3
+
+=================================== PAGE 3 ===================================
+G.      Received fresh and labeled "left simple mastectomy 1 stitch superior 2 stitches lateral" is a mastectomy specimen, which
+        weighs 300.0 grams and measures 19.0 x 15.0 x 3.5 cm. At the anterior aspect of the specimen, there is a brown-black
+        ellipse of skin measuring 9.5 x 5.0 cm. Centrally located is a dark color areola measuring 3.0 cm in diameter with an
+        unremarkable nipple measuring 1.2 cm in diameter. The specimen is oriented with one stitch superior, two stitches lateral.
+        The specimen is inked as follows: superior, red; inferior, yellow; lateral, green; medial, blue; deep, black. Also, present on
+        the skin is one surgical liner scar measuring 1.7 x 0.1 cm. Cut sections through the specimen reveals an ill-defined tan,
+        firm nodule measuring 3.7 x 3.3 x 2.7 cm. The mass is approximately 2.0 cm away from superior margin, 3.0 cm away
+        from inferior margin, 3.0 cm away from the lateral margin, 3.0 cm away from the medial margin and 0.7 cm away from
+        deep margin. Located at the upper outer quadrant, there is a blue inked area, which is a tan, firm fibrotic tissue.
+        Specimen submitted as follows:
+
+        1       Nipple
+        2       Surgical skin scar
+        3       Superior margin
+        4       Inferior margin
+        5       Lateral margin
+        6       Medial margin
+        7       Deep margin
+        8-12    Section from the tumor
+        13&14   Representative section from the upper outer quadrant
+        15&16   Section from the lower outer quadrant
+        17&18   Inner upper quadrant
+        19&20   Inner lower quadrant
+
+
+ICD-9(s):    196.3 174.8
+
+
+                                                                                                        Criteria               Yes      No
+                                                                                                        *Diagnosis Discrepancy                  ✓
+                                                                                                        *Primary Tumor Site Discrepancy                 ✓
+                                                                                                        *Grade Discrepancy                              ✓
+                                                                                                        Prior Malignancy History                        ✓
+                                                                                                        Posthysterectomy Tissue Pulled                  ✓
+                                                                                                        Lymphoma Risk Factors    ✓
+                                                                                                        Specimen Deficiencies    ✓
+                                                                                                        Pertinent Details
+
+                                                                                                                                                Page 3 of 3

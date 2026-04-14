@@ -1,0 +1,70 @@
+=================================== PAGE 1 ===================================
+FINAL DIAGNOSIS:
+PART 1: BREAST, RIGHT, SEGMENTAL MASTECTOMY –
+A. INVASIVE DUCTAL CARCINOMA, NOS TYPE, POORLY DIFFERENTIATED.
+B. THE INVASIVE TUMOR MEASURES 2.0 CM IN GREATEST DIMENSION.NOTTINGHAM GRADE 3 (TUBULE
+   FORMATION 3, NUCLEAR PLEOMORPHISM 3, MITOTIC ACTIVITY 3; TOTAL SCORE 9/9).
+C. DUCTAL CARCINOMA IN-SITU (DCIS), NUCLEAR GRADE 3, MICROPAPILLARY AND PAPILLARY TYPES
+   WITH COMEDONECROSIS; CONSTITUTES 60% OF THE TOTAL TUMOR MASS AND IS PRESENT ADMIXED
+   WITH AND AWAY FROM THE INVASIVE COMPONENT.
+D. LYMPH VASCULAR SPACE INVASION IS IDENTIFIED.
+E. RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA, HOWEVER THE INVASIVE CARCINOMA EXTENDS
+   TO 0.5 CM FROM THE ANTERIOR MARGIN.DUCTAL CARCINOMA IN-SITU EXTENDS TO <0.1 CM FROM THE
+   LATERAL MARGIN AND 0.2 CM FROM THE ANTERIOR MARGIN.
+F. SKIN IS NEGATIVE FOR TUMOR.
+G. FIBROCYSTIC CHANGES WITH DUCTAL EPITHELIAL HYPERPLASIA, PREVIOUS BIOPSY SITE CHANGES.
+H. THE INVASIVE TUMOR CELLS ARE POSITIVE FOR ESTROGEN AND PROGESTERONE RECEPTORS AND
+   NEGATIVE FOR HER-2 (1+), AS PER PREVIOUS PATHOLOGY REPORT
+
+PART 2: BREAST, RIGHT, NEW DEEP MARGIN, SEGMENTAL MASTECTOMY –
+A. NO CARCINOMA IDENTIFIED.
+B. FIBROCYSTIC CHANGES WITH DUCTAL EPITHELIAL HYPERPLASIA,COLUMNAR CELL CHANGE.
+
+PART 3: LYMPH NODE, RIGHT AXILLA, SENTINEL #1, BIOPSY –
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+
+CASE SYNOPSIS:
+SYNOPTIC – PRIMARY INVASIVE CARCINOMA OF BREAST               ICp-0-3
+LATERALITY:              Right                               Classens, irefoldng ductal H05 $500/3
+PROCEDURE:               Segmental                           Site: breast/NOS  C50.9   3/13/11
+LOCATION:                Not specified
+SIZE OF TUMOR:           Maximum dimension invasive component: 2 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+                         No
+TUMOR TYPE (invasive component):
+                         Ductal adenocarcinoma, NOS
+NOTTINGHAM SCORE:        Nuclear grade: 3
+                         Tubule formation: 3
+                         Mitotic activity score: 3
+                         Total Nottingham score: 9
+                         Nottingham grade (1, 2, 3): 3
+ANGIOLYMPHATIC INVASION: Yes
+DERMAL LYMPHATIC INVASION: No
+CALCIFICATION:           Yes, malignant zones
+TUMOR TYPE, IN SITU:     Papillary
+                         Micropapillary
+                         DCIS admixed and outside of invasive carcinoma component
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT: Percent of tumor occupied by in situ component: 60 %
+                         No
+SURG MARGINS INVOLVED BY IN SITU COMPONENT: Distance of invasive tumor to closest margin: 5 mm
+                         No
+LYMPH NODES POSITIVE:    Distance of in situ disease to closest margin: 1 mm
+LYMPH NODES EXAMINED:    0
+METHOD(S) OF LYMPH NODE EXAMINATION: 0
+                         H/E stain                           UID:1F35A542-2795-481F-A846-709784420208
+SENTINEL NODE METASTASIS: No                                 TCGA-BH-A8HAI-01A-PR        Redacted
+ONLY KERATIN POSITIVE CELLS ARE PRESENT.
+                         No
+SKIN INVOLVED (ULCERATION): No
+NON-NEOPLASTIC BREAST TISSUE: FCD, Other: columnar cell change
+T STAGE, PATHOLOGIC:     pT1c
+N STAGE, PATHOLOGIC:     pN0
+                         
+M STAGE, PATHOLOGIC:                                         Criteria                   Yes    No
+ESTROGEN RECEPTORS:      pMX                                 Estrogen Receptor (%)
+PROGESTERONE RECEPTORS:  positive                            Phema a Tuble of Sin Micrphonog
+HER2/NEU:                positive                            NIPAA Disc Bioass
+                         zero or 1+                          Number N Nodes (%)
+                                                             DoctyPadlamma bestal (DCIS)
+                                                             Close to Closing 2/6 C50.9 Inf. / CAPCINISED
+                                                                                 Date Receined 3/11/11

@@ -1,0 +1,58 @@
+=================================== PAGE 1 ===================================
+#1, BIOPSY -
+                                                                                              PLASM (0/1) (see comment).
+
+                                                                                              #2, BIOPSY -
+                                                                                              PLASM (0/1).
+                        PART 3:
+                        A. BREAST                                  ECTOMY AT 11 O'CLOCK -
+                                                                  HORA, NOTTINGHAM GRADE 3/3 (TUBULE SCORE 3, NUCLEAR GRADE 3,
+                                                 MITOSIS SCORE 3, TOTAL SCORE 9/9) (see comment).
+                        B. ALL MARGINS ARE NEGATIVE FOR NEOPLASM.
+                        C. TUMOR SIZE IS 1.3 CM IN GREATEST DIMENSION (gross measurement).
+                        D. DEFINITE ANGIOLYMPHATIC INVASION IS NOT IDENTIFIED.
+                        E. BIOPSY SITE CHANGES.
+                        F. FIBROCYSTIC CHANGES, COLUMNAR CELL CHANGE, AND PSEUDOANGIOMATOUS STROMAL
+                           HYPERPLASIA (PASH).
+CASE SYNOPSIS:
+   SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+   LATERALITY:                                    Right
+   PROCEDURE:                                     Segmental
+   LOCATION:                                      Upper outer quadrant
+   SIZE OF TUMOR:                                 Maximum dimension invasive component: 1.3 cm
+   MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+                                                  No
+   TUMOR TYPE (invasive component):
+                                                  Ductal adenocarcinoma, NOS              / 0-0-3
+   NOTTINGHAM SCORE:                              Nuclear grade: 3
+                                                  Tubule formation: 3                     Carcinoma, infiltrating duct NOS 8500/3
+                                                  Mitotic activity score: 3               Site: breast, NOS C50.9
+                                                  Total Nottingham score: 9                               3/3/11
+                                                  Nottingham grade (1, 2, 3): 3
+   ANGIOLYMPHATIC INVASION:                       No
+   DERMAL LYMPHATIC INVASION:                     Not applicable
+   CALCIFICATION:                                 No
+   SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+                                                  No
+   LYMPH NODES POSITIVE:                          Distance of invasive tumor to closest margin: 8 mm
+   LYMPH NODES EXAMINED:                          0
+   METHOD(S) OF LYMPH NODE EXAMINATION:           2
+
+   SENTINEL NODE METASTASIS:                      H/E stain, Keratin stain
+   NON-NEOPLASTIC BREAST TISSUE: FCD, Other: columnar cell change and PASH
+   T STAGE, PATHOLOGIC:                           pT1c
+   N STAGE, PATHOLOGIC:                           pN0
+   M STAGE, PATHOLOGIC:                           pMX
+   ESTROGEN RECEPTORS:                            unknown
+   PROGESTERONE RECEPTORS:                        unknown
+   HER2/NEU:
+
+                                                                                            Details              Yes        No
+                                                                                            Primary Tumor Site Discrepancy              X
+                                                                                            SEER Discrepancy                             X
+                                                                                            Liver Metastases History                     X
+                                                                                            Bone Metastases Primary Tumor               X
+                                                                                            Distant Primary Tumor                       X
+                                      UUIO:004729J-3CEA-4845-A0B3-07000C8A84CO              Receptor Details 3/2/11  Date Reviewed 4/3/11
+                                      TCBA-BH-A0BL-01A-DR        Redacted
+                          ||||||||||||||| |||||||||||||||||||||||||||||| ||||||||

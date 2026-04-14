@@ -1,0 +1,226 @@
+=================================== PAGE 1 ===================================
+ICD-0-3                                (Fibrulalabules)
+                                            carcinoma, infiltrating lobular mixed of other type
+TSS                                         Path S to G2: breast, upper outer quadrant  8520/3   8/26/3
+                                            COCF: breast, NOS C50.9                      c50.4
+                                                                                         hr
+TSS:                                                                                     4/14"
+
+SPECIMENS:
+    A. SENTINEL LYMPH NODE #1 RIGHT BREAST
+    B. SENTINEL LYMPH NODE #2 RIGHT BREAST
+    C. RIGHT BREAST
+    D. SENTINEL LYMPH NODE #1 LEFT AXILLA
+    E. SENTINEL LYMPH NODE #2 LEFT AXILLA
+    F. LEFT BREAST
+
+SPECIMEN(S):
+    A. SENTINEL LYMPH NODE #1 RIGHT BREAST
+    B. SENTINEL LYMPH NODE #2 RIGHT BREAST
+    C. RIGHT BREAST
+    D. SENTINEL LYMPH NODE #1 LEFT AXILLA
+    E. SENTINEL LYMPH NODE #2 LEFT AXILLA
+    F. LEFT BREAST
+
+GROSS DESCRIPTION:
+    A. SENTINEL LYMPH NODE #1 RIGHT BREAST
+    Received fresh are three tan pink lymph nodes all 1cm in greatest dimension. Three touch preps are
+    taken.
+    A1: one lymph node
+    A2: one lymph node
+    A3: one lymph node
+    B. SENTINEL LYMPH NODE #2 RIGHT BREAST
+    Received fresh is a tan pink lymph node 2 x 0.7 x 0.5 cm. The specimen is sectioned. A touch prep is
+    taken. Toto B1.
+    C. RIGHT BREAST
+    Received fresh labeled with the patient's identification and designated "right breast" is a 110 g, 13 x 10
+    x 3.5 cm, oriented (suture in axilla), mastectomy with pink-tan 10.5 x 5.4 cm skin ellipse with 3.2 cm
+    linear scar and everted 0.8 cm diameter nipple. Ink code: Posterior-black, anterior/superior-blue,
+    anterior/inferior-orange. The specimen is serially sectioned from lateral to medial into 9 slices revealing
+    a hemorrhagic firm biopsy cavity, 2.5 x 2 x 1.6 cm (slices 5-6) at 12:00, 0.1 cm from the deep margin
+    and 0.2 cm from anterior (superior). Located adjacent and superior to the biopsy cavity (12:00, slices 5-
+    6) is an 1.7 x 1.2 x 0.8 cm ill-defined firm lesion that is 0.1 cm from the anterior margin and 0.3 cm from
+    the deep margin. Tissue is procured. Representatively submitted:
+    C1-C2: Nipple
+    C3: Skin
+    C4-C5: Representative sections, upper outer quadrant
+    C6: Slice 5, 12 o'clock, lesion
+    C7-C9: Slice 5, biopsy cavity, 12 o'clock                    UAID:817D4725-815E-4148-A8FC-3431F2B05C0B
+    C10: Slice 6, lesion, 12 o'clock                             TCCN-E2-A1BC-01A-PR          Redacted
+    C11-C13: Slice 6, biopsy cavity, 12 o'clock                  [BARCODE]
+    C14: Representative section, upper inner quadrant, slice 7
+    C15: Representative section, lower inner quadrant, slice 7
+    C16: Representative section, lower outer quadrant, slice 3   [BARCODE]
+    C17: Possible lymph nodes
+    D. SENTINEL LYMPH NODE #1 LEFT AXILLA
+    Received fresh are two tan pink lymph nodes 1.2cm and 0.4cm in greatest dimension. Two touch preps
+    are taken.
+    D1: one lymph node
+    D2: one lymph node
+    E. SENTINEL LYMPH NODE #2 LEFT AXILLA
+    Received fresh are two tan pink lymph nodes 2cm and 1cm in greatest dimension. Two touch preps are
+    taken.
+    E1: one lymph node
+    E2: one lymph node
+    F. LEFT BREAST
+    Received fresh labeled with the patient's identification and "left breast" is a 96g, 15 x 11 x 2cm oriented
+    (stitch in axilla) simple mastectomy with attached 11 x 4cm tan pink skin ellipse and 0.6cm everted
+    nipple. The skin surface is remarkable for a well healed subareolar scar 1.8cm, 2cm inferior to the
+
+=================================== PAGE 2 ===================================
+TSS
+
+nipple in the LIQ-LC. Ink code: anterior-superior: blue, anterior-inferior: orange, posterior-black. The
+specimen is serially sectioned from medial to lateral into 9 slices with nipple in slice 4, revealing a 1.6 x
+1.1 x 1cm tan white firm ill defined mass, 0.3cm from the anterior-inferior margin and 0.5cm from the
+deep margin corresponding to the scar on the skin surface in the LC of slice 4. Representatively
+submitted:
+F1: nipple slice 4
+F2: UIQ slice 2
+F3: LIQ with scar slice 2
+F4: UIQ slice 3
+F5: LIQ slice 3
+F6: UC slice 4
+F7: LC anterior margin slice 4
+F8-F9: mass with deep margin slice 4
+F10-F11: LOQ slice 5
+F12: UOQ slice 5
+F13: LOQ slice 6
+F14: UOQ slice 6
+F15: UOQ slice 7
+
+
+DIAGNOSIS:
+    A. SENTINEL LYMPH NODE 1, RIGHT AXILLA, BIOPSY:
+       - THREE LYMPH NODES, NO TUMOR SEEN (0/3).
+
+    B. SENTINEL LYMPH NODE 2, RIGHT AXILLA, BIOPSY:
+       - ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+
+    C. BREAST, RIGHT, MASTECTOMY:
+       - INVASIVE TUBULOLOBULAR CARCINOMA, SBR GRADE 1.
+       - TUMOR MEASURES 1.1 CM.
+       - TUMOR INVOLVES THE SKELETAL MUSCLE.
+       - TUMOR IS PRESENT AT THE ANTERIOR MARGIN AND IS
+         WITHIN 0.1 CM OF THE DEEP MARGIN AT ~ 12:00.
+       - PREVIOUS BIOPSY SITE CHANGES PRESENT.
+       - SKIN AND NIPPLE, NO TUMOR SEEN.
+
+       NOTE: The tumor measured 1.8 cm in the previous excision
+
+    D. SENTINEL LYMPH NODE 1, LEFT AXILLA, BIOPSY:
+       - TWO LYMPH NODES, NO TUMOR SEEN (0/2).
+
+    E. SENTINEL LYMPH NODE 2, LEFT AXILLA, BIOPSY:
+       - TWO LYMPH NODES, NO TUMOR SEEN (0/2).
+
+    F. BREAST, LEFT, MASTECTOMY:
+       - INVASIVE TUBULOLOBULAR CARCINOMA, SBR GRADE 1.
+       - TUMOR MEASURES 0.9 CM.
+       - TUMOR IS WITHIN MICRONS OF THE ANTERIOR MARGIN AND
+         IS 0.2 CM FROM THE DEEP MARGIN IN THE LOWER CENTRAL AREA.
+       - PREVIOUS BIOPSY SITE CHANGES PRESENT.
+       - SKIN AND NIPPLE, NO TUMOR SEEN.
+       - ONE INTRAMAMMARY LYMPH NODE, NO TUMOR SEEN (0/1).
+
+
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens:  A: SENTINEL LYMPH NODE #1 RIGHT BREAST
+B: SENTINEL LYMPH NODE #2 RIGHT BREAST
+C: RIGHT BREAST
+
+Specimen Type:        Mastectomy
+
+=================================== PAGE 3 ===================================
+TSS
+
+Needle Localization: No
+Laterality: Right
+Invasive Tumor: Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.8cm
+Tumor Site: 12:00`
+Margins: Involved at
+anterior
+Extent:: 0.2 cm
+Tubular Score: 2
+Nuclear Grade: 1
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade: 1
+Necrosis: Absent
+Vascular/Lymphatic invasion: None identified
+Lobular neoplasia: None
+Lymph nodes: Sentinel lymph node
+Lymph node status: Negative 0 / 4
+
+DCIS not present
+
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by IHC
+
+Pathological staging (pTN): pT 1c N 0
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: D: SENTINEL LYMPH NODE #1 LEFT AXILLA
+E: SENTINEL LYMPH NODE #2 LEFT AXILLA
+F: LEFT BREAST
+
+Specimen Type: Mastectomy
+Needle Localization: No
+Laterality. Left
+Invasive Tumor: Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.5cm
+Tumor Site: lower central
+Margins: Negative
+Tubular Score: 2
+Nuclear Grade: 1
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade: 1
+Necrosis: Absent
+Vascular/Lymphatic invasion: None identified
+Lobular neoplasia: None
+Lymph nodes: Sentinel lymph node
+Non-sentinel lymph node
+Lymph node status: Negative 0 / 5
+
+DCIS not present
+
+ER/PR/HER2 Results
+
+=================================== PAGE 4 ===================================
+TSS:
+
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+═══════════════════════════════════════
+Pathological staging (pTN):     pT 1c N 0
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+CLINICAL HISTORY:
+Bilateral invasive breast cancer with prior surgical excisions
+
+PRE-OPERATIVE DIAGNOSIS:
+Bilateral breast cancer
+
+INTRAOPERATIVE CONSULTATION:
+TPA-TPB: SLN #1-#2-Right axilla: Negative for tumor.
+TPD-TPE: SLN #1-#2-Left axilla: Negative for tumor.
+Diagnoses called to Dr by Dr.
+
+Gross Dictation.
+Microscopic/Diagnostic Dictation:.. Pathologist
+Final Review: Pathologist.
+Final: Pathologist.
+
+[Bottom right corner contains a partially visible table/form with checkmarks and signatures, including text fragments "Criteria", "Yes", "No", "Diagnosis Discrepancy", and a date "8/9/14"]

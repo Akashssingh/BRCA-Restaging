@@ -1,0 +1,94 @@
+=================================== PAGE 1 ===================================
+Collection Date:
+Hospital of Origin:
+Copy to.
+
+QC Pathologist:
+
+FINAL PATHOLOGIC DIAGNOSIS:
+A. Right axillary sentinel lymph node:
+One lymph node, total replacement by metastatic
+adenocarcinoma.
+Confirms frozen section diagnosis.
+Size of involved node: 2 cm.
+B. Right breast mastectomy:
+Invasive ductal carcinoma.
+Architectural score: 1 of 3.
+Nuclear score: 2 of 3.
+Mitotic score: 2 of 3.
+Total score: 5·of 9 = Grade I.
+Size: 3.8 cm.
+No evidence of skin or nipple involvement.
+Deep margin of excision is free of carcinoma.
+C. Right axillary sentinel lymph node #2:
+One lymph node, no evidence of metastatic carcinoma.
+pTNM classification: pT2 pN1 Mx.
+
+COMMENTS:
+
+CLINICAL HISTORY:
+Preoperative Diagnosis: Right breast cancer ER positive
+32%, PR 84%
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Right axillary sentinel node at 900 with frozen section
+B. Right breast
+C. Right axillary sentinel node #2
+
+CODES:
+
+PROCEDURAL DEMOGRAPHICS:
+Date of Procedure:
+
+UUID:C9746ECD-7FF8-4287-9D68-C6FD17889FC0
+TCGA-AC-A23E-01A-PR                    Redacted
+
+=================================== PAGE 2 ===================================
+Accession Date/Time:
+
+GROSS DESCRIPTION:
+The specimen is received in three containers labeled with
+the patient's name
+A. Container A is additionally labeled 'right axillary
+sentinel node' and contains a 1.5 cm yellow-tan firm fatty
+nodule consistent with possible lymph node. The nodule is
+bisected and entirely submitted for frozen section with the
+residual entirely resubmitted for permanent section in
+cassette A labeled
+B. Container B is additionally labeled 'right breast' and
+contains a 1050.0 g, 22.0 x 18.5 x 6.5 cm simple mastectomy
+specimen partially surfaced by a 22.5 x 12.5 cm portion of
+pink-tan skin bearing a central 1.5 x 1.3 x 0.7 cm everted
+nipple. Orientation is not offered or possible. Located 5.0
+cm from the nipple is a 2.3 cm partially healed pink-tan
+linear incision possibly consistent with previous biopsy
+site. Additionally, three tan-brown granular lesions are
+identified. These lesions range from 0.4 up to 1.0 cm in
+greatest dimension and reside 3.0 to 6.0 from the nipple.
+The deep margin is inked and the specimen is serially
+sectioned to reveal a 3.8 x 3.5 x 2.6 cm gray-white firm,
+gritty mass surrounded by fibrosis. This mass resides 2.0 cm
+below the skin's surface and approaches to within 2.3 cm of
+the inked deep margin. The remainder of the cut surface is
+comprised of predominantly yellow-tan adipose tissue admixed
+with moderate amounts of interspersed gray-white cystic
+fibrous tissue. No additional lesions are identified.
+Representative sections are submitted in cassettes B1 - 11
+labeled                designated as follows: B1, nipple;
+B2, skin lesions; B3, inked deep margin, perpendicular, B4 -
+B8, mass; B9 - B11, uninvolved tissue from each of the three
+uninvolved quadrants. Additionally, a yellow and green
+cassette are submitted for genomics research each labeled
+
+C. Container C is additionally labeled 'right axillary
+sentinel node #2' and contains a 0.9 cm yellow-tan firm
+fatty nodule consistent with possible lymph node. The
+specimen is bisected and entirely submitted in cassette C
+labelec
+
+INTRA-PROCEDURE CONSULTATION:
+A. FROZEN SECTION DIAGNOSIS: Positive for tumor per Dr.
+
+results were communicated to          after confirming patient
+identity.

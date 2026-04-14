@@ -1,0 +1,33 @@
+=================================== PAGE 1 ===================================
+ICD-O-3
+                                                     Carcinoma infiltrating ductal, NOS 8500/3
+                                                     Site: Breast, NOS    C50.9     11/27/11
+
+2. Invasive ductal breast carcinoma (maximum diameter 1.8 cm, malignancy grade II) with
+angioinvasion and infiltration of the neural sheath in the tumor periphery. Likewise in the
+tumor periphery a concomitant DCIS (malignancy grade II, procomponent of tumor < 10%).
+Distant fibrocystic parenchyma of the breast with fibroadenoma buds free of tumor and/or
+DCIS.
+
+Tumor classification: G2 (L1, V0), pT1c, pN0 (sn), MX, R0 (minimum width of dorsocranial
+safety margin 1 cm!).
+
+
+
+
+
+                                                                    LLLLLLLLLEL
+                             UUID:41441A7F-E4DD-4D34-B97D-B4657C4211E1
+                                  TCGA-A8-A095-01A-PR              Redacted
+                             [BARCODE IMAGE]
+
+
+                             Criteria                           Yes    No
+                             Adequate Discrepancy                      X
+                             Primary Tumor City Discrepancy            X
+                             Inadequate Staging                        X
+                             Poor Malignancy History                   X
+                             Poor Synchronous Primary Review           X
+                                    Pathology      REQUIRED    REQUIRED
+                             Exception                                 X
+                                              Uneligible    Eligible

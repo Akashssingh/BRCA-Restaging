@@ -1,0 +1,34 @@
+=================================== PAGE 1 ===================================
+UUID:AD@7F611-8EEA-4838-A82C-ADA33FE57CAE
+                                                                                                    TCGA-AR-A242-01A-PR         Redacted
+Criteria                           Yes        No
+Drug-spec Procedure                             ✓✓
+Primary Tumor Only Examination                  ✓✓        |||||||||||||||||||||||||||||||||||||||||||||||||||||
+FHPMA Donor status                              ✓✓
+Stem Cell Involvement                           ✓✓
+Other:                                          ✓✓
+Drug Type(infobroc Basic patient)
+Case in Review                     PROCEDURES
+Annotated Pedigree    info available  PROCEDURES          4/25/11
+
+Final Diagnosis
+
+Breast, left, total mastectomy: Infiltrating ductal carcinoma, Nottingham grade II (or III), [tubules 2/3, nuclei 2/3, mitoses 3/3; 
+Nottingham score 7/9], forming a 4.2 x 4.0 x 3.0 cm mass located in the upper outer quadrant of the breast [AJCC pT2]. Focal 
+ductal carcinoma in situ, intermediate nuclear grade, comprising approximately 5% of tumor volume. The non-neoplastic breast 
+parenchyma shows nonproliferative fibrocystic changes. Biopsy site changes present. The tumor does not involve the nipple, 
+overlying skin, or underlying chest wall. All surgical resection margins, including deep margin, are negative for tumor (minimum 
+tumor free margin, 1.5 cm, anterior margin).
+
+Lymph nodes, left axillary sentinel, excision: Multiple (8) left axillary sentinel lymph nodes are negative for tumor (AJCCpN0(i-
+)(sn)). Blue dye was identified in lymph node Nos. 2A, 2B, and 2C. No blue dye was identified in lymph node Nos. 1, 3, 4, 5, 
+and 6. Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel lymph node tissue and confirms 
+the H&E impression.
+
+Estrogen and progesterone receptor analysis and HER2/neu have been ordered on paraffin embedded tissues.
+
+
+                                            ICD-0-3
+                                            Carcinoma, infiltrating duct, NOS  8504/3
+                                            Site: breast, NOS  C50.9
+                                                                      4/25/11

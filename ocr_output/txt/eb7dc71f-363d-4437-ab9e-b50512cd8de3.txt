@@ -1,0 +1,74 @@
+=================================== PAGE 1 ===================================
+FINAL DIAGNOSIS:
+PART 1: RIGHT SENTINEL LYMPH NODE #1, BIOPSY -
+       ONE LYMPH NODE NEGATIVE FOR TUMOR (0/1).
+
+PART 2: RIGHT BREAST, SEGMENTAL MASTECTOMY -
+   A. INFILTRATING DUCT CARCINOMA, 1.5 X 1.4 X 1.4 CM.
+   B. NOTTINGHAM SCORE 9/9 (TUBULES 3, NUCLEAR 3, MITOSES 3).
+   C. NO LYMPHOVASCULAR INVASION IDENTIFIED.
+   D. DUCTAL CARCINOMA IN-SITU SOLID TYPE, NUCLEAR GRADE3, WITH COMEDO-TYPE NECROSIS
+      COMPRISING APPROXIMATELY 3% OF INVASIVE TUMOR AND PRESENT IN THE SURROUNDING BREAST
+      TISSUE.
+   E. SURGICAL MARGINS NEGATIVE FOR INFILTRATING DUCT CARCINOMA AND DUCTAL CARCINOMA IN-
+      SITU.
+   F. INFILTRATING DUCT CARCINOMA FOCALLY VERY CLOSELY APPROACHES SUPERIOR MARGIN (0.03 CM).
+   G. UNREMARKABLE SKIN.
+   H. TUMOR IS ESTROGEN RECEPTORS, PROGESTERONE RECEPTORS AND HER2/NEU NEGATIVE AS PER
+      CORE BIOPSY REPORT
+   I. THERMAL EFFECT.
+
+COMMENT:
+The tumor has pushing margins, is associated with prominent lymphocytic infiltrate and is cytokeratin 5 and 8,
+cytokeratin 14, cytokeratin 17, epidermal growth factor and vimentin positive and estrogen and progesterone receptor
+and Her2/neu negative, which supports the basal-like differentiation.
+
+CASE SYNOPSIS:
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:                                Right
+PROCEDURE:                                 Segmental
+LOCATION:                                  Not specified
+SIZE OF TUMOR:                             Maximum dimension invasive component: 1.4 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+                                          No
+TUMOR TYPE (invasive component):
+                                          Other Type(s): basal-like type
+NOTTINGHAM SCORE:                         Nuclear grade: 3
+                                          Tubule formation: 3
+                                          Mitotic activity score: 3
+                                          Total Nottingham score: 9
+                                          Nottingham grade (1, 2, 3): 3
+ANGIOLYMPHATIC INVASION:                  No
+DERMAL LYMPHATIC INVASION:                No
+CALCIFICATION:                            No
+TUMOR TYPE, IN SITU:                      Solid, Comedo
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+                                          No
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+                                          Distance of invasive tumor to closest margin: 0.3 mm
+                                          No
+LYMPH NODES POSITIVE:                     0
+LYMPH NODES EXAMINED:                     1
+METHOD(S) OF LYMPH NODE EXAMINATION:
+                                          H/E stain, Keratin stain
+SENTINEL NODE METASTASIS:                 No
+SIZE OF NODAL METASTASES:                 Diameter of largest lymph node metastasis: 0 mm
+LYMPH NODE METASTASIS(-ES) WITH EXTRACAPSULAR EXTENSION:
+                                          No
+NON-NEOPLASTIC BREAST TISSUE: FICD
+T STAGE, PATHOLOGIC:                      pT1c
+N STAGE, PATHOLOGIC:                      pN0
+M STAGE, PATHOLOGIC:                      pMX
+ESTROGEN RECEPTORS:                       negative
+PROGESTERONE RECEPTORS:                   negative
+HER2/NEU:                                 zero or 1+
+
+[Right side contains handwritten notes:]
+ICb-0-3
+Invasive infiltrating ductal NOS 8500/3
+Site: breast NOS C50.9
+3/31 [signature]
+
+[Bottom right contains a table with Yes/No checkboxes and a barcode]
+[Barcode number: TCGA-BH-A8B9-01A-PR]
+[Various check marks visible in the table]

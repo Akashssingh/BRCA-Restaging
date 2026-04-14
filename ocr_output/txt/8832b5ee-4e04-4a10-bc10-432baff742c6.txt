@@ -1,0 +1,247 @@
+=================================== PAGE 1 ===================================
+UUID:C49E8289-A19F-43FC-9A77-1B8B843F3810
+                                                TCGA-AC-A5EH-01A-PR                    Redacted
+                                                [BARCODE IMAGE]
+
+Patient                                         Referring Physician:
+
+
+                                    Gender: F
+
+Hosn#                                          Provider Group:
+
+Date of Service:
+
+
+                    A copy of this report will be faxed to:
+
+
+                        FINAL SURGICAL PATHOLOGY REPORT
+
+                                    Diagnosis:
+
+LEFT BREAST, MODIFIED RADICAL MASTECTOMY:
+    - Two foci of invasive ductal carcinoma, Nottingham grade 2 (see comment).
+    - Size: 2.3 cm and 0.7 cm.
+    - Location: lower outer (4:00) and inner (7:00) quadrants, respectively.
+    - Associated ductal carcinoma in situ (DCIS), intermediate nuclear
+      grade, cribriform and micropapillary patterns with punctate necrosis
+      and without calcifications.
+    - Size: DCIS spans a region measuring approximately 3.8 cm and
+      comprises 10% of tumor.
+    - Margins of resection are widely free of invasive and in situ tumor (at least 1.2 cm
+      away).
+    - Focus suspicious for lymphovascular invasion identified.
+    - Micrometastatic carcinoma (1.7 mm) identified in one of fourteen axillary
+      lymph nodes (1/14); no extranodal extension identified.
+    - Prior biopsy site changes present.
+    - Uninvolved breast parenchyma with fibrocystic changes and vascular
+      calcifications.
+    - Benign skin and nipple.
+
+COMMENT: The two foci of invasive ductal carcinoma are similar histologically.
+Although there was little tubule formation identified on prior needle biopsy of the 7:00
+lesion, tubule formation is more apparent on excision (>10%). Thus, the overall
+histologic grade is Nottingham grade 2 for both lesions.
+
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+    Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 2.
+    Type and grade (in situ): DCIS, intermediate nuclear grade.
+    Primary tumor: pT2(m).
+    Regional lymph nodes: pN1(mi).
+    Distant metastasis: N/A.
+
+Case #                                                                          Page 1
+Printed:                                                    This report continues   (FINAL)
+
+                                    MR No.
+Pathology - Page 1/5
+
+=================================== PAGE 2 ===================================
+Patient:
+
+Case #:
+
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Stage: IIB.
+Lymphovascular invasion: Not identified.
+Margin status: R0, negative.
+
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised
+Previous pathology specimens
+
+
+Case #                                                                                                  Page 2
+Printed:                                                                     This report continues.    (FINAL)
+
+
+Pathology - Page 2/9                                                                    ) - Page 2 Doc# 1
+
+=================================== PAGE 3 ===================================
+Patient:
+
+
+Case #
+
+
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:                                Modified radical mastectomy.
+Laterality:                                              Left breast.
+Lymph node sampling:                                     Axillary dissection.
+
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:                                         Invasive ductal carcinoma.
+Tumor site:                                              Lower outer (4:00) and inner (7:00) quadrants.
+Tumor size:                                              2.3 cm and 0.7 cm.
+Tumor focality:                                          Multifocal (two foci).
+Histologic grade (Nottingham Score):                     2 of 3 (Nottingham score 6 -7 of 9).
+    Tubule formation:                                    2 of 3.
+    Nuclear pleomorphism:                                2-3 of 3.
+    Mitotic rate:                                        2 of 3.
+
+Lymphovascular invasion:                                 Focii suspicious for lymphovascular invasion
+                                                         identified.
+
+Macroscopic and microscopic extent of tumor:             Benign skin and nipple.
+
+DUCTAL CARCINOMA IN SITU (DCIS):                        Associated DCIS, intermediate nuclear grade,
+                                                         cribriform and micropapillary patterns,
+                                                         comprising 10% of tumor and spanning about
+                                                         3.8 cm.
+
+
+MARGINS
+Invasive carcinoma:                                      Widely negative for tumor (at least 1.2 cm away).
+
+Ductal carcinoma in situ:                                Widely negative for tumor (at least 1.2 cm away).
+
+LYMPH NODES
+Total lymph nodes examined                               14.
+Number of lymph nodes involved                           1 (micrometastasis).
+    Size of largest metastatic deposit:                  1.7 mm.
+    Extranodal extension:                                Absent.
+
+PATHOLOGIC STAGING:
+    Primary Tumor (pT):                                  pT2(m).
+    Regional lymph nodes (pN):                           pN1(mi).
+    Distant metastasis (pM):                             N/A.
+    AJCC Stage:                                          IIB.
+
+ANCILLARY STUDIES:                                       ProPath.
+    Estrogen receptor:                                   POSITIVE (80-85% positive cells,
+                                                         moderate-strong intensity) (4:00).
+    Progesterone receptor:                               Negative (0% positive cells) (4:00).
+    HER2:                                                Negative (score 0) (4:00).
+
+
+                                                         Page 3
+                                                         This report continues.    (FINAL)
+
+
+Pathology - Page 3/5                                                              )- Page 3 Doc# 1
+
+=================================== PAGE 4 ===================================
+Patient:
+
+Case #
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Ki-67:                                                                              High (40% positive cells) (4:00).
+
+Estrogen receptor:                                                   POSITIVE (20% positive cells, moderate-strong
+                                                                                        intensity) (7:00).
+Progesterone receptor:                                            Negative (0% positive cells) (7:00).
+HER2:                                                                           Negative (score 0) (7:00).
+Ki-67:                                                                              High (65% positive cells) (7:00).
+
+
+Source of Specimen:
+Breast,left breast radical mastectomy
+
+Clinical History/Operative Dx:
+Breast cancer
+
+Gross Description:
+Single specimen designated left breast radical mastectomy. Initially received in a fresh state for
+Oncopathotyping tissue harvest is a left modified radical mastectomy weighing 809 grams, and measuring
+20.8 x 17.3 x 5.8 cm (not including axillary extension), and the axillary wing extending 10.5 x 9.0 x 4.0
+cm. The overlying ellipse of tan-brown skin is 22.8 x 11.3 cm, with a paracentral darken brown, wrinkled
+areola, 3.2 cm in diameter and a flattened 1.1 cm nipple. A palpable mass is appreciated in the lower
+outer quadrant. A suture marks the medial apex of the specimen. The surgical margins are now
+differentially inked as follows:
+
+Superior-superficial is marked blue,
+Inferior-superficial is marked orange,
+Deep is marked black.
+
+The breast is serially sectioned perpendicularly through the medial-lateral long axis, to reveal a partially
+circumscribed, dense pink-gray, tumor mass measuring upwards of 2.3 x 1.5 x 1.3 cm (slabs 4-6, from
+lateral). This mass is placed in the lower outer quadrant, approximating the 4:00 position and grossly
+approaching within 1.9 cm of the deep, 2.3 cm of the inferior superficial, 5.0 cm of the lateral extension of
+breast (not including axillary) and greater than 12.0 cm from the most medial extension of breast. The
+
+Case #                                                                                                                                                 Page 4
+                                                                                                                              This report continues.    (FINAL)
+
+                                                 Acct No.                                 Patient Ne
+
+Pathology - Page 4/9                                                                                                                   Page 4 Doc# 1
+
+=================================== PAGE 5 ===================================
+Patient:
+
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+tumor includes an embedded hook-shaped metallic clip. Representative portion of the tumor,
+peri-neoplastic, and normal breast parenchyma is submitted for Oncogenotyping studies.
+
+A second, discrete, poorly visualized glistening tan lesion, is within the lower inner quadrant,
+approximating the 7:00 position, and measuring up to 0.7 x 0.5 x 0.5 cm and placed within 2.3 cm of the
+inferior superficial, 2.4 cm of the deep, and greater than 5 0 cm from the most medial extension of breast,
+A second biopsy site clip is not appreciated.
+
+The cut sections of the remainder of the breast demonstrate prominent ductal tracts in the subareolar
+lesion, up to 0.5 cm in diameter, exuding yellow-gray cheesy material, and bluish purulent fluid. Several
+blue dome cysts are up to 0.6 cm.
+
+Initial examination of the axillary extension of fat reveals fifteen lymph node candidates, ranging from 0.2
+cm - 2.0 x 1.7 x 1.2 cm in greatest dimension. The lymph node tissue is represented for microscopic
+evaluation.
+
+Cassette summary:
+A1) nipple, subareolar tissue, two pieces,
+A2) medial and lateral extension of skin,
+A3-A5) large tumor mass, lower outer quadrant, represented,
+A6) deep margin adjacent to large tumor mass,
+A7) inferior superficial margin adjacent to large tumor mass,
+A8-A10) lateral extension of breast tissue, adjacent to large mass, slabs 3, 2, 1, respectively,
+A11) breast tissue medial to large tumor, slab 7,
+A12-A14) second nodular lesion and inferior superficial margin and deep margin (A14),
+A15) central breast-subareolar,
+A16) upper outer quadrant, slab 3,
+A17) upper inner quadrant, second slab from medial,
+A18) four small lymph node candidates,
+A19) three lymph node candidates, most proximal to breast,
+A20) four lymph node candidates,
+A21) single lymph node candidate bisected,
+A22) single lymph node candidate trisected,
+A23) enlarged flattened lymph node bisected,
+A24) largest lymph node candidate serially sectioned and submitted.
+
+Microscopic Description:
+Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+
+Intradepartmental consultation:                has reviewed selected slides and concurs.
+
+Case #                                                                                     Page 3
+                                                                                END OF REPORT, FINAL |
+                                                                         Codes     NJ / 12/31/J- | Yes
+Pathology - Page 5/5      Acct No. -         Patient Name -     [Additional handwritten text]
+                                                                JOI [Additional handwritten text and signature]

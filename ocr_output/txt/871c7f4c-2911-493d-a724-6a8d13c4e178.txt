@@ -1,0 +1,73 @@
+=================================== PAGE 1 ===================================
+TSS ID:
+
+TSS ID:                    OC ID.:                    Date of Procurement.:
+
+Gross Description:
+
+Lump with the tumor of 1 x 1.8 cm in size; fatty tissue lymph nodes are dense, hyperemic.
+
+Microscopic Description:
+
+Infiltrating duct carcinoma; G2. Focal hyalinosis. Ten lymph nodes were examined, four lymph nodes demonstrated metastses.
+
+Diagnosis Details:
+
+Tumor Features: Unknown, Tumor Extent: T1 tumor size 2 cm or less, Venous Invasion: Absent, Margins: Absent, Treatment
+Effect:
+
+Comments:                                                 ICD-O-3
+                                                         Carcinoma, infiltrating duct, NOS    8500/3
+Formatted Path Report:                                   Site: breast, NOS  C57-9     4/6/11  f~
+
+BREAST TISSUE CHECKLIST
+
+Specimen type: Lumpectomy
+
+Specimen size: Not specified
+
+Tumor site: Upper outer quadrant
+
+Tumor size: 1.8 x 0 x 1 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Infiltrating ductal carcinoma
+
+Histologic grade: Moderately differentiated
+
+Tumor extent: Not specified
+
+Lymph nodes: 4/10 positive for metastasis (Axillary 4/10)
+
+Extracapsular invasion of the lymph nodes: Not specified
+
+Margins: Uninvolved
+
+Nottingham Histologic Score                               UUIDISD04883-8944-4C5C-A338-8E33A1F7DE90
+                                                         TCGA-E9-A1RG-01A-PR           Redacted
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+
+[THIS IS TABLE: A checklist table appears in the bottom right with multiple rows and "Yes" and "No" columns, along with some signatures and dates including "4/6/11"]
+
+=================================== PAGE 2 ===================================
+TSS ID
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Not specified
+
+Comments: None
+
+
+Laterality:
+
+Right, upper outer quadrant

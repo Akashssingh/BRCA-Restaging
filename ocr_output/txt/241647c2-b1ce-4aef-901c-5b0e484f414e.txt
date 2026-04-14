@@ -1,0 +1,229 @@
+=================================== PAGE 1 ===================================
+UUID:14E9270E-0A48-4C12-8D71-ED79876C2E93
+TCGA-E2-A573-01A-PR                Redacted
+
+SPECIMEN(S):    A. RIGHT BREAST PARTIAL MASTECTOMY
+                B. SLN #1 RIGHT AXILLA
+                C. ADDITIONAL AXILLARY TISSUE RIGHT AXILLA
+
+
+CLINICAL HISTORY:
+This is a      year old female with a 1.4 cm tumor in the right breast. IDC at 11:00. S/P
+benign MRI biopsy inferior and lateral to this index lesion, not clipped. Here for N/L
+lumpectomy with SLN biopsy.
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+A. Right breast, partial mastectomy: Tumor is 0.3 cm from anterior margin.
+TPB1-TPB4: SLN#1, right axilla, excision: Four lymph nodes, negative for carcinoma.
+Diagnosis called to Dr. at by Dr.
+                                                                    /cb-0-3
+PRE-OPERATIVE DIAGNOSIS:                c excisional, infiltrating duct, NOS g50/3
+Right breast cancer                     Site: breast, NOS c-50.9
+                                                                    NU
+GROSS DESCRIPTION:                                                 U.P.-To-
+A. RIGHT BREAST PARTIAL MASTECTOMY
+Received fresh in a container labeled with the patients name and "right breast partial
+mastectomy" is an oriented (straight: superior= 1 clip, long: lateral = 2 clips, double:
+deep, air knot in axillary tail), previously inked, 130g, 11 x 9 x 3.5 cm partial mastecomy
+with accompanying radiograph. Ink code: anterior-yellow, posterior-black, medial-green,
+lateral-red, superior-blue, inferior-orange. The specimen is serially sectioned from
+superior to inferior into 8 slices revealing a 1.6 x 1.4 x 0.8 cm firm, circumscribed, tan
+mass that is closest to the anterior margin at 0.3 cm. Tissue is procured. Representatively
+submitted:
+A1: slice 1, superior margin
+A2-A3: slice 4, mass with skin and anterior margin, bisected
+A4-A5: slice 4, posterior margin underlying mass, bisected
+A6-A7: slice 4, anterior and posterior margins, bisected
+A8-A9: slice 4, lateral and posterior margins, bisected
+A10-A11: slice 4, anterior and medial margins, bisected
+A12-A13: slice 4, medial and posterior margins, bisected
+A14: slice 5, mass with skin and anterior margin
+A15-A16: slice 8, inferior margin
+B. SLN #1 RIGHT AXILLA
+Received fresh labeled with the patients name and "SLN #1 right axilla" is a 5 x 2 x 0.7
+cm aggregate of fatty tissue within which four lymph nodes, 2 x 0.6 x 0.6 cm, 2 x 1 x 0.6
+cm, 2 x 1.1 x 0.4 cm, 1.2 x 1 x 0.6 cm are identified. Touch preps are performed. Lymph
+nodes are entirely submitted:
+B1-B2: one lymph node
+
+=================================== PAGE 2 ===================================
+B3: one lymph node
+B4: one lymph node
+B5: one lymph node
+C. ADDITIONAL AXILLARY TISSUE RIGHT AXILLA
+Received in formalin in a container labeled with the patients name and designated
+"additional axillary tissue" is a 1.7 x 1 x 0.2 cm fragment of soft fatty tissue. The
+specimen is bisected and entirely submitted.
+
+DIAGNOSIS:
+A. BREAST, RIGHT, PARTIAL MASTECTOMY:
+   - INVASIVE DUCTAL CARCINOMA WITH LYMPHOPLASMACYTIC
+   INFILTRATE AND GEOGRAPHIC NECROSIS, SBR GRADE 3,
+   MEASURING 1.1-CM
+   - SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+   - BIOPSY SITE CHANGES WITH FIBROSIS AND FAT NECROSIS
+   - SEE SYNOPTIC REPORT.
+
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+   - FOUR LYMPH NODES, NEGATIVE FOR METASTASES (0/4).
+
+C. ADDITIONAL AXILLARY TISSUE, RIGHT, AXILLARY DISSECTION:
+   - FIBROADIPOSE TISSUE, NO TUMOR OR LYMPHOID TISSUE
+   IDENTIFIED.
+
+
+SYNOPTIC REPORT - BREAST
+
+Specimen Type:    Partial mastectomy
+Needle Localization:    No
+Laterality:    Right
+Invasive Tumor:    Present
+Multifocality:    No
+WHO CLASSIFICATION
+   Invasive ductal carcinoma, NOS  8500/3
+Tumor size:    1.1cm
+Tumor Site:    Upper outer quadrant
+Margins:    Negative
+        Distance from closest margin:    0.3cm
+        anterior
+Tubular Score:    3
+Nuclear Grade:    3
+Mitotic Score:    2
+Modified Scarff Bloom Richardson Grade:    3
+Necrosis:    Present
+Vascular/Lymphatic Invasion:    None identified
+Lobular neoplasia:    None
+Lymph nodes:    Sentinel lymph node
+Lymph node status:    Negative  0 / 4
+_______________________________________________
+DCIS not present
+
+=================================== PAGE 3 ===================================
+----------------------------------------------------
+ER/PR/HER2 Results
+    ER: Pending
+    PR: Pending
+    HER2: Pending
+----------------------------------------------------
+Pathological staging (pTN):      pT 1c N 0
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+=================================== PAGE 4 ===================================
+ADDENDUM:
+
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+
+Specimen: Surgical Excision
+Block Number: A2
+-----------------------------------------------------------------------------
+ER: Negative Allred Score: 0 = Proportion Score 0 + Intensity Score 0
+PR: Negative Allred Score: 0 = Proportion Score 0 + Intensity Score 0
+-----------------------------------------------------------------------------
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-
+30% of cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score
+(1 = weak intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of
+staining), with a scoring range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR
+(PGR 136, 1:100) provided by                                    following the manufacturer s
+instructions. This assay was not modified. Interpretation of the ER/PR immunohistochemical stain
+is guided by published results in the medical literature, information provided by the reagent
+manufacturer and by internal review of staining performance.
+
+
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+
+Specimen: Surgical Excision
+Block Number: A2
+-----------------------------------------------------------------------------
+Interpretation: EQUIVOCAL
+Intensity: 2+
+% Tumor Staining: 10%
+Fish Ordered: Yes
+-----------------------------------------------------------------------------
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 analysis was performed using the FDA approved        i HercepTest (TM) test kit
+                        using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and
+in-house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate,
+well preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of
+the HER2 immunohistochemical stain is guided by published results in the medical literature,
+information provided by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the           joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. The
+                  Pathology Department takes full responsibility for this test's performance.
+
+=================================== PAGE 5 ===================================
+ADDENDUM:
+
+FISH/ISH ANALYSIS REPORT 3
+
+Specimens Involved
+Specimens: A: RIGHT BREAST PARTIAL MASTECTOMY
+
+HER2/NEU RESULTS
+
+ANALYTICAL INTERPRETATION OF RESULTS
+HER-2 NOT AMPLIFIED
+
+Clinical interpretation of the results
+A majority of tumors cells have both 2 chromosome 17 centimeter signals and 2 HER2
+signals, with a HER2/CEP 17 Ratio 1.3, consistent with no amplification of the HER2/neu
+gene.
+Probes identification
+LSI Her-2/neu 17q11.2-12, spectrumorange
+CEP 17, 17 p11.1-q11.1 alpha satellite DNA, spectrumgreen
+Image analysis method - Manual
+Results interpreted
+Yes
+ISCN
+nuc ish: (CEP17,HER2)x2[200]
+Number of invasive tumor cells counted
+200
+Number of observers
+1
+Number of Her2 signals/nucleus
+2.3
+Number of CEP 17 signals/nucleus
+1.8
+Her2/CEP 17 ratio
+1.3
+TEST CHARACTERISTICS: PathVysion HER-2 DNA Probe Kit is FDA approved for
+selection of patients for whom Herceptin therapy is being considered. These tests were
+performed in the Pathology Core Facility, Department of Pathology,
+under the direction of Dr.. The results of these studies should always be
+interpreted in the context of the clinical, morphological, and immunophenotypic diagnosis.
+The PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It
+is intended to be used as an adjunct to other prognostic factors currently used to predict
+disease-free and overall survival in stage II, node-positive breast cancer patients. In
+making decisions regarding adjuvant CAF treatment, all other available clinical
+information should also be taken into consideration, such as tumor size, number of
+involved lymph nodes, and steroid receptor status. No treatment decision for stage II,
+node-positive breast cancer patients should be based on HER-2/neu gene amplification
+status alone.
+
+Specimen information
+RPCI surgical pathology/cytology case number
+Source of case
+RPCI
+Block number used A2
+Specimen site
+Breast
+
+=================================== PAGE 6 ===================================
+Female breast right
+Specimen type
+    Complete excision (less total mastectomy)
+Specimen fixative type
+    Formalin
+Duration of fixation (hrs)
+    6 - 48 hrs
+Comment:
+Controls: The FISH study was performed with appropriately stained positive and negative
+    controls.

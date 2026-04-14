@@ -1,0 +1,143 @@
+=================================== PAGE 1 ===================================
+UUID:8E283C20-JD37-47DC-88DC-EF8F477985SA
+FCGA-E3-A570-01A-PR                Redacted
+
+ICD-0-3
+
+Carcinoma, infiltrating duct, NOS 8500/3
+Situ breast, NOS 8509 w
+11/25/0
+
+SPECIMEN(S):  A. SENTINEL NODE #1 RIGHT AXILLA
+              B. SENTINEL NODE #2 RIGHT AXILLA
+              C. RIGHT BREAST
+              D. SENTINEL LYMPH NODE #3 RIGHT AXILLA
+              E. RIGHT BREAST SKIN
+
+CLINICAL HISTORY:
+Right breast lower inner quadrant @ 4:00 position – 2.3cm invasive ductal carcinoma.
+
+PRE-OPERATIVE DIAGNOSIS:
+None Given
+
+INTRAOPERATIVE CONSULTATION:
+TPA: sentinel node #1 right axilla- Negative for carcinoma. Diagnosis called to Dr. at by
+Dr.
+TPB1-TPB2: sentinel node #2 right axilla- Negative for carcinoma. Diagnosis called to
+Dr. at by Dr.
+
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+   - METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+   MEASURING 0.05-CM (MICROMETASTASES), WITHOUT EXTRANODAL
+   EXTENSION, SEE NOTE.
+
+B. LYMPH NODES, SENTINEL #2, RIGHT AXILLA, EXCISION:
+   - TWO LYMPH NODES, NEGATIVE FOR METASTASES (0/2).
+
+C. BREAST, RIGHT, MASTECTOMY:
+   - INVASIVE DUCTAL CARCINOMA, SBR GRADE 1, MEASURING 1.5 CM
+   - INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU,
+   SOLID, CRIBRIFORM AND MICROPAPILLARY TYPES, WITH
+   MICROCALCIFICATIONS AND CENTRAL NECROSIS
+   - DCIS WITHIN 1 MM OF ANTERIOR INFERIOR SURGICAL MARGIN
+   - SURGICAL RESECTION MARGINS NEGATIVE FOR INVASIVE TUMOR
+   - LOBULAR CARCINOMA IN SITU
+   - BIOPSY SITE CHANGES WITH FIBROSIS, GRANULATION TISSUE,
+   AND FAT NECROSIS
+   - SEE SYNOPTIC REPORT.
+
+D. LYMPH NODES, SENTINEL #3, RIGHT AXILLA, EXCISION:
+   - FOUR LYMPH NODES, NEGATIVE FOR METASTASES (0/4).
+
+=================================== PAGE 2 ===================================
+E. SKIN, LEFT BREAST, RECONSTRUCTION:
+   - SKIN TISSUE, NO TUMOR SEEN.
+
+NOTE: The touch preparation of sentinel lymph node #1 is reviewed, no tumor cells
+identified. Therefore, the false negativity is due to sampling variability.
+
+                    SYNOPTIC REPORT - BREAST
+
+Specimen Type:      Mastectomy
+Needle Localization:      No
+Laterality:     Right
+Invasive Tumor:     Present
+Multifocality:      No
+WHO CLASSIFICATION
+   Invasive ductal carcinoma, NOS 8500/3
+Tumor size:     1.5cm
+Tumor Site:     Lower inner quadrant
+Tubular Score:      2
+Nuclear Grade:      1
+Mitotic Score:      1
+Modified Scarff Bloom Richardson Grade:      1
+Necrosis:      Absent
+Vascular/Lymphatic Invasion:      None identified
+Lobular neoplasia:      LCIS
+Lymph nodes:      Sentinel lymph node
+Lymph node status:      Positive 1 / 7
+Micrometastases:      Yes
+------------------------------------------------------------
+DCIS present
+   Margins uninvolved by DCIS Within 1mm of anterior inferior margin
+   DCIS Quantity:      Estimate 30%
+   DCIS Type:      Solid
+                   Cribriform
+                   Micropapillary
+   DCIS Location:      Associated with invasive tumor
+   Nuclear grade:      Intermediate
+   Necrosis:      Present
+   Location of CA++:      DCIS
+------------------------------------------------------------
+ER/PR/HER2 Results
+   ER: Positive
+   PR: Positive
+   HER2: Negative by FISH
+   Performed on Case:
+------------------------------------------------------------
+Pathological staging (pTN):      pT 1c N 1mi
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+=================================== PAGE 3 ===================================
+GROSS DESCRIPTION:
+A. SENTINEL NODE #1 RIGHT AXILLA
+Received fresh for frozen section labeled with the patient's identification and 'sentinel
+node #1 right axilla' is a tan pink lymph node 0.7 x 0.7 x 0.5cm. The specimen is serially
+sectioned and a touch prep is taken. Toto A1.
+B. SENTINEL NODE #2 RIGHT AXILLA
+Received fresh for frozen section labeled with the patient's identification and 'sentinel
+node #2 right axilla' are two tan pink lymph nodes 2 x 1.2 x 0.7cm and 0.6 x 0.3 x 0.3cm.
+The specimens are serially sectioned and two touch preps are taken.
+B1: one lymph node
+B2: one lymph node
+C. RIGHT BREAST
+Received fresh labeled with the patient's identification and "right breast" is a 160g, 15 x
+14 x 3.5cm oriented (stitch in axilla) simple mastectomy with attached 8 x 3cm tan brown
+skin ellipse and 0.9cm everted nipple. Ink code: anterior-superior: blue, anterior-inferior:
+orange, posterior-black. The specimen is serially sectioned from medial to lateral into 9
+slices with nipple in slice 3, revealing a 2.1 x 1.6 x 1.5cm tan white firm well
+circumscribed mass, 0.7cm from the closest anterior-inferior margin and 1.2cm from the
+deep margin in the LIQ of slices 4-5. A biopsy clip is identified in the LIQ of slice 5. A
+portion of the specimen is submitted for tissue procurement. Representatively submitted:
+C1: nipple slice 3
+C2: UOQ slice 1
+C3: LOQ slice 1
+C4: UOQ slice 2
+C5: LOQ slice 2
+C6: UC slice 3
+C7: LC slice 3
+C8: UIQ slice 4
+C9-C10: mass LIQ with anterior-inferior margin slice 4
+C11: deep margin and skin LIQ slice 4
+C12: mass LIQ with anterior-inferior margin with clip ID slice 5
+C13: UIQ slice 5
+C14: LIQ slice 6
+D. SENTINEL LYMPH NODE #3 RIGHT AXILLA
+Received fresh labeled with the patient's identification and 'sentinel node #3 right axilla'
+are four tan pink lymph nodes ranging from 0.9 x 0.6 x 0.3cm to 0.5 x 0.5 x 0.5cm. Toto
+D1.
+E. LEFT BREAST SKIN
+Received in formalin labeled with the patient identification and designated "left breast
+skin" is a tan-white in fragment, 22 x 1.4 x 0.6 cm. Serial sectioning reveals no discrete
+lesions. Representatively submitted in E1-E2.

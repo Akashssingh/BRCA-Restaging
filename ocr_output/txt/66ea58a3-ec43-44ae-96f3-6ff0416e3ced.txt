@@ -1,0 +1,26 @@
+=================================== PAGE 1 ===================================
+UUTD:B07C0898-7874-4E39-BC4D-1E4B1F4722EA
+TCGA-AR-A0U1-01A-PR                    Redacted
+[BARCODE IMAGE]
+
+                                                    /CD-0-3
+                                        Carcinoma infiltrating ductal NOS 8500/3
+                                        Site: breast, NOS    C50.9
+
+Breast, left, wide local excision: Invasive ductal carcinoma, Nottingham grade 3 (of 3), forming a 2.3 x 
+2.2 x 2.0 cm mass (AJCCpT2). All surgical margins, including separately submitted inferior margin, are 
+negative for tumor.
+
+Lymph node, left breast intramammary, excision: Metastatic adenocarcinoma. no extranodal extension is 
+identified.
+
+Lymph nodes, left axillary sentinel, excisions: Multiple (5) left axillary sentinel lymph nodes are 
+negative for tumor (blue dye identified in left axillary lymph node No. 1 only).
+
+Lymph nodes, left axillary, dissection: Multiple left highest (2) and left axillary (23) lymph nodes are 
+negative for tumor.
+
+Her-2/NEU has been ordered on paraffin embedded tissue.
+
+
+[TABLE at bottom of page showing criteria with Yes/No checkboxes - appears to be a checklist with various items marked]

@@ -1,0 +1,200 @@
+=================================== PAGE 1 ===================================
+5/23/11
+                                        C Breast                    Yes     No
+                                        Diagnosis Discrepancy
+                                        HPAM Frozen Section Accuracy
+                                        HPAM Discrepancy
+                                        Prior Malignancy History
+                                        Biomarkers Reported
+                                        Case is Unclip         UNCLIPPED  /  UNCLIPPED
+                                        Reviewer Initials   M   Reviewer Received
+
+ICB-O-3
+carcinoma, infiltrating duct, NOS 8500/3
+Site: breast, NOS C50.9
+                                        5/23/11
+
+ACC # 26
+
+A) ADDITIONAL MARGIN OF MOST MEDIAL TUMOR, EXCISION:
+   Benign breast tissue, no tumor present.
+(B): LEFT BREAST, SEGMENTAL MASTECTOMY:
+   MULTIFOCAL INVASIVE DUCTAL CARCINOMA WITH ASSOCIATED LYMPHOCYTIC
+      INFILTRATE, HIGH NUCLEAR GRADE, NOTTINGHAM HISTOLOGIC GRADE
+      3. (SEE COMMENT)
+   LARGEST FOCUS OF INVASIVE CARCINOMA MEASURES 1.2 CM IN GREATEST
+      DIMENSION IN THE MEDIAL ASPECT OF THE SPECIMEN.
+   MULTIPLE SATELLITE FOCI OF INVASIVE CARCINOMA ARE LATERAL TO THE
+      MAIN FOCUS AND MEASURE 5 MM (X 2), 4 MM, 3 MM AND 1 MM.
+   LYMPHOVASCULAR INVASION IDENTIFIED.
+   DUCTAL CARCINOMA IN SITU (DCIS), HIGH GRADE, PREDOMINANTLY
+      CRIBRIFORM AND CLINGING TYPES WITH CANCERIZATION OF LOBULES
+      AND ASSOCIATED LYMPHOCYTIC INFILTRATE.
+   DCIS EXTENDS IN AN APPARENT IRREGULAR DISTRIBUTION OVER A 4 CM AREA.
+   DCIS EXTENDS TO LESS THAN 1 MM FROM THE ANTERIOR MARGIN, TO 1 MM
+      FROM THE INFERIOR MARGIN, AND TO 2 MM FROM THE SUPERIOR AND
+      POSTERIOR MARGINS.
+   INVASIVE CARCINOMA EXTENDS TO 2 MM FROM THE ANTERIOR MARGIN. (SEE
+      COMMENT)
+(C) ADDITIONAL CENTRAL ANTERIOR INFERIOR MARGIN, EXCISION:
+   Benign breast tissue, no tumor present.
+(D) LEFT AXILLARY CONTENTS, DISSECTION:
+   METASTATIC CARCINOMA IN ONE OF THIRTY LYMPH NODES (1/30); METASTASIS
+      MEASURES 7 MM; NO EXTRANODAL EXTENSION IDENTIFIED.
+(E) ADDITIONAL LEVEL I LEFT AXILLARY TISSUE, EXCISION:
+   Two lymph nodes, no tumor present (0/2).
+
+
+Entire report and diagnosis completed by
+
+COMMENT
+
+   Additional tissue was re-excised, and invasive carcinoma does not approach the final margins.
+However, I       with involvement of lobules is 1 mm from the final inferior margin and 2 mm from
+the final superior and posterior margins.
+   Tumor marker studies will be performed and reported in an addendum.
+
+MUID:C4G9733A-6030-422C-90E9-B9718C8B2FDC
+        TCGA-GN-A2DF-01A-DR            Redacted
+[BARCODE]
+
+
+GROSS DESCRIPTION
+
+(A) ADDITIONAL MARGIN OF MOST MEDIAL TUMOR - Received is a piece of fibroadipose
+   tissue (1.8 x 1.2 x 0.5 cm) with clips on the true margin. The true margin inked black. The
+   specimen is serially sectioned and entirely submitted in A.
+(B) LEFT SEGMENTAL MASTECTOMY - A segmental mastectomy specimen (8.0 x 6.5 x 5.5
+   cm) with a short stitch at the superior aspect, long stitch at the lateral aspect, and multiple clips
+   on the anterior aspect. The specimen is serially sliced from medial to lateral into 11 slices. A
+   well-circumscribed tan-pink tumor 1.4 x 1.1 x 1.0 cm, with an associated biopsy clip is identified in
+
+=================================== PAGE 2 ===================================
+slice #3, which is 0.7 cm from the closest anterior margin. Multiple smaller nodules are identified
+lateral to the main tumor. One of these is very close to the anterior margin in the central anterior
+inferior aspect of the specimen, and additional tissue is requested from this margin.
+INK CODE: Anterior - yellow, posterior - black, superior - blue, inferior - green, medial
+and lateral - red.
+SECTION CODE: B1, medial perpendicular margin; B2, tissue adjacent to tumor from
+slice #2 ; B3-B7, tumor and margins from slice #3 (B3 and B4, tumor with anterior margin in area
+of clip; B5, inferior margin; B6, posterior margin; B7, superior margin); B8, fibrous tissue adjacent
+to the tumor from slice #4; B9, one small nodule, 1.2 cm from superior margin and 1.8 from
+anterior margin of slice #4; B10, one small nodule 1.0 cm from anterior margin and 1.2 cm from
+superior margin of slice #5; B11, one small nodule, 1.5 cm from anterior margin, 2.0 cm from
+superior margin of slice #5; B12, B13, one small nodule, 0.1 cm from anterior margin and 1.2 cm
+from inferior margin of slices #6 and #7; B14, one small nodule 0.4 cm from posterior margin and
+1.5 cm from inferior margin of slice #4; B15-B18, remainder of margins of slice #4, entirely
+submitted (B15, anterior margin; B16, superior margin; B17, posterior margin; B18, inferior
+margin); B19, representative section from slice #8; B20, lateral perpendicular margin.
+(C) ADDITIONAL CENTRAL ANTERIOR INFERIOR MARGIN, LEFT BREAST - A portion of
+fibroadipose tissue (2.0 x 1.3 x 0.5 cm) with clips on the true margin. The true margin is inked
+black. The specimen is serially sectioned and entirely submitted in C1-C2.
+(D) LEFT AXILLARY CONTENTS - Adipose tissue (11.0 x 7.5 x 3.0 cm). Multiple lymph nodes
+are identified ranging from 0.2 x 0.2 x 0.2 cm to 2.5 x 1.5 x 0.8 cm.
+SECTION CODE: D1-D3, each containing six lymph nodes; D4, four lymph nodes; D5,
+four lymph nodes; D6, one lymph node, trisected; D7, one lymph node, serially sectioned: D8,
+one lymph node, serially sectioned; D9 and D10, one lymph node, serially sectioned.
+(E) ADDITIONAL LEVEL I LEFT AXILLARY TISSUE - Two lymph nodes (0.2 x 0.2 x 0.2 cm and
+0.8 x 0.4 x 0.4 cm), entirely submitted.
+SECTION CODE: E1, one lymph node; E2, one lymph node, trisected.
+
+CLINICAL HISTORY
+
+Left breast cancer.
+
+SNOMED CODES
+
+T-04050, M-85003, M-85002 T-C4710, M-85006
+
+"Some tests reported here may have been developed and performance characteristics
+determined by                                                                                                    These tests have not been
+specifically cleared or approved by the U.S. Food and Drug Administration."
+
+Released by:
+
+Start of ADDENDUM #1
+
+ADDENDUM
+
+
+Addendum completed by
+
+
+This report is issued to give immunohistochemistry results.
+
+=================================== PAGE 3 ===================================
+Immunohistochemical staining is performed on a representative formalin-fixed, paraffin-
+embedded section of INVASIVE DUCTAL CARCINOMA, left breast, block B3.
+
+MARKER                          RESULTS         % POSITIVE      SCORE
+
+Estrogen Receptor               Negative        0 %             N/A
+
+Progesterone Receptor           Negative        < 1 %           N/A
+
+HER-2/neu
+  overexpression                Negative                        Focal 1+
+
+Due to the above HER-2/neu immunohistochemical staining result, gene
+copy level (HER-2/neu: CEP17 signal ratio) will be evaluated by FISH
+and a separate report will be issued.
+
+FOOTNOTE
+
+Estrogen receptor was assessed by immunohistochemistry using antibody 6F11 (
+
+Progesterone receptor was assessed by immunohistochemistry using antibody PgR1294(
+
+HER-2/neu was assessed by immunohistochemistry using antibody AB8 (!
+
+
+Released by:
+
+Start of ADDENDUM #2
+
+ADDENDUM #2
+
+This modified report is being issued to report the results of HER-2/neu FISH
+
+Addendum completed by
+
+SPECIMEN SOURCE
+
+Left breast
+
+SUMMARY
+
+Tissue section of the invasive carcinoma                B3 was evaluated for HER-2/neu gene
+amplification by interphase fluorescence in situ hybridization technique using the
+HER-2/neu DNA Probe Kit (LSI HER-2/neu                 /CEP17
+
+Slide adequacy is satisfactory. Sixty tumor nuclei were counted and showed an average of 1.57
+copies of LSI HER-2/neu gene per nucleus and an average of 1.40 copies of CEP17 per nucleus.
+
+=================================== PAGE 4 ===================================
+Negative and positive controls (established by
+appropriate.
+
+Two representative images have been archived.
+
+INTERPRETATION
+The tumor cells demonstrated no amplification of the HER-2/neu gene copy levels (HER-2/neu:
+CEP17 signal ratio: 1.12)
+
+The following guideline has been established for HER-2/neu testing:
+Normal HER-2/neu levels: < 1.80; equivocal HER-2/neu levels: 1.80 – 2.20; amplified HER-2/neu
+levels: > 2.20
+(Ref: Arch Patholo Lab Med. 2007; 131:18-43)
+
+NOTES
+The A LSI HER-2/neu probe is specific for the HER-2/neu gene Locus (17q 11.2-q12) and the CEP
+17 DNA probe is specific for the alpha satellite DNA sequence at the centromeric region of
+Chromosome 17 (17 p11.1 -q11.2).
+
+This test has been cleared and approved for specific uses by the U.S. Food and Drug
+Administration. Its system is operating within the performance specifications as stated in the product
+insert.
+
+Released by:
+
+------END OF REPORT------

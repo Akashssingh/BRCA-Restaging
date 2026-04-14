@@ -1,0 +1,666 @@
+=================================== PAGE 1 ===================================
+Criteria                      Yes    No
+                                 Signed Discrepancy                    ✓
+                           Dictated within 24H Discrepancy             ✓
+                                 HIPAA Discrepancy                     ✓
+                            Prior Malignancy History                   ✓
+                           Previous Surgical Pathology                 ✓
+                                 Case id (clinic)     CLASSIFIED
+                              Pertinent studies  Early mammogram ✓
+
+
+                                                                 Date 10/20/11
+
+
+
+                    UUID:16199869-4EF9-445E-959C-E638125AAA67
+                      FCOA-81-1405F-01A-01R                    Redacted
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+                    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+ICD-0-3
+Carcinoma, infiltrating duct NOS 8500/3
+Site: breast, NOS  c50.9    Lat 10/20/11
+
+
+Final Pathologic Diagnosis:
+A. Sentinel lymph node #1, left axilla, biopsy: No carcinoma identified in one lymph
+node (0/1).
+
+B. Sentinel lymph node #2, left axilla, biopsy: No carcinoma identified in one lymph
+node (0/1).
+
+
+                                                                            Page 1 of 12
+
+=================================== PAGE 2 ===================================
+Surgical Pathology - Working Draft
+
+C. Left breast, mastectomy;
+1. Infiltrating ductal carcinoma, SBR grade 2, 2.4 cm; see comment.
+2. Intermediate to high grade ductal carcinoma in-situ, cribriform and comedo types.
+3. Non-proliferative fibrocystic changes.
+4. Duct ectasia.
+
+D. Right breast, mastectomy:
+1. Atypical lobular hyperplasia.
+2. Non-proliferative fibrocystic changes.
+3. Duct ectasia.
+4. Microcalcifications associated with benign ducts and stroma.
+5. No carcinoma identified.
+
+E. Soft tissue, right breast, excision: Fibroadipose tissue with skeletal muscle; no breast parenchyma or carcinoma identified.
+
+F. Left ovary and fallopian tube, salpingoophorectomy:
+- Ovary: No significant pathologic abnormality.
+- Fallopian tube: Benign paratubal cyst.
+
+G. Right ovary and fallopian tube, salpingoooophorectomy:
+- Ovary: No significant pathologic abnormality.
+- Fallopian tube: Benign paratubal cyst.
+
+H. Omentum, biopsy: Benign fibrous nodule.
+
+I. Soft tissue, left upper peritoneum, biopsy: Benign fibroadipose tissue.
+
+J. Omentum, omentectomy: No significant pathologic abnormality.
+Note: Breast Tumor Synoptic Comment
+- Laterality: Left.
+- Invasive tumor type: Infiltrating ductal.
+- Invasive tumor size: 2.4 cm maximum diameter.
+- Invasive tumor grade (modified Bloom-Richardson):
+    Nuclear grade: 3, 3 points.
+    Mitotic count: 7 mitotic figures/10 HPF, 1 point.
+    Tubule/papilla formation: >10% but <75%, 2 points.
+    Total points and SBR grade = 6 points, grade 2.
+- Lymphatic-vascular invasion: None identified.
+- Perineural invasion: None identified.
+- Invasive tumor necrosis: None identified.
+- Mononuclear cell reaction: None/minimal.
+- Resection margins for invasive tumor: Widely clear.
+    - Deep margin: Widely clear; closest distance of tumor 2 cm.
+    - Medial margin: Widely clear; closest distance of tumor > 6 cm.
+    - Lateral margin: Widely clear; closest distance of tumor 2.8 cm.
+    - Anterior/superior margin: Widely clear; closest distance of tumor 5.5 cm.
+    - Anterior/inferior margin: Widely clear; closest distance of tumor >6 cm.
+
+- Ductal carcinoma in situ (DCIS) type: Cribriform and comedo.
+- Ductal carcinoma in situ size: ~2.0 cm in maximum diameter.
+- Ductal carcinoma in situ nuclear grade: Intermediate to high grade.
+- Necrosis in ductal carcinoma in situ: Present.
+- Microcalcifications: Not identified.
+
+Page 7 of 12
+
+=================================== PAGE 3 ===================================
+Surgical Pathology -                Working Draft
+
+- Resection margins for ductal carcinoma in situ: Widely clear (see above for invasive tumor.
+
+- Lobular carcinoma in situ (LCIS): Not identified.
+- Number of lobules involved: N/A.
+- Nuclear type/size: N/A.
+- Resection margins for pleomorphic lobular carcinoma in situ: N/A.
+
+- Lymph node status: Negative.
+        - Number of positive lymph nodes: 0.
+        - Total number sampled: 2.
+
+- AJCC/UICC stage: pT2N0Mx.
+
+- Nontumorous breast tissue: Non-proliferative fibrocystic change; duct ectasia.
+- Nipple: Unremarkable.
+- Skin/dermis: Unremarkable.
+
+Pagetoid spread of carcinoma is seen in benign ducts adjacent to the tumor. No such spread is seen away
+from the tumor.
+
+Atypical lobular hyperplasia is present in the contralateral (right) breast.
+
+An immunohistochemical test for estrogen and progesterone receptors as well as for HER2 was performed
+on block C3.
+
+The test for estrogen receptors is positive. There is moderate nuclear staining in >95% of tumor cells.
+Internal positive control is positive.
+
+The test for progesterone receptors is positive. There is moderate to strong nuclear staining in 90% of
+tumor cells. Internal positive control is positive.
+
+Result of HER2/neu test: This carcinoma is negative for HER2/neu oncoprotein over-expression.
+
+An immunohistochemical assay was performed using the CB11 monoclonal antibody to HER2/neu
+oncoprotein. The staining intensity of this carcinoma was 1 on a scale of 0-3 (HER2 test interpreted by
+Dr.
+
+Carcinomas with staining intensity scores of 0 or I are considered negative for over-expression of HER2/neu oncoprotein.
+
+Those with a staining intensity score of 2 are considered borderline. We and others have observed that many carcinomas with staining
+intensity scores of 2 do not show gene amplification. All carcinomas with staining intensity scores of 2 are therefore submitted for
+FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in this
+category show an excellent correlation between the results of immunohistochemical and FISH testing, and almost always show gene
+amplification.
+
+Intraoperative Consult Diagnosis
+FS1 (A) Sentinel lymph node #1, left axilla, biopsy: No carcinoma.
+
+FS2 (B) Sentinel lymph node #2, left axilla, biopsy: No carcinoma.
+
+FS3 (G) Right adnexa, salpingo-oophorectomy: Paratubal cyst with hemorrhage.
+
+FS4 (H) Omentum, biopsy: Dense fibrous connective tissue, no carcinoma.
+
+FS5 (I) Left upper quadrant, peritoneum, biopsy: No carcinoma.
+
+F. Left adnexa, salpingo-oophorectomy: Paratubal cyst (gross diagnosis only).
+
+Clinical History
+
+Page 3 of 12
+
+=================================== PAGE 4 ===================================
+Surgical Pathology -                    Working Draft
+
+The patient is a    .year-old woman with left breast cancer. She undergoes bilateral mastectomies.
+
+Gross Description
+The specimen is received in ten parts, each labeled with the patient's name and unit number. Parts A through I are received fresh, and Part J is received in formalin.
+
+Part A, additionally labeled "1                                             consists of one pink, unoriented,
+fibroadipose tissue fragment measuring 1.5 x 0.8 x 0.8 cm. The entire specimen is frozen for frozen
+section diagnosis 1, and subsequently submitted in cassette A1.
+
+Part B, additionally labeled                                                  :onsists of one pink-red, unoriented,
+fibroadipose tissue fragment measuring 1.3 x 0.8 x 0.7 cm. The entire specimen is frozen for frozen
+section diagnosis 2, and subsequently submitted in cassette B1.
+
+Part C is additionally labeled "                                    It consists of a mastectomy specimen, measuring
+15.8 cm from superior to inferior, 15.6 cm from medial to lateral, and 8.2 cm from anterior to posterior.
+The specimen weighs 442.5 gm. In the lateral aspect of the specimen is a spiculated, firm, tan mass,
+measuring 2.4 x 1.2 x 1.2 cm. This mass is 2.0 cm from the deep margin, 5.5 cm from the superior
+margin, >6 cm from the inferior margin, 2.8 cm from the lateral margin, and >6 cm from the medial
+margin. In the anterior-inferior portion of the breast, there are dilated ducts, filled with cheesy material.
+This area is 0.2 cm from the deep margin. The remainder of the breast parenchyma is unremarkable. Two
+pieces of tumor are banked, one for tissue banking and one for the epithelial cell study. Representative
+sections are submitted as follows:
+Cassette C1:                    Nipple.
+Cassettes C2-C3:             Spiculated mass.
+Cassette C4:                    Deep margin beneath tumor.
+Cassette C5:                    Lateral margin.
+Cassette C6:                    Lower outer quadrant.
+Cassette C7:                    Lower inner quadrant.
+Cassette C8:                    Medial margin.
+Cassette C9:                    Upper inner quadrant.
+Cassette C10:                  Anterior-inferior area with duct ectasia.
+
+Part D is additionally labeled                                          It consists of a mastectomy specimen, measuring
+18.2 cm from superior to inferior, 16.2 cm from medial to lateral, and 4.8 cm from anterior to posterior.
+The specimen weighs 688 gm. A short stitch is designated by the surgeon as superior, and a long stitch is
+designated by the surgeon as lateral. In the inferior-medial portion of the specimen is a fragment of skin,
+measuring 7.5 x 4.9 cm. It is white and unremarkable. There is a nipple, measuring 1.3 x 1.5 x 1.6 cm.
+The specimen is notable for dilated ducts with a viscous, yellow-tan material within them. This material
+extends into one of the nipple ducts. No masses are noted, nor are any areas suspicious for DCIS
+appreciated. The anterior-superior portion of the specimen is inked blue, the anterior-inferior portion of
+the specimen is inked green, and the posterior aspect of the specimen is inked black. Multiple sections of
+unremarkable breast parenchyma are taken for two studies, including a high-risk study and an epithelial
+cell study. Representative sections are submitted as follows:
+Cassettes D1-D2:             Nipple and surrounding skin.
+Cassette D3:                    Representative section of anterior-inferior breast with dilated duct.
+Cassette D4:                    Representative section of lower inner breast with dilated ducts.
+Cassette D5:                    Representative section of upper inner breast.
+Cassette D6:                    Representative section of medial breast.
+Cassette D7:                    Representative section of upper outer breast.
+Cassette D8:                    Representative section of upper inner breast.
+Cassette D9:                    Representative section of lateral breast.
+
+Part E is additionally labeled "
+It consists of a single irregular fragment of soft, yellow tissue, measuring 5.4 x 3.8 x 1.5 cm. A suture
+has been placed on one aspect of the specimen and is designated the new margin. That aspect of the
+specimen is inked black, and the specimen is serially sectioned and entirely submitted in cassettes E1
+through E5.
+
+Part F is received fresh labeled,                                                                    It consists of an
+
+Page 4 of 12
+
+=================================== PAGE 5 ===================================
+Surgical Pathology -        Working Draft
+
+ovary, measuring 4.3 x 2 x 0.8 cm, with attached fallopian tube, measuring 0.8 x 0.5 x 6 cm. There is a
+simple paratubal cyst, measuring 1.5 x 1.5 x 0.5 cm. This is received undisrupted, with a thin 0.1 cm
+translucent wall, and contains 20 cc of clear fluid. In addition, there is a second small paratubal cyst,
+measuring 0.5 x 0.5 x 0.5 cm. The ovary is serially sectioned, and no abnormalities are detected, other
+then a 0.5 x 0.5 x 0.5 cm small white firm area. The fallopian tube is serially sectioned, and no
+abnormalities are detected. Cassettes are submitted as follows:
+Cassettes F1-F9:     Ovary, entirely submitted (firm, white area in cassette F7).
+Cassettes F10-F12:  Fallopian tube, entirely submitted.
+Cassette F13:        Representative section of the paratubal cyst and smaller, 0.5-cm paratubal cyst.
+Cassette F14:        Representative section of broad ligament.
+
+Part G is additionally labeled                      It consists of an ovary with attached fallopian tube,
+weighing 15.9 gm. There is a disrupted hemorrhagic, cystic mass in the broad ligament, measuring 2.3 x
+1.6 x 1.5 cm, no capsule is visualized. A representative section of the cystic mass is submitted for frozen
+section diagnosis as FS3. The ovary and tube do not appear involved by the lesion. The ovary is inked
+black, it contains a simple corpus luteal cyst measuring 1.5 x 1.6 x 0.8 cm. The ovary measures 3.5 x 3 x
+1 cm, and the tube measures 6.5 x 0.8 cm. The ovary and fallopian tube are serially sectioned, and no
+abnormalities are detected. Cassettes are submitted as follows:
+Cassettes G1-G6:     Ovary, entirely submitted.
+Cassettes G7-G10:    Fallopian tube, entirely submitted.
+Cassettes G11-G12: Lesion in broad ligament, entirely submitted.
+Cassette G13:        Frozen section remnant.
+
+Part H is additionally labeled "                     It consists of an unoriented piece of yellow,
+adipose tissue, measuring 5 x 1.3 x 0.4 cm, with a white-tan, soft nodule, measuring 0.3 x 0.3 x 0.3 cm,
+attached to one end. This is entirely submitted for frozen section diagnosis as FS4, with the frozen
+section remnant submitted in cassette H1. The remaining omentum is entirely submitted in cassette H2.
+
+Part I is additionally labeled                      It consists of multiple unoriented
+fragments of tissue, measuring 1 x 0.3 x 0.1 cm in aggregate. The specimen is entirely submitted for
+frozen section diagnosis as FS5, with the frozen section remnant submitted in cassette I1.
+
+Part J is additionally labeled           It consists of an aggregate of fatty tissue, measuring 4 x 2 x 0.5
+cm. No abnormalities are detected. 1ne specimen is entirely submitted in cassettes J1 through J3.
+
+                         /Pathology Resident
+                                                            Signed: ~
+
+Fee Codes:
+
+
+
+
+Other Specimens
+
+        __Specimen Class:             Status: Signed Out      Accessioned:
+                                                              Signed Out:
+Specimen(s) Received: Right Breast, Fine Needle Aspiration
+Final Diagnosis
+
+Right Breast, Fine Needle Aspiration: Benign scar tissue, see comment.
+
+
+
+                                                                                Page 5 of 12
+
+=================================== PAGE 6 ===================================
+Surgical Pathology - .    Working Draft
+
+_Specimen Class:            Status: Signed Out      Accessioned:
+                                                     Signed Out
+Specimen(s) Received: Vaginal/Cervical/Endocervical, Thin Prep Imaged
+Final Diagnosis
+
+Vaginal/Cervical/Endocervical, Thin Prep Imaged
+
+    NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+        Reactive cellular changes.
+        Atrophic changes
+
+    SPECIMEN ADEQUACY:
+        Satisfactory for evaluation.
+        Transformation zone components are present.
+
+
+_Specimen Class:            Status: Signed Out      Accessioned.
+                                                     Signed Out:
+
+Specimen(s) Received: Right Breast, implant capsule
+Final Diagnosis
+Right breast, implant capsule, capsulectomy: Peri-prosthetic capsule.
+
+
+_Specimen Class: .          Status: Signed Out      Accessioned
+                                                     Signed Out:
+
+Specimen(s) Received: Cervical/Endocervical, Thin Prep Imaged
+Final Diagnosis
+Cervical/Endocervical, Thin Prep Imaged
+
+    NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+        Atrophic changes
+
+    SPECIMEN ADEQUACY:
+        Satisfactory for evaluation.
+        No transformation zone components are identified.
+
+
+_Specimen Class:            Status: Signed Out      Accessioned·
+                                                     Signed Out:
+
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis
+Endometrium, biopsy: Fragments of benign endocervical tissue and no definitive
+endometrium, see comment.
+
+
+                                                     Page 6 of 12
+
+=================================== PAGE 7 ===================================
+Surgical Pathology -                Working Draft
+
+__Specimen Class:                Status: Signed Out        Accessioned·
+                                                           Signed Out:
+
+Specimen(s) Received: Cervical/Endocervical, Thin Prep Imaged
+Final Diagnosis_______________________________________________
+Cervical/Endocervical, Thin Prep Imaged
+
+        NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+                Atrophic changes
+
+        SPECIMEN ADEQUACY:
+                Satisfactory for evaluation.
+                Transformation zone components are present.
+
+
+__Specimen Class:                Status: Signed Out        Accessione<
+                                                           Signed Out:
+
+Specimen(s) Received: A: Left breast capsule, B: Right breast capsule
+Final Diagnosis_________________________________________________
+A. Breast capsule, left, excision: Dense fibrous tissue with chronic inflammation.
+
+B. Breast capsule, right, excision: Dense fibrous tissue with chronic inflammation.
+
+
+__Specimen Class:                Status: Signed Out        Accessioned·
+                                                           Signed Out:
+
+Specimen(s) Received: Cervical/Endocervical, Thin Prep Imaged
+Final Diagnosis_______________________________________________
+Cervical/Endocervical, Thin Prep Imaged
+
+        NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+                Atrophic changes
+
+        SPECIMEN ADEQUACY:
+                Satisfactory for evaluation.
+                Transformation zone components are present.
+
+
+__Specimen Class:                Status: N/A               Accessioned:
+                                                           Signed Out:
+
+Specimen(s) Received: A: Skin, biopsy, shave, right scalp, B: Skin, biopsy, shave, left scalp, C: Skin, biopsy, punch, left upper
+arm
+Final Diagnosis_________________________________________________{Final Report Not Signed Out}
+{Not Entered}
+
+
+__Specimen Class:                Status: Signed Out        Accessione<
+                                                           Signed Out
+
+Specimen(s) Received: A: Pelvic Washing, B: Diaphragm Washing
+
+                                                           Page 7 of 12
+
+=================================== PAGE 8 ===================================
+Surgical Pathology - Working Draft
+
+Final Diagnosis
+
+A: Pelvic Washing
+   BENIGN.
+      Reactive mesothelial cells.
+
+B: Diaphragm Washing
+   BENIGN.
+      Reactive mesothelial cells.
+
+
+__Specimen Class:                Status: Signed Out       Accessioned:
+                                                           Signed Out:
+Specimen(s) Received: Left Breast, Fine Needle Aspiration
+Final Diagnosis
+Left Breast, Fine Needle Aspiration: Adenocarcinoma, morphologically consistent
+with a primary breast carcinoma.
+
+
+__Specimen Class:                Status: Signed Out       Accessioned
+                                                           Signed Out:
+Specimen(s) Received: Cervical/Endocervical, Thin Prep Imaged
+Final Diagnosis
+Cervical/Endocervical, Thin Prep Imaged
+
+   NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+      Reactive cellular changes.
+
+   SPECIMEN ADEQUACY:
+      Satisfactory for evaluation.
+      Transformation zone components are present.
+
+
+__Specimen Class:                Status: Signed Out       Accessioned:
+                                                           Signed Out:
+Specimen(s) Received: Right foot foreign body
+Final Diagnosis
+Foot, right, excision: Fragment of hyperkeratotic squamous epithelium.
+
+
+__Specimen Class:                Status: Signed Out       Accessioned
+                                                           Signed Out:
+Specimen(s) Received: Cytology, GYN, Site Not Specified, Thin Prep
+Final Diagnosis
+Cytology, GYN, Site Not Specified, Thin Prep
+
+
+Page 8 of 12
+
+=================================== PAGE 9 ===================================
+Surgical Pathology - Working Draft
+NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+Reactive cellular changes.
+
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation.
+Transformation zone components are present.
+
+
+Specimen Class:                Status: Signed Out      Accessioned
+                                                        Signed Out:
+Specimen(s) Received: Cervical/Endocervical, Thin Prep
+Final Diagnosis
+Cervical/Endocervical, Thin Prep
+
+NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation.
+Transformation zone components are present.
+
+
+Specimen Class:                Status: Signed Out      Accessioned
+                                                        Signed Out:
+Specimen(s) Received: Vaginal/Cervical Endocervical, Direct
+Final Diagnosis
+Vaginal/Cervical/Endocervical, Direct
+CELLULAR CHANGES WITHIN NORMAL LIMITS.
+Endocervical cells present.
+
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation but limited by obscuring white blood cells.
+
+
+Specimen Class:                Status: N/A             Accessioned:
+                                                        Signed Out:
+Specimen(s) Received: Skin, biopsy, left chin
+Final Diagnosis                                         (Final Report Not Signed Out)
+(Not Entered)
+
+
+Specimen Class:                Status: Signed Out      Accessioned
+                                                        Signed Out:
+Specimen(s) Received: Cervical, Direct
+Final Diagnosis
+Cervical, Direct
+
+Page 9 of 12
+
+=================================== PAGE 10 ===================================
+Surgical Pathology -                    Working Draft
+
+CELLULAR CHANGES WITHIN NORMAL LIMITS.
+Inflammation.
+
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation. Endocervical cells present.
+
+
+___Specimen Class:                 Status: Signed Out      Accessioned:
+                                                           Signed Out:
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis
+Endometrium, biopsy:
+Benign dyssynchronous secretory endometrium; no hyperplasia or carcinoma
+identified.
+
+
+___Specimen Class:                 Status: Signed Out      Accessioned:
+                                                           Signed Out: (
+Specimen(s) Received: Cervical Endocervical, Direct
+Final Diagnosis
+Cervical/Endocervical, Direct
+CELLULAR CHANGES WITHIN NORMAL LIMITS.
+Inflammation.
+Endocervical cells present.
+
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation but limited by obscuring white blood cells.
+
+
+___Specimen Class:                 Status: Signed Out      Accessioned
+                                                           Signed Out:
+Specimen(s) Received: Cervical/Endocervical, Direct
+Final Diagnosis
+Cervical/Endocervical, Direct
+CELLULAR CHANGES WITHIN NORMAL LIMITS.
+
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation. Endocervical cells present.
+
+
+___Specimen Class:                 Status: Signed Out      Accessioned
+                                                           Signed Out:
+Specimen(s) Received: Bladder Washing
+Final Diagnosis
+Bladder Washing
+BENIGN.
+
+Page 10 of 12
+
+=================================== PAGE 11 ===================================
+Surgical Pathology - Working Draft
+
+__________Specimen Class:                Status: Signed Out       Accessioned:
+                                                                   Signed Out:
+Specimen(s) Received: Urine, catheterized
+Final Diagnosis
+BENIGN.
+        See Below.
+
+
+
+__________Specimen Class:                Status: Signed Out       Accessioned
+[HighRisk Specimen]                                                Signed Out:
+Specimen(s) Received: Vaginal/Cervical/Endocervical
+Final Diagnosis
+CELLULAR CHANGES WITHIN NORMAL LIMITS.
+        Squamous metaplasia.
+
+SPECIMEN ADEQUACY:
+        Satisfactory for evaluation. Endocervical cells present.
+
+
+
+__________Specimen Class:                Status: Signed Out       Accessioned
+                                                                   Signed Out: __
+Specimen(s) Received: BLADDER WASH
+Final Diagnosis
+BENIGN
+
+Conversion
+
+__________Specimen Class:                Status: Signed Out       Accessioned:
+                                                                   Signed Out:
+Specimen(s) Received: BLADDER WASH
+Final Diagnosis
+BENIGN
+
+Conversion
+
+__________Specimen Class:                Status: Signed Out       Accessioned:
+                                                                   Signed Out:
+Specimen(s) Received: BLADDER WASH
+Final Diagnosis
+BENIGN
+
+Conversion
+
+
+                                                                   Page 11 of 12
+
+=================================== PAGE 12 ===================================
+Surgical Pathology -                Working Draft
+
+                    Specimen Class:              Status: Signed Out        Accessioned:
+                                                                           Signed Out: '
+
+Specimen(s) Received: VAGINAL/CERVICAL/ENDOCERVICAL
+Final Diagnosis
+BETHESDA: CELLULAR CHANGES WITHIN NORMAL LIMITS
+BENIGN
+Inflammation
+
+Conversion
+
+
+                    Specimen Class:              Status: Signed Out        Accessioned:
+                                                                           Signed Out: '
+
+Specimen(s) Received: URINE, CATHETERIZED
+Final Diagnosis
+BENIGN
+
+Conversion
+
+
+                    Specimen Class:              Status: Signed Out        Accessioned:
+                                                                           Signed Out: 4
+
+Specimen(s) Received: VAGINAL/CERVICAL/ENDOCERVICAL
+Final Diagnosis
+DESCRIPTIVE DIAGNOSIS
+Diagnosis Deferred
+
+Conversion
+
+
+                    Specimen Class:              Status: Signed Out        Accessioned:
+                                                                           Signed Out:
+
+Specimen(s) Received: SITE NOT SPECIFIED
+Final Diagnosis
+DESCRIPTIVE DIAGNOSIS
+Diagnosis Deferred
+Inflammation
+
+Conversion
+
+
+                    Specimen Class:              Status: Signed Out        Accessioned
+                                                                           Signed Out:
+
+Specimen(s) Received: VAGINAL/CERVICAL/ENDOCERVICAL
+Final Diagnosis
+BENIGN
+
+Conversion
+
+
+
+
+                                                    END OF REPORT                      Page 12 of 12

@@ -1,0 +1,320 @@
+=================================== PAGE 1 ===================================
+UUID:EEF4E8C6-6D80-4C6A-BFC6-E52969208BC1
+TCGA-AC-A8OS-01A-PR                    Redacted
+
+[BARCODE]
+
+DOB:            Age:*         Gender:F
+
+Re#:            Hosp#:                    Provider Group:
+
+Date of Service:    Date Received:                         Case #
+                                     Room                  Date Reported:
+
+                                                          ICD-0-3
+
+FINAL SURGICAL PATHOLOGY REPORT
+                                                Carcinoma, infiltrating
+                                                lobular NOS *8520/3
+Diagnosis:                                      Site ®Breast NOS C509
+                                                Op 4/7/14
+A. LEFT BREAST, PROPHYLACTIC MASTECTOMY:
+   - Benign breast tissue with fibrocystic changes, including fibrosis, cysts,
+     apocrine metaplasia, and sclerosing adenosis.
+   - Three benign lymph nodes.
+   - Unremarkable skin and nipple.
+
+B. - D. RIGHT BREAST AND AXILLARY LYMPH NODE, MASTECTOMY WITH SENTINEL
+LYMPH NODE BIOPSY:
+   - Multifocal invasive lobular carcinoma, Nottingham grade 2.
+   - Tumor size: 3 cm (largest nodule).
+   - Smaller nodules range from 0.1-0.6 cm in diameter and are located
+     in the vicinity of the larger nodule.
+   - Mastectomy margins are free of tumor.
+   - Invasive carcinoma is 0.3 cm from the anterior-superior margin, and is at
+     least 1 cm from all other margins.
+   - Two benign lymph nodes, no tumor (0/2).
+   - This includes one sentinel lymph node and one non-sentinel lymph node.
+   - Lobular carcinoma in situ (LCIS), low nuclear grade.
+   - Portion of skeletal muscle (specimen D), comprising deep margin.
+
+
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+   Type and grade (invasive): Invasive lobular carcinoma, Nottingham grade 2.
+   Type and grade (in situ): LCIS, low nuclear grade.
+   Primary tumor: pT2(m).
+   Regional lymph nodes: pN0(i-)(sn).
+   Distant metastasis: Not applicable.
+   Stage: IIA.
+   Lymphovascular invasion: Not seen.
+   Margin status: Negative.
+
+
+Case #:                                                                Page 1
+Printed:                                      This report continues... (FINAL)
+
+           MR No.             Acct No. -         Patient Name -
+Pathology - Page 1/7                                                   ge 1 Doc# 1
+
+=================================== PAGE 2 ===================================
+Patient:
+
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+COMMENT: Small tumor nodules (0.1 - 0.6 cm) are identified slightly anterior and
+inferior to the main tumor mass, which is 3 cm in diameter.
+
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous pathology specimens:
+
+Case #:                                                                                                                    Page 2
+Printed:                                                                                           This report continues... (FINAL)
+
+MR No. -
+Pathology - Page 2/7                                                                                                  - Page 2 Doc# 1
+
+=================================== PAGE 3 ===================================
+Patient:
+
+Case #:
+
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:                           Mastectomy.
+Laterality:                                        Right.
+Lymph node sampling:                               Sentinel lymph node biopsy.
+
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:                                   Invasive lobular carcinoma.
+Tumor site:                                        Upper outer quadrant.
+Tumor size:                                        3 cm (largest nodule).
+Tumor focality:                                    Multifocal.
+Histologic grade (Nottingham Score):               2 of 3.
+    Tubule formation:                              3 of 3.
+    Nuclear pleomorphism:                          2 of 3.
+    Mitotic rate:                                  1 of 3.
+
+Lymphovascular invasion:                           Not seen.
+Macroscopic and microscopic extent of tumor:       No skin or chest wall invasion identified.
+
+DUCTAL CARCINOMA IN SITU (DCIS):                   Not present.
+
+MARGINS
+Invasive carcinoma:                                Negative.
+
+Ductal carcinoma in situ:                          Not applicable.
+
+LYMPH NODES
+Total lymph nodes examined                         2.
+Number of lymph nodes involved                     0.
+
+
+PATHOLOGIC STAGING:
+    Primary Tumor (pT):                            pT2(m).
+    Regional lymph nodes (pN):                     pN0(i-)(sn).
+    Distant metastasis (pM):                       N/A.
+    AJCC Stage:                                    IIA.
+
+ANCILLARY STUDIES:                                 Performed on previous core needle biopsy.
+    Estrogen receptor:                             100% positive cells, strong intensity.
+    Progesterone receptor:                         4% positive cells, weak intensity.
+    HER2:                                          IHC score 1+.
+    Ki-67:                                         12% positive cells.
+
+
+Case #:                                            Page 3
+Printed:                                           This report continues... (FINAL)
+
+         MR
+Pathology - Page 3/7                                                          - Page 3 Doc# 1
+
+=================================== PAGE 4 ===================================
+Patient:
+
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Source of Specimen:
+A. Breast total mastectomy,Left
+B. Sentinel lymph node,Right
+C. Breast total mastectomy,Right
+D. Breast surgical;Posterior to tumor right breast
+
+Clinical History/Operative Dx:
+Breast cancer.
+
+Intraoperative Diagnosis:
+B. Right sentinel node                : Negative for tumor.
+D. Posterior to tumor, right breast, FS: Benign skeletal muscle, negative for tumor
+
+The intraoperative interpretation(s) was/were performed and rendered a
+
+Gross Description:
+A. Received in formalin labeled "left breast with stitch at medial side." Sutures present for orientation
+purposes: Stitch at medial apex of breast.
+
+Laterality: Left.
+Specimen: Mastectomy.
+Size of mastectomy: (M-L x S-I x A-P): 213 x 26.1 x 3.8 cm.
+Axillary tail: N/A
+Skin: 18.0 x 10.1 cm.    Nipple/areola: Present.
+Specimen weight: 741 grams.
+Ink code: Blue – superior-anterior, orange – inferior-anterior, black - deep
+Slabs: Total #13, M=13 , L=1. Nipple in slabs #9-10.
+Time of resection:
+Time placed into formalin:
+
+Case #:                                                                                    Page 4
+Printed:                                                          This report continues... (FINAL)
+
+                MR No. -             Acct. No. -            Patient Name -
+Pathology - Page 4/7                                                           - Page 4  Doc# 1
+
+=================================== PAGE 5 ===================================
+Patient:
+
+Case #:
+
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Time out of formalin:
+
+Non-lesional breast: The cut sections of the breast demonstrates rubbery to indurated, pink and tan parenchyma and admixed yellow-tan fibroadipose tissue. There are marked areas of induration in the upper outer quadrant, however, no distinct mass lesion is appreciated. In slab 3 of the upper outer quadrant are three lymph nodes ranging from 0.5 cm to 1.2 x 0.8 cm each. Representative sections are submitted.
+
+Cassette summary:
+A1) nipple,
+A2) medial and lateral extension of skin,
+A3) slab 1, upper outer,
+A4) slab 3, larger lymph node, bisected,
+A5) slab 3, two smaller nodes, one bisected (orange),
+A6) slab 5, upper outer quadrant, indurated changes, over an area of 5.5 cm,
+A7-A8)) slab 7, upper outer quadrant, including superior superficial surgical margin,
+A9) slabs 8-9, central breast parenchyma,
+A10) slab 11, upper inner quadrant,
+A11) slab 12, lower inner quadrant,
+A12) slab 4, lower outer quadrant.
+
+B. Part B is designated as right sentinel node        . Initially received in the fresh state for frozen
+section/touch prep analysis is a 2.0 x 2.0 x 1.0 cm portion of pink and yellow-tan fatty soft tissue.
+Sectioning reveals a single, 2 cm fatty lymph node. Two touch imprint slides are forwarded for microscopic
+evaluation. The lymph node is entirely submitted in B1 and B2 with a sentinel node protocol performed.
+
+
+Time of resection:
+Time submitted in formalin:
+
+C. Part C is right breast. Initially received in the fresh state for possible Oncogenotyping studies/tumor bank
+harvest designated as right breast.
+
+Sutures present for orientation purposes: Double long suture marks medial apex of skin, per
+
+
+Laterality: Right.
+Specimen: Mastectomy.
+Size of mastectomy: (M-L x S-I x A-P): 20.8 x 18.3 x 6.3 cm.
+Axillary tail: N/A
+Skin: Overlying skin is 18.0 x 8.4 cm.    Nipple/areola: Present.
+Specimen weight: 716 grams.
+Ink code: Orange – superior-anterior, blue – inferior-anterior, black – posterior.
+Slabs: Total #13 , M= 13, L=1.   Nipple in slabs #7-8.
+Time of resection:
+
+Case #                                                                                                     Page 5
+Printed:                                                                        This report continues... (FINAL)
+
+
+        MR No
+Pathology - Page 5/7                                                                                   Page 5 Doc# 1
+
+=================================== PAGE 6 ===================================
+Patient:
+
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Time placed into formalin: Approximately
+Time out of formalin: `
+
+Lesion 1: Biopsy site: Yes, hook and spring-shaped metallic radiologic marker embedded within lesion
+(slab #5).
+Size: 3.0 x 2.3 x 2.4 cm, poorly demarcated admixed yellow and tan-white.
+Location: Upper outer quadrant. Involves slabs # 4-7.
+Distance to nearest margin(s): 0.3 cm from deep, 1.9 cm from superior-superficial, greater than 5 cm from
+the inferior-superficial, most lateral and most medial surgical margins.
+
+Lesion #2: Biopsy site: No.
+Size: Up to 0.6 x 0.5 x 0.4 cm, poorly defined, yellow-gray.
+Location: 0.9 cm anterior to large mass. Involves slab #5.
+Distance to nearest margin(s): 2.3 cm from deep, 1.8 cm from superior-superficial.
+
+Lesion #3: Biopsy site: No.
+Size;
+Location: 0.6 cm anterior to lesion #1. Involves slab #5.
+Distance to nearest margin(s): 0.5 cm from superior-superficial, greater than 2.5 cm from the deep.
+
+Non-lesional breast: Remaining cut sections of the breast demonstrate pink, rubbery parenchyma centrally
+with transient, indurated, fibroadipose tissue in the lateral breast. Examination of the most lateral
+extension of breast reveals a single 0.6 x 0.5 x 0.4 cm lymph node (slab 2). Representative sections are
+submitted.
+
+Cassette summary:
+C1) nipple,
+C2) medial and lateral extension of skin,
+C3) slab 2, upper outer quadrant, adjacent to large mass, includes small lymph node,
+C4-C5) slab 3, adjacent to large mass,
+C6) slab 4, upper outer quadrant, lesion, including deep margin,
+C7) slab 5, upper outer quadrant,
+C8) slab 5, tissue superior to large lesion,
+C9) slab 5, tissue medially inferior to large lesion,
+C10) slab 5, lesion #2,
+C11) slab 5, lesion #3 including superior superficial surgical margin,
+C12) slab 5, additional superior superficial surgical margin adjacent to lesions #1-3, two pieces,
+C13-C15) slab 6, 2.0 cm superior to lesion, lesion, tissue 2 cm inferior to lesion, ????????
+C16) slab 7, possible medial edge of large mass,
+C17) slab 8, adjacent to large mass, upper outer quadrant,
+C18) slab 12, upper inner quadrant,
+C19) slab 11, lower inner quadrant,
+C20) slabs 7-8, central breast parenchyma.
+C21) slab 5, 8.5 to 8.0 cm inferior to large mass including inferior superficial surgical margin (blue),
+C22) slab 3, lower outer quadrant.
+
+Case #
+Printed:                                                                                     This report continues... (FINAL)
+
+Pathology - Page 6/7                                                                         - Page 6 Doc# 1
+
+=================================== PAGE 7 ===================================
+Patient:
+
+Case #:
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+D. Part D is posterior to tumor, right breast (blue is old surface). Initially received in the fresh state for frozen section evaluation is a 3.5 x 2.0 x 0.8 cm portion of red-tan soft tissue. The old surface has been previously marked blue, and is now re-inked blue. The new margin is now marked black. The specimen is serially sectioned revealing deep red skeletal muscle without gross tumor involvement. The tissue is entirely submitted for frozen section evaluation with the residual frozen tissue submitted in D1-D3.
+
+Time of resection:
+Time submitted in formalin: Approximately
+
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.
+
+B. Immunohistochemical stain: CK OSCAR, showing no evidence of metastatic carcinoma.
+
+C. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.
+
+D. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis rendered.
+
+Case #                                                                                                                                  Page 7
+Printed:                                                                  Criteria                    [signature]  n/35/13    Yes     No
+                                                                          Diagnosis Discrepancy
+                                                                          Primary Tumor Site Discrepancy
+                                                                          HIPAA Discrepancy
+                                                                          Ordering Physician Error
+                                                                          Final/Preliminary Primary
+MR No.                                                                    Case is Entitled          ENTITLED      DISCONTINUED
+Pathology - Page 7/7                                                     Reviewed by [signature]    Date of record   [signature with date/ID]

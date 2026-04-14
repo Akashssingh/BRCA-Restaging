@@ -1,0 +1,68 @@
+=================================== PAGE 1 ===================================
+P.2/33
+
+DIAGNOSIS:
+PART 1: SENTINEL LYMPH NODE #1, LEFT, SENTINEL NODE BIOPSY -
+      ONE LYMPH NODE, NO TUMOR IDENTIFIED (0/1).
+
+PART 2: SENTINEL LYMPH NODE #2, LEFT, SENTINEL NODE BIOPSY -
+      ONE LYMPH NODE, NO TUMOR IDENTIFIED (0/1).
+
+PART 3: BREAST, LEFT, SEGMENTAL MASTECTOMY -
+    A.  INVASIVE DUCTAL CARCINOMA.
+    B.  NOTTINGHAM GRADE 2 (TUBAL FORMATION 3, NUCLEAR PLEOMORPHISM 2, MITOTIC ACTIVITY 1, TOTAL
+        SCORE 8 OUT OF 9).
+    C.  INVASIVE TUMOR MEASURES 2.5 CM IN LARGEST DIMENSION.
+    D.  DUCTAL CARCINOMA IN-SITU, NUCLEAR GRADE 2, SOLID AND CRIBRIFORM TYPES PRESENT IN TWO
+        OF NINE NINETEEN SLIDES.
+    E.  LYMPHOVASCULAR INVASION IS NOT IDENTIFIED.
+    F.  REPRESENTATIVE SECTIONS ARE NEGATIVE FOR INVASIVE CARCINOMA; INVASIVE CARCINOMA IS 0.4 CM
+        FROM THE NEAREST LATERAL MARGIN (SLIDE 3E).
+    G.  INVASIVE CARCINOMA IS LOCATED IN THE UPPER OUTER AND LOWER OUTER QUADRANTS.
+    H.  INTRADUCTAL PAPILLOMA WITH DUCTAL EPITHELIAL HYPERPLASIA.
+    I.  INVASIVE TUMOR CELLS ARE POSITIVE FOR ESTROGEN AND PROGESTERONE RECEPTORS AND
+        NEGATIVE FOR HER-2 PER PATHOLOGY REPORT (1CD-0-3 PENDING).
+
+CASE SYNOPSIS:
+SYNOPSIS - PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:                   Left
+PROCEDURE:                    Segmental
+LOCATION:                     Upper outer quadrant
+                             Lower outer quadrant
+SIZE OF TUMOR:                Maximum dimension Invasive component. 2.5 cm         1CD-0-3
+MULTICENTRICITY/MULTIFOCALITY OR INVASIVE FOCI:
+                             No                                                    Carcinoma, infiltrating ductal v/s S505/3
+TUMOR TYPE (Invasive component):
+                             Ductal adenocarcinoma, NOS                           Site: breast, NOS  C50.9  3/19/11 JL
+NOTTINGHAM SCORE:            Nuclear grade: 2
+                             Tubule formation: 3
+                             Mitotic activity score: 1
+                             Total Nottingham score: 0
+                             Nottingham grade (1, 2, 3): 2
+ANGIOLYMPHATIC INVASION:     No
+DERMAL LYMPHATIC INVASION:   Not applicable
+CALCIFICATION:              Yes, malignant zones
+TUMOR TYPE, IN SITU:        Cribriform
+                            Solid
+                            DCIS Admixed with invasive carcinoma
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+                            No
+                            Distance of invasive tumor to closest margin: 4 mm
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+                            No
+LYMPH NODES POSITIVE:       0
+LYMPH NODES EXAMINED:       2
+METHOD(S) OF LYMPH NODE EXAMINATION:
+                            H/E stain                                            UUID:EB&A92D-AB51-4D36-B7BD-37205352148
+SENTINEL NODE METASTASIS:                                                        TCGA-BH-ABDE-01A-PR           Redacted
+NON-NEOPLASTIC BREAST TISSUE: Papilloma
+T STAGE, PATHOLOGIC:        pT2
+N STAGE, PATHOLOGIC:        pN0
+M STAGE, PATHOLOGIC:        pMX
+ESTROGEN RECEPTORS:         positive
+PROGESTERONE RECEPTORS:     positive
+HER2NEU:                    zero or 1-
+
+[BARCODE appears in image]
+
+[Small table/form visible at bottom right with some handwritten entries and date 3/19/11]

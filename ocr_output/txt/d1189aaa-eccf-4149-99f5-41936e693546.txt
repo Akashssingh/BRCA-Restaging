@@ -1,0 +1,41 @@
+=================================== PAGE 1 ===================================
+/CD-0-3
+                                        Carcinoma, infiltrating ductal, NOS  85003/3
+
+                                Path   Site: Breast, central C50.1      12/11
+                                              portion                           Acc
+
+                                CGLF   Site: Breast, NOS  C50.9
+
+
+Diagnosis:
+1. Ablated breast sample with a bifocal poorly differentiated invasive ductal
+carcinoma (first tumor is poorly differentiated with a tumor diameter of 2.3 cm and a
+distance from the resection margins of 2.2 cm cranially, 2.5 cm dorsally, 3 cm
+laterally and caudally, and 5 cm medially; the second tumor is moderately
+differentiated, measuring 2 cm, with a distance from the resection margins of less
+than 0.1 cm dorsally, 0.2 cm caudally, 1.5 cm laterally, 3.5 cm cranially, and 7 cm
+medially) with focal intraductal components.
+
+In conjunction with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G II, pT2N2aL1V0R0.
+
+
+
+
+
+                                                                          Redacted
+                                    UUTD:3F5GTCAF-BB16-4AB8-A9A1-A5E93F837320
+                                         TCGA-AR-A0B7-01A-DR
+                                    [BARCODE IMAGE]
+
+
+                                             Criteria                    Yes     No
+                                    Diagnosis Discrepancy                        X
+                                    Consultation Set Discrepancy                 X
+                                    HIPAA Discrepancy                            X
+                                    Prior Malignancy History                     X
+                                    Pathology Report: Not Found                  X
+                                    Previous Clinical Indication                 X
+                                    Care Segment:      QUALIFIED  /  DISQUALIFIED
+                                    Results:           Data Released

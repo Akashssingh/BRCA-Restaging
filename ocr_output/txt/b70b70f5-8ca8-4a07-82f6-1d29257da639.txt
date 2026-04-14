@@ -1,0 +1,221 @@
+=================================== PAGE 1 ===================================
+TSS
+
+SPECIMENS:
+A. SUBAREOLAR TISSUE RIGHT BREAST
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+D. SENTINEL LYMPH NODE #3 RIGHT AXILLA
+E. SENTINEL LYMPH NODE #4 RIGHT AXILLA
+F. RIGHT BREAST
+G. LEFT BREAST SKIN
+
+SPECIMEN(S):
+A. SUBAREOLAR TISSUE RIGHT BREAST
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+D. SENTINEL LYMPH NODE #3 RIGHT AXILLA
+E. SENTINEL LYMPH NODE #4 RIGHT AXILLA
+F. RIGHT BREAST
+G. LEFT BREAST SKIN
+
+GROSS DESCRIPTION:
+A. SUBAREOLAR TISSUE RIGHT BREAST
+Received fresh labeled with the patient's identification and 'subareolar tissue right breast' is an oriented
+5 x 4 x 0.5cm oriented fragment of fibrofatty tissue. Suture at final margin (nipple). Final margin is inked
+green; remainder of specimen is inked black. The specimen is serially sectioned and representatively
+submitted in FSA1-FSA2. Representatively submitted in A3-A4.
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+Received fresh labeled with the patient's identification and 'sentinel lymph node #1 right axilla' are two
+tan-pink lymph nodes 1 x 0.8 x 0.5cm and 0.6 x 0.5 x 0.5cm. The specimens are sectioned and two
+touch preps are taken.
+B1: one lymph node
+B2: one lymph node
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+Received fresh labeled with the patient's identification and 'sentinel lymph node #2 right axilla' is a tan-
+pink lymph node 1.2 x 1 x 0.5cm. The specimen is sectioned and a touch prep is taken.
+Toto C1.
+D. SENTINEL LYMPH NODE #3 RIGHT AXILLA
+Received fresh labeled with the patient's identification and 'sentinel lymph node #3 right axilla' is a tan-
+pink lymph node 0.7 x 0.5 x 0.5cm. The specimen is sectioned and a touch prep is taken.
+Toto D1.
+E. SENTINEL LYMPH NODE #4 RIGHT AXILLA
+Received fresh labeled with the patient's identification and 'sentinel lymph node #4 right axilla' is a tan-
+pink lymph node 1.8 x 0.5 x 0.3cm. The specimen is sectioned and a touch prep is taken.
+Toto E1.
+F. RIGHT BREAST
+Received fresh labeled with the patient's identification and "left breast" is a 222g, 18.5 x 16 x 2.3cm
+oriented (stitch in axilla) simple mastectomy with attached 4.3 x 2cm tan-pink skin ellipse. The skin
+surface is grossly unremarkable. Ink code: anterior-superior: blue, anterior-inferior: orange, areola-
+green; posterior-black. The specimen is serially sectioned from lateral to medial into 15 slices, revealing
+a 2 x 1.8 x 1.6cm tan-pink, firm, well-circumscribed mass, 0.2cm from the deep margin and 2.4cm from
+the skin surface in the LOQ-LC of slices 6-7. A 0.3 x 0.2 x 0.2cm firm, nodular area is identified, 3.2cm
+from the deep margin and 1.2cm from the anterior-inferior margin of the LC of slices 10-11. The small
+nodule is 2.2cm inferior to the areolar stitch. A portion of the specimen is submitted for tissue
+procurement. Representatively submitted:
+F1: LOQ slice 5
+F2-F3: UOQ slice 6
+F4: LOQ with skin slice 6
+F5-F6: mass with deep margin LOQ slice 6
+F7: UOQ slice 7
+F8-F9: mass with deep margin LOQ slice 7
+F10: UOQ slice 8
+F11: LOQ slice 8
+F12: UOQ slice 9
+F13: nodule LC slice 10
+
+[Handwritten text at top right]:
+ICb 0-3
+Carcinoma, infiltrating ductal, nos #8043;
+P.M.      Site: breast lower outer quadrant C50.5
+0.00E Site: breast,NOS  C50.9            3/15/11
+                                         [signature]
+
+UUTD:A5146588-F929-4AA8-9451-296A0837ACC1      Redacted
+TCGA-E2-A1LS-01A-PR
+[BARCODE]
+
+=================================== PAGE 2 ===================================
+TSS
+
+F14-F15: subareolar UC slice 10
+F16: subareolar stitch UIQ slice 11
+F17: nodule LIQ slice 11
+G. LEFT BREAST SKIN
+Received in formalin labeled with the patient's identification and 'left breast skin' are two unoriented tan-pink fragments of unremarkable skin 3.2 x 1.8 x 0.4cm and 6.5 x 3 x 0.5cm. The specimens are serially sectioned and representatively submitted in G1.
+
+DIAGNOSIS:
+A. BREAST, RIGHT, SUBAREOLAR, EXCISION:
+- INTRADUCTAL PAPILLOMA (0.3-CM), NO TUMOR SEEN.
+
+B. LYMPH NODES, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- TWO LYMPH NODES, NEGATIVE FOR METASTASES (0/2).
+
+C. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+D. LYMPH NODE, SENTINEL #3, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+E. LYMPH NODE, SENTINEL #4, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+F. BREAST, RIGHT, MASTECTOMY:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, MEASURING 1.8 CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID TYPE WITH LOBULAR
+EXTENSION
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- LOBULAR CARCINOMA IN SITU
+- BIOPSY SITE CHANGES WITH FIBROSIS
+- TWO RADIAL SCARS
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+
+G. SKIN, LEFT BREAST, EXCISION:
+- SKIN AND SUBCUTANEOUS SOFT TISSUE, NO TUMOR SEEN.
+
+NOTE: In addition to the tumor mass, 2 radial scars and one area of usual ductal hyperplasia without
+atypia are seen in the lower inner, upper inner and lower central, respectively.
+
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:       Mastectomy
+Needle Localization: No
+Laterality:     Right
+Invasive Tumor:      Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS  8500/3
+Tumor size:  1.8cm
+Tumor Site:  Lower outer quadrant
+Margins:     Negative
+Distance from closest margin:  0.2cm
+deep
+Tubular Score:       3
+Nuclear Grade:       3
+Mitotic Score:       3
+Modified Scarff Bloom Richardson Grade:      3
+Necrosis:    Absent
+Vascular/Lymphatic Invasion:  None identified
+Lobular neoplasia:   LCIS
+
+=================================== PAGE 3 ===================================
+TSS:
+
+Lymph nodes:        Sentinel lymph node
+Lymph node status:  Negative 0 / 5
+----------------------------------------------------
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity:      Estimate 10%
+DCIS Type: Solid
+DCIS Location:      Associated with invasive tumor
+Nuclear grade:      Intermediate
+Necrosis:    Absent
+----------------------------------------------------
+ER/PR/HER2 Results
+ER: Pending
+PR: Pending
+HER2: Negative by IHC
+Performed on Case:
+----------------------------------------------------
+Pathological staging (pTN):    pT 1c N 0
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+CLINICAL HISTORY:
+Patient with breast cancer at inferior mammary crease; 2nd area of enhancement in lower breast by
+MRI (low suspicion).
+
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer
+
+INTRAOPERATIVE CONSULTATION:
+FSA1-FSA2: Subareolar tissue right breast- Normal breast tissue. No tumor seen. Diagnosis called to
+Dr. at         by Dr..
+TPB1-TPB2-TPC-TPD-TPE: SLN #1-2-3-4 right axilla: Negative for tumor. Diagnosis called to Dr. at
+        by Dr..
+F. Right breast- Gross examination: 2cm mass, 0.2cm from deep margin. Fibrotic area at subareolar
+region. No definite mass. Diagnosis called to Dr. at        by Dr..
+
+ADDENDUM:
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen:   Surgical Excision
+Block Number:       F9
+-------------------------------------------------------------------------
+ER: Negative   Allred Score:   0 = Proportion Score 0  +  Intensity Score 0
+PR: Negative   Allred Score:   0 = Proportion Score 0  +  Intensity Score 0
+-------------------------------------------------------------------------
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by                         following the manufacturer s instructions. This
+assay was not modified.  interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+
+Gross Dictation:.
+Microscopic/Diagnostic Dictation:
+Final Review: Pathologist.
+Final: Pathologist.
+
+=================================== PAGE 4 ===================================
+TSS:
+
+Addendum: Pathologist.
+Addendum Final: Pathologist.
+
+[THIS IS TABLE: A table with three columns labeled "Criteria", "Yes", and "No". The visible rows include:
+- Diagnosis Discrepancy
+- Specimen Labeling Discrepancy
+- MiPAA Discrepancy
+- Prior Malignancy History
+- CLIA/Cytogenetics Review Noted
+- Date to (noted) [?] with some handwritten marks and "MPHN 1107" visible
+- Adverse Occurrence [?] with handwritten marks]

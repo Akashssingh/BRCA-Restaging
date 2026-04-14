@@ -1,0 +1,44 @@
+=================================== PAGE 1 ===================================
+ICL-0-3   Carcinoma, medullary, NOS   8510/3
+                                Site: breast NOS  C50.9      Acc  3/24/11
+
+PATIENT HISTORY:
+  DATE OF LMP: *                                    Procedure Date:
+  DATE OF LAST DELIVERY: *
+  PRE-OP DIAGNOSIS: LEFT BREAST MASS
+  POST-OP DIAGNOSIS: SAME
+  OPERATIVE PROCEDURE: L SEGMENTAL MASTECTOMY WITH AXILLARY NODE DISSECTION
+  CLINICAL HISTORY: *
+  MATERIAL SUBMITTED: A) LEFT SEGMENTAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE
+  B) LEFT AXILLA, PROCUREMENT BY SURGICAL PROCEDURE
+  INTRAOPERATIVE CONSULTATION:
+  FROZEN SECTION: Left breast segmental biopsy: Firm mass, 2.0 by 2.0 by 1.5 cm, 0.3 cm from anterior margin.
+  FS Diagnosis: Infiltrating carcinoma, poor nuclear grade, with lymphocytic component. Rule out medullary
+  carcinoma. ER/PR taken. [REDACTED]
+
+
+FINAL DIAGNOSIS:
+FINAL DIAGNOSIS:
+[REDACTED]
+A&B#3: LEFT BREAST, SEGMENTAL MASTECTOMY:
+ - MEDULLARY CARCINOMA, 2.0 CM.
+ - MARGIN FREE OF TUMOR IN PLANES OF SECTION
+ - NO ANGIOLYMPHATIC OR PERINEURAL INVASION SEEN
+B) LEFT AXILLARY CONTENTS:
+ - TWELVE (12) LYMPH NODES FREE OF TUMOR
+
+
+                                        UUID:E18B54CF-E9B6-4C3F-B467-F9A75E16ABDC
+                                        CCA-MN-A2B9-01A-PH           Redacted
+                                        [BARCODE]
+
+
+Criteria                                                Yes      No
+Diagnosis Duplicating                                             √
+Gross-only/Brief Duplicating                                      √
+HIPAA Duplicating                                                 √
+Prior Malignancy History                                          √
+Dual Synchronous Primary Tumor                                    √
+Case Tracked:       √  Changed    /   Unchanged       
+Section Coded:  [signature] Surge Reviewed:  [initials]
+                        Date:   3/24/11

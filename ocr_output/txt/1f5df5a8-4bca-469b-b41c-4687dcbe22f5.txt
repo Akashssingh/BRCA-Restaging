@@ -1,0 +1,71 @@
+=================================== PAGE 1 ===================================
+ICb-8-3
+                                                    Carcinoma, infiltrating, ductal, pos §§0a/3
+                                                    Site bract, nos    C50.9    2/1/1.    fu
+
+
+
+
+                                                                                page 1 / 1
+
+
+                           Department of Cancer Pathology
+                                                                                Copy No.
+                                                                                Date:
+
+                                _______________________________________________________________
+
+
+                           Examination: Histopathological examination
+
+Internal invoice No.                    Cost of diagnostic procedure         Examination No.:
+
+Patient: XXX                            PESEL: XXX              Age:         Gender: F
+
+Material: Multiple organ resection – right breast
+Unit in charge:
+Physician in charge:
+Material collected on:                  Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Right breast with tumour and right axillary lymphnodes
+
+Examination performed on:
+
+Macroscopic description:
+Right breast sized 21.4 x 16.5 x 5.4 cm removed along with axillary tissues sized 7 x 9 x 3 cm. Weight 920 g.
+Lesion sized 3 x 3.3 x 2.1 cm on the boundary of outer quadrants, 3 cm away from the lower boundary, 0.5
+cm from the base and 2.9 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum – NHG3 (3 + 3 +2: 26 mitoses/10 HPF, visual area diameter 0.55 mm).
+Invasio carcinomatosa vasorum massiva. Reactio lymphocytaria peritumoralis.
+Mamilla sine laesionibus.
+Glandular tissue showing parenchyma atrophy.
+Axillary lymph nodes:
+Metastases carcinomatosae in lymphonodis (No III/XI).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the left breast
+Metastases carcinomatosae in lymphonodis axillae (No III/XI). Cancer metastases in axillary lymph nodes (No
+III/XI)
+(NHG3, pT2, pN1a).
+
+                                                    Compliance validated by:
+Examination performed on:
+
+
+UUID:9479S4F1-4C8A-4203-9982-68E6E44E5239                     Criteria                                   Yes
+         TCGA-OB-A13M-01A-PR           Redacted               Diagnostic Discrepancy
+                                                              Tumor or Lymph Node Discrepancy
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||       pTNM Discrepancy
+                                                              Stage or Primary Site Discrepancy
+                                                              DATA ELEMENTS PROPERLY NAMED
+                                                              CASE IDENTIFIED / QUALIFIED           / DISQUALIFIED
+                                                              Reason Disqualified:
+                                                                                            2/11/11
+
+=================================== PAGE 2 ===================================
+Results of immunohistochemical examination:
+Estrogen receptors found in less than 10% of neoplastic cell nuclei. No progesterone receptors
+found in neoplastic cell nuclei. HER2 protein stained with HercepTestTM by DAKO. Negative
+reaction in invasive cancerous cells ( Score = 1+ )
+
+Compliance validated by: .

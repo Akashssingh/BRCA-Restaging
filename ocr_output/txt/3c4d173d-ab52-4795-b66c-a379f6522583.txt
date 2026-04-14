@@ -1,0 +1,148 @@
+=================================== PAGE 1 ===================================
+TSS
+
+SPECIMENS:
+A. SENTINEL LYMPH NODE LEFT AXILLA
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+C. WIDE LOCAL EXCISION LEFT BREAST
+
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA:
+   -ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA:
+   -ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+C. WIDE LOCAL EXCISION, LEFT BREAST:
+   -INVASIVE AND IN-SITU DUCTAL CARCINOMA, SBR GRADE II/III WITH
+   EXTENSIVE NECROSIS AND CANCERIZATION OF LOBULES, SEE TEMPLATE
+
+Invasive Breast Cancer Template
+
+INVASIVE TUMOR:
+Histologic type:      ductal
+Tumor Size (cm): 2.5 cm
+Size of Invasive Focus: 2.5 cm
+Grade, Histologic: 3
+Grade, Nuclear:    3
+Mitoses            3
+Scarff Bloom Richardson grade: III
+Necrosis: present
+Invasion Vasc/Lymphatic:    absent
+
+DCIS component
+DCIS Quantity:     <25%
+DCIS Type: Clining
+DCIS Location: outside main mass: diffuse
+Nuclear grade: high
+Necrosis: absent
+
+Margins: DCIS present within 1 hgf of lateral and 1 mm of deep and medial margins
+
+Lymph nodes:      Negative (0/2)
+
+Stage, Pathology : T2N1
+
+Hormone receptor status (by IHC): ER & PR: PENDING
+HERCEPTEST (by IHC): Pending
+
+Pathologist
+Electronically signed
+
+
+ADDENDUM
+
+Case #
+Patient:
+
+The ER/PR/HER2 status of the invasive breast carcinoma was determined by immunohistochemistry
+and quantitated via ACIS (image analysis). Results are as follows:
+
+ER      0%
+
+[Handwritten notes at top right:]
+ICD-0-3
+Carcinoma infiltrating ductal, NOS  8504/3
+Site: breast, NOS C50.9  2/5/1 [signature]
+
+[Barcode visible in image]
+UUD:D343198E-2238-4BE3-01E5-A383C768B09A
+TCGA-E2-A1L7-01A-DR     Redacted
+
+=================================== PAGE 2 ===================================
+TSS:
+
+PR    0%
+
+HER2  2.3 (borderline)
+
+A separate ACIS report has been generated.
+
+NOTE: FISH analysis for HER2 gene amplification has been ordered.
+
+
+Pathologist
+Electronically signed
+
+
+Addendum
+
+Fluorescence in situ hybridization (FISH) for Her-2 gene amplification.
+Her-2/neu gene: Not amplified
+Ratio of Her-2/neu to CEP17: 1.21
+
+The assay is performed on formalin fixed, paraffin embedded section using Her-2 DNA probe kit from
+Vysis. The quality of the fluorescence signals and tissue section is adequate for analysis. The signals of
+both Her-2 and CEP17 are counted in 60 invasive tumor nuclei. The Her-2 gene is considered amplified
+when the ratio of Her-2 to CEP17 signal is >2.0.
+
+
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE LEFT AXILLA B. SENTINEL LYMPH NODE #2 LEFT AXILLA C. WIDE
+LOCAL EXCISION LEFT BREAST
+
+CLINICAL HISTORY:
+None
+
+FROZEN SECTION DIAGNOSIS:
+A. SENTINEL LYMPH NODE LEFT AXILLA
+Touch prep: No tumor seen by Dr.
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+Touch prep: No tumor seen by Dr.
+
+GROSS DESCRIPTION:
+A.  SENTINEL LYMPH NODE LEFT AXILLA
+Received fresh is a 1x0.8x0.5cm. lymph node. It is bisected and touch prep done. Specimen entirely
+submitted for permanent section.
+B.  SENTINEL LYMPH NODE #2 LEFT AXILLA
+Received fresh is sentinel lymph node left axilla measuring 0.7x0.5x0.4cm. It is bisected and touch prep
+done. Submitted in toto in cassette B for permanent section.
+C.  WIDE LOCAL EXCISION LEFT BREAST
+Received fresh is an oriented portion of breast tissue measuring 6x5.5x2.7cm. Sectioning shows a well
+circumscribed tan nodular tumor mass measuring 2.5x1.8x1cm. It closely approaches the superior
+posterior medial margin. Specimen is inked as follows: superior red, inferior orange, medial green,
+lateral yellow, posterior black. Tumor tissue and normal tissue given for tissue procurement and tumor
+sent for flow cytometry. Representative sections submitted in seventeen cassettes.
+
+Gross Dictation: Pathology Fellow,
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist.
+Final: Pathologist
+Addendum: Pathologist
+Addendum Review: Pathologist
+Addendum Final: Pathologist
+
+=================================== PAGE 3 ===================================
+TSS:
+
+Addendum: Pathologist, 1
+Addendum Review: Pathologist,
+Addendum Final: Pathologist
+
+[THIS IS TABLE: A checklist or form with "Others" as header and multiple rows with "Yes" and "No" columns. Most entries are partially illegible, but include items like:
+- Clinical Discrepancy
+- Blocks Frozen And Sent
+- Blocks Returned to Depart
+- P-O: MLF/Brace Mollify
+- Add Block (Correct Block Taken)
+- Clinical Photography Not Available
+- Possible PSE
+Some rows have signatures or markings. The table includes date notations "19/07/2017"]

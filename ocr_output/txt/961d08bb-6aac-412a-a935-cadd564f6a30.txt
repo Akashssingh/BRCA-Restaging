@@ -1,0 +1,165 @@
+=================================== PAGE 1 ===================================
+UUIO-SDFA7978-3F48-4FC3-8284-5AAZE866ECC3                    MLF - PERSONAL DATA - PRIVACY ACT OF 1974
+TCGA-A2-AADL-01A-PR                           Redacted
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+                                                            SURGICAL PATHOLOGY REPORT
+
+Patient:
+FMP/SSN:
+DOB/Age/Sex:                                                                     Specimen #:
+Location:                               ♀ Race: WHITE
+Physician(s):                                                                    Taken:
+                                                                                 Received:
+                                                                                 Reported:
+
+                                        **AMENDED**                              /0-1-0-3
+SPECIMEN:                                                                        Carcinoma, infiltrating duct μι
+A: SENTINEL NODE #1 B: ADDITIONAL LYMPH NODE                                    9-5-09/3
+C: SENTINEL LYMPH NODE #2 D: LEFT BREAST LUMPECTOMY
+E: FIBROUS TISSUE AT SUP-LAT MARGIN                                             Site: breast NOS CS0.9
+
+===================================================================
+FINAL DIAGNOSIS:                                                                /12th /0/
+                                                                   =========
+A. LYMPH NODE, SENTINEL #1, EXCISION:
+   TWO BENIGN LYMPH NODES, NO MALIGNANCY IDENTIFIED.
+
+B. LYMPH NODE, "ADDITIONAL," EXCISION:
+   - NO LYMPH NODE IDENTIFIED. FIBROADIPOSE TISSUE ONLY.
+
+C. LYMPH NODE, SENTINEL #2, EXCISION:
+   - ONE BENIGN LYMPH NODE, NO MALIGNANCY IDENTIFIED.
+
+D. BREAST, LEFT, LUMPECTOMY:
+   TUMOR TYPE: INFILTRATATING DUCTAL CARCINOMA WITH NEUROENDOCRINE
+   FEATURES.
+   NOTTINGHAM GRADE: POORLY DIFFERENTIATED (G3).
+   NOTTINGHAM SCORE: 8/9
+   (Tubules= 3, Nuclei= 3, Mitoses= 2; mitotic count 8 per 10 HPF at
+   20x power-0.50 field diameter)
+   TUMOR SIZE (GREATEST DIMENSION): 3.0 CM (measured grossly)
+   TUMOR NECROSIS: ABSENT.
+   MICROCALCIFICATIONS: ABSENT.
+   VENOUS / LYMPHATIC INVASION: NOT IDENTIFIED.
+   MARGINS:
+   -DISTANCE OF INVASIVE TUMOR FROM NEAREST MARGIN IS 0.5 CM, FROM
+   INFERIOR MARGIN.
+   INTRADUCTAL COMPONENT: DUCTAL CARCINOMA IN SITU, SOLID TYPE, LOW
+   NUCLEAR GRADE.
+   LYMPH NODES: THREE NEGATIVE FOR TUMOR (see specimens A and C)
+   MULTICENTRICITY: NOT IDENTIFIED.
+   ESTROGEN RECEPTORS: NEGATIVE.
+   PROGESTERONE RECEPTORS: NEGATIVE. (see specimen
+   HER 2 NEU by IHC: POSITIVE. (see specimen
+                                (see specimen
+
+                                                Page 1
+                         FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974        Continued on Next Page
+
+=================================== PAGE 2 ===================================
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+
+SURGICAL PATHOLOGY REPORT
+
+Patient:
+                                                    Specimen #:
+FINAL DIAGNOSIS (continued):
+
+     PATHOLOGIC STAGE: pT2 NO Mx
+     ADDITIONAL PATHOLOGIC CHANGES: BENIGN INTRADUCTAL PAPILLOMA.
+B. SOFT TISSUE, "FIBROUSE TISSUE AT SUPERIOR-LATERAL MARGIN," EXCISION:
+   - BENIGN BREAST TISSUE, NO MALIGNANCY IDENTIFIED.
+
+                    ** Report Electronically Signed Out **
+
+================================================================================
+
+CLINICAL DIAGNOSIS AND HISTORY:
+                -year-old female with diagnosis of left breast cancer.
+GROSS DESCRIPTION:
+A. Received fresh, labeled with the patient's name,
+designated "SENTINEL NODE #1" is a 3.0 x 1.5 x 0.5 cm irregular portion of
+soft tissue. Sectioning reveals a 1.0 x 1.0 x 0.5 cm pink-tan lymph node.
+The lymph node is bisected. One half of the lymph node is submitted in
+OCT for CBCP protocol, and the remainder is submitted for permanent.
+2C2 .
+
+B. Received in formalin, labeled with the patient's name,
+   , designated "ADDITIONAL LYMPH NODE" is a single, tan-brown
+fragment of soft tissue measuring 1.0 cm in greatest dimension. The
+specimen is submitted in its entirety in one cassette. 1C1 .
+
+C  Received in formalin, labeled with the patient's name, .
+   designated "SENTINEL LYMPH NODE #2" is a lobulated fragment of
+yellow, adipose tissue measuring 1.5 x 2.0 x 0.3 cm. The specimen is
+bisected to reveal one lymph node measuring 0.7 cm in greatest dimension.
+The specimen is submitted entirely in one cassette. 1C2
+
+D. Received fresh, labeled with the patient's name,
+designated "LEFT BREAST LUMPECTOMY" is a globoid portion of soft tissue
+oriented with the short stitch superior and long stitch lateral. The
+specimen measures 9.0 cm medial to lateral, 7.5 cm anterior to posterior,
+and 4.0 cm superior to inferior. The lightly pigmented superficial skin
+ellipse measures 6.5 x 1.0 cm and is otherwise unremarkable. The specimen
+is inked as follows: superior = gold, inferior = green, medial = red,
+lateral = yellow, anterior = orange, and posterior = black. Serial
+
+Page 2                                      Continued on Next Page
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+
+=================================== PAGE 3 ===================================
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+
+
+SURGICAL PATHOLOGY REPORT
+
+Patient:
+                                                        Specimen #:
+GROSS DESCRIPTION (continued):
+
+sections reveal a firm, very well circumscribed, centrally located,
+pink-white mass measuring 3.0 x 2.6 x 2.2 cm. The mass approaches the
+margins as follows: superior and inferior 0.7 cm, posterior 0.8 cm, and
+medial 1.4 cm. The remainder of the cut surface is composed of lobulated,
+yellow-tan, adipose tissue admixed with a moderate amount of tan-white,
+fibrous tissue. No additional lesions are identified. Representative
+sections are submitted as follows:
+
+Cassette Summary:
+
+D1-D2: Mass.
+D3: Adjacent normal.
+D4-D5: Additional mass.
+D6-D7: Adjacent to mass.
+D8: Additional mass, same section as D4.
+D9: Skin.
+D10: Additional firm, fibrous tissue. 10CF
+
+The specimen was placed in formalin at
+formalin for a total of approximately 28 hours. The specimen will be in
+
+E. Received in formalin, labeled with the patient's name,
+designated "FIBROUS TISSUE AT SUPERIOR-LATERAL MARGIN" is a
+fragment of yellow-white, fibrous tissue and adipose tissue measuring 3.7
+x 2.0 x 0.8 cm. Representative sections are submitted entirely in three
+cassettes. 3C3
+
+
+
+
+[Table at bottom right with checkmarks in various boxes]
+Criteria
+Diagnosis Discrepancy                     Yes      No
+Primary Tumor Size Discrepancy                     ✓
+Lymph Node Discrepancy                             ✓
+Prior Malignancy History
+Quality/Completeness Deficiency
+Case is [unclear]         [signatures]
+Reviewer Initials         [signatures]
+
+
+Page 3
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974        End of Report

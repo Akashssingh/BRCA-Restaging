@@ -1,0 +1,73 @@
+=================================== PAGE 1 ===================================
+Criteria    [checkmark]  5/24/11      Yes      No
+                                                                                                    Diagnosis Discrepancy                           [checkmark]
+                                                                                                    Bivalve Tumor Site Discrepancy                  [checkmark]
+                                                                                                    HIPAA Discrepancy                               [checkmark]
+ICD-0-3                                                                                             Tumor ID Discrepancy                            [checkmark]
+Carcinoma, infiltrating duct, NOS    8500/3                                                        Dual/Synchronous Prim grp assoc.                [checkmark]
+                                                                                                    Case W ERROR           QUALIFIED / DISCUALIFED
+Site: breast, NOS    C50.9           [signature]                                                   Signature 100          [signature]  Date Reviewed 5/24/11
+                                         5/24/11
+
+DIAGNOSIS
+
+(A) RIGHT AXILLARY SENTINEL LYMPH NODE #1, BIOPSY:
+    One lymph node, no tumor present (0/1). (See Comment)
+(B) RIGHT BREAST, SEGMENTAL MASTECTOMY:
+    INVASIVE DUCTAL CARCINOMA, INTERMEDIATE NUCLEAR GRADE. (SEE COMMENT)
+    INVASIVE TUMOR MEASURES 1.6 CM IN THE LARGEST DIMENSION.
+    No definite lymphovascular invasion identified.
+    ASSOCIATED DUCTAL CARCINOMA IN SITU (DCIS), INTERMEDIATE GRADE, SOLID AND CRIBRIFORM TYPES
+    WITH FOCAL NECROSIS, COMPRISING LESS THAN 10% OF TUMOR AND FOCALLY EXTENDING INTO
+    ADJACENT BREAST TISSUE.
+    Focal fibrosis and hemosiderin deposition consistent with previous biopsy procedure.
+    Tumor does not approach surgical margins.
+
+Entire report and diagnosis completed by I
+
+COMMENT
+
+Although the invasive tumor appears otherwise to be of low nuclear grade, scattered mitotic figures are readily identified.
+There is some prominent retraction artifact, making assessment of lymphovascular invasion difficult. No definite lymphovascular
+invasion is identified. The tumor has a central area of sclerosis comprising approximately 20% of the tumor. This is not as
+prominent as in the tumors described as "centrally necrotizing carcinomas" or "carcinomas with large central acellular zones," but
+the clinical significance is unclear.
+    Immunostains for keratin performed on the sentinel lymph node (blocks A1-A2) are negative.
+    Tumor marker studies were reported previously (see
+
+                                                                             UID: CYGA-004P; CLIA#: 04519-OMFJ34970485F
+                                                                             TCGA-GM-A2DK-01A-FR           Redacted
+                                                                             [BARCODE]                     Print
+
+GROSS DESCRIPTION
+
+(A) SENTINEL LYMPH NODE #1, BLUE, EX VIVO 110, IN VIVO 105 - A single lymph node (1.0 x 1.0 x 0.6 cm). The specimen
+is serially sectioned and entirely submitted in A1-A2.
+(B) RIGHT SEGMENTAL MASTECTOMY, SHORT STITCH SUPERIOR, LONG STITCH LATERAL, PURPLE INK DEEP
+MARGIN - An oriented right segmental mastectomy specimen (6.0 x 6.0 x 5.0 cm). The specimen is oriented with a short stitch
+superior, long stitch lateral, and purple ink at the deep margin. Attached to the specimen is an unremarkable ellipse of skin (3.5 x
+1.5 cm).
+    The specimen is serially sectioned sequentially from lateral to medial into 10 slices. In the middle portion of the specimen,
+centrally located in the slices, a solid white firm lesion (1.5 x 1.3 cm) is present approximately 1.5 cm from the superior margin, 1.5
+cm from the inferior margin, 1.0 cm from the superficial margin, and 2.5 cm from the deep margin.
+The remainder of the specimen appears grossly unremarkable.
+    INK CODE: Superior - blue, inferior - green, superficial - yellow, medial and lateral - red, and deep - black.
+    SECTION CODE: B1, tumor; B2, skin and superficial; B3, superior margin; B4, inferior margin; B5, deep margin; B6, B7,
+tumor; B8, adjacent to the tumor, more medial; B9, adjacent to the tumor, more lateral; B10, B11, representative sections,
+perpendicular, most lateral aspect; B12, B13, representative sections, perpendicular, most medial aspect.
+
+CLINICAL HISTORY
+
+Right breast cancer.
+
+SNOMED CODES
+
+04050, M-85003
+
+"Some tests reported here may have been developed and performance characteristics determined by
+    These tests have not been specifically cleared or approved by the U.S. Food and Drug Administration."
+
+=================================== PAGE 2 ===================================
+Released by: ***
+
+------END OF REPORT------

@@ -1,0 +1,170 @@
+=================================== PAGE 1 ===================================
+UUID:2697E286-725C-438E-B4D3-3E32DFE86FD6
+                                    TCGA-LL-A9Q3-01A-PR                Redacted
+                                    [BARCODE IMAGE]
+
+RUN DATE:                                                                                    PAGE 1
+RUN TIME:
+RUN USER:
+
+PATIENT: [REDACTED]                      ACCT #: [REDACTED]    LOC:  [REDACTED]    [REDACTED]
+                                        AGE/SX:        F          ROOM: [REDACTED]    [REDACTED]
+REG DR: [REDACTED]                       DOB:                      BED:
+                                        STATUS:
+
+SPEC #: [REDACTED]       RECD:                  STATUS:           PERFORMED AT: [REDACTED]
+                        COLL:                  TIME IN FORMALIN: 3:56      hrs.
+                                              COLD ISCHEMA TIME: 0:00      mins.
+
+CLINICAL INFORMATION:
+    Pre-Op Diagnosis:
+        Remarks:
+            Specimen(s): Left modified radical mastectomy - stitch at axilla
+                                                        ICDO-3
+                         Carcinoma, infiltrating Intraduct NOS 8520/3
+MICROSCOPIC DIAGNOSIS                Site: © Yreast, NOS C50.9
+                                                cy 4/13/14
+LEFT BREAST, MODIFIED RADICAL MASTECTOMY:
+    -   INFILTRATING LOBULAR CARCINOMA, PLEOMORPHIC TYPE
+    -   MODIFIED NOTTINGHAM HISTOLOGIC GRADE 2 OF 3; NUCLEAR SCORE 2 OF 3, TUBULAR
+        FORMATION SCORE 3 OF 3, MITOTIC SCORE 1 OF 3 (THREE MITOTIC FIGURES PER SQUARE
+        MILLIMETER)
+    -   TUMOR MEASURES 10 CM AND EXHIBITS EXTENSIVE LYMPH-VASCULAR INVASION
+    -   SURGICAL MARGINS FREE OF TUMOR WITH NEAREST MARGIN 0.3 CM FROM TUMOR, INFERIOR
+        MARGIN
+    -   METASTATIC LOBULAR CARCINOMA PRESENT IN 28 OF 28 AXILLARY LYMPH NODES, 5 CM
+        GREATEST DIMENSION WITH EXTRACAPSULAR EXTENSION
+    -   SEE COMMENT FOR SYNOPTIC REPORT
+
+
+COMMENT(S)
+
+CAP APPROVED SURGICAL PATHOLOGY CANCER CASE SUMMARY: INVASIVE CARCINOMA OF THE BREAST
+
+PROCEDURE:                                      Total mastectomy (including nipple and skin)
+LYMPH NODE SAMPLING:                            Axillary dissection
+SPECIMEN LATERALITY:                            Left
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:          Invasive lobular carcinoma
+TUMOR SIZE:                                     Size of largest invasive carcinoma
+                                               Greatest dimension of largest focus of
+                                               invasion > 1 mm: 10 cm
+HISTOLOGIC GRADE:                               Glandular/tubular differentiation: Score 3
+                                               Nuclear pleomorphism: Score 2
+                                               Mitotic rate: Score 1
+                                               Overall grade: Grade 2
+TUMOR FOCALITY:                                 Single focus of invasive carcinoma
+DUCTAL CARCINOMA IN SITU:                       No DCIS is present
+MARGINS:                                        Invasive carcinoma: Margins uninvolved by
+                                               invasive carcinoma
+                                               Distance from closest margin: 0.3 cm, inferior
+
+                            ** CONTINUED ON NEXT PAGE **
+
+=================================== PAGE 2 ===================================
+RUN DATE:                                                                      PAGE 2
+RUN TIME:                           Specimen Inquiry
+RUN USER:                           Lab Database:
+
+SPEC #: -                    PATIENT:                                    (Continued)
+
+
+COMMENT(S)                         (Continued)
+
+LYMPH NODES:                                Number of lymph nodes examined: 28
+                                            Number of lymph nodes with macrometastases: 28
+PATHOLOGIC STAGING:                         Primary tumor: pT3
+                                            Regional lymph nodes: pN3a
+                                            Distant metastasis: Not applicable
+ANCILLARY STUDIES:                          Estrogen receptor: Positive (100% of tumor
+                                            cells with nuclear positivity)
+                                            Progesterone receptor: Positive (2% of tumor
+                                            cells with nuclear positivity)
+                                            Immunoperoxidase studies: Positive
+
+
+GROSS DESCRIPTION:
+Received fresh for tissue banking, labeled with the patient's name and "left modified
+radical mastectomy" is a 1758 gram, 28.0 x 25.0 x 6.5 cm fibrofatty breast. The breast is
+received with an 11.0 x 8.5 x 4.0 cm axillary tail consistent with a modified radical
+mastectomy specimen. There is a 22.0 x 9.0 cm tan-white skin ellipse which has a centrally
+located, 5.5 x 4.5 cm ovoid areola and central 1.5 cm nipple. No scars or lesions are
+identified on the skin's surface. The deep fascial margin is smooth with delicate strands
+of fibromuscular muscle. The breast is sectioned to have diffuse, ill defined indurated
+nodularity. This area of indurated nodularity is ill defined and is central to inferior.
+The nodule extends to cover a region which is 10.0 x 7.0 x 7.0 cm. Central within this
+region is a 4.0 x 3.5 x 3.0 cm solid mass. The tumor is sampled for tissue banking from the
+solid mass. The more solid appearing mass is 4 cm from the deep margin; however the
+indurated nodularity is 2.3 cm from the deep margin with focal nodules being 2.0 cm. The
+measurable mass is 3.5 cm from inferior and approximately 11 cm from superior, the mass is
+approximately 9 cm from medial and 9 cm from lateral. There is focal patechial hemorrhage
+associated with the mass and consistent with a previous biopsy. The dense, white-fibrous
+tissue makes up approximately 40% of the parenchyma. The tumor appears to be predominantly
+central and inferior within the breast with finger-like, indurated extensions into each
+quadrant. There are two large lymph nodes present in the upper outer quadrant. The axilla
+is sectioned to have multiple, indurated modular lymph nodes. The largest lymph node is a
+linear 5.0 x 2.0 x 1.0 cm. Representative sections are sampled as labeled:
+     1         -     nipple trisected
+     2         -     on face section of areola
+     3         -     deep margin overlying more solid appearing tumor mass sampled
+     4-7       -     sections of described, solid tumor mass
+     8         -     section of possible tumor extension abutting inked, inferior,
+                     peripheral margin
+     9         -     sections of upper outer quadrant biopsy cavity
+     10        -     sections from upper outer quadrant
+     11        -     lower outer quadrant sampled
+     12        -     upper inner quadrant
+     13        -     lower inner quadrant
+     14-15     -     representative sections of two separate, large axillary lymph nodes
+                     associated with upper outer quadrant
+     16        -     whole lymph nodes
+     17        -     whole lymph nodes
+
+                             ** CONTINUED ON NEXT PAGE **
+
+=================================== PAGE 3 ===================================
+RUN DATE:                                                                PAGE 3
+RUN TIME:                            Specimen Inquiry
+RUN USER:                            Lab Database:
+
+SPEC #:                    PATIENT:                                (Continued)
+
+
+GROSS DESCRIPTION: (Continued)
+18        -    whole lymph nodes
+19        -    whole lymph nodes
+20        -    whole lymph nodes
+21        -    whole lymph nodes
+22        -    one large lymph node sampled
+23-24     -    largest described axillary lymph node sampled
+
+
+INTRAOPERATIVE CONSULTATION:
+IMMEDIATE GROSS EVALUATION, LEFT RADICAL MASTECTOMY:
+    -    LARGE INVASIVE TUMOR. PROCESSED FOR TUMOR BANKING
+    -    SURGICAL MARGINS GROSSLY FREE OF TUMOR
+
+
+        PHOTO DOCUMENTATION
+
+Image
+Image
+Image
+
+Signed ____(signature on file)____
+
+
+
+
+                        ** END OF REPORT **
+
+                                                             ┌──────┬────┬────┬────┐
+                                                             │CIRGEN│ Aw │1/3/19│tm │
+                                                             ├──────┴────┴────┴────┤
+                                                             │Diagnosis Verification│
+                                                             │Primary Code and Discrepancy│
+                                                             │Primary Code Modification│
+                                                             │Prior Malignancy History│
+                                                             │Case/Procedure Tracking│ (DRAFT/ED)│REVIEWED│
+                                                             │Slide Review│REQUIRED│ QUALIFIED│Date Reviewed│
+                                                             │Dictated Date│ Date Reviewed│
+                                                             └──────────────────────────────────┘

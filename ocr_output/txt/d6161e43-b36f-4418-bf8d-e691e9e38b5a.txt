@@ -1,0 +1,131 @@
+=================================== PAGE 1 ===================================
+ICb-0-3
+Carcinoma, infiltrating duct, NOS
+850/3    Inv
+12/8/10
+
+Path  Site Code: breast lower inner quadrant C50.3
+LLCP  Site  breast,NOS  C50.9
+
+TS:
+
+SPECIMENS:
+A. SENTINEL LN #1 LEFT AXILLA
+B. LEFT BREAST MASS
+C. LEFT AXILLARY CONTENTS LEVELS 1,2
+
+SPECIMEN(S):
+A. SENTINEL LN #1 LEFT AXILLA
+B. LEFT BREAST MASS
+C. LEFT AXILLARY CONTENTS LEVELS 1,2
+
+GROSS DESCRIPTION:
+A. SENTINEL LN #1 LEFT AXILLA
+Received fresh is a tan pink firm grossly positive lymph node 1.3 x 0.8 x 0.5cm. Toto A1.
+B. LEFT BREAST MASS
+Received fresh labeled with the patient's identification and "left breast needle localization" is an oriented 27g, 5.5 x 5
+x 3cm needle localized lumpectomy with radiograph. Ink code: anterior-yellow, posterior-black, superior-blue, inferior-
+orange, medial-green, lateral-red. Specimen is serially sectioned from medial to lateral into 7 slices revealing a 2 x
+1.5 x 1.5cm tan pink ill defined mass, closest to anterior margin at 0.4 cm in slices 2-6. A portion of the specimen is
+submitted for tissue procurement. Representatively submitted.
+B1: medial margin slice 1
+B2: mass slice 2
+B3-B5: slice 3
+B6-B9: slice 4
+B10-B12: slice 5
+B13: mass slice 6
+B14-B16: lateral margin slice 7
+C. LEFT AXILLARY CONTENTS LEVELS 1, 2
+Received fresh are multiple tan pink soft tissue fragments aggregating to 5 x 4 x 2cm. Dissection reveals 12 lymph
+nodes ranging from 0.1 x 0.1 x 0.1cm to 1.3 x 1 x 1cm.
+C1: 4 lymph nodes
+C2: 4 lymph nodes
+C3: 3 lymph nodes
+C4: 1 lymph node
+C5-C11: axillary tissue
+
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE 1, LEFT AXILLA, BIOPSY:
+- METASTATIC CARCINOMA (1.3 CM IN SIZE) TO ONE LYMPH NODE
+WITH NO EXTRANODAL EXTENSION (1/1).
+
+B. BREAST, LEFT, NEEDLE LOCALIZATION WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3.
+- TUMOR MEASURES 1.1 CM
+- TUMOR IS 0.3 CM FROM THE ANTERIOR MARGIN.
+- DUCTAL CARCINOMA IN SITU (DCIS), SOLID TYPE, NUCLEAR
+GRADE 3, WITH NECROSIS, MINOR COMPONENT.
+- LOBULAR CARCINOMA IN SITU (LCIS), INVOLVING A RADIAL SCAR.
+- RADIAL SCAR WITH USUAL DUCTAL HYPERPLASIA AND
+MICROCALCIFICATIONS.
+
+C. AXILLARY CONTENTS, LEFT, LEVELS 1 AND 2, DISSECTION:
+- EIGHT LYMPH NODES, NO TUMOR SEEN (0/8).
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:          Excision
+Needle Localization:    Yes
+Laterality:             Left
+Invasive Tumor:         Present
+Multifocality:          No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS  8500/3
+Tumor size:             1.1cm
+
+=================================== PAGE 2 ===================================
+Tumor Site: 9:00
+Margins: Negative
+Tubular Score: 3
+Nuclear Grade: 3
+Mitotic Score: 3
+Modified Scarff Bloom Richardson Grade: 3
+Necrosis: Absent
+Vascular/Lymphatic Invasion: Present
+Lobular neoplasia: LCIS
+Lymph nodes: Sentinel lymph node and axillary dissection
+Lymph node status: Positive 1 / 9
+---------------------------------------------------
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity Estimate 2%
+DCIS Type: Solid
+DCIS Location Associated with invasive tumor
+Nuclear grade: High
+Necrosis: Present
+Location of CA++: Benign epithelium
+---------------------------------------------------
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Positive by FISH
+---------------------------------------------------
+Pathological staging (pTN): pT 1c N 1
+
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number: A1 (lymph node with metastasis)
+---------------------------------------------------
+ER: Positive Allred Score: 8 = Proportion Score 5 + Intensity Score 3
+PR: Positive Allred Score: 8 = Proportion Score 5 + Intensity Score 3
+---------------------------------------------------
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours. Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR 136, 1:100) provided by following the manufacturer s instructions. This assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published results in the medical literature, information provided by the reagent manufacturer and by internal review of staining performance.
+
+CLINICAL HISTORY:
+year-old female with invasive ductal carcinoma of left breast
+
+PRE-OPERATIVE DIAGNOSIS:
+Invasive ductal carcinoma
+
+INTRAOPERATIVE CONSULTATION:
+TPA: SLN #1- Positive for metastatic carcinoma. Diagnosis called to Dr. at 1 by Dr.
+
+Gross Dictation: 1
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+
+[Table at bottom with checkboxes - mostly illegible/marked]

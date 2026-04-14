@@ -1,0 +1,87 @@
+=================================== PAGE 1 ===================================
+TSS ID
+
+TSS ID:                OC ID:                Date of Procurement
+
+Gross Description:
+
+Lump with the tumor of 2.5 x 2.3 cm in size;
+
+lymph nodes are soft, hyperemic, up to 1 cm in their largest dimension.
+
+Microscopic Description:
+
+Infiltrating duct carcinoma ; G2.
+
+Ten dissected lymph nodes demonstrate reactive changes.
+
+Diagnosis Details:
+
+Tumor Features: Unknown, Tumor Extent: T2 tumor size more than 2cm not more than 5 cm, Venous Invasion: Absent,
+Margins: Absent, Treatment Effect:
+
+Comments:
+
+Formatted Path Report:
+
+BREAST TISSUE CHECKLIST                                        ICD-0-3
+                                                               Carcinoma, infiltrating duct, nos  8500/3
+Specimen type: Lumpectomy                                      Site: breast, nos  C50.9      4/8/11
+
+Specimen size: Not specified
+
+Tumor site: Upper outer quadrant
+
+Tumor size: 2.3 x 0 x 2.5 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Infiltrating ductal carcinoma
+
+Histologic grade: Moderately differentiated
+
+Tumor extent: Not specified
+
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+
+Extracapsular invasion of the lymph nodes: Not specified
+
+Margins: Uninvolved
+
+Nottingham Histologic Score
+
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified                            Criteria                               Yes      No
+                                                               Diagnosis by surgery
+                                                               Primary Tumor Site Discrepancy
+                                                               HIPAA Discrepancy
+                                                               Pending Addenda
+                                                               Dual/Second Case Review Request
+                                                               Case in ERROR        ALL OTHERS     DISCOUNTED
+                                                               REJECTED             Date Received
+                                                                                    for 4/8/11
+
+[BARCODE IMAGE]
+UAED:FA25C3C4-E53B-464D-B4CC-3AF7E8305B8C
+TCGA-E9-A1R7-01A-DR                        Redacted
+
+=================================== PAGE 2 ===================================
+TSS IC
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Not specified
+
+Comments: None
+
+
+Laterality:
+
+Right, upper outer quadrant

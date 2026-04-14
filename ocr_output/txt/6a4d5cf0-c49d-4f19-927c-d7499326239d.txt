@@ -1,0 +1,50 @@
+=================================== PAGE 1 ===================================
+UU12:A12BA65-5C4B-864E-9E365A4C8C8
+ICGA-ES-A295-01A-BR                  Redacted
+                                      Medium
+
+Procurement Date:                     Laterality:Right lower outer quadrant
+
+Path Report:BREAST TISSUE CHECKLIST
+                                                                ICD-0-3
+Specimen type: Radical mastectomy                 Carcinoma, lobular NOS  852013
+                                                  Site: breast, NOS  C50.9  
+Specimen size: Not specified                                               5/25/4
+
+Tumor site: Breast                                Criteria               Yes    No
+                                                  One-step Pathology             X
+Tumor size: 4.2 x 4 x 4 cm                       Primary Tumor Site Congruency
+                                                  HIPAA Waiver, COE              X
+                                                  High Tumor/Normal              X
+Grossly evident lesion: Yes                       Dual Ascertainment Target Mailed
+                                                  Tissue/Genomic Target Mailed
+                                                  Early Events            QUANTITY    RECEIVED
+Histologic type: Lobular carcinoma                      [?]               New Evidence
+                                                  Remaining       5/28/14
+Histologic grade: Moderately differentiated
+
+Tumor extent: Skin
+
+Lymph nodes: 0/7 positive for metastasis (Regional 0/7)
+
+Extracapsular invasion of the lymph nodes: Not specified
+
+Margins: Not specified
+
+Nottingham Histologic Score
+
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Not specified
+
+Comments: None

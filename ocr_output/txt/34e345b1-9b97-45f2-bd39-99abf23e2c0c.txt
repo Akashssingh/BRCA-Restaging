@@ -1,0 +1,71 @@
+=================================== PAGE 1 ===================================
+ICA-0-3
+                                                    Carcinoma, infiltrating lobules, NOS 8520/3
+                                                    Site: breast, NOS C50.9
+
+DIAGNOSIS
+                                                                            11/1/12
+(A) LEFT AXILLARY SENTINEL LYMPH NODE #1, BIOPSY:
+    METASTATIC CARCINOMA IN ONE LYMPH NODE.
+    LYMPH NODE METASTASIS MEASURES 7.0 MM IN GREATEST MICROSCOPIC DIMENSION.
+    EXTRANODAL EXTENSION IS PRESENT AND MEASURES 2.0 MM IN GREATEST DIMENSION.
+    CYTOKERATIN IMMUNOSTAINING ON REPRESENTATIVE SECTION CONFIRMS THE PRESENCE OF
+    METASTATIC CARCINOMA.
+(B) LEFT BREAST, MASTECTOMY:
+    INVASIVE LOBULAR CARCINOMA, MODIFIED BLACK'S NUCLEAR GRADE 1-2 (LOW TO INTERMEDIATE
+    GRADE) WITH FOCAL SIGNET RING CELL FEATURES. ≥ 95% signed Avg per test.
+    INVASIVE CARCINOMA INVOLVES AN AREA OF APPROXIMATELY 8.5 CM IN THE LATERAL ASPECT.
+    Definitive lymphovascular invasion is not identified.
+    A SMALL FOCUS OF INVASIVE CARCINOMA IS PRESENT 8.0 MM FROM THE INFERIOR MARGIN.
+    Other resection margins widely free of tumor.
+    Stromal fibrosis, columnar cell change and cysts.
+    Nipple skin with basaloid follicular hamartoma; no carcinoma identified.
+(C) LEFT AXILLARY CONTENTS, DISSECTION:
+    METASTATIC CARCINOMA IN NINE OF TWENTY-ONE LYMPH NODES.
+    LARGEST LYMPH NODE METASTASIS MEASURES 5.0 MM IN GREATEST MICROSCOPIC DIMENSION.
+    Focal extranodal extension is present.
+
+Entire report and diagnosis completed by        UUIO:DB6236156-E271-4859-8F85F8153806
+                                                TCGA-GM-A4EO-01A-PR        Redacted
+                                                [BARCODE IMAGE]
+
+
+GROSS DESCRIPTION
+
+(A) LEFT AXILLARY SLN #1, BLUE IN VIVO 13, EX VIVO 31 - One blue lymph node 3.0 x 2.0 x 0.7 cm. Serially sectioned and
+entirely submitted in A1-A3 for frozen evaluation (A1, suture to hot spot).
+                                *FS/DX: METASTATIC CARCINOMA.
+(B) LEFT BREAST - A total mastectomy specimen 26.0 x 21.0 x 8.5 cm with white-tan skin (26.0 x 17.5 cm and nipple 1.2 cm in
+diameter). The specimen is oriented with stitch at 12 o'clock. The superior margin inked blue, inferior margin inked orange, deep
+margin inked black. The specimen is serially sliced from medial to lateral in twelve slices and nipple at slice #4. An irregular tumor
+8.5 x 4.5 x 2.0 cm is identified in the lateral portion (slice #7-slice #9). The tumor is 2.0 cm to the inferior margin, 5.0 cm to the
+superior margin and 6.0 cm to the deep margin.
+        SECTION CODE: B1, B2, nipple B3, tissue adjacent to the tumor from slice #6; B4-B6, tumor from slice #7 from superior
+to inferior; B7-B12, tumor and margins from slice #8 (B7-B10, tumor from superior to inferior); B11, inferior margin; B12 (deep
+margin); B13-B17, tumor and inferior margin from slice #9, from superior to inferior (B17 including inferior margin); B18, tissue
+adjacent to the tumor from slice #10; B19, representative section from upper inner quadrant including superior margin; B20,
+representative section from lower inner quadrant including inferior margin; B21, fibrous tissue from upper outer quadrant with
+superior margin from slice #5; B22, fibrous tissue from upper outer quadrant with superior margin from slice #6; B23,
+representative section from lower outer quadrant including inferior margin.
+(C) LEFT AXILLARY CONTENTS - Adipose tissue (11.0 x 5.5 x 2.5 cm). Twenty-two lymph nodes are identified, ranging from
+(0.2 x 0.2 x 0.2 cm to 4.5 x 1.5 x 1.0 cm).
+        SECTION CODE: C1-C3, each cassette containing six lymph nodes; C4, three lymph nodes; C5-C9, one lymph node,
+serially sectioned.
+
+NICAL HISTORY                                                           [SIGNATURE TABLE/STAMP]
+
+Left breast cancer.
+
+CONSULTANT(S)
+
+=================================== PAGE 2 ===================================
+SNOMED CODES
+
+T-04050, M-85203, T-C4710, M-85206
+
+*Some tests reported here may have been developed and performance characteristics determined by
+specifically cleared or approved by the U.S. Food and Drug Administration.*
+Released by:
+
+
+------END OF REPORT------

@@ -1,0 +1,42 @@
+=================================== PAGE 1 ===================================
+Icb-6-3
+                                                    Carcinoma, infiltrating duct, NOS  8500/3
+                                    Path    Site Code: breast, upper inner quadrant  C50.2
+                                                                                12/30/14 M
+                                    CQCF  Site: breast, NOS  C50.9
+
+
+
+
+                        Final Diagnosis
+
+Breast, left upper inner quadrant, lumpectomy: Infiltrating ductal carcinoma, with medullary like
+features, Nottingham grade III (of III), [tubules 3/3, nuclei 3/3, mitoses 2/3; Nottingham score
+8/9], forming a 2.7 x 2.5 x 2.0 cm yellow-tan, somewhat circumscribed, sclerotic mass
+[AJCCpT2]. Ductal carcinoma in situ is absent. Angiolymphatic invasion is absent. All surgical
+resection margins, after re-excision of the deep and medial inferior margins, are negative for
+tumor (minimum tumor free margin, 0.8 cm, deep margin).
+
+Lymph node, left axillary, sentinel biopsy: A single (1) left axillary sentinel lymph node is
+negative for tumor, confirmed by cytokeratin (AE1/AE3) immunostains.
+
+ER/PR and Her2/neu have been ordered on paraffin-embedded tissue.
+
+
+
+
+                                                    UUID:BB485405-109C-48C7-9607-BC315DE44694
+                                                    TCGA-AR-A1AW-01A-PR           Redacted
+                                                    [BARCODE]
+
+
+
+
+                                                    Criteria                             Yes    No
+                                                    Diagnosis Discrepancy                       ✓
+                                                    Procedure Code/Site Discrepancy             ✓
+                                                    HIPAA Discrepancy                           ✓
+                                                    Prior Malignancy History                    ✓
+                                                    Specimen Discrepancy Report                 ✓
+                                                    Case id (TCMP)       SHIPPED    UNQUALIFIED
+                                                    Reviewer Initials [signature] Date Received 12/31/14

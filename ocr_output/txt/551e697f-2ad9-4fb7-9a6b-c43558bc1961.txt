@@ -1,0 +1,77 @@
+=================================== PAGE 1 ===================================
+FINAL DIAGNOSIS:
+
+PART 1: BREAST, RIGHT, NEEDLE LOCALIZED SEGMENTAL MASTECTOMY -
+A. INVASIVE DUCTAL CARCINOMA, 2.0 CM (GROSS), NOTTINGHAM GRADE 1 (COMBINED NOTTINGHAM SCORE 4/9: TUBULE FORMATION 1/3, NUCLEAR PLEOMORPHISM 2/3, MITOTIC ACTIVITY 1/3).
+B. DUCTAL CARCINOMA IN SITU (DCIS), NUCLEAR GRADE 2, CRIBRIFORM TYPE, CONSTITUTES APPROXIMATELY 5% OF THE TUMOR VOLUME AND IS ADMIXED WITH THE INVASIVE COMPONENT.
+C. LYMPHOVASCULAR SPACE INVASION IS NOT IDENTIFIED.
+D. MARGINS FREE, CLOSEST ANTERIOR/SUPERIOR WITHIN 0.5 CM.
+E. DUCTAL EPITHELIAL HYPERPLASIA.
+F. FIBROCYSTIC CHANGES.
+G. SCLEROSING ADENOSIS.
+H. COLUMNAR CELL CHANGE.
+I. FIBROADENOMATOID NODULES.
+J. SKIN IS NEGATIVE FOR TUMOR.
+K. BIOPSY SITE CHANGES.
+
+PART 2: LYMPH NODES, RIGHT, SENTINEL #1, BIOPSY -
+A. METASTATIC CARCINOMA (0.4 CM,) INVOLVES ONE OF TWO LYMPH NODES (1/2) (see comment).
+B. EXTRACAPSULAR EXTENSION IS IDENTIFIED, 0.1 CM X 0.07 CM.
+
+PART 3: LYMPH NODE, RIGHT, SENTINEL #2, BIOPSY -
+A. METASTATIC CARCINOMA INVOLVES ONE LYMPH NODE (1/1) (see comment).
+B. EXTRACAPSULAR EXTENSION IS NOT IDENTIFIED.
+
+PART 4: LYMPH NODE, RIGHT, SENTINEL #3, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1) (see comment).
+
+PART 5: BREAST, RIGHT, NEW LATERAL MARGIN, EXCISION -
+A. RADIAL SCAR.
+B. FIBROCYSTIC CHANGES.
+C. SCLEROSING ADENOSIS.
+D. DUCTAL EPITHELIAL HYPERPLASIA.
+E. COLUMNAR CELL CHANGE WITH ASSOCIATED CALCIFICATIONS.
+F. FAT NECROSIS.
+
+CASE 3 SYNOPSIS:
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+
+LATERALITY:                                Right
+PROCEDURE:                                 Segmental
+LOCATION:                                  Not specified
+SIZE OF TUMOR:                             Maximum dimension invasive component: 2 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+                                          Yes
+TUMOR AGGREGATE SIZE:                      Sum of the sizes of multiple invasive tumors: 2.5 cm
+TUMOR TYPE (invasive component):           
+                                          Ductal adenocarcinoma, NOS
+NOTTINGHAM SCORE:                          Nuclear grade: 2                      ICD-0-3
+                                          Tubule formation: 1
+                                          Mitotic activity score: 1      Carcinoma, infiltrating ductal, NOS 8500/3
+                                          Total Nottingham score: 4
+                                          Nottingham grade (1, 2, 3): 1  Site: breast, NOS C50.9   3/3/11 dw
+ANGIOLYMPHATIC INVASION:                   No
+DERMAL LYMPHATIC INVASION:                 No
+CALCIFICATION:                             Yes, benign zones
+                                          Yes, malignant zones
+TUMOR TYPE, IN SITU:                       Cribriform
+                                          DCIS admixed with invasive carcinoma
+                                          Percent of tumor occupied by in situ component: 5 %
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+                                          No
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+                                          No                             UUID:DF931134-3BC7-A3DE-A53C-C83045208D1F
+LYMPH NODES POSITIVE:                      2                              TCGA-BH-A0E1-01A-PR        Redacted
+LYMPH NODES EXAMINED:                      4
+METHOD(S) OF LYMPH NODE EXAMINATION:
+                                          H/E stain, Keratin stain
+SENTINEL NODE METASTASIS:                  Yes
+SIZE OF NODAL METASTASES:                  Diameter of largest lymph node metastasis: 4 mm
+LYMPH NODE METASTASIS(-ES) WITH EXTRACAPSULAR EXTENSION:
+                                          Yes
+T STAGE, PATHOLOGIC:                       pT1c                          Yes   No
+N STAGE, PATHOLOGIC:                       pN1                           [Table with checkboxes]
+M STAGE, PATHOLOGIC:                       pMX
+ESTROGEN RECEPTORS:                        positive
+PROGESTERONE RECEPTORS:                    positive
+HER2/NEU:                                 zero or 1+

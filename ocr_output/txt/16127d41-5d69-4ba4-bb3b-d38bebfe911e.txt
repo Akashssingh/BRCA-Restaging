@@ -1,0 +1,254 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+                                                     Carcinoma, infiltrating lobular, NOS -
+                                                                    8520/3      12/8/10
+                                                                              μω
+
+                                            Path  Site Code : breast, upper outer quadrant  C50.4
+TSS                                         CQC   Site : breast, NIS  C50.9
+
+SPECIMENS:
+    A. SENTINEL LYMPH NODES #1 & #2                  UUID:7E8F4398-B9CB-49B1-B4C1-B8C1F3A85547
+                                                         TC6A-E3-A1AU-01A-PR        Redacted
+    B. SENTINEL LYMPH NODE #3
+    C. SENTINEL LYMPH NODES #4 & #5
+    D. SENTINEL LYMPH NODE #6
+    E. RIGHT BREAST WLE NEEDLE LOCALIZATION
+    F. SENTINEL LYMPH NODE #7
+
+SPECIMEN(S):
+    A. SENTINEL LYMPH NODES #1 & #2
+    B. SENTINEL LYMPH NODE #3
+    C. SENTINEL LYMPH NODES #4 & #5
+    D. SENTINEL LYMPH NODE #6
+    E. RIGHT BREAST WLE NEEDLE LOCALIZATION
+    F. SENTINEL LYMPH NODE #7
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+    TPA1/TPA2/TP8/TPC1/TPC2/TPC3/TPD/TPE-SLN # 1&2/SLN #3/SLN #4&5/SLN #6/ SLN #7: No tumor cells seen
+    called by Dr. to Dr. at `        n(A), .      , (B,C),                       n (D),
+    C-right breast wide local excision needle localization: Tumor is 1.7 cm located 1.3 cm from the nearest/lateral margin
+    called by Dr to Dr. at
+
+GROSS DESCRIPTION:
+    A. SENTINEL LYMPH NODE #1 &2
+    Received fresh are two lymph nodes measuring 0.5 x 0.4 x 0.2 cm and 0.4 x 0.3 x 0.2 cm. Two touch preps are
+    performed and 2 lymph nodes are submitted in cassettes A1-A2.
+    B. SLN #3
+    Received fresh is a lymph node measuring 0.2 x 0.2 x 0.2 cm. One touch prep is performed and the lymph node is
+    submitted in cassette B1.
+    C. SLN #4 & 5
+    Received fresh are 3 lymph nodes each, 0.2 x 0.2 x 0. 2 cm; 3 touch preps are performed and the lymph node is
+    submitted separately in cassettes C1-C3.
+    D. SLN #6
+    Received fresh is a lymph node measuring 0.3 x 0.2 x 0.2 cm. One touch prep performed and the lymph node is
+    submitted entirely in cassette D1.
+    E. RIGHT BREAST WIDE LOCAL EXCISION NEEDLE LOCALIZATION
+    Received fresh is an oriented (single-anterior, double-lateral, triple-superior,) 78 g, 5.5 x 4.5 x 5 cm needle localized
+    lumpectomy with radiograph. Ink code: anterior-blue, posterior-black, superior-red, inferior-orange, medial-green,
+    lateral-yellow. Specimen is serially sectioned into 5 slices revealing a 2.3 x 1.7 x 1.5 cm firm stellate tan mass that is
+    closest to the lateral margin at 1.3 cm. Tissue is procured. 80% of the specimen is submitted as follows:
+    E1-E3, mid lateral margin, perpendicular sections
+    E4: slice 2, mid
+    E5: slice 2, mid posterior
+    E6: slice 3, superior anterior
+    E7: slice 3, inferior anterior
+    E8: slice 3, mid superior anterior
+    E9: slice 3, mid inferior anterior
+    E10: slice 3, mid superior posterior
+    E11: slice 3, mid inferior posterior(mass)
+    E12: slice 3, superior posterior
+    E13: slice 3, inferior posterior
+    E14: slice 4, inferior anterior
+    E15: slice 4, inferior anterior
+    E16: slice 4, mid anterior/superior
+    E17: slice 4, mid inferior anterior
+    E18: slice 4, mid superior posterior
+    E19: slice 4, mid posterior inferior
+    E20: slice 4, superior posterior
+    E21: slice 4, mid posterior
+    E22: slice 4, inferior posterior
+    E23-E28: portion of medial margin, perpendicular sections
+    F. SLN #7
+
+=================================== PAGE 2 ===================================
+Received fresh is a lymph node measuring 0.5 x 0.4 x 0.3 cm. One touch prep is performed the lymph node is
+submitted entirely in cassette F1.
+
+DIAGNOSIS:
+A. LYMPH NODES, SENTINEL #1 AND #2, EXCISION:
+   - TWO LYMPH NODES, NEGATIVE FOR METASTASES (0/2)
+   - AE 1/3 NEGATIVE.
+
+B. LYMPH NODE, SENTINEL #3, EXCISION:
+   - ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1)
+   - AE 1/3 NEGATIVE.
+
+C. LYMPH NODES, SENTINEL #4 AND #5, EXCISION:
+   - THREE LYMPH NODES, NEGATIVE FOR METASTASES (0/3)
+   - AE 1/3 NEGATIVE.
+
+D. LYMPH NODE, SENTINEL #6, EXCISION:
+   - ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1)
+   - AE 1/3 NEGATIVE.
+
+E. BREAST, RIGHT, WIDE LOCAL EXCISION WITH NEEDLE LOCALIZATION:
+   - INVASIVE LOBULAR CARCINOMA, SBR 2, MEASURING 1.8-CM
+   - LOBULAR CARCINOMA IN SITU
+   - FOCAL ATYPICAL DUCTAL HYPERPLASIA
+   - SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+   - SEE SYNOPTIC REPORT AND SEE NOTE.
+
+F. LYMPH NODE, SENTINEL #7, EXCISION:
+   - ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1)
+   - AE 1/3 NEGATIVE.
+
+NOTE: Invasive lobular carcinoma is identified. The tumor measured on two contiguous sections (slides #E16 and
+E18) (1.8-cm). A satellite invasive tumor is identified, 0.5-cm from the main mass, measuring 1 mm (slide #E16).
+
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:          Excision
+Needle Localization:    Yes - For mass
+Laterality:             Right
+Invasive Tumor:         Present
+Multifocality:          No
+WHO CLASSIFICATION
+Invasive lobular carcinoma  8520/3
+Tumor size:             1.8cm
+Tumor Site:             Upper outer quadrant
+Margins:                Negative
+Tubular Score: 3
+Nuclear Grade:          2
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade:      2
+Necrosis:               Absent
+Vascular/Lymphatic invasion:      None identified
+Lobular neoplasia:      LCIS
+Lymph nodes: Sentinel lymph node only
+Lymph node status:      Negative 0 / 8
+
+DCIS not present
+
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Pending by FISH
+
+Pathological staging (pTN):        pT 1c N 0
+
+
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+
+=================================== PAGE 3 ===================================
+Specimen: Surgical Excision
+Block Number: E18
+
+ER: Positive Allred Score: 8 = Proportion Score 5 + Intensity Score 3
+PR: Positive Allred Score: 8 = Proportion Score 5 + Intensity Score 3
+
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of less than or equal to 2.
+
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR 136, 1:100) provided by Dako                                    following the manufacturer's instructions. This assay was not modified.
+Interpretation of the ER/PR immunohistochemical stain is guided by published results in the medical literature, information provided by the reagent manufacturer and by internal review of staining performance.
+
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number: E18
+
+Interpretation: EQUIVOCAL
+Intensity: 2+
+% Tumor Staining: 40%
+Fish Ordered: Yes, on Date
+
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours. Her2 analysis was performed using the FDA approved Dako HercepTest (TM) test kit                                using rabbit anti-human HER2. This assay was not modified. External kit-slides provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well preserved, clear-cut invasive carcinoma was identified for HER2 evaluation.
+Interpretation of the HER2 immunohistochemical stain is guided by published results in the medical literature, information provided by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology Department takes full responsibility for this test's performance.
+
+CLINICAL HISTORY:
+-year-old female with abnormal mammogram The right breast upper outer quadrant 2.5-cm Mass appeared biopsy invasive lobular carcinoma.
+
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+E – right breast wide local excision needle localization: Tumor is 1.7 cm located 1.3 cm from the nearest/lateral margin called by Dr to Dr. at *
+
+ADDENDUM:
+The purpose of this addendum is to correct a typo found in the intraoperative consultation diagnosis area above regarding the results of the gross examination for the right breast wide local excision needle localization specimen and is as follows:
+PathVysion HER-2 DNA Probe Kit
+Case No
+Analytical Interpretation of Results: HER-2 NOT AMPLIFIED
+Clinical Interpretation of results
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome 17 centrometric probe and a HER-2 probe that spans the entire HER-2 gene in the          by Dr. A majority of tumors cells displayed 2 chromosome 17
+signals and 2 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0, consistent with no amplification of the HER2/neu gene.
+Block used E18 Source of case:
+
+=================================== PAGE 4 ===================================
+Tissue fixation formalin-fixed tissueOutside Case No: NA
+Tissue source: breast    Results interpreted: yes
+HER2/CEP17 ratio:    1.04
+    This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+    CEP17 signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+    mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+Method of ratio enumeration:    manual count
+    Limitation:
+    The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+    intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+    and overall survival in stage II, node-positive breast cancer patients. In making decisions regarding
+    adjuvant CAF treatment, all other available clinical information should also be taken into
+    consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status. No
+    treatment decision for stage II, node-positive breast cancer patients should be based on HER-2/neu
+    gene amplification status alone.
+    Overview of this test
+    FDA APPROVED REAGENT
+        PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+    patients for whom Herceptin® therapy is being considered. These tests were performed in the
+                                            ' under the direction
+    of Dr. The results of these studies should always be interpreted in the context of the
+    clinical, morphological, and immunophenotypic diagnosis.
+ONCOTYPE DX BREAST CANCER ASSAY
+-----------------------------------------------------------------------------
+RESULTS: Recurrence Score:    9
+CLINICAL EXPERIENCE: Patients with a recurrence score of    9 in the clinical validation study had an average
+rate of Distant Recurrence at 10 years of 6%
+-----------------------------------------------------------------------------
+ER Score:    11.3    Positive
+PR Score:    8.3    Positive
+Her2 Score:    10    Negative
+-----------------------------------------------------------------------------
+Interpretation:
+    ER    Negative < 6.5    Positive >= 6.5
+    PR    Negative < 5.5    Positive >= 5.5
+    Her2 Negative <10.7    Positive >=11.5    Equivocal = 10.7 - 11.4
+-----------------------------------------------------------------------------
+See separate        report for further information.
+Test performed at:
+
+Gross Dictation: Pathologist, '
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist.
+Final: Pathologist. '
+Addendum Review: Pathologist.
+Addendum Final: Pathologist.
+Addendum: Pathologist.
+Addendum Final: Pathologist,
+Addendum: Pathologist. ("
+Addendum Final: Pathologist.
+
+
+
+
+                                                                        Clerks               Yes      No
+                                                                        Diagnostic Discrepancy
+                                                                        Pathologist See Discrepancy
+                                                                        HFAA Discrepancy
+                                                                        IMF Malignancy History
+                                                                        Diagnosis Confirmed           ✓
+                                                                        Sent to Pr(ints):   \\\\ BOWHII:    O\\ \\\\\\\\\\ \\\\
+                                                                        Relevant Details        cds

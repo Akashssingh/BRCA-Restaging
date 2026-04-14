@@ -1,0 +1,180 @@
+=================================== PAGE 1 ===================================
+TSS ID
+
+SPECIMENS:
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL NODE #1
+C. SENTINEL NODE #2
+D. ADDITIONAL LATERAL POSTERIOR MARGIN
+
+SPECIMEN(S):
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL NODE #1
+C. SENTINEL NODE #2
+D. ADDITIONAL LATERAL POSTERIOR MARGIN
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+A:WLE right breast: Gross examination only, tumor is 0.8 cm from the nearest superior margin.
+TPB/TPC-SLN #1, #2: Touch imprints only, negative for tumor cells.
+Diagnoses called by Dr. to Dr. at                    (A, B, C).
+
+GROSS DESCRIPTION:
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with the patient's identification and "WLE right breast needle localization" is a
+previously inked, oriented (single suture-anterior, double suture-lateral) 76 g, 3.7 x 3.6 x 2.9 cm needle
+localized lumpectomy with radiograph. Ink code: Anterior-yellow, posterior-black, medial-green, lateral-
+red, inferior-blue, inferior-orange. The specimen is serially sectioned from lateral to medial into 7 slices
+revealing a 1.8 x 1.3 x 1.1 cm tan, stellate nodule that is closest to the superior margin at 0.8 cm.
+Tissue is procured. Representatively submitted:
+A1-A2: lateral margin, perpendicular sections
+A3: slice 2, anterior superior
+A4: slice 2, posterior superior
+A5: slice 2, posterior superior
+A6: slice 2, mid posterior
+A7: slice 3, anterior superior (mass)
+A8: slice 3, posterior superior (mass)
+A9: slice 3, mid anterior (mass)
+A10: slice 3, mid posterior (mass)
+A11: slice 3, inferior
+A12: slice 4, mid anterior (mass)
+A13: slice 4, mid posterior (mass)
+A14: slice 4, mid inferior
+A15: slice 4, posterior
+A16: slice 5, anterior
+A17: slice 5, inferior
+A18: slice 5, posterior
+A19: slice 6, superior
+A20-A21: slice 6, anterior
+A22: slice 6, inferior
+A23: slice 6, posterior
+A25-A25: medial margin, perpendicular sections
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "SLN #1" is a 1.5 x 0.7 x 0.4 cm lymph node.
+It is sectioned, a touch prep is performed, lymph node is submitted entirely in cassette B1.
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "SLN #2" it is a 1.7 x 0.3 x 0.1 cm lymph
+node. It is sectioned, a touch prep is performed, submitted entirely in cassette C1.
+D. ADDITIONAL LATERAL POSTERIOR MARGIN
+Received fresh labeled with the patient's identification and "additional lateral-posterior margin" is an
+oriented (suture at final margin) 9 g, 5 x 3 x 1.2 cm fibrofatty tissue. Final margin is inked blue. Serial
+sectioning reveals no discrete lesions. Entirely submitted in cassettes B1-B8.
+
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, MEASURING 1.8-CM
+
+[Handwritten text in upper right:]
+ICD-0-3
+Carcinoma, infiltrating ductal NOS 8500/3
+S/L breast NOS C50.9    2/4/14    Jvc
+
+[Barcode and identifier:]
+UUID:CC881145-B342-45BD-A844-B14BA5A9E323
+TCGA-E2-A11N-01A-PR         Redacted
+
+=================================== PAGE 2 ===================================
+TSS ID
+
+- HIGH NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES WITH
+MICROCALCIFICATIONS
+- INVASIVE TUMOR PRESENT WITHIN 1-MM FROM INFERIOR SURGICAL RESECTION MARGIN
+- LOBULAR CARCINOMA IN SITU
+- SEE SYNOPTIC REPORT.
+
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+C. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+D. BREAST, ADDITIONAL LATERAL POSTERIOR MARGIN, EXCISION:
+- BREAST TISSUE, NO TUMOR SEEN.
+
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:         Excision
+Needle Localization:   Yes - For mass
+Laterality:    Right
+Invasive Tumor:        Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS  8500/3
+Tumor size: 1.8cm
+Margins:       Negative
+Distance from closest margin:  Less than 0.1cm
+inferior
+Tubular Score:         3
+Nuclear Grade:         2
+Mitotic Score:         3
+Modified Scarff Bloom Richardson Grade:        3
+Necrosis:      Absent
+Vascular/Lymphatic invasion:  None identified
+Lobular neoplasia:     LCIS
+Lymph nodes:           Sentinel lymph node only
+Lymph node status:     Negative  0 / 2
+
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity:         Estimate 10%
+DCIS Type:  Solid
+Cribriform
+DCIS Location:         Associated with invasive tumor
+Nuclear grade:         High
+Necrosis:      Absent
+Location of CA++:      DCIS
+Benign epithelium
+
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by IHC
+Performed on Case:
+
+Pathological staging (pTN):    pT 1c N 0
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+Distant Metastases (M):        MX: Cannot be assessed
+
+CLINICAL HISTORY:
+None given
+
+=================================== PAGE 3 ===================================
+TSS ID
+
+
+PRE-OPERATIVE DIAGNOSIS:
+None given
+
+ADDENDUM:
+ONCOTYPE DX BREAST CANCER ASSAY
+------------------------------------------------------------------------------
+RESULTS: Recurrence Score: 14
+CLINICAL EXPERIENCE: Patients with a recurrence score of:        14 in the clinical validation study
+had an average rate of Distant Recurrence at 10 years of 9%
+------------------------------------------------------------------------------
+ER Score:    11.3    Positive
+PR Score:    9.1    Positive
+Her2 Score: 9.1    Negative
+------------------------------------------------------------------------------
+Interpretation:
+    ER     Negative < 6.5    Positive >= 6.5
+    PR     Negative < 5.5    Positive >= 5.5
+    Her2   Negative <10.7    Positive >=11.5    Equivocal = 10.7 - 11.4
+------------------------------------------------------------------------------
+
+Microscopic/Diagnostic Dictation;, .
+Final Review:, M.D., Pathologist.
+Final: M.D., Pathologist, (
+Addendum: M.D., Pathologist, (
+Addendum Final: M.D., Pathologist,
+
+
+
+
+                                                                    Criteria                                   Yes        No
+                                                                    Diagnostic Discrepancy                               ✓
+                                                                    Primary Tumor Site Discrepancy                       ✓
+                                                                    HIPAA Infringement                                   ✓
+                                                                    Serious Medical Errors                               ✓
+                                                                    Dual/Synchronous Primary MPEs
+                                                                    Case is notable [ ]     Outstanding [ ]   Substandard [ X ]
+                                                                    Reviewer Initial [handwritten initials]    Date Reviewed [ / / ]

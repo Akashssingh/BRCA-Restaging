@@ -1,0 +1,50 @@
+=================================== PAGE 1 ===================================
+Procedure Date:                                    /C.R v-3                                    8-506/3
+Procedure Physician:                               Carcinoma, infiltrating ductal, NOS           /01/11
+Attending Physician/Copies To:                     Site: Breast, NOS   C-50.9
+
+                                                    UITO:BA86A#03-60C5-4548-A55B-246ETDB1E8E3
+                                                    TCGA-BH-A1FB-01A-PR                    Redacted
+                                                    [BARCODE]
+
+PATIENT HISTORY:
+* DATE OF LMP: *
+DATE OF LAST DELIVERY: *
+PRE-OP DIAGNOSIS: LEFT BREAST CANCER
+POST-OP DIAGNOSIS: SAME
+   OPERATIVE PROCEDURE: LEFT MASTECTOMY
+CLINICAL HISTORY: *
+MATERIAL SUBMITTED: A) LEFT (MOD) RADICAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE
+B) LEFT AXILLA, PROCUREMENT BY SURGICAL PROCEDURE
+NODES
+   *
+
+
+FINAL DIAGNOSIS:
+FINAL DIAGNOSIS:
+
+A) LEFT BREAST, MODIFIED RADICAL MASTECTOMY:
+ < INFILTRATING DUCTAL CARCINOMA , 4.0 BY 3.5 BY 3.0 CM.
+ - HISTOLOGIC GRADE, POOR
+ - NUCLEAR GRADE, MODERATE
+ - NOTTINGHAM SCORE 7 (TUBULE 3, NUCLEI 2, MITOSIS 2)
+ - TUMOR INVOLVING SUBAREOLAR AND NIPPLE LYMPHATICS
+ - TUMOR INVOLVING DERMIS AND DERMAL LYMPHATICS OVERLYING THE TUMOR AND EXTENDING INTO EPIDERMIS
+ - INTRADUCTAL COMPONENT, COMEDO VARIANT, COMPRISING 10% OF TUMOR
+ - INKED MARGINS INCLUDING SKIN MARGINS, FREE OF TUMOR
+ (GROSS REFER ANY CONTENTS:
+B) LEFT AXILLA CONTENTS:
+ - TWELVE OF THIRTEEN (12/13) LYMPH NODES CONTAINING METASTATIC TUMOR WITH PROMINENT PERINODAL EXTENSION IN 6
+NODES
+ - TWO (2) ADDITIONAL TUMOR NODULES ARE SEEN AS PERIVASCULAR TUMOR NODULES WITHOUT RECOGNIZABLE NODAL
+FEATURES
+
+
+                                                    Orders                           Yes       No
+                                                    Pathology
+                                                    Surgery (Turn to other Description)
+                                                    FISH is dictated
+                                                    PGC/Pharmacy/Lab etc.
+                                                    Other Supplemental Report (attach)
+                                                    Grossing Template Attached    /    UNSIGNED
+                                                    Reviewer Initials               Date Received

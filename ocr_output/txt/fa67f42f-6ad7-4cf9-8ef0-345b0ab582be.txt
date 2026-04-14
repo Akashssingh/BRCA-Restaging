@@ -1,0 +1,143 @@
+=================================== PAGE 1 ===================================
+ICD-2-3
+                                                        Adenocarcinoma, duct, nipple incl NOS  8500/3
+Patient:                                                Site Code: breast NOS  C50.9
+                                                                    1/17/14
+
+Surgical Pathology: Final:
+
+Surg Path                                               UUIC:CAB3SESF-300C-46CF-AF33-AD11226FCO9E
+                                                        TCGA-BG-A0I2-01A-PR         Redacted
+
+CLINICAL HISTORY:
+Bilateral carcinoma of the breast.
+
+GROSS EXAMINATION:
+A. "Medial margin right breast biopsy", fresh.  The specimen consists of 3.7 x
+2.2 x 0.6 cm disc of firm white, unremarkable breast tissue; four sutures
+denote the true margin, which is inked black. Serial radial sections are
+submitted as follows:
+
+BLOCK SUMMARY:
+A1  frozen section remnant AF1
+A2  frozen section remnant AF2.
+A3  frozen section remnant AF3.
+A4  additional tissue.
+
+B. "Right breast biopsy sample".  Contains an irregular 10 x 0.5 x 1.7 cm disc
+tan-brown coarsely papillary tissue.  Portions are submitted for ER/PR and for
+tissue bank and for frozen section.  Frozen section remnant submitted in Block
+B1.
+
+C. "Left breast tumor, wide reexcision, long suture lateral, short suture
+Superior", fresh.  The specimen consists of a 4.5 x 4.3 x 2.2 cm wide
+resection of the breast.  The long suture denotes the lateral aspect of the
+specimen and a short suture the superior.  The superior pole of the tissue is
+inked black, and the inferior blue.
+
+On cut section, there is a 1.3 x 1.3 x 1 cm round, white, firm, gritty,
+sharply-circumscribed tumor in the superior portion of the resection.  The
+tumor extends to within 2 mm of the superior margin, and does not approach
+closely to any other margin.  The remainder of the breast consists of firm,
+white and tan admixed breast parenchyma.  Tissue is divided into deep (towards
+chest wall) and superficial (towards skin) halves and submitted from medial to
+lateral as follows:
+
+BLOCK SUMMARY:
+C1  frozen section remnant Cf1.
+C2-C8  superficial half from medial to lateral.
+C9-C15 deep half from medial to lateral.
+
+D. "Right axillary dissection  and wide reexcision", fresh.  The specimen
+consists of an excisional breast biopsy and attached axillary dissection.  The
+biopsy is incised, to obtain tissue for frozen section, ER/PR, and tissue
+bank, prior to receipt by pathology.  The biopsy measures 6.7 x 6.5 x 3.2 cm.
+The axillary tail measures 10 x 2.3 x 0.9 cm.  The medial surface (not a true
+margin) is inked in red, the inferior margin black and the superior margin in
+blue.
+
+On cut section, there is a 4.5 x 2.3 x 2.5 cm white firm tumor, composed of
+tan-yellow loose aggregates of tumor.  The tumor approaches to within 3 mm of
+the inked superior margin of resection and to within 1 cm of the superior and
+5 mm of the inferior margin.  Tumor approaches to within 4 mm of the deep
+margin of resection.  The remainder  of the breast is unremarkable
+
+The axillary dissection is divided into low, mid and distal level.  There are
+numerous lymph nodes, ranging from 0.3 to 1.4 cm, none grossly involved by
+tumor.
+
+BLOCK SUMMARY:
+                                                        Criteria        Yes
+                                                        Diagnostic Discrepancy
+                                                        Clinical - Pathology - Radiology
+                                                        HIPIA Discrepancy
+                                                        Prior Malignancy History
+                                                        Gastrointestinal Problem                     1 of 2
+                                                        CAP Q Protocol           ENABLED   ORGAN/PROC
+                                                        Protocol or Checklist       KMN  FW
+
+=================================== PAGE 2 ===================================
+D1-D5 Anterior (superficial) tumor from lateral to medial.
+D6-D10 Posterior (deep) tumor from lateral to medial.
+D11 - Lower lymph node candidate.
+D12 - One mid-level lymph node, bisected.
+D13 - Five mid-level lymph node candidates.
+D14 - Four distal lymph node candidates.
+D15 - Highest lymph node.
+
+E. "Left axillary dissection, silk on apex", fresh. The specimen consists of
+a 6 x 9 x 1.7 cm lymph node dissection, with a black suture at one pole. The
+lymph node dissection is divided into three sections, lower, middle and
+distal. Numerous lymph nodes are identified ranging from 0.3 to 1.7 cm in
+greatest dimension. None grossly contains tumor
+
+BLOCK SUMMARY:
+E1 Lower nodes, 3 lymph node candidates
+E2 Three lymph node candidates, lower node.
+E3 Middle nodes, 2 lymph node candidates.
+E4 Middle nodes, 2 lymph node candidates.
+E5 Three lymph node candidates, upper lobe.
+E6 Upper nodes, 1 lymph node candidate.
+E7 Upper node, 1 lymph node candidates, bisected.
+E8 Highest apical node.
+
+INTRA OPERATIVE CONSULTATION:
+AF1-AF3: "Medial margin right breast biopsy": Inked margin free of carcinoma.
+(KR).
+Bf1: "Right breast biopsy sample": Carcinoma
+Cf1: "Left breast biopsy": Carcinoma
+
+DIAGNOSIS:
+A. "MEDIAL MARGIN RIGHT BREAST BIOPSY":
+   BENIGN BREAST TISSUE
+B. "RIGHT BREAST BIOPSY":
+   POORLY-DIFFERENTIATED ADENOCARCINOMA.
+C. "LEFT BREAST TUMOR, WIDE RE-EXCISION":
+   INVASIVE AND INTRADUCTAL ADENOCARCINOMA.
+   1.3 X 1.3 X 1.3 CM.
+   NSABP HISTOLOGIC GRADE 3, NUCLEAR GRADE 3.
+   NON-COMEDO TYPE INTRADUCTAL COMPONENT COMPRISES 5% OF TUMOR.
+   VASCULAR SPACE INVASION IDENTIFIED (C13).
+   INKED MARGINS OF RESECTION FREE OF TUMOR.
+   EXTENDING TO WITHIN 1 MM OF INKED SUPERIOR MARGIN OF RESECTION (C14).
+   ASSOCIATED WITH MICROCALCIFICATION.
+   REMAINDER OF BREAST WITH APOCRINE METAPLASIA AND MICROCYST FORMATION.
+D. "RIGHT AXILLARY RESECTION OF BREAST AND WIDE RE-EXCISION":
+   INVASIVE AND INTRADUCTAL CARCINOMA.
+   4.5 X 2.3 X 2.5 CM.
+   NSABP HISTOLOGIC GRADE 3, NUCLEAR GRADE 2.
+   NON-COMEDO TYPE INTRADUCTAL CARCINOMA COMPRISES 5% OF TUMOR.
+   INTRADUCTAL CARCINOMA EXTENDS BEYOND TUMOR MASS.
+   VASCULAR SPACE INVASION NOT IDENTIFIED.
+   TUMOR APPROACHES TO WITHIN 100 MICRONS OF INKED MARGIN OF RESECTION
+   (D7, D8, D9, D10, D6), SEE NOTE.
+   REMAINDER OF BREAST WITH MICROCYST FORMATION AND FIBROADENOMATOUS CHANGE.
+   10 REGIONAL LYMPH NODES WITH NO TUMOR SEEN (0/10).
+
+E. "LEFT AXILLARY DISSECTION":
+   8 LYMPH NODES WITH NO TUMOR SEEN (0/8).
+
+NOTE: FOCALLY, CAUTERY ARTIFACT EXTENDS TO TUMOR (D9).
+      Verified by:
+
+2 of 2

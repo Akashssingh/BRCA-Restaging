@@ -1,0 +1,68 @@
+=================================== PAGE 1 ===================================
+/cb-o-3
+                                                    Carcinoma, infiltrating ductal, nos 8500/3
+                                                    Site: breast, nos C50.9    3/11/11   fw
+
+                                                                                page 1 / 1
+
+
+                                Department of Cancer Pathology
+                                                                                copy No.
+                                                                        Date:
+
+________________________________________________________________________________
+
+                        Examination: Histopathological examination
+
+Internal invoice No.                Cost of diagnostic procedure                Examination No.:
+Patient: XXX                        PESEL: XXX              Age:        Gender: F
+
+Material: Multiple organ resection – left breast
+Unit in charge:
+
+Physician in charge:
+Material collected or                    Material received on:
+Expected time of examination: 8 working days
+Clinical diagnosis:
+
+________________________________________________________________________________
+Examination performed on:
+
+Results of immunohistochemical examination:
+No estrogen receptors found in the neoplastic cell nuclei. Progesterone receptors found in less than 10% of the neoplastic cell
+nuclei. HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive cancerous cells (Score = 1+ ).
+Estrogen receptor was stained twice.
+
+
+                                                            Compliance validated by:
+Examination performed on: ^^
+Macroscopic description:
+Right breast sized 15 x 9 x 3 cm removed along with axillary tissues sized 7 x 4 x 1 cm and a skin flap of 11 x 7 cm. Weight 650
+g. Tumour sized 3.2 x 2.0 x 3.0 cm on the border of the upper quadrants, placed 2.0 cm from the upper edge and 1.5 cm from
+the base.
+
+Microscopic description:
+Carcinoma ductale invasivum NHG3 (3 + 3 + 3: 21 mitoses/10 HPF - visual area of 0.55 mm). Glandular tissue off the tumour
+showing lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis simplex (UDH).
+Axillary lymph nodes:
+Sinus histiocytosis cum microcalcificationes lymphonodorum (No XIII).
+
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+(NHG3, pT2, pN0).
+
+
+                                                            Compliance validated by
+
+                                CONTACT YOUR DOCTOR WITH THIS REPORT!
+
+         UUUUUUUU 60394EC 80571358                                      Criteria                           Yes      No
+              TCGA-D8-A13K-01A-PR        Redacted                        Upgrade Overriding                          X
+                                                                         Tumor in More than One Quadrant             X
+                                                                         Tumor at Skin Distance                      X
+                                                                         Prior Malignancy History                    X
+                                                                         CR in Paraffin - Review - Present           X
+                                                                         On Treatment - No Evidence                  X
+                                                                         SMAC Related - No                Defined
+                                                                                                                     X
+                                                                                    3/11/11

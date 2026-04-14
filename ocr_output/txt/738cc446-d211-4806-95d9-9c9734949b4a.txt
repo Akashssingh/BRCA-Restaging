@@ -1,0 +1,30 @@
+=================================== PAGE 1 ===================================
+UUID:F5817108-6904-4867-9B30-1B2FAE338B87
+                                                                TCGA-AR-A251-01A-PR                Redacted
+                                    Yes      No
+Ovarian Discrepancy              ______   ______
+Urinary Ureter not Empty         ______   ______
+HIPAA Discrepancy                ______   ______
+Prior M2 Agency Information      ______   ______
+Tumor Board Presentation         ______   ______
+Case is DCIS?          C______→ PATHOLOGY
+Physician Notes    RB_____________
+
+Final Diagnosis
+
+Breast, left/wide local excision: Infiltrating ductal carcinoma, Nottingham grade III (of III), forming a 2.7 x 2.4 x 2.0 cm bilobed mass [AJCC pT2]. Extensive ductal carcinoma in situ, high nuclear grade, present within (>25%) and outside the invasive component. Angiolymphatic invasion is present. The non-neoplastic breast parenchyma shows proliferative fibrocystic changes. Calcifications present in malignant ducts. Biopsy site changes present. The tumor does not involve overlying skin. The medial/inferior margin is positive for ductal carcinoma in-situ.
+
+Left breast, new inferomedial margin, re-excision: Focally positive for ductal carcinoma in- situ.
+
+Left breast, new deep margin, re-excision: Negative for tumor.
+
+Lymph nodes, left axillary, dissection: Multiple (3 of 7) left axillary lymph nodes are positive for metastatic carcinoma. The largest metastatic focus measures 2.2 x 1.9 x 1.5 cm. Extranodal extension is present.
+
+Lymph nodes, additional left axillary, excision: A single (of 3) left axillary lymph node is positive for metastatic carcinoma. [Total 4 positive lymph nodes; AJCCpN2].
+
+Breast, left, total mastectomy: No residual carcinoma identified. Biopsy site changes are present in the outer quadrant. The adjacent breast parenchyma shows proliferative fibrocystic changes. Surgical margins are negative for tumor. The nipple is without diagnostic abnormality.
+
+                                                                ICD-O-3
+                                                Carcinoma, infiltrating duct, NOS  850/3
+                                                Situ: breast, NOS  C50.9  Jur
+                                                                4/25/11

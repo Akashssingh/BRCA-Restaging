@@ -1,0 +1,49 @@
+=================================== PAGE 1 ===================================
+ICh-a-3
+                                    Carcinoma, infiltrating duct NOS    9500/3
+                                    Site Code: breast, NOS    C 50.9
+                                                                        12/21/14
+                                                                            N
+
+
+
+
+                          Final Diagnosis
+
+Breast, left, wide local excision: Infiltrating ductal carcinoma, Nottingham grade III (of III),
+[tubules 3/3, nuclei 3/3, mitoses 2/3; Nottingham score 8/9], forming a 2.0 x 1.8 x 1.5 cm
+circumscribed mass with central fibrosis [AJCC pT1c]. Focal (5%) high grade ductal carcinoma
+in situ with necrosis is present outside the main tumor mass. Angiolymphatic invasion is absent.
+The non-neoplastic breast parenchyma shows nonproliferative fibrocystic changes. Calcifications
+are present in malignant ducts. Biopsy site changes are present. All surgical resection margins,
+after a single separately submitted re-excision of the anterior/inferior margin, are negative for
+tumor (minimum tumor free margin, 0.7 cm, superior margin).
+
+Lymph nodes; left axillary sentinel Nos. 1, 2, and 3; sentinel biopsies: A single (of 3) left
+axillary sentinel lymph node (SLN No. 1) is positive for isolated tumor cell cluster [AJCC pN0
+(i+) (sn)]. This isolated tumor cell cluster measures 0.11 mm and is seen on cytokeratin and H&E
+staining. Blue dye is identified in all three sentinel lymph nodes. Immunohistochemical
+cytokeratin stain was performed on the paraffin embedded sentinel lymph node tissues and
+confirm the H&E impression.
+
+Lymph node, left axillary, excision: A single nonsentinel lymph node is negative for metastatic
+carcinoma.
+
+
+
+
+                                            UMID:01209758-6A91-05A5-55020355A38F
+                                                     EGA-A1AY-01A-PR         Redacted
+                                            [BARCODE IMAGE]
+
+
+
+
+                                            Criteria                                Yes    No
+                                            Diagnosis Discrepancy                          X
+                                            Primary Tumor Site Discrepancy                 X
+                                            Grade Discrepancy                              X
+                                            Prior Malignancy History                       X
+                                            Overall Diagnosis Patient Correct              X
+                                            Case Signatures INITIAL    INITIAL   DISQUALIFIED
+                                            Reviewer Slides [Signature] Core Signout [Signature]

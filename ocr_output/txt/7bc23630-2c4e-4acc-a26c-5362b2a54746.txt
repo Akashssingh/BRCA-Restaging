@@ -1,0 +1,38 @@
+=================================== PAGE 1 ===================================
+/CD-0-3
+
+                                            Carcinoma, infiltrating ductal NOS  854M3
+                                     P4H-   Site: breast, central  C50.1
+                                                            postn            1/35/4
+                                                                                    jw
+                                     CACF  Site: breast,nos  C50.9
+
+
+
+
+Diagnosis:
+Poorly differentiated invasive ductal carcinoma (tumor diameter: 3.5 cm) with focally
+marked intraductal patterns of spread.
+
+Concluding tumor classification: NOS, G III, pT2N1aL0V0RX.
+
+
+
+
+                                            UUZD-64409399-6843-4D74-A288-CB3BFE41FC78
+                                               TCGA-A8-A084-01A-PR                Redacted
+                                    |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+                                    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+                                                                                   Yes    No
+                                     Cyanels                                              X
+                                     Diagnosis Discrepancy                                X
+                                     Secondary Slide Discrepancy                          X
+                                     HIPAA Exceptions                                     X
+                                     Prior Markers vs History
+                                     Qualifying Diagnosis      QUALIFIED    DISQUALIFIED
+                                     Case Exclusion
+                                     IRB Approved Date         Date of Birth

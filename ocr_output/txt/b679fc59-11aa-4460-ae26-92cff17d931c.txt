@@ -1,0 +1,144 @@
+=================================== PAGE 1 ===================================
+UUIO:D64FFDCe-3B8B-45CE-9621-AF898700OC6a
+TCGA-A7-A13F-01A-0R                    Unredacted
+
+SPECIMEN
+    A. Sentinel lymph node #1, right axilla, count 422
+    B. Sentinel node #2, right axilla, count 2600
+    C. Left breast tissue, single stitch - superior, double stitch -
+medial
+    D. Right breast                        (INC) ICb-9-2
+
+CLINICAL NOTES                          Carcinoma - Infiltrating Duct NOS
+    PRE-OP DIAGNOSIS: Right breast Ca                8530/3  Iv
+
+FROZEN SECTION DIAGNOSIS                Site breast, NOS C50.9     , 11-1-0
+    A. Sentinel node 1, right axillary: No tumor seen. No definite
+lymph node.
+    B. Sentinel node II right axillary, biopsy: two lymph nodes, both
+positive for metatatic carcinoma.
+
+GROSS DESCRIPTION
+            A. The specimen is received fresh for frozen section
+labeled "sentinel node #1 right axilla" and consists of a
+3.0 x 2.0 x 1.0 cm. piece of fatty yellow tissue. The specimen is
+sectioned to reveal a possible 0.6 cm. tan lymph node. No staining
+is present. The possible lymph node tissue is frozen as frozen
+section AFS1. The fatty tissue is entirely submitted in block 1 for
+permanent sections.
+            B. The specimen is received fresh for frozen section
+labeled "B. sentinel node #2 right axilla" is a 6.0 x 3.0
+x 1.0 cm. piece of soft yellow fatty tissue. The specimen is
+palpated and sectioned to reveal two possible lymph nodes. One
+measures 1.5 cm. in greatest dimension and has a focally firm
+white-tan appearance. The other measures 1.0 cm. in greatest
+dimension and appears tan and soft. The larger lymph node is frozen
+as frozen section BFS1 and the smaller as frozen section BFS2. Both
+lymph nodes are bisected.
+
+
+GROSS DESCRIPTION
+            C. The specimen is received in formalin labeled "left
+breast tissue" and consists of a V-shaped piece of white
+skin with underlying yellow soft tissue, two additional pieces of
+yellow soft tissue and an additional piece of white skin. The
+entire
+    specimen weighs 480 grams in the partially fixed state. On cut
+section the breast tissue is unremarkable. RS-8
+            D. The specimen is received in formalin labeled "right
+breast" and consists of a right breast resection specimen
+measuring 35 x 21 x 6 cm. There is an overlying white ellipse of
+skin measuring 21 x 9 cm. The skin ellipse has a central areola
+measuring 4.5 x 4 cm. with a central nipple measuring 1.3 x 1 x 0.2
+cm. An arrow has been incised in the skin ellipse. The deep surface
+of the specimen has been inked and the breast has been partially
+
+=================================== PAGE 2 ===================================
+sectioned prior to my examination. There is a deep central tumor a
+portion of which has been resected prior to my examination,
+probably
+for research purposes. The tumor measures 6 x 4 x 7 cm. The
+specimen
+is re-incised at 1 cm. intervals from the deep surface towards the
+skin. Sections are taken as dictated in the block summary:
+
+BLOCK SUMMARY: 1 and 2 - nipple; 3 - deep margin; 4-7 - tumor; 8-
+11
+- upper outer, upper inner, lower outer, lower inner quadrants.
+Sections from the axillary portion of the specimen show 11 lymph
+node-like structures. These are submitted in blocks D12-D17.
+
+
+MICROSCOPIC DESCRIPTION
+A. Fibrofatty connective tissue is present. The specimen is
+negative
+for malignancy.
+B. Metastatic carcinoma is present in 2 of 2 lymph nodes. The
+largest nodules measure 0.2 and 0.5 cm.
+C. There is focal benign calcification.
+D.
+
+MICROSCOPIC DESCRIPTION
+Invasive carcinoma
+Tumor type: Infiltrating ductal caricnoma with focal
+lobular features
+Tumor grade: 2 (Elston SBR grade; A/N/M = 3/2/1)
+Mitotic index: 4 mitoses/10 HPFs (1 HPF = 0.196 sq mm)
+Tumor size: 4 x 6 x 7 cm
+Vessel invasion: Carcinoma is present in lymphatics in the
+nipple.
+Calcification: Absent
+
+pTNM stage: T3 pN1a
+Prognostic markers: See previous biopsy
+
+Nipple: Carcinoma is present in lymphatics in the nipple
+Skin over tumor: Negative for malignancy
+Deep margin: Negative for malignancy
+Total lymph nodes: 11 (including 2 sentinel nodes)
+Lymph nodes positive: 3 (including 2 sentinel nodes)
+Size of metastases: Up to 3.5 mm
+Extranodal tumor: Absent
+Matted lymph nodes: Absent
+
+4x2,3,5,14x2,15
+
+=================================== PAGE 3 ===================================
+DIAGNOSIS
+    A. Sentinel lymph node #1, right axilla, biopsy:
+       Fibrofatty connective tissue. No lymph node present
+
+    B. Sentinal lymph node #2, right axilla, biopsy:
+       Metastatic carcinoma is present in 2 of 2 lymph nodes.
+
+    C. Breast, left, plastic procedure:  Negative for malignancy
+    D. Breast, right, resection:
+
+DIAGNOSIS
+
+       Infiltrating ductal carcinoma with focal lobular features,
+       Nottingham grade 2
+
+       Note:  Metatstatic carcinoma is present in 1 of 9 axillary lymph
+       nodes.
+
+
+       ------------------------------
+                   M.D.  (Electronic Signature)
+
+
+                                   --- End Of Report ---
+
+
+
+
+                                                       IDC - pn A, Abnucz
+                                                       mix w me v dots
+       Items                           Yes     No
+       Benign Morphology                       ✓
+       Breast Under 50 C Therapy                ✓
+       BCAZ Necropsy                            ✓
+       HIV Malignancy Biopsy                    ✓
+       Breast Biopsy                            ✓
+       #49(A/c Cyto))_       Pathology    Positive
+       Surgery (RB))         Report-       Pending

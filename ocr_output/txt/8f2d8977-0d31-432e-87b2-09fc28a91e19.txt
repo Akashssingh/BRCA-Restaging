@@ -1,0 +1,64 @@
+=================================== PAGE 1 ===================================
+ICS-0-3
+                                                        Carcinoma, infiltrating duct Nos 8500/3
+                                                        Site: breast, Nos C50.9    fw 4/7/11
+
+Procurement Date         Laterality: Right, lower outer quadrant
+
+Path Report: BREAST TISSUE CHECKLIST
+
+Specimen type: Radical mastectomy
+
+Specimen size: Not specified
+
+Tumor site: Breast
+
+Tumor size: 2.2 x 1.8 x 1.8 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Infiltrating ductal carcinoma
+
+Histologic grade: Moderately differentiated
+
+Tumor extent: Not specified
+
+Lymph nodes: 0/2 positive for metastasis (Regional 0/2)
+
+Extracapsular invasion of the lymph nodes: Not specified
+
+Margins: Not specified
+
+Nottingham Histologic Score
+
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Not specified
+
+Comments: None
+
+                                                        UUID:BC306187-9C39-4278-84FF-B1386F4814F2
+                                                        TCGA-E9-A22A-01A-PR         Redacted
+                                                        [BARCODE]
+
+
+                                                        Criteria                    Yes
+                                                        Diagnosis Discrepancy
+                                                        Primary Tumor Site Discrepancy
+                                                        SEER Discrepancy
+                                                        Survival Discrepancy
+                                                        Histology Discrepancy
+                                                        Dup/Sync/Metastases Errors Rating
+                                                        pRBC EDITSYES        COMPLETE / DISQUALIFIED
+                                                        [Signature area with checkmarks] Data Reviewed
+                                                                        4/7/11

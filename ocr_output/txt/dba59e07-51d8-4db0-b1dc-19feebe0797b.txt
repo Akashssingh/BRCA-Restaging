@@ -1,0 +1,81 @@
+=================================== PAGE 1 ===================================
+Clostermann, INFILTRATING DUCTAL, NOS V504/3
+                                Site: Breast, NOS C50.9
+                                                        Uaslu   jw
+
+Surgical Patho                                                                          UUID:5068FD38-2408-440E-8268-E596FC087C72
+                                                                                        TCGA-BG-A0MV-01A-PR        Redacted
+Surg Path
+
+CLINICAL HISTORY:
+S/P tru cut biopsy of 3.5 cm breast self detected lesion. Moderately
+differentiated NSABP II, grade adenocarcinoma. Breast carcinoma.
+
+GROSS EXAMINATION:
+A. "Right breast mass", in formalin. A 4 x 3 x 1.5 cm piece of yellow-white
+fibrofatty breast tissue containing a 3.5 x 3 x 2 cm firm, gritty, white-pink,
+infiltrating tumor. Margins are not an issue for this specimen per Dr.
+                therefore, the specimen is not inked. Representative sections of
+the tumor are submitted in Blocks A1-A3.
+
+B. "Right breast", unfixed. A 22 x 15 x 5 cm mastectomy specimen with
+axillary tail. The breast has a 19 x 13 cm skin ellipse containing nipple and
+areola with a 6 cm long horizontal sutured biopsy site located directly above
+the nipple. The external surface of the breast is inked in black.
+
+The skin surface, nipple and areola are grossly unremarkable.
+
+Cross sectioning through the breast specimen reveals a soft yellow-white
+fibrofatty breast parenchyma along with an 8 x 6 x 5 cm hollow biopsy cavity
+running in a horizontal direction beneath the nipple which is lined by pink,
+thin, smooth, membranous tissue. No residual tumor is identified. The edges
+of the biopsy cavity lie 3 cm, 1 cm, 7 cm and 7 cm from the superior,
+deep/posterior and inferior inked tissue margins. No other lesions are noted.
+
+BLOCK SUMMARY:
+B1  representative section of nipple.
+B2  biopsy cavity and corresponding inked deep/posterior surface.
+B3-B4  additional sections of biopsy cavity.
+B5-B6  representative sections of upper lateral portion  of breast.
+B7-B8  representative sections of lower lateral portion of breast.
+B9-B10 representative sections of upper medial portion of breast.
+B11-B12  representative sections of lower medial portion of breast.
+B13  1 bisected lymph node candidate from most medial portion of axillary
+tail.
+B14  2 lymph node candidates from most medial portion of axillary tail.
+B15  3 lymph node candidates from the middle portion of the axillary tail.
+B16  2 lymph node candidates from the middle portion of the axillary tail.
+B17   1 bisected lymph node candidate from the middle portion of the axillary
+tail.
+B18  2 lymph node candidates from the middle portion of the axillary tail.
+B19  2 lymph node candidates from the most lateral portion of **
+tail.                                                                                   YES    NO
+           Dr.                                                           Clinecal Description
+                                                                       Primary tumor Feil Documented
+DIAGNOSIS:                                                             Primary tumor site DCIS Only
+                                                                       Tuar Marquins HISTORY
+A. "RIGHT BREAST", (BIOPSY):                                          Dermal lymphatic Emboll CONFIRMED
+   INFILTRATING DUCTAL CARCINOMA                                       Representative lymrh node SAMPLING     DIAGNOSED
+                                                                       REVIEWED SLIDES               State Reviewed
+   3.5 X 3 X 2
+   NSABP HISTOLOGIC GRADE 2 OF 3, NUCLEAR GRADE MODERATELY DIFFERENTIATED.
+   VASCULAR INVASION IDENTIFIED.
+B. "RIGHT BREAST", (MASTECTOMY WITH AXILLARY TAIL):
+   BREAST:
+      NO RESIDUAL CARCINOMA.
+      BENIGN PROLIFERATIVE CHANGES, INCLUDING EPITHELIAL HYPERPLASIA OF USUAL
+      TYPE AND BLUNT DUCT ADENOSIS.
+      RECENT BIOPSY CAVITY WITH NO EVIDENCE OF MALIGNANCY.
+
+=================================== PAGE 2 ===================================
+SKIN AND NIPPLE WITH NO HISTOLOGIC ABNORMALITY.
+
+AXILLARY LYMPH NODES
+    METASTATIC CARCINOMA IN 4 OF 7 LYMPH NODES.
+    EXTRACAPSULAR SPREAD PRESENT.
+    LARGEST LYMPH NODE 2.1 CM.
+
+                Verified by:                    M:D. Pager ID#
+                            Date Signed:
+
+COMMENT:

@@ -1,0 +1,195 @@
+=================================== PAGE 1 ===================================
+UUID:0FEAEE6A-A72C-4207-AC31-6AF5B5ED1AFC
+TCGA-A2-A3Y0-01A-PR                    Redacted
+
+[BARCODE IMAGE]
+
+[LOGO/HEADER: CDIS Inc.]
+
+Specimen:                Received:              Status:
+                        Spec Type: SURGICAL P   Subm Dr:
+
+PREOPERATIVE DIAGNOSIS              )CD03
+                                   carcinoma, infiltrating duct, NOS T50D/3
+LEFT BREAST CANCER INVASIVE        site; (QCF- breast, NOS C50.9
+OPERATION PERFORMED                path; breast, upper outer quadrant C50.4
+DATE:                                                               5-23-12
+DOCTOR(S):                                                         GD
+PROCEDURE: MASTECTOMY, MODIFIED RADICAL
+
+TISSUE REMOVED
+
+A. LT BREAST AND AXILLARY TISSUE
+B. ADDITIONAL LYMPH NODES LT AXILLA
+
+GROSS DESCRIPTION
+
+PART A  RECEIVED FRESH LABELED                LEFT BREAST AND AXILLARY
+CONTENTS SUTURE AT 12 O'CLOCK, AND CONSISTS OF A MODIFIED RADICAL
+MASTECTOMY SPECIMEN WITH OVERALL DIMENSIONS OF 31 X 20.5 X 5.8 CM.  THE
+NIPPLE IS UNREMARKABLE AND SITS WITHIN A SKIN ELLIPSE MEASURING 21 X 12.3
+CM.  THERE IS A 3.5 CM IN LENGTH WELL-HEALED PERIAREOLAR SCAR EXTENDING
+FROM 12 TO 2 O'CLOCK.  THERE IS A PALPABLE MASS IN THE UPPER OUTER
+QUADRANT.  THE SUPERFICIAL ASPECT IS MARKED WITH BLUE INK, THE DEEP
+ASPECT WITH BLACK INK.  THE AXILLARY TAIL IS REMOVED AND EXAMINED FOR
+LYMPH NODES, OF WHICH MULTIPLE ARE IDENTIFIED.  SECTIONS ARE SUBMITTED AS
+FOLLOWS:  A1--NIPPLE SKIN AND SCAR; A2--FIVE NODES; A3--FIVE NODES;
+A4--THREE NODES, EACH BISECTED; A5--THREE NODES, EACH BISECTED;
+A6--SECTION OF ONE NODE; A7--SECTION OF ONE NODE; A8--SECTION OF ONE
+NODE; A9--SECTION OF ONE NODE; A10--SECTION OF ONE NODE.  NOTE THAT A6
+THROUGH A10 ARE MIRROR IMAGES OF PROTOCOL SECTIONS.  A11--TWO NODES, EACH
+BISECTED; A12--ONE NODE BISECTED; A13--ONE NODE BISECTED; A14--ONE NODE
+BISECTED.  SECTIONING THE BREAST REVEALS THE UPPER OUTER QUADRANT TO BE A
+ROUNDED PINK-TAN SOFT MASS WHICH IS CENTRALLY CYSTIC.  IT MEASURES 4 X
+3.7 X 2.8 CM.  GROSSLY, THIS ABUTS THE DEEP MARGIN.  IMMEDIATELY
+SUPERFICIAL TO THIS MASS IS A SECOND NODULE WITH A COIL CLIP MEASURING
+1.5 X 1.2 X 1.0 CM.  MEDIAL AND CENTRAL TO THE BREAST, THE SPECIMEN HAS A
+TAN FIBROUS BAND WHICH EXTENDS 9 CM FROM SUPERIOR TO INFERIOR AND THERE
+IS TAN FIBROUS TISSUE CENTRAL WITHIN THE BREAST.  THIS IS SURROUNDED BY A
+PERIMETER OF BLAND YELLOW FATTY TISSUE.  SECTIONS ARE SUBMITTED AS
+FOLLOWS:  A15 AND 16--MASS IN DEEP MARGIN; A17--SECTION OF THE MASS AND
+THE ADJACENT MORE SUPERFICIAL NODULE; A18, 19 AND 20--SECTIONS OF MASS
+CORRESPONDING TO SECTIONS FROM THE SUBMITTED PER PROTOCOL, WITH A20
+REPRESENTING THE ADJACENT FIBROUS TISSUE; A21--AN ADDITIONAL SECTION OF
+THE SUPERFICIAL LESION (MIRROR IMAGE TO PROTOCOL); A22--UPPER OUTER
+QUADRANT; A23--UPPER INNER QUADRANT; A24--LOWER INNER QUADRANT;
+A25--LOWER OUTER QUADRANT (A22 THROUGH A25 ARE MIRROR IMAGE SECTIONS TO
+PROTOCOL); A26--TISSUE FROM SUPERIOR PORTION OF BREAST.
+
+THE AXILLARY TAIL IS REEXAMINED FOR LYMPH NODES AFTER FIXATION TIME IN
+ACETIC FORMALIN.  ADDITIONAL NODES ARE THEN SUBMITTED AS FOLLOWS:
+
+=================================== PAGE 2 ===================================
+[Page] [Header with redacted text] (Continued)
+
+Specimen:                     Received:                    Status:
+                             Spec Type: SURGICAL P         Subs Dr:
+        GROSS DESCRIPTION    (Continued)
+
+A27--FIVE NODES; A28--TWO NODES, EACH BISECTED.
+
+PART B RECEIVED FRESH LABELED [redacted] ADDITIONAL LYMPH NODES
+LEFT AXILLA (LEVEL 2), IS YELLOW-PINK FATTY TISSUE MEASURING 2.4 X 1.6 X
+0.9 CM. THIS IS BISECTED REVEALING NO DISTINCT NODAL TISSUE AND
+SUBMITTED ENTIRELY LABELED B1 AND 2.
+
+
+        PATH PROCEDURES
+
+PROCEDURES:
+                 88309, A BLK/26, B BLK/2
+
+        FINAL DIAGNOSIS
+
+PART A   LEFT MODIFIED RADICAL MASTECTOMY:                                IDC 3/3
+                                                                           4cm
+1.   POORLY DIFFERENTIATED INFILTRATING DUCT CARCINOMA, NUCLEAR GRADE
+     III/III WITH A HIGH MITOTIC INDEX, 4.0 CM IN MAXIMUM GROSS DIMENSION.
+     THE TUMOR IS LOCATED 1 MM FROM THE DEEP MARGIN OF THE SPECIMEN.
+                                                                    1/1 intramammary
+2.   METASTATIC CARCINOMA IDENTIFIED IN 1 INTRAMAMMARY LYMPH NODE (MARKED
+     WITH A COIL CLIP CONFIRMING A PREVIOUS BIOPSY SITE).
+                                                                    1/37 ALN
+3.   NO EVIDENCE OF METASTATIC DISEASE IN 37 AXILLARY LYMPH NODES.
+
+4.   PERIDUCTAL CHRONIC MASTITIS IN SECTIONS OF BREAST TISSUE AWAY FROM
+     THE PRIMARY TUMOR SITE.
+                                                                    0/1 Level 2
+PART B   LEFT AXILLARY BIOPSY:  ADIPOSE TISSUE CONTAINING SECTIONS OF 1
+SMALL LYMPH NODE WITH NO EVIDENCE OF METASTATIC DISEASE.
+
+
+        COMMENT
+
+THE      .DITION OF THE AJCC STAGING MANUAL DOES SPECIFICALLY NOT ADDRESS
+STAGING FOR POSITIVE INTRAMAMMARY NODES IN THE ABSENCE OF AXILLARY
+METASTATIC DISEASE, HOWEVER THE PATIENT WILL BE STAGED AS HAVING N1
+DISEASE.
+
+
+        CODE
+
+1
+                                                                    (prelim.)
+Signed ________________________________________
+
+         ________(signature on file)________
+
+=================================== PAGE 3 ===================================
+Specimen:                Received:                      Status:
+                         Spec Type: CA SUMMARY          Subm Dr:
+
+CANCER SUMMARY
+
+                         Breast Pathology Summary:
+                         ------------------------
+
+Macroscopic:
+------------
+Breast procedure: mastectomy, modified radical
+Lymph node procedure:
+    Sentinel (yes/no): no
+    Axillary (yes/no): yes
+Specimen size (greatest dimension) (xy,n/a) cm: 31
+Neoadjuvant therapy (yes/no): no
+Laterality: left
+Tumor site: upper outer quadrant
+Multifocal (yes/no): no
+Multicentric (yes/no): no
+
+Microscopic:
+------------
+Size of invasive component (xy,n/a) mm: 40
+Size of DCIS (xy,n/a) mm: n/a
+Histologic type:
+    Atypical: n/a
+    In situ: n/a
+    Invasive: infiltrating duct
+Histologic grade :
+    Tubule formation (0-3,n/a): 3
+    Nuclear pleomorphism (0-3,n/a): 3
+    Mitotic count (0-3,n/a): 3
+    Nottingham Score: 9
+    Nottingham Grades based on total score:
+        Grade I   3-5 points
+        Grade II  6-7 points
+        Grade III 8-9 points
+Venous/lymphatic invasion (yes/no): no
+Closest margin size (xy,n/a) mm: 1
+    If less than 2 mm then:
+        Single focus of invasive tumor (yes/no): yes
+        Single focus of DCIS (yes/no): no
+        Multifocal invasive tumor (yes/no): no
+        Multifocal DCIS (yes/no): no
+Nodes:
+    Sentinel- number examined (xy,n/a): 0
+    Sentinel- number involved (xy,n/a): n/a
+    Regional- number examined (xy,n/a): 39
+    Regional- number involved (xy,n/a): 1
+
+Markers:
+--------
+ER (xy%,n/a): 95
+
+=================================== PAGE 4 ===================================
+Patient:                                                                (Continued)
+
+Specimen:               Received:                :atus:        Req#:
+                        Spec Type: CA SUMMARY    Subs Dr: T-
+    CANCER SUMMARY      (Continued)
+
+PR (xyt,n/a): 0
+Her-2/neu (0-3+,n/a): 1
+Ki-67 (xyt,n/a): 95
+
+Summary TNM:
+------------
+T: pT2
+pN: pN1
+
+Summary stage: 2B
+
+
+Signed ________________________________               ) (prelim.)
+
+        ________(signature on file)________

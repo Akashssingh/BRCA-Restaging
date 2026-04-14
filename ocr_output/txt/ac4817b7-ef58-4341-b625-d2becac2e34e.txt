@@ -1,0 +1,245 @@
+=================================== PAGE 1 ===================================
+Carcinoma, infiltrating duct, NOS  8500/3
+                                                    S.T. Code: breast, upper inner quadrant  C50.2
+TSS:                                        Path    CCCF  Site: breast, NOS  C50.9
+                                                                                            10/29/10
+TSS:
+
+SPECIMENS:                                          UUJD:ZF354094-7E83-484C-9738-664C8914C116
+                                                    TCGA-E2-A1B4-01A-PN              Redacted
+  A. LEFT BREAST WLE NEEDLE LOCALIZATION            |||||||||||||||||||||||||||||||||||||||||||
+  B. SLN #1                                         ||||||||||||||||||||||||||||||||||||||||||||
+  C. SLN#2
+  D. SLN #3
+  E. SLN #4
+
+SPECIMEN(S):
+  A. LEFT BREAST WLE NEEDLE LOCALIZATION
+  B. SLN #1
+  C. SLN#2
+  D. SLN #3
+  E. SLN #4
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+  A- left breast, WLE gross examination only: 1 cm tumor located 1 cm from the closest/posterior margin
+  called by Dr. to Dr. it
+  TPB/TPC/TPD/TPE-SLN #1, 2, 3, 4: No tumor cells seen by touch prep. Part D. contains only fat tissue
+  called by Dr. to Dr. al
+
+GROSS DESCRIPTION:
+  A. LEFT BREAST WLE NEEDLE LOCALIZATION
+  Received fresh with accompanying radiogram is an oriented 41 g lumpectomy specimen with
+  localization needle. The specimen is oriented with a single suture designating anterior, double lateral,
+  triple superior. The specimen measures 5.8 cm from anterior to posterior, 5.2 cm from superior to
+  inferior, and 2.8 cm from medial to lateral. Specimen is inked as follows: inferior-orange, superior-red,
+  lateral-yellow, anterior-blue, medial-green, posterior-black. Specimen is serially sectioned from superior
+  to inferior; there is a firm well-circumscribed white-tan nodule measuring 1 cm located 1 cm from the
+  nearest posterior and anterior margins, 1.8 cm from the lateral margin, 3.1 cm from the medial margin,
+  and greater than 3 cm from the superior and inferior margins. A gross diagnosis is conveyed to O. R. A
+  portion of the mass is submitted for tissue procurement. Specimen is submitted entirely as follows:
+  A1-A3: superior margin perpendicular sections
+  A4: slice 2, medial
+  A5: slice 2, mid
+  A6: slice 2, lateral
+  A7: slice 3, medial
+  A8: slice 3, mid
+  A9: slice 3, lateral
+  A10: slice 4, medial
+  A11: slice 4, mid {lesion}
+  A12: slice 4, lateral
+  A13: slice 5, medial
+  A14-A15: slice 5, mid {lesion}
+  A16: slice 5, lateral
+  A17: slice 6, medial
+  A18: slice 6, mid-anterior {lesion}
+  A19: slice 6, mid-posterior {lesion}
+  A20: slice 6, anterior-lateral
+  A21: slice 6: posterior-lateral
+  A22: slice 7, medial
+  A23: slice 7, mid
+  A24: slice 7, lateral
+  A25-A26: inferior margin, perpendicular sections
+  B. SLN#1
+  Received fresh is a lymph node measuring 0.7 cm in diameter. One touch prep is performed. The
+  specimen is submitted entirely in cassette B1.
+  C. SLN #2
+  Received fresh is one lymph node measuring 0.4 cm in diameter. A touch prep is performed. The
+  specimen is submitted entirely in cassette C1.
+  D. SLN #3
+
+=================================== PAGE 2 ===================================
+TSS:
+
+Received fresh is a piece of fatty tissue measuring 0.5 x 0.3 x 0.3 cm. A touch prep is performed and
+the specimen is submitted entirely in cassette D1.
+E. SLN #4
+Received fresh is a lymph node measuring 0.4 cm in diameter. A touch prep is performed the specimen
+is submitted entirely in cassette E1.
+
+DIAGNOSIS:
+    A. BREAST, LEFT, WIDE LOCAL EXCISION:
+    - INVASIVE, DUCTAL CARCINOMA, SBR GRADE 1, MEASURING 1.2-CM
+    - INVASIVE TUMOR PRESENT WITHIN 0.15-CM FROM MEDIAL SURGICAL
+    RESECTION MARGIN
+    - LOW TO INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU,
+    CRIBRIFORM TYPE
+    - DUCTAL HYPERPLASIA INVOLVING INTRADUCTAL PAPILLOMA
+    - SEE SYNOPTIC REPORTS SEE NOTE.
+
+    B. LYMPH NODE, SENTINEL #1, BIOPSY:
+    -METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+    MEASURING 0.5-MM (MICROMETASTASES) WITH NO EXTRANODAL
+    EXTENSION, SEE NOTE.
+
+    C. LYMPH NODE, SENTINEL #2, BIOPSY:
+    -METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+    MEASURING 0.6-MM (MICROMETASTASES) WITH NO EXTRANODAL
+    EXTENSION, SEE NOTE.
+
+    D. LYMPH NODE, SENTINEL #3, BIOPSY:
+    - ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+
+    E. LYMPH NODE, SENTINEL #4, BIOPSY:
+    -METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+    MEASURING 2.0-MM (MICROMETASTASES) WITH NO EXTRANODAL
+    EXTENSION, SEE NOTE.
+
+    NOTE: Two foci of intraductal papilloma with usual ductal hyperplasia are identified, one adjacent to the
+    invasive tumor and one at the posterior surgical resection margin. p63 and calponin mark the
+    myoepithelial cell layer in the papilloma. Dr. concurs on this interpretation.
+
+    Micrometastases are identified in sentinel lymph nodes#1, #2 (AE 1/3 positive) and #4. The largest
+    tumor metastasis measures 2-mm. The touch preparations were reviewed, no tumor cells identified.
+    Therefore, this discrepancy is due to sampling error.
+
+
+SYNOPTIC REPORT - BREAST
+Specimen Type:        Excision
+Needle Localization:  Yes - For mass
+Laterality:   Left
+Invasive Tumor:       Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS  8500/3
+Tumor size:  1.2cm
+Tumor Site:  Upper inner quadrant
+Margins:     Negative
+Distance from closest margin:  0.15cm
+medial
+Tubular Score:        1
+Nuclear Grade:        2
+Mitotic Score:        1
+Modified Scarff Bloom Richardson Grade:       1
+Necrosis:    Absent
+
+=================================== PAGE 3 ===================================
+TSS
+
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia: None
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Positive 3 / 4
+Micrometastases: Yes
+
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 5%
+DCIS Type: Cribriform
+DCIS Location: Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis: Absent
+Location of CA++: DCIS
+
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative
+
+Pathological staging (pTN): pT 1c N mi
+
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number: A18
+
+ER: Positive Allred Score: 8 = Proportion Score 5 + Intensity Score 3
+PR: Positive Allred Score: 8 = Proportion Score 5 + Intensity Score 3
+
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by Dako llowing the manufacturer s instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number: A18
+
+Interpretation: NEGATIVE
+Intensity: 1+
+% Tumor Staining: 10%
+Fish Ordered: No
+
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 analysis was performed using the FDA approved Dako HercepTest (TM) test kit (
+C using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well
+
+=================================== PAGE 4 ===================================
+TSS:
+
+preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of the HER2
+immunohistochemical stain is guided by published results in the medical literature, information provided
+by the reagent manufacturer and by internal review of staining performance.
+    This assay has been validated according to the         joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in breast Cancer Task Force. The Pathology
+Department takes full responsibility for this test's performance.
+
+CLINICAL HISTORY:
+    Core biopsy proven cancer upper inner quadrant left breast
+
+PRE-OPERATIVE DIAGNOSIS:
+    Left breast cancer
+
+ADDENDUM:
+    ONCOTYPE DX BREAST CANCER ASSAY
+    _______________________________________________
+    
+    RESULTS: Recurrence Score: 7
+    CLINICAL EXPERIENCE: Patients with a recurrence score of:        7 in the clinical validation study had
+    an average rate of Distant Recurrence at 10 years of 6%
+    _______________________________________________
+    
+    ER Score:    11.1    Positive
+    PR Score:     8.9    Positive
+    Her2 Score: 9.9    Negative
+    _______________________________________________
+    
+    Interpretation:
+        ER      Negative < 6.5    Positive >= 6.5
+        PR      Negative < 5.5    Positive >= 5.5
+        Her2 Negative <10.7 Positive >=11.5      Equivocal = 10.7 - 11.4
+    _______________________________________________
+    
+    See separate                  report for further information.
+    Test performed at:
+
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,                      ...:
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist
+
+[THIS IS TABLE: Bottom of page contains a partially visible table with rows for "Criteria", "Diagnosis Discrepancy", and other entries that are not fully legible, with "Yes" and "No" columns, including some signatures and dates]

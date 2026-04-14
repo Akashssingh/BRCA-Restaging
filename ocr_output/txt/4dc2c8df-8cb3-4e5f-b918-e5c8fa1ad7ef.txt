@@ -1,0 +1,153 @@
+=================================== PAGE 1 ===================================
+Sample #
+
+                                                           IED-0-3
+                                                Carcinoma, infiltrating duct
+                                                           8500/3
+FINAL PATHOLOGIC DIAGNOSIS                     Site @/breast NOS C509
+A. Surgical hardware, right breast, removal:              op: 5/16/13
+- Implant identified, gross examination only
+B. Breast, right, modified radical mastectomy:
+- Invasive ductal carcinoma, three separate foci measuring 2.8 cm (main
+lesion) grade II/III, 0.7 cm (satellite #1) grade II/III and 1.1 cm (satellite
+#2) grade I/III, in greatest dimension, surgical margins negative (see
+pathologic parameters and comment below)
+- Ductal carcinoma in situ, intermediate grade, solid and papillary types,
+surgical margins negative
+- Uninvolved breast tissue with fibrocystic changes
+- Previous biopsy sites present
+- One of ten axillary lymph nodes involved by metastatic carcinoma (1/10)
+C. Lymph nodes, right axillary, excision:
+- Two lymph nodes, negative for carcinoma (0/2)
+
+
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: Three foci - 2.8 cm (main lesion)
+0.7 cm (satellite #1)
+1.1 cm (satellite #2)
+B. Composite histologic (modified SBR) grade: II/III (main and
+satellite #1)
+I/III (satellite #2)
+C. Associated intraductal carcinoma in situ (DCIS):
+- Within main mass (forming <10% of tumor volume)
+2. Surgical margins:
+- DCIS 5.0 mm from closest margin (posterior)
+- Invasive carcinoma 5.0 mm from closest margin (posterior)
+- Additional margins widely free
+3. Blood vessel and lymphatic invasion: Present in breast parenchyma
+4. Nipple: Unremarkable
+5. Skin: Uninvolved
+6. Skeletal muscle: Absent
+7. Axillary lymph nodes:
+- Current specimen
+- One of twelve lymph nodes involved by metastatic carcinoma (1/12)
+- Size of largest metastatic deposit: 1.0 cm
+- Extranodal extension: Present (1.0 mm; largest focus)
+- Sentinel node biopsies (
+
+=================================== PAGE 2 ===================================
+- Two of five sentinel lymph nodes involved by metastatic carcinoma
+(2/5)
+- Size of largest metastatic deposit: 1.0 cm
+- Extranodal extension: Absent
+- Total: Three of seventeen lymph nodes involved by metastatic carcinoma
+(3/17)
+8. Special studies (see .        .:
+- ER: Strong expression in >90% of invasive tumor nuclei (all three lesions)
+- PR: Strong expression in >90% of invasive tumor nuclei (all three lesions)
+
+- HER2 antigen (FISH): - Main lesion: Non-amplified (ratio: 1.2)
+- Satellite #1: Non-amplified (ratio: 1.5)
+- Satellite #2: (IHC): negative (0 - 1+)
+- Ki67: - Main lesion: 20%
+- Satellite #1: 20%
+- Satellite #2: 10%
+9. pTNM (AJCC, 7th edition, 2010): pT2(m), N1a, MX
+
+Effective           ) this Checklist utilizes the 7th edition TNM staging
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+
+
+Clinical History:
+Right Breast Cancer
+
+
+Comment
+P63 and myosin heavy chain immunohistochemical stains are performed and show a
+loss of myoepithelium associated with the invasive component.
+
+
+Specimens Received:
+A: Right breast implant
+B: Right breast with axillary contents
+C: Additional nodes right axilla
+
+
+Gross Description:
+
+=================================== PAGE 3 ===================================
+The specimens are received in three containers each labeled with the patient's
+name and medical record number.
+
+A. The first container is additionally identified as, 'right breast implant'.
+Received in container is a 14 x 14 x 4.5 cm white, round, plastic hardware
+filled with liquid material. Gross photograph is taken. The specimen is for
+gross evaluation only.
+
+B. The second container is additionally identified as, 'right breast with
+axillary contents'. Received fresh and placed in formalin is a 268 gm simple
+mastectomy specimen. There is a 15 x 6.5 cm capsule pocket implant in posterior
+inferior aspect of specimen. The specimen isoriented with a double short suture
+designating the superior aspect and a double long suture designating the lateral
+aspect. The breast measures 15.5 cm from medial to lateral, 14 cm from superior
+to inferior, and 2.3 cm from anterior to posterior. On the anterior surface is
+13.3 x 5.3 cm yellow-tan ellipse of skin with a 4.8 x 3.8 cm areola and a 1.3 x
+1 cm raised nipple. The nipple-areolar complex reveals no evidence of
+ulceration or retraction.
+The specimen is inked as follows:
+anterior-superior - blue;
+anterior-inferior - green;
+posterior - black.
+The specimen is serially sectioned from lateral (slice #1) to medial into 13
+slices to reveal a 2.8 x 1.8 x 1.5 cm grey-tan, irregular-shaped, rubbery lesion
+(lesion #1) in slices #6 through #8, which is 0.3 cm from deep margin. There is
+a 1.1 x 1.0 x 0.3 cm pink-tan, oval nodule (lesion #2) in slice #7, which abuts
+the capsule pocket and less than 0.5 cm from lesion #1. There is a hemorrhagic
+area of dense parenchyma measuring 2.8 x 1.5 x 1 cm in slices #9 through #10,
+which is 1.2 cm from the deep margin. The remainder of the specimen consists of
+approximately 30 % dense gray-white fibrous breast parenchyma and 70 % lobulated
+yellow adipose tissue. No additional masses or nodules are grossly identified.
+Multiple gray-tan, rubbery axillary lymph nodes ranging from 0.3-1.2 cm are
+dissected.
+
+Block summary:
+B1: nipple
+B2: skin adjacent to lesion #1, slice 7
+B3: Lesion #1, slice 6
+B4: Lesion #1, slice 7
+B5: Lesion #1, slice 8
+B6: Lesion #2 and adjacent lesion #1, slice 7
+B7: Lesion #3, slice 9
+B8: Lesion #3, slice 10
+B9: upper-outer quadrant slice 4
+B10: lower-outer quadrant slice 5
+B11: upper-inner quadrant slice 8
+
+=================================== PAGE 4 ===================================
+B12: lower-inner quadrant slice 11
+B13: 4 lymph nodes
+B14-B15: 3 lymph nodes
+B16: One lymph node, trisected
+B17: One lymph node, bisected
+B18-B19: One lymph node, serial section
+B20: 4 lymph nodes
+
+C. The third container is additionally identified as, 'additional nodes right
+axilla'. Received fresh and placed in formalin are 2 yellow-tan, soft tissue
+fragments measuring 0.5-1.5, which are entirely submitted as C1.
+
+_ MD, PhD
+
+[Bottom of page contains a partially visible form/table with checkboxes and handwritten marks, date appears to show "4/10/13"]

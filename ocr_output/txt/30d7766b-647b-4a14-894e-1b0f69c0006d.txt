@@ -1,0 +1,47 @@
+=================================== PAGE 1 ===================================
+ICb-0-3
+                                                    Carcinoma, lobular, infiltrating 8520/3
+                                   Path    Site code - breast, outer C50.8
+                                   C90F    Sift:- breast,NOS C50.9      12|3|10 du
+
+
+Final Diagnosis
+
+Breast, left, mastectomy: Infiltrating lobular carcinoma, Nottingham grade 1 (of III) [tubules 3/3,
+nuclei 1/3, mitoses 1/3; Nottingham score 5/9], forming a mass (6.5 x 5.2 x 3.5 cm) located in the
+superior portion of the breast [AJCC pT3]. Lobular carcinoma in situ (less than 5% of tumor
+volume) is present. The non-neoplastic breast parenchyma shows nonproliferative fibrocystic
+changes with duct ectasia. Calcifications are present in benign ducts and acini. The tumor does
+not involve the nipple, overlying skin, or underlying chest wall. All surgical margins, including
+the deep margin, are negative for tumor (minimum tumor free margin, 0.8 cm, deep margin). A
+single (of 6) lymph node is positive for metastatic carcinoma [AJCC pN1].
+
+Lymph node, left axillary, sentinel No. 1, excision: A single left axillary sentinel lymph node is
+positive for metastatic carcinoma. Immunohistochemical cytokeratin stain was performed on the
+paraffin embedded sentinel lymph node tissue and confirms the H&E impression. Blue dye is not
+identified.
+
+Lymph node, left axillary sentinel No. 2, excision: A single left axillary sentinel lymph node is
+negative for metastatic carcinoma. Immunohistochemical cytokeratin stain was performed on the
+paraffin embedded sentinel lymph node tissue and confirms the H&E impression. Blue dye is
+identified.
+
+Lymph node, left axillary, sentinel No. 3, excision: A single left axillary sentinel lymph node is
+positive for metastatic carcinoma with a single focus measuring 0.9 cm in greatest dimensions.
+Blue dye is identified.
+
+Lymph nodes, left axillary, dissection: Multiple (6) axillary lymph nodes are negative for
+metastatic carcinoma [AJCC pN1].
+
+Estrogen and progesterone receptor analysis and Her-2/NEU have been ordered on paraffin
+embedded tissue.
+
+Seen in consultation with Dr.
+
+
+                                    UUID:E9044C6B-4497-A212-8CA1-AC944B4CC54
+                                         TCGA-AR-A1AL-01A-PR         Redacted
+                                    [BARCODE IMAGE]
+
+
+                                    [Small table/form at bottom with checkboxes - partially visible]

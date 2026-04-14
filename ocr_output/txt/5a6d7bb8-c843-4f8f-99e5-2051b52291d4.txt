@@ -1,0 +1,63 @@
+=================================== PAGE 1 ===================================
+ICD-0-3
+                                                                Carcinoma, infiltrating duct, NOS  8500/3
+                                                                Site: Breast, NOS     C50.9     4/22/11  JW
+
+OC#:        TSS#
+
+Procurement Date:3/1/2011  Laterality:Left, upper outer quadrant
+
+Path Report:BREAST TISSUE CHECKLIST
+
+Specimen type: Lumpectomy
+
+Specimen size: Not specified
+
+Tumor site: Upper outer quadrant
+
+Tumor size: 2 x 0 x 2.2 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Infiltrating ductal carcinoma
+
+Histologic grade: Moderately differentiated
+
+Tumor extent: Not specified
+
+Lymph nodes: 3/10 positive for metastasis (Axillary 3/10)
+
+Extracapsular invasion of the lymph nodes: Not specified
+
+Margins: Uninvolved
+
+Nottingham Histologic Score
+
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Not specified
+
+Comments: None                                                  UUID:5F2A52E5-284A-4242-BCE4-AB7DF9D9C87B
+                                                                TCGA-E9-A245-01A-PR                Redacted
+                                                                [BARCODE IMAGE]
+
+
+                                                                Details                Yes      No
+                                                                Diagnostic Discrepancy                    
+                                                                Primary Tumor Site Or Laterality          
+                                                                HIPAA Discrepancy                         
+                                                                Post Malignancy History                   
+                                                                Histologic Type (if spec.)        
+                                                                Case ID (TCGA)        GUARDIAN  //  DISQUALIFIED
+                                                                Reviewed Status       Redacted
+                                                                [SIGNATURE/DATE]      NW  2/10/11

@@ -1,0 +1,16 @@
+# Core pipeline dependencies
+anthropic==0.94.1
+PyMuPDF==1.27.2.2
+
+# claude.py (batch OCR script)
+Pillow==11.0.0
+torch==2.5.1
+
+# Analysis scripts
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# ML (future — model training phase)
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+transformers>=4.40.0   # ClinicalBERT / BioBERT embeddings

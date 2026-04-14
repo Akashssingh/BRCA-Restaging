@@ -1,0 +1,72 @@
+======================================================================
+BRCA CLINICAL DATA ANALYSIS
+======================================================================
+
+Clinical TSV    : /home/a/akashsingh/BRCA-Restaging/Gaivi_package/clinical.tsv
+Manifest file   : /home/a/akashsingh/BRCA-Restaging/gdc_manifest_brca_pathreports.txt
+Case ID list    : /home/a/akashsingh/BRCA-Restaging/temp-python-scrpt/brca_case_id_list.txt
+
+Total rows in clinical.tsv (excl. headers) : 5545
+File IDs in case ID list                   : 1098
+File IDs missing from manifest             : 0
+Unique TCGA barcodes resolved from list    : 1098
+
+----------------------------------------------------------------------
+1. UNIQUE VALUES OF diagnoses.ajcc_pathologic_stage (full clinical.tsv)
+----------------------------------------------------------------------
+  Not Reported / Empty                          : 568 rows
+  Stage 0                                       : 12 rows
+  Stage 0is                                     : 3 rows
+  Stage I                                       : 353 rows
+  Stage IA                                      : 348 rows
+  Stage IB                                      : 33 rows
+  Stage II                                      : 27 rows
+  Stage IIA                                     : 1566 rows
+  Stage IIB                                     : 1254 rows
+  Stage III                                     : 14 rows
+  Stage IIIA                                    : 795 rows
+  Stage IIIB                                    : 89 rows
+  Stage IIIC                                    : 364 rows
+  Stage IV                                      : 77 rows
+  Stage X                                       : 42 rows
+
+  Total unique stage values: 15
+
+----------------------------------------------------------------------
+2. CASE MATCH CONFIRMATION (via manifest -> TCGA barcode -> clinical)
+----------------------------------------------------------------------
+  Barcodes resolved from list       : 1098
+  Found in clinical.tsv             : 1098
+  MISSING from clinical.tsv         : 0
+
+  All barcodes were found in clinical.tsv.
+
+----------------------------------------------------------------------
+3. STAGE DISTRIBUTION — DEDUPLICATED (1 row per patient)
+----------------------------------------------------------------------
+  Total unique patients : 1098
+
+  Stage                                          Count   % of patients
+  --------------------------------------------- ------  --------------
+  Not Reported / Empty                             102            9.3%
+  Stage 0                                            4            0.4%
+  Stage I                                           83            7.6%
+  Stage IA                                          85            7.7%
+  Stage IB                                           6            0.5%
+  Stage II                                           7            0.6%
+  Stage IIA                                        334           30.4%
+  Stage IIB                                        235           21.4%
+  Stage IIIA                                       138           12.6%
+  Stage IIIB                                        23            2.1%
+  Stage IIIC                                        56            5.1%
+  Stage IV                                          18            1.6%
+  Stage X                                            7            0.6%
+
+  Total unique stage categories: 13
+
+----------------------------------------------------------------------
+4. OUTPUT FILES
+----------------------------------------------------------------------
+  Full subset TSV (all rows)    : /home/a/akashsingh/BRCA-Restaging/temp-python-scrpt/brca_clinical_subset.tsv
+  Deduplicated TSV (1 per patient): /home/a/akashsingh/BRCA-Restaging/temp-python-scrpt/brca_clinical_dedup.tsv
+

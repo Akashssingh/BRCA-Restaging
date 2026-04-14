@@ -1,0 +1,49 @@
+================================================================
+BRCA RESTAGING PILOT — COHORT SELECTION SUMMARY
+================================================================
+
+Strategy: Balanced 4-class stratified random sampling
+Seed: 42 (fixed for reproducibility)
+
+ML Class 0: Stage_I_group
+  Merged from: Stage I, Stage IA, Stage IB
+  Available PDFs: 174
+  Selected: 38
+  Breakdown:
+    Stage I: 19
+    Stage IA: 18
+    Stage IB: 1
+
+ML Class 1: Stage_IIA
+  Merged from: Stage IIA
+  Available PDFs: 334
+  Selected: 38
+  Breakdown:
+    Stage IIA: 38
+
+ML Class 2: Stage_IIB
+  Merged from: Stage IIB
+  Available PDFs: 235
+  Selected: 38
+  Breakdown:
+    Stage IIB: 38
+
+ML Class 3: Stage_III_group
+  Merged from: Stage IIIA, Stage IIIB, Stage IIIC
+  Available PDFs: 217
+  Selected: 36
+  Breakdown:
+    Stage IIIA: 24
+    Stage IIIB: 5
+    Stage IIIC: 7
+
+----------------------------------------------------------------
+TOTAL SELECTED: 150
+
+Justification:
+  Stage consolidation follows AJCC 8th Edition groupings where
+  sub-stages share equivalent therapeutic implications.
+  Equal class sizes ensure unbiased model training without
+  requiring class-weight corrections at this pilot scale.
+  Cases excluded: Stage 0 (n=4), Stage II undifferentiated (n=7),
+  Stage IV (n=18), Stage X (n=7), Not Reported (n=102).

@@ -1,0 +1,15 @@
+services:
+  brca-extract:
+    build: .
+    image: brca-restaging:latest
+    environment:
+      # Set your Anthropic API key — never commit this file with a real key
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    volumes:
+      # Mount your local GDC downloads and output directory
+      # Adjust the left-hand paths to where your data lives
+      - ./gdc_downloads:/app/gdc_downloads:ro
+      - ./ocr_output:/app/ocr_output
+      - ./temp-python-scrpt:/app/temp-python-scrpt:ro
+    stdin_open: true   # allows the 'yes / number' prompt to work
+    tty: true

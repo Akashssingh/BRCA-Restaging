@@ -1,0 +1,127 @@
+======================================================================
+OCR FEATURE EXTRACTION — TEST RESULT
+======================================================================
+
+Source PDF    : TCGA-D8-A1Y0.53ED4388-8CD2-4925-81A9-9C4792C83566.PDF
+Folder ID     : 0010ce59-fd1e-4a45-8753-a224164fb818
+Pages processed: 2
+Model         : claude-opus-4-5
+
+----------------------------------------------------------------------
+MERGED FEATURES (across all pages)
+----------------------------------------------------------------------
+  patient_id                               : TCGA-D8-A1Y0-01A-PR
+  specimen_type                            : Total organ resection - left breast and axillary tissues
+  tumor_site                               : left breast, subaurolar part, located 5.2 cm from the upper boundary, 2.8 cm from the base and 0 cm from the skin
+  tumor_size_cm                            : 1.9
+  tumor_size_raw                           : 1.9 x 1.3 x 1.4
+  histologic_type                          : Carcinoma ductale invasivum (Invasive ductal carcinoma)
+  histologic_grade                         : NHG2
+  nuclear_grade                            : None
+  tubule_formation_score                   : 3
+  nuclear_pleomorphism_score               : 2
+  mitotic_count_score                      : 1
+  lymphovascular_invasion                  : None
+  perineural_invasion                      : None
+  margins                                  : None
+  margin_distance_mm                       : None
+  skin_involvement                         : None
+  nipple_involvement                       : absent
+  chest_wall_involvement                   : None
+  lymph_nodes_examined                     : None
+  lymph_nodes_positive                     : None
+  lymph_node_extranodal_extension          : None
+  pathologic_T_stage                       : pT1c
+  pathologic_N_stage                       : pN2a
+  pathologic_M_stage                       : None
+  overall_pathologic_stage                 : None
+  ER_status                                : positive, over 75% of neoplastic cell nuclei
+  PR_status                                : positive, over 75% of neoplastic cell nuclei
+  HER2_status                              : negative
+  HER2_method                              : IHC (HercepTestTM by DAKO)
+  Ki67_percent                             : None
+  DCIS_component                           : present
+  DCIS_nuclear_grade                       : high
+  necrosis                                 : present, 5% of the tumour
+  tumor_focality                           : None
+  additional_findings                      : HER2 score = 1+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+PAGE 1 RAW EXTRACTION
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  patient_id                               : TCGA-D8-A1Y0-01A-PR
+  specimen_type                            : Total organ resection - left breast and axillary tissues
+  tumor_site                               : left breast, subaurolar part, located 5.2 cm from the upper boundary, 2.8 cm from the base and 0 cm from the skin
+  tumor_size_cm                            : 1.9
+  tumor_size_raw                           : 1.9 x 1.3 x 1.4
+  histologic_type                          : Carcinoma ductale invasivum (Invasive ductal carcinoma)
+  histologic_grade                         : NHG2
+  nuclear_grade                            : None
+  tubule_formation_score                   : 3
+  nuclear_pleomorphism_score               : 2
+  mitotic_count_score                      : 1
+  lymphovascular_invasion                  : None
+  perineural_invasion                      : None
+  margins                                  : None
+  margin_distance_mm                       : None
+  skin_involvement                         : None
+  nipple_involvement                       : absent
+  chest_wall_involvement                   : None
+  lymph_nodes_examined                     : None
+  lymph_nodes_positive                     : None
+  lymph_node_extranodal_extension          : None
+  pathologic_T_stage                       : pT1c
+  pathologic_N_stage                       : pN2a
+  pathologic_M_stage                       : None
+  overall_pathologic_stage                 : None
+  ER_status                                : None
+  PR_status                                : None
+  HER2_status                              : None
+  HER2_method                              : None
+  Ki67_percent                             : None
+  DCIS_component                           : present
+  DCIS_nuclear_grade                       : high
+  necrosis                                 : present, 5% of the tumour
+  tumor_focality                           : None
+  additional_findings                      : Foci of carcinoma ductale in situ DCIS detected within the tumour (cribrate and solid type with high nuclear atypia with comedo necrosis); Mastopathia fibrosa in glandular tissue; Metastases carcinomatosae in lymphonodis capsulae lymphonodis et telae perinodalis; Metastatic lymph nodes 2 cm in length; Skin flap 24 x 12 cm; Visual area 0.55 mm with 6 mitoses/10 HPF
+  page_number                              : 1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+PAGE 2 RAW EXTRACTION
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  patient_id                               : None
+  specimen_type                            : None
+  tumor_site                               : None
+  tumor_size_cm                            : None
+  tumor_size_raw                           : None
+  histologic_type                          : None
+  histologic_grade                         : None
+  nuclear_grade                            : None
+  tubule_formation_score                   : None
+  nuclear_pleomorphism_score               : None
+  mitotic_count_score                      : None
+  lymphovascular_invasion                  : None
+  perineural_invasion                      : None
+  margins                                  : None
+  margin_distance_mm                       : None
+  skin_involvement                         : None
+  nipple_involvement                       : None
+  chest_wall_involvement                   : None
+  lymph_nodes_examined                     : None
+  lymph_nodes_positive                     : None
+  lymph_node_extranodal_extension          : None
+  pathologic_T_stage                       : None
+  pathologic_N_stage                       : None
+  pathologic_M_stage                       : None
+  overall_pathologic_stage                 : None
+  ER_status                                : positive, over 75% of neoplastic cell nuclei
+  PR_status                                : positive, over 75% of neoplastic cell nuclei
+  HER2_status                              : negative
+  HER2_method                              : IHC (HercepTestTM by DAKO)
+  Ki67_percent                             : None
+  DCIS_component                           : None
+  DCIS_nuclear_grade                       : None
+  necrosis                                 : None
+  tumor_focality                           : None
+  additional_findings                      : HER2 score = 1+
+  page_number                              : 2/2
